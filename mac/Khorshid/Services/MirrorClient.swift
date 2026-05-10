@@ -1,5 +1,10 @@
 import Foundation
 
+struct SnapshotData: Sendable {
+    let channelPhotoPath: String?
+    let posts: [Post]
+}
+
 actor MirrorClient {
 
     enum FetchError: Error, LocalizedError {
@@ -43,21 +48,35 @@ actor MirrorClient {
     }
 
     private struct SnapshotDoc: Decodable {
+        let channel: ChannelInfoDTO
         let posts: [PostDTO]
+    }
+
+    private struct ChannelInfoDTO: Decodable {
+        let photo_path: String?
     }
 
     private struct PostDTO: Decodable {
         let id: String
+        let body_html: String
         let plain_text: String
         let views_label: String?
         let posted_at: String?
         let reactions: [ReactionDTO]
+        let media: [MediaDTO]
         let permalink: String
     }
 
     private struct ReactionDTO: Decodable {
         let emoji: String
         let count: String
+    }
+
+    private struct MediaDTO: Decodable {
+        let kind: String
+        let asset_path: String?
+        let thumbnail_path: String?
+        let aspect_ratio: Double?
     }
 
     // MARK: - Public API
@@ -72,25 +91,36 @@ actor MirrorClient {
                 title: entry.title,
                 lastFetchedAt: parseDate(entry.last_fetched_at) ?? .distantPast,
                 postCount: entry.post_count,
-                snapshotPath: entry.snapshot_path
+                snapshotPath: entry.snapshot_path,
+                photoPath: nil
             )
         }
     }
 
-    func fetchPosts(snapshotPath: String) async throws -> [Post] {
+    func fetchSnapshot(snapshotPath: String) async throws -> SnapshotData {
         let url = URL(string: "\(Self.baseURL)/\(snapshotPath)")!
         let data = try await fetch(url)
         let doc = try JSONDecoder().decode(SnapshotDoc.self, from: data)
-        return doc.posts.map { dto in
+        let posts = doc.posts.map { dto in
             Post(
                 id: dto.id,
+                bodyHtml: dto.body_html,
                 plainText: dto.plain_text,
                 postedAt: parseDate(dto.posted_at),
                 viewsLabel: dto.views_label,
                 reactions: dto.reactions.map { Reaction(emoji: $0.emoji, count: $0.count) },
+                media: dto.media.map {
+                    PostMedia(
+                        kind: PostMedia.Kind(rawValue: $0.kind) ?? .unknown,
+                        assetPath: $0.asset_path,
+                        thumbnailPath: $0.thumbnail_path,
+                        aspectRatio: $0.aspect_ratio
+                    )
+                },
                 permalink: dto.permalink
             )
         }
+        return SnapshotData(channelPhotoPath: doc.channel.photo_path, posts: posts)
     }
 
     // MARK: - Helpers

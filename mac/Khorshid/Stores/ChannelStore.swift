@@ -31,26 +31,35 @@ final class ChannelStore {
 
         do {
             let fetched = try await client.fetchIndex()
-            channels = fetched
 
             let client = self.client
-            var result: [String: [Post]] = [:]
+            var snapshots: [String: SnapshotData] = [:]
 
-            try await withThrowingTaskGroup(of: (String, [Post]).self) { group in
+            try await withThrowingTaskGroup(of: (String, SnapshotData).self) { group in
                 for channel in fetched {
                     let path = channel.snapshotPath
                     let id = channel.id
                     group.addTask {
-                        let posts = try await client.fetchPosts(snapshotPath: path)
-                        return (id, posts)
+                        let data = try await client.fetchSnapshot(snapshotPath: path)
+                        return (id, data)
                     }
                 }
-                for try await (id, posts) in group {
-                    result[id] = posts
+                for try await (id, data) in group {
+                    snapshots[id] = data
                 }
             }
 
-            postsByChannel = result
+            postsByChannel = snapshots.mapValues { $0.posts }
+            channels = fetched.map { ch in
+                Channel(
+                    id: ch.id,
+                    title: ch.title,
+                    lastFetchedAt: ch.lastFetchedAt,
+                    postCount: ch.postCount,
+                    snapshotPath: ch.snapshotPath,
+                    photoPath: snapshots[ch.id]?.channelPhotoPath
+                )
+            }
         } catch {
             errorMessage = error.localizedDescription
         }

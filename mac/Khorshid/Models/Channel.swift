@@ -6,4 +6,5 @@ struct Channel: Identifiable, Hashable, Sendable {
     let lastFetchedAt: Date
     let postCount: Int
     let snapshotPath: String
+    let photoPath: String?
 }
