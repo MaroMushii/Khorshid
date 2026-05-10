@@ -6,7 +6,7 @@ struct PostRow: View {
 
     var body: some View {
         VStack(alignment: .leading, spacing: 6) {
-            PostBodyView(html: post.bodyHtml)
+            PostBodyView(html: post.bodyHtml, plainText: post.plainText)
             PostMediaView(media: post.media)
             PostMetaView(post: post)
         }

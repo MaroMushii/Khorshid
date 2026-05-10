@@ -12,6 +12,18 @@ struct RootView: View {
                 .navigationSplitViewColumnWidth(min: 200, ideal: 240)
         } detail: {
             detailContent
+                .navigationTitle(detailTitle)
+                .toolbar {
+                    ToolbarItem {
+                        Button {
+                            Task { await store.refresh() }
+                        } label: {
+                            Label("Refresh", systemImage: "arrow.clockwise")
+                        }
+                        .disabled(store.isLoading)
+                        .keyboardShortcut("r", modifiers: .command)
+                    }
+                }
         }
     }
 
@@ -43,6 +55,14 @@ struct RootView: View {
     }
 
     // MARK: - Detail
+
+    private var detailTitle: String {
+        if let id = selectedChannelID,
+           let channel = store.channels.first(where: { $0.id == id }) {
+            return channel.title
+        }
+        return "Khorshid"
+    }
 
     @ViewBuilder
     private var detailContent: some View {

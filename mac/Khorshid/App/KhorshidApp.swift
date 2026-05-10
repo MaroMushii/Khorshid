@@ -11,5 +11,6 @@ struct KhorshidApp: App {
                 .environment(store)
                 .onAppear { store.start() }
         }
+        .defaultSize(width: 900, height: 600)
     }
 }
