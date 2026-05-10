@@ -1,0 +1,15 @@
+{
+  "schema": 1,
+  "comment": "News channels mirrored by Khorshid's scraper. Add a new entry by submitting a PR. The scraper runs every ~5 min and commits snapshots to the export branch.",
+  "channels": [
+    "bbcpersian",
+    "dwpersian",
+    "farsi_iranwire",
+    "farsivoa",
+    "hranews",
+    "iranintltv",
+    "mamlekate",
+    "radiofarda",
+    "sahamnewsorg"
+  ]
+}

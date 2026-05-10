@@ -1,0 +1,19 @@
+node_modules/
+.DS_Store
+*.log
+
+# Generated Xcode project (mac/)
+mac/*.xcodeproj/
+mac/Khorshid/Resources/Info.plist
+mac/Khorshid/Resources/Khorshid.entitlements
+mac/dist/
+
+# Flutter
+android/.dart_tool/
+android/.flutter-plugins
+android/.flutter-plugins-dependencies
+android/build/
+android/.packages
+
+# Cloudflare
+cf-dispatcher/.wrangler/
