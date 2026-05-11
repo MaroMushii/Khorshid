@@ -18,10 +18,15 @@ const GH_EMBEDDINGS_URL = "https://models.inference.ai.azure.com/embeddings";
 const FLAG_THRESHOLD = 5;
 const COMMUNITY_REPORT_TOP_N = 3;
 
-// Cosine similarity thresholds for the dedup decision
+// Cosine similarity thresholds for the per-post dedup decision (steady state)
 const DEDUP_DEFINITE_MATCH = 0.92; // above → skip without LLM call
 const DEDUP_DEFINITE_NEW = 0.30;   // below → add without LLM call
 const DEDUP_CANDIDATES = 3;        // top N candidates sent to LLM
+
+// When the feed is empty and this many new posts arrive, use batch clustering
+// instead of per-post cosine+LLM — avoids N LLM calls on cold start
+const COLD_START_THRESHOLD = 20;
+const CLUSTER_BATCH_SIZE = 40;
 
 // --- GitHub API types ---
 
@@ -156,6 +161,68 @@ function cosineSim(a: number[], b: number[]): number {
   }
   if (normA === 0 || normB === 0) return 0;
   return dot / (Math.sqrt(normA) * Math.sqrt(normB));
+}
+
+// --- LLM batch clustering (cold start: empty feed + many new posts) ---
+
+const CLUSTER_SYSTEM_PROMPT = [
+  "You are a Persian/Farsi news deduplication assistant.",
+  "Each post is an excerpt from a Telegram channel post — not a traditional headline.",
+  "Group posts that cover the same story by semantic meaning — not literal wording.",
+  "Named entities (people, places, organizations) are the strongest clustering signal.",
+  "Assign a short snake_case cluster_id to each post.",
+  "Posts about the same event share one cluster_id; different events get different cluster_ids.",
+  'Return ONLY valid JSON: {"assignments": [{"id": "<post_id>", "cluster_id": "<snake_case>"}, ...]}',
+  "Every post in the input must appear exactly once in the output.",
+].join(" ");
+
+async function clusterBatch(
+  token: string,
+  batch: Array<{ id: string; excerpt: string }>
+): Promise<Map<string, string>> {
+  const res = await fetch(GH_COMPLETIONS_URL, {
+    method: "POST",
+    headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
+    body: JSON.stringify({
+      model: "gpt-4o-mini",
+      response_format: { type: "json_object" },
+      messages: [
+        { role: "system", content: CLUSTER_SYSTEM_PROMPT },
+        { role: "user", content: JSON.stringify({ posts: batch }) },
+      ],
+    }),
+  });
+  if (!res.ok) throw new Error(`LLM cluster → ${res.status}: ${await res.text()}`);
+
+  const data = (await res.json()) as { choices: Array<{ message: { content: string } }> };
+  const content = data.choices[0]?.message.content ?? "{}";
+  const parsed = JSON.parse(content) as { assignments?: Array<{ id: string; cluster_id: string }> };
+
+  const map = new Map<string, string>();
+  const assigned = new Set<string>();
+  for (const a of parsed.assignments ?? []) {
+    map.set(a.id, a.cluster_id);
+    assigned.add(a.id);
+  }
+  for (const post of batch) {
+    if (!assigned.has(post.id)) {
+      console.warn(`[cluster] No assignment for <${post.id}> — using post ID as cluster`);
+    }
+  }
+  return map;
+}
+
+async function clusterAll(
+  token: string,
+  posts: Array<{ id: string; excerpt: string }>
+): Promise<Map<string, string>> {
+  const map = new Map<string, string>();
+  for (let i = 0; i < posts.length; i += CLUSTER_BATCH_SIZE) {
+    const batch = posts.slice(i, i + CLUSTER_BATCH_SIZE);
+    const result = await withRetry("cluster", () => clusterBatch(token, batch));
+    for (const [id, clusterId] of result) map.set(id, clusterId);
+  }
+  return map;
 }
 
 // --- LLM dedup decision (only called for ambiguous cosine range) ---
@@ -332,47 +399,24 @@ async function main(): Promise<void> {
     }
   }
 
-  // Phase 3: dedup each post using pre-computed embeddings, add non-duplicates to feed
-  for (const { channelUsername, channelTitle, post, postId, postMediaUrls, excerpt } of toProcess) {
-    let isDuplicate = false;
-    let clusterId = sha256(postId).slice(0, 12);
+  // Phase 3: dedup and add to feed
+  // Cold start (empty feed + many posts): batch cluster in 1-2 LLM calls, keep one per cluster.
+  // Steady state (few new posts): per-post cosine similarity, LLM only for ambiguous range.
+  const isColdStart = existingFeed.posts.length === 0 && toProcess.length > COLD_START_THRESHOLD;
 
-    const embedding = cache.embeddings[postId];
-    // Cross-channel candidates — includes posts added earlier in this same run
-    const candidates = existingFeed.posts.filter(
-      (p) => p.channel_username !== channelUsername && cache.embeddings[p.post_id] !== undefined
-    );
+  if (isColdStart) {
+    console.log(`Cold start — batch clustering ${toProcess.length} posts...`);
+    const clusterMap = await clusterAll(ghToken, toProcess.map((c) => ({ id: c.postId, excerpt: c.excerpt })));
+    const seenClusters = new Set<string>();
 
-    if (embedding && candidates.length > 0) {
-      const scored = candidates
-        .map((p) => ({ p, score: cosineSim(embedding, cache.embeddings[p.post_id]!) }))
-        .sort((a, b) => b.score - a.score);
-
-      const top = scored[0];
-
-      if (top && top.score >= DEDUP_DEFINITE_MATCH) {
-        isDuplicate = true;
-        console.log(`[dedup] <${postId}> duplicate of <${top.p.post_id}> (cosine ${top.score.toFixed(3)})`);
-      } else if (top && top.score >= DEDUP_DEFINITE_NEW) {
-        const llmCandidates = scored.slice(0, DEDUP_CANDIDATES).map((s) => ({
-          id: s.p.post_id,
-          excerpt: textExcerpt(s.p.plain_text),
-        }));
-        const decision = await withRetry("llm-dedup", () => llmDedupDecision(ghToken, excerpt, llmCandidates));
-        isDuplicate = decision.is_duplicate;
-        if (decision.is_duplicate && decision.matching_post_id) {
-          const match = existingFeed.posts.find((p) => p.post_id === decision.matching_post_id);
-          if (match) {
-            clusterId = match.cluster_id;
-            console.log(`[dedup] <${postId}> duplicate of <${decision.matching_post_id}> (LLM)`);
-          }
-        }
-      } else {
-        if (top) console.log(`[dedup] <${postId}> new story (cosine ${top.score.toFixed(3)})`);
+    for (const { channelUsername, channelTitle, post, postId, postMediaUrls } of toProcess) {
+      const clusterId = clusterMap.get(postId) ?? sha256(postId).slice(0, 12);
+      if (seenClusters.has(clusterId)) {
+        console.log(`[cluster] <${postId}> skipped — cluster <${clusterId}> already represented`);
+        continue;
       }
-    }
+      seenClusters.add(clusterId);
 
-    if (!isDuplicate) {
       const voteCount = importantVotes.get(postId)?.size ?? 0;
       existingFeed.posts.push({
         post_id: postId,
@@ -387,6 +431,64 @@ async function main(): Promise<void> {
         cluster_id: clusterId,
       });
       for (const url of postMediaUrls) feedMediaUrls.add(url);
+    }
+  } else {
+    // Steady state: per-post cosine + LLM for ambiguous cases
+    for (const { channelUsername, channelTitle, post, postId, postMediaUrls, excerpt } of toProcess) {
+      let isDuplicate = false;
+      let clusterId = sha256(postId).slice(0, 12);
+
+      const embedding = cache.embeddings[postId];
+      // Cross-channel candidates — includes posts added earlier in this same run
+      const candidates = existingFeed.posts.filter(
+        (p) => p.channel_username !== channelUsername && cache.embeddings[p.post_id] !== undefined
+      );
+
+      if (embedding && candidates.length > 0) {
+        const scored = candidates
+          .map((p) => ({ p, score: cosineSim(embedding, cache.embeddings[p.post_id]!) }))
+          .sort((a, b) => b.score - a.score);
+
+        const top = scored[0];
+
+        if (top && top.score >= DEDUP_DEFINITE_MATCH) {
+          isDuplicate = true;
+          console.log(`[dedup] <${postId}> duplicate of <${top.p.post_id}> (cosine ${top.score.toFixed(3)})`);
+        } else if (top && top.score >= DEDUP_DEFINITE_NEW) {
+          const llmCandidates = scored.slice(0, DEDUP_CANDIDATES).map((s) => ({
+            id: s.p.post_id,
+            excerpt: textExcerpt(s.p.plain_text),
+          }));
+          const decision = await withRetry("llm-dedup", () => llmDedupDecision(ghToken, excerpt, llmCandidates));
+          isDuplicate = decision.is_duplicate;
+          if (decision.is_duplicate && decision.matching_post_id) {
+            const match = existingFeed.posts.find((p) => p.post_id === decision.matching_post_id);
+            if (match) {
+              clusterId = match.cluster_id;
+              console.log(`[dedup] <${postId}> duplicate of <${decision.matching_post_id}> (LLM)`);
+            }
+          }
+        } else {
+          if (top) console.log(`[dedup] <${postId}> new story (cosine ${top.score.toFixed(3)})`);
+        }
+      }
+
+      if (!isDuplicate) {
+        const voteCount = importantVotes.get(postId)?.size ?? 0;
+        existingFeed.posts.push({
+          post_id: postId,
+          channel_username: channelUsername,
+          channel_title: channelTitle,
+          plain_text: post.plain_text,
+          body_html: post.body_html,
+          media: post.media,
+          posted_at: post.posted_at,
+          hot_score: hotScore(voteCount, post.posted_at),
+          vote_count: voteCount,
+          cluster_id: clusterId,
+        });
+        for (const url of postMediaUrls) feedMediaUrls.add(url);
+      }
     }
   }
 
