@@ -110,21 +110,22 @@ function tallySignal(
 
 // --- Embeddings ---
 
-async function embedText(token: string, text: string): Promise<number[]> {
+async function embedBatch(token: string, texts: string[]): Promise<number[][]> {
+  if (texts.length === 0) return [];
+
   const res = await fetch(GH_EMBEDDINGS_URL, {
     method: "POST",
     headers: {
       Authorization: `Bearer ${token}`,
       "Content-Type": "application/json",
     },
-    body: JSON.stringify({ model: "text-embedding-3-small", input: text }),
+    body: JSON.stringify({ model: "text-embedding-3-small", input: texts }),
   });
   if (!res.ok) throw new Error(`Embeddings API → ${res.status}: ${await res.text()}`);
 
-  const data = (await res.json()) as { data: Array<{ embedding: number[] }> };
-  const embedding = data.data[0]?.embedding;
-  if (!embedding) throw new Error("No embedding in response");
-  return embedding;
+  const data = (await res.json()) as { data: Array<{ embedding: number[]; index: number }> };
+  // API may return results out of order — sort by index to align with input array
+  return [...data.data].sort((a, b) => a.index - b.index).map((d) => d.embedding);
 }
 
 function cosineSim(a: number[], b: number[]): number {
@@ -269,16 +270,26 @@ async function main(): Promise<void> {
 
   console.log(`${newPosts.length} new posts to process`);
 
+  // Phase 1: apply cheap filters (flags, media fingerprint), collect survivors
+  type Candidate = {
+    channelUsername: string;
+    channelTitle: string;
+    post: Snapshot["posts"][number];
+    postId: string;
+    postMediaUrls: string[];
+    excerpt: string;
+  };
+
+  const toProcess: Candidate[] = [];
+
   for (const { channelUsername, channelTitle, post } of newPosts) {
     const postId = `${channelUsername}/${post.id}`;
 
-    // Flag check
     if ((allFlags.get(postId)?.size ?? 0) >= FLAG_THRESHOLD) {
       console.log(`[flags] <${postId}> excluded`);
       continue;
     }
 
-    // Media fingerprint — only compare across channels
     const postMediaUrls = post.media
       .map((m) => m.asset_url)
       .filter((u): u is string => u !== null);
@@ -288,22 +299,34 @@ async function main(): Promise<void> {
       continue;
     }
 
-    // Text excerpt for embedding
-    const excerpt = textExcerpt(post.plain_text);
+    toProcess.push({ channelUsername, channelTitle, post, postId, postMediaUrls, excerpt: textExcerpt(post.plain_text) });
+  }
 
-    // Cross-channel candidates (posts from other channels that have embeddings)
+  // Phase 2: batch embed all posts not yet in cache (single API call)
+  const toEmbed = toProcess.filter((c) => c.excerpt.length > 0 && cache.embeddings[c.postId] === undefined);
+
+  if (toEmbed.length > 0) {
+    console.log(`Embedding ${toEmbed.length} posts in one batch call...`);
+    const embeddings = await embedBatch(ghToken, toEmbed.map((c) => c.excerpt));
+    for (let i = 0; i < toEmbed.length; i++) {
+      const c = toEmbed[i];
+      const emb = embeddings[i];
+      if (c && emb) cache.embeddings[c.postId] = emb;
+    }
+  }
+
+  // Phase 3: dedup each post using pre-computed embeddings, add non-duplicates to feed
+  for (const { channelUsername, channelTitle, post, postId, postMediaUrls, excerpt } of toProcess) {
+    let isDuplicate = false;
+    let clusterId = sha256(postId).slice(0, 12);
+
+    const embedding = cache.embeddings[postId];
+    // Cross-channel candidates — includes posts added earlier in this same run
     const candidates = existingFeed.posts.filter(
       (p) => p.channel_username !== channelUsername && cache.embeddings[p.post_id] !== undefined
     );
 
-    let isDuplicate = false;
-    let clusterId = sha256(postId).slice(0, 12); // default: own cluster
-
-    if (excerpt.length > 0 && candidates.length > 0) {
-      const embedding = await embedText(ghToken, excerpt);
-      cache.embeddings[postId] = embedding;
-
-      // Score candidates by cosine similarity
+    if (embedding && candidates.length > 0) {
       const scored = candidates
         .map((p) => ({ p, score: cosineSim(embedding, cache.embeddings[p.post_id]!) }))
         .sort((a, b) => b.score - a.score);
@@ -314,7 +337,6 @@ async function main(): Promise<void> {
         isDuplicate = true;
         console.log(`[dedup] <${postId}> duplicate of <${top.p.post_id}> (cosine ${top.score.toFixed(3)})`);
       } else if (top && top.score >= DEDUP_DEFINITE_NEW) {
-        // Ambiguous — ask LLM with top N candidates
         const llmCandidates = scored.slice(0, DEDUP_CANDIDATES).map((s) => ({
           id: s.p.post_id,
           excerpt: textExcerpt(s.p.plain_text),
@@ -329,13 +351,8 @@ async function main(): Promise<void> {
           }
         }
       } else {
-        // Clearly new — embed already stored, no LLM needed
         if (top) console.log(`[dedup] <${postId}> new story (cosine ${top.score.toFixed(3)})`);
       }
-    } else if (excerpt.length > 0) {
-      // First post of the day — embed and add directly
-      const embedding = await embedText(ghToken, excerpt);
-      cache.embeddings[postId] = embedding;
     }
 
     if (!isDuplicate) {
