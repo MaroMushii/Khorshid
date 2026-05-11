@@ -7,6 +7,10 @@ default:
 mirror-check:
     cd mirror && pnpm typecheck
 
+# Typecheck the social schema (offline)
+social-check:
+    cd social && pnpm typecheck
+
 # Manually trigger the mirror workflow on GitHub
 update-mirror:
     gh workflow run mirror.yml --repo MaroMushii/Khorshid

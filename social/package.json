@@ -1,0 +1,10 @@
+{
+  "name": "khorshid-social-schema",
+  "private": true,
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "*"
+  }
+}
