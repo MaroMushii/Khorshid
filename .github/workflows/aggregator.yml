@@ -69,4 +69,5 @@ jobs:
           DATE="${{ github.event.inputs.date || '' }}"
           DATE="${DATE:-$(date -u +%Y-%m-%d)}"
           git commit -m "aggregator: feed/${DATE}"
+          git pull origin export --rebase
           git push origin HEAD:export
