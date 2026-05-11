@@ -1,10 +1,13 @@
 /**
  * Wire format for all content written to MaroMushii/khorshid-social GitHub Issues.
  *
- * Every GitHub Issue comment body is valid JSON that parses to IssueCommentBody:
- * either a SocialPayloadWrapper (encrypted post or comment) or a PlaintextPayload
- * (vote or flag — kept plaintext so the GH Actions aggregator can read them without
- * holding any room keys).
+ * Every GitHub Issue comment body is valid JSON that parses to IssueCommentBody.
+ *
+ * Channel Issues (channel-<slug>-<date>) contain only PlaintextPayload — votes on
+ * that day's Telegram news posts. No comment threads in channel Issues.
+ *
+ * Room Issues (room-<slug>-<date>) contain both: SocialPayloadWrapper (encrypted
+ * posts and comments) and PlaintextPayload (votes and flags on room comments).
  *
  * Issue naming: "channel-<slug>-<YYYY-MM-DD>" or "room-<slug>-<YYYY-MM-DD>"
  * One Issue per context per day. All social content for a given channel/room on a
@@ -63,11 +66,12 @@ export interface PostPayload {
 }
 
 /**
- * A comment on a post — applies to both channel discussions and rooms.
+ * A comment on a room post. Only used in room Issues — channel Issues contain
+ * only plaintext votes, not comment threads.
  *
- * `post_id` identifies what is being commented on (see file-level ID conventions).
- * `reply_to` is the SHA256 hex of the parent comment's raw GitHub Issue comment
- * body string, or null when replying directly to the post.
+ * `post_id` is the SHA256 hex of the room post's raw GitHub Issue comment body
+ * (see file-level ID conventions). `reply_to` is the SHA256 hex of the parent
+ * comment's raw body, or null when replying directly to the post.
  */
 export interface CommentPayload {
   type: "comment";
