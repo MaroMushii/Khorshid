@@ -1,374 +1,299 @@
 # Architecture
 
-## The three-layer model
+## Transport: GitHub only
 
-The network is designed in three independent layers. Each layer works without the ones
-above it. Higher layers are faster, not required.
+Khorshid runs entirely over GitHub infrastructure. No Firestore, no relay nodes, no P2P
+gossip layer. GitHub is fully accessible from Iran (REST API, raw CDN, git protocol —
+see `network.md`), battle-tested, and requires no server to operate.
+
+Two repos carry the entire system:
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  Layer 3 — External internet (Firestore, GitHub, GitLab, ...)   │
-│  When: global internet is partially accessible                   │
-│  Speed: near real-time (Firestore) to minutes (GitHub polling)  │
-│  Reach: anyone with the app, anywhere                           │
-├─────────────────────────────────────────────────────────────────┤
-│  Layer 2 — Inside-Iran nodes                                    │
-│  When: NIN is up, even if global internet is fully cut          │
-│  Speed: real-time (WebSocket, same country)                     │
-│  Reach: all NIN users                                           │
-├─────────────────────────────────────────────────────────────────┤
-│  Layer 1 — Local P2P gossip (WiFi Direct, mDNS, Bluetooth)      │
-│  When: always. No server, no internet, no NIN required          │
-│  Speed: seconds when in range, hours via store-carry-forward    │
-│  Reach: nearby devices, propagates as people move               │
-└─────────────────────────────────────────────────────────────────┘
+MaroMushii/Khorshid          — mirror code + GH Actions workflows + export branch
+MaroMushii/khorshid-social   — social layer (GitHub Issues for comments, votes, flags)
+MaroMushii/khorshid-room-*   — one private repo per private room (created by room owner)
 ```
-
-Layer 1 is the foundation. Layers 2 and 3 are amplifiers. If everything above Layer 1
-gets shut down, the network keeps working — just slower.
 
 ---
 
-## Layer 1: Local P2P gossip
+## Content model
 
-Every device is a node. Every device stores every message it has received.
-When two devices come within range, they sync.
+Three distinct content types, each with a different read/write model:
 
 ```
-Device A: "newest message I have is ID abc123, timestamp 14:32"
-Device B: "I have 12 messages newer than that"
-Device A: "send them"
-← both devices now have the complete set →
+Channels   — read-only Telegram news feeds, mirrored by GH Actions every ~5 min.
+             Users vote and comment. Cannot post original content.
+
+Rooms      — curated community discussion spaces (core team defines the list).
+             Users post original content, reply to each other, vote.
+
+Private    — invite-only encrypted spaces. One private GitHub repo per room.
+             Creator holds the PAT; members join via invite bundle.
 ```
 
-No server involved. No internet required. Messages propagate as people move through
-the city — a university WiFi island syncs to a mobile user, who walks across town and
-syncs to a market WiFi island. City-wide propagation without any infrastructure.
-
-**Transports for Layer 1:**
-
-| Transport       | Range    | Platforms              | Notes                              |
-|-----------------|----------|------------------------|------------------------------------|
-| WiFi (mDNS)     | LAN      | All                    | Needs a router. Auto-discovery.    |
-| WiFi Direct     | ~200m    | Android, Windows       | No router. Two devices connect directly. |
-| Multipeer (MCF) | ~70m     | iOS + macOS only       | Apple proprietary. Works well within Apple ecosystem. |
-| Bluetooth       | ~10m     | All                    | Slow (~2 Mbps) but universal fallback. |
-
-**Gossip protocol requirements:**
-- Each device has a local append-only message store (SQLite, encrypted at rest)
-- On connection: exchange newest-seen message ID per room, transfer delta
-- Messages are deduplicated by content-addressed ID (sha256)
-- No trust required: all messages are verified by signature before storing
+**Today** is not a separate content type — it is an aggregated editorial view that pulls
+from both channels and rooms, ranked by the hot score formula.
 
 ---
 
-## Layer 2: Inside-Iran nodes
+## Data flow
 
-Nodes run inside Iran on the NIN. Accessible to every Iranian without touching the
-external whitelist. No dedicated server purchase required.
-
-### Two kinds of nodes — very different risk profiles
-
-**Phone relay nodes (preferred)**
-The Khorshid app itself runs in relay mode on a phone. No server bought, no hosting
-provider involved, no paper trail.
+### News (read path)
 
 ```
-Consumer mode (always):    reads and writes messages, syncs outward
-Relay mode (opt-in):       also accepts inbound connections from local network,
-                           stores messages on behalf of nearby devices,
-                           gossips with other known nodes
+Telegram channels
+  ↓  mirror scraper runs in GH Actions every ~5 min
+export branch (MaroMushii/Khorshid)
+  ↓  raw.githubusercontent.com CDN — no auth, no rate limit
+Client app reads channel snapshots:
+  channels/<slug>/snapshot.json   — posts for this channel
+  feed/<YYYY-MM-DD>.json          — Today's ranked feed (written by aggregator)
 ```
 
-Relay mode activates only when on WiFi + charging. A foreground notification tells the
-user it is active. Battery and data are not consumed unexpectedly.
-
-**Volunteer machine nodes (higher risk, higher value)**
-A personal computer, Raspberry Pi, or old laptop running the node binary on a home or
-office network. Not a purchased VPS — hardware the person already owns.
+### Social (write path)
 
 ```
-khorshid-node (single binary, ~10MB, Go):
-  ├── serves a real-looking cover website on port 443
-  ├── accepts encrypted blobs via token-gated endpoints
-  ├── maintains WebSocket connections for real-time push
-  ├── stores messages: memory + append-only file (no database server)
-  ├── gossips with other known nodes on message arrival
-  └── logs nothing to disk by default
+User action (comment, vote, flag)
+  → AES-256-GCM encrypt (comments only; votes and flags are plaintext)
+  → pick random PAT from pool
+  → POST /repos/MaroMushii/khorshid-social/issues/:id/comments
+  → optimistic UI: action appears immediately, confirmed on next poll
 ```
 
-The cover service design:
+### Social (read path)
 
 ```
-GET  /                  →  real-looking cover website (shop, blog, portfolio)
-GET  /about             →  more cover content
-POST /api/<token>/sync  →  Khorshid relay endpoint (token-gated)
-WS   /live/<token>      →  WebSocket for real-time push (token-gated)
+On context open (channel or room):
+  GET /repos/MaroMushii/khorshid-social/issues?labels=<slug>&state=open
+  → find today's issue by title, cache issue number locally
+
+Poll loop (adaptive interval: 10s active, 60s backgrounded):
+  GET /repos/.../issues/:id/comments?since=<last_seen_timestamp>
+  → for each new comment:
+      if plaintext (type field present): parse vote or flag
+      if encrypted blob ({v,n,c}): AES-GCM decrypt → render
 ```
 
-Without the token, every request returns the cover site. A scanner sees a small Iranian
-website. WebSocket on port 443 is completely normal — every Iranian e-commerce site uses
-it for live notifications. Payload is AES-GCM ciphertext wrapped in JSON — identical to
-any other HTTPS API traffic.
-
-### The NAT reality
-
-A phone on cellular sits behind Carrier-Grade NAT. Other NIN devices cannot connect to
-it directly — it can only make outbound connections.
-
-```
-✓ Works:   Cellular phone → connects out → WiFi relay node (routable NIN IP)
-✗ Broken:  Cellular phone → tries to connect in → another cellular phone
-```
-
-This means phone relay nodes are effective within a WiFi island (mDNS discovery,
-no NAT) and via WiFi Direct (no router, ~200m range). They cannot serve as real-time
-relays for other cellular devices across the NIN. For that, a machine with a stable
-NIN-accessible IP is required.
-
-### Store-carry-forward: phones as message carriers
-
-The NAT limitation stops mattering once you think about physical mobility.
-
-```
-Home WiFi:    phone syncs with home relay node, picks up overnight messages
-Commute:      phone carries messages on cellular
-University:   phone joins campus WiFi, syncs with campus relay node,
-              delivers what it was carrying, picks up campus messages
-Street:       WiFi Direct sync with a passing phone — bidirectional in ~10s
-Coffee shop:  entire table syncs via mDNS when all join the same WiFi
-```
-
-Messages travel at the speed of people moving through the city. For a crisis news board,
-30–60 minutes of city-wide propagation is acceptable. For real-time chat, it is not.
-
-### The human risk
-
-Running a node — even on personal hardware — carries real risk in Iran. People have been
-arrested for running VPN infrastructure. This is not theoretical.
-
-Risk by node type:
-- **Phone relay:** lowest risk. It is an app, not a server. Dynamic cellular IP. Genuine
-  deniability. Cannot be identified as "running a server" without device inspection.
-- **Home machine:** medium risk. ISP sees unusual inbound traffic volume. Cover website
-  provides deniability but traffic pattern may not match "small website."
-- **VPS from Iranian hosting provider:** highest risk. Provider has name, national ID,
-  payment info. One government request and it is over. Avoid.
-
-The network is designed so that nodes are optional amplifiers — it works without them.
-No one should run a node unless they understand the risk and choose to accept it.
-
-### Node discovery
-
-Node IPs are never published in a public registry. They propagate through the gossip
-network itself — nodes announce their presence as signed messages, other nodes and
-clients add them to their known list. The app ships with a small number of hardcoded
-seed node IPs maintained by the core team.
+GitHub Issues API is immediately consistent — a comment posted via REST is visible in
+the next GET within milliseconds. This gives near-real-time behavior without WebSockets
+or a dedicated server.
 
 ---
 
-## Layer 3: External internet transports
+## khorshid-social: GitHub Issues as the social layer
 
-Ordered by preference. The app probes silently and uses the first working one.
+One GitHub Issue per context per day. Issues are created automatically by the aggregator
+GH Action if they don't exist yet.
 
-| Priority | Transport        | Why                                              | Status (2026-05-09)     |
-|----------|------------------|--------------------------------------------------|-------------------------|
-| 1        | Firestore        | Real-time push, no polling, proper database      | Accessible (googleapis) |
-| 2        | GitHub API + git | Persistent, reliable, full git protocol works    | Fully accessible        |
-| 3        | GitLab git       | Same git protocol, different domain              | git protocol accessible |
-| 4        | Google Sheets    | Emergency fallback, googleapis accessible        | Accessible              |
-| 5        | DNS tunneling    | Nuclear fallback. ~1–3 KB/s. Needs 8.8.8.8 open | Unknown                 |
+**Issue naming convention:**
+```
+channel-<slug>-<YYYY-MM-DD>     e.g.  channel-bbcpersian-2026-05-11
+room-<slug>-<YYYY-MM-DD>        e.g.  room-street-reports-2026-05-11
+```
 
-Firebase Realtime DB (firebaseio.com) is specifically blocked. Use Firestore instead.
+Each Issue comment is one of three payload types:
 
----
+### Encrypted payloads (comments and room posts)
 
-## Message format
+Wrapper — always this shape:
+```json
+{ "v": 1, "n": "<12-byte nonce b64>", "c": "<AES-256-GCM ciphertext b64>" }
+```
 
-Every message is a self-contained blob. Transport-independent.
+Decrypted content is polymorphic by `type`:
+```json
+{ "type": "post",    "body": "...", "sent_at": 1746900000000 }
+{ "type": "comment", "post_id": "bbcpersian/1234", "reply_to": "<sha256>", "body": "...", "sent_at": 1746900000000 }
+```
+
+`post_id` is the Telegram post identifier from the mirror snapshot (`<channel>/<num>`).
+`reply_to` is the sha256 of the parent comment's ciphertext blob — used for threaded display.
+
+### Plaintext payloads (votes and flags)
+
+Votes and flags are NOT encrypted. The aggregator GH Action reads them without any
+decryption, which lets it rank content without holding any room keys.
 
 ```json
+{ "type": "vote", "target_id": "<sha256 of target comment's ciphertext>", "signal": "up|important", "vote_id": "<sha256(privkey || target_id) b64>", "sent_at": 1746900000000 }
+{ "type": "flag", "target_id": "<sha256 of target comment's ciphertext>",                            "vote_id": "<sha256(privkey || target_id) b64>", "sent_at": 1746900000000 }
+```
+
+**`vote_id` is a commitment hash, not a public key.**
+- Same user + same target → same `vote_id` (enables deduplication)
+- Same user + different target → different `vote_id` (cannot correlate votes across posts)
+- Cannot be reversed to reveal the voter's identity
+
+---
+
+## Today aggregator (GH Actions, every minute)
+
+Produces `feed/<YYYY-MM-DD>.json` on the export branch — the ranked Today view.
+
+```
+1. Fetch all channel posts for today from export branch
+2. Fetch all room posts from khorshid-social (decrypt via public room key — Actions secret)
+3. Fetch all plaintext votes and flags from khorshid-social
+4. LLM deduplication:
+     POST today's channel post headlines + timestamps to Claude Haiku
+     Response: cluster_id per post (same story across channels → same cluster)
+5. Per post/room-post: tally importance votes, deduplicate by vote_id
+6. Hot score:
+     hot_score = wilson_lower_bound(importance_votes, total_votes) × e^(−λ × age_hours)
+     Posts and room posts: λ = 0.3
+     Comments:            λ = 0.5  (go stale faster)
+7. Community Report detection:
+     Comments whose hot_score exceeds COMMUNITY_REPORT_THRESHOLD
+     → included in feed JSON alongside news posts, tagged community_report: true
+8. Flag filtering:
+     Content with ≥ N unique flag vote_ids → excluded from feed
+9. Write feed/<YYYY-MM-DD>.json to export branch
+```
+
+`feed/<YYYY-MM-DD>.json` shape:
+```json
 {
-  "id":        "<sha256 of payload>",
-  "sender":    "<ed25519 public key, base64>",
-  "signature": "<ed25519 signature of payload, base64>",
-  "payload":   "<AES-256-GCM ciphertext, base64>",
-  "nonce":     "<12-byte GCM nonce, base64>",
-  "chunks":    { "index": 0, "total": 1 },
-  "sent_at":   "<unix timestamp ms>"
+  "date": "2026-05-11",
+  "generated_at": 1746900000000,
+  "posts": [
+    {
+      "cluster_id": "abc123",
+      "sources": ["bbcpersian/1234", "iranintl/9981"],
+      "hot_score": 4.2,
+      "importance_votes": 38,
+      "channel_slug": "bbcpersian",
+      "post_id": "bbcpersian/1234"
+    }
+  ],
+  "community_reports": [
+    {
+      "comment_encrypted": { "v": 1, "n": "...", "c": "..." },
+      "hot_score": 3.1,
+      "importance_votes": 22,
+      "source_issue": "channel-bbcpersian-2026-05-11",
+      "community_report": true
+    }
+  ]
 }
 ```
 
-Plaintext inside payload (after decryption), polymorphic by type:
-
-```json
-{ "type": "text",     "body": "...", "room": "news", "day": "2026-05-09", "reply_to": null }
-{ "type": "vote_up",  "target_id": "<message id>" }
-{ "type": "vote_down","target_id": "<message id>" }
-{ "type": "important","target_id": "<message id>" }
-```
-
-The `chunks` field exists from day one for DNS tunneling compatibility (max 63 bytes per
-DNS label). Even when not chunking, index=0, total=1.
+Community Report blobs are included verbatim in the feed JSON so clients decrypt and
+display them without a separate API call. The aggregator never reads comment content —
+only the plaintext vote counts.
 
 ---
 
 ## Identity
 
-- Generated on first launch: Ed25519 keypair stored in device secure storage / keychain.
-- Public key = user identity. Display name is stored locally alongside it.
+- Ed25519 keypair generated on first launch, stored in device Keychain.
+- Public key is the user's identity. Display name stored locally alongside it.
 - No server-side registration. No GitHub account. No email.
-- Backup: export keypair as QR code to restore on new device.
+- Backup: export keypair as QR code for device migration.
 
 ---
 
 ## Encryption
 
-All rooms use AES-256-GCM. There are no unencrypted rooms.
+All content is AES-256-GCM. There is no unencrypted content.
 
-**Public rooms:** Key is hardcoded per room in the app binary.
+**Public channels and rooms:** key is hardcoded per context in the app binary.
 - "Public" = anyone with the app can decrypt.
-- GitHub and anyone who accesses storage sees ciphertext.
+- `khorshid-social` is a public repo — GitHub sees ciphertext.
 - Keys are rotated via app update if compromised.
 
-**Private rooms:** Key generated fresh at room creation, shared via invite bundle.
-- Bundle: `{ repo, pat, key, name }` → base64 → QR code
-- Shared via QR scan, Bluetooth (one-time pairing), or paste
-- After joining, all communication through GitHub/Firestore. Bluetooth not used again.
+**Private rooms:** key generated at room creation, distributed via invite bundle.
 
 ```swift
 enum RoomAccess {
-    case publicRoom(key: SymmetricKey)           // key ships in binary
-    case privateRoom(key: SymmetricKey, pat: String) // key from invite bundle
+    case publicContext(key: SymmetricKey)                        // key ships in binary
+    case privateRoom(key: SymmetricKey, pat: String, repo: Repo) // key from invite bundle
 }
 ```
 
 ---
 
-## Write path (how messages reach the network)
+## PAT pool
 
-Users do not need GitHub accounts.
+Users do not need GitHub accounts to participate in public channels or rooms.
 
-The app ships with a **PAT pool** — a set of GitHub tokens donated by volunteers, stored
-in the binary or fetched from a well-known location in the main repo.
+The app ships a set of fine-grained PATs created by the project owner (MaroMushii),
+scoped to `issues:write` on `MaroMushii/khorshid-social`. GitHub allows many PATs per
+account — each has its own 5,000 req/hour rate limit bucket, so pooling 5–10 gives
+ample capacity. These are:
+- Hardcoded in the app binary (fallback)
+- Also fetched from `raw.githubusercontent.com/.../main/pats.json` on launch (for rotation
+  without a full app update)
 
-```
-User writes message
-  → sign with local private key
-  → encrypt with room key
-  → app picks a random PAT from pool
-  → write to Firestore (real-time) AND GitHub (persistent)
-```
+Per write: app picks a random PAT. On HTTP 429 or 401/403, it tries the next one.
 
-PATs only allow writing to public repos. If extracted from binary, an attacker can:
-- Write unsigned garbage (filtered by aggregator)
-- Not impersonate anyone (signature check fails)
-- Not read private rooms (no AES key)
-
-PATs are rotated by app update or by a self-updating credential file in the repo.
+Extracted PATs are low-risk: they can write garbage (filtered by clients checking
+payload structure) but cannot impersonate anyone (no private key) and cannot read
+private rooms (no AES key).
 
 ---
 
-## Read path
+## Private rooms
 
-**Firestore (primary):** Real-time listener. New messages arrive in milliseconds.
-No polling. App subscribes to room's Firestore collection.
+Each private room is its own private GitHub repo. Only the creator and invited members
+have access. No PAT pool — the PAT is in the invite bundle.
 
-**GitHub (fallback):** Clients fetch from `raw.githubusercontent.com` — CDN-backed,
-no auth required, high rate limits. A GitHub Actions job runs every minute, reads all
-user commits, scores by votes, writes sorted `feed/{day}.json` to repo.
+**Room creation (creator needs a GitHub account):**
+1. Create private repo `khorshid-room-<random-id>` under your account
+2. Mint a fine-grained PAT with `issues:write` scoped to that repo
+3. Generate AES-256 room key
+4. Encode invite bundle: `{ owner, repo, pat, key, name }` → base64
 
-```
-raw.githubusercontent.com/{org}/{repo}/main/feed/2026-05-09.json
-```
+**Joining (no GitHub account needed):**
+1. Paste or scan invite bundle
+2. App calls `GET /repos/<owner>/<repo>` to verify PAT access
+3. On success: store bundle in Keychain, enter room
 
-One HTTP GET = all messages for the day, sorted by importance. No API rate limit applies.
-
----
-
-## Relay architecture
-
-Relay operators are volunteers (diaspora, people with VPN, anyone outside Iran) who
-bridge messages between transports when one gets blocked.
-
-**What a relay does:**
-```
-every 60 seconds:
-  for each transport it can reach:
-    fetch messages since last run
-  for each new message:
-    push to all other reachable transports
-```
-
-Messages are content-addressed (sha256 ID). Publishing the same message twice is a
-no-op — clients deduplicate automatically.
-
-**How to become a relay (anonymous):**
-1. Create a throwaway GitHub account (throwaway email, no real identity)
-2. Fork the relay repo
-3. Add transport credentials as GitHub repo secrets
-4. Enable GitHub Actions (default on forks)
-5. Done. Relay runs on GitHub's machines. Operator IP never involved.
-
-**How the app discovers relays:**
-- Layer 1: hardcoded seed relays in binary (5-10, maintained by core team)
-- Layer 2: registry file in relay repo — community PRs to add new relays
-- Layer 3: relays announce themselves as signed messages; other relays pick them up
-
-**Trust model:** Relays are untrusted. Messages are signed. A malicious relay can:
-- Copy messages faithfully (good)
-- Not copy messages (useless)
-- Inject unsigned garbage (filtered by clients)
-It cannot forge identities or read private room content.
+Same GitHub Issues API pattern as public rooms: one Issue per day, Issue comments are
+encrypted blobs. All members write via the shared PAT — GitHub sees one anonymous bot
+doing all the writes.
 
 ---
 
-## Room structure
+## Navigation structure
 
-Each room is a Firestore collection + a GitHub repo (or branch).
+```
+Today     — default view. Aggregated feed: top channel posts + hot room posts
+            + Community Report comments. Updated every minute via feed JSON.
 
-**Public rooms (pre-defined):**
-- `khorshid-news` — Today's News
-- `khorshid-politics` — Politics
-- `khorshid-tech` — Tech
-- `khorshid-random` — Random
+Channels  — browse individual mirrored Telegram channels. Read-only news feed.
+            Vote and comment per post.
 
-**Private rooms:** each is a separate private GitHub repo. Room creator holds the PAT.
+Rooms     — curated community spaces (core team maintains the list).
+            Original posting, discussion, voting.
 
-**Daily structure:** messages have a `day` field. The UI groups by day. Each day has:
-- "Highlights" section: top-N messages by importance votes
-- "All messages" section: chronological scroll below
+Private   — invite-only rooms. Encrypted. No visibility to anyone outside.
+```
+
+---
+
+## Moderation
+
+**Public channels and rooms:**
+Community flagging is the primary mechanism. Flag payloads are plaintext and aggregator-
+readable. Content reaching ≥ N unique flag `vote_id`s is excluded from the Today feed
+and hidden locally by the client.
+
+Core team can delete Issue comments directly via GitHub web UI or API. Deleted comments
+stop appearing in subsequent `GET /comments` responses — all clients drop them on next
+poll.
+
+**Private rooms:**
+No moderation. Room creator controls membership by controlling who has the invite bundle.
+Kicking a member requires rotating the room key and re-issuing bundles to remaining members
+(forward secrecy caveat: old messages with old key become unreadable after rotation).
 
 ---
 
 ## Open questions
 
-**Platform:**
-- [ ] Cross-platform framework: Flutter vs Kotlin Multiplatform vs Tauri
-- [ ] Android-first confirmed. What's the second platform?
-
-**Layer 3 (external):**
-- [ ] Firestore anonymous auth — what does the app need to ship? (securetoken.googleapis.com reachable?)
-- [ ] DNS tunneling: spec out the chunking format and nameserver setup
-- [ ] GitHub Actions relay: 1-minute minimum interval — acceptable for GitHub fallback path?
-- [ ] Private room resilience: if creator's GitHub account deleted, room dies. Fix?
-
-**Layer 2 (inside-Iran nodes):**
-- [ ] Phone relay: Android foreground service lifecycle — how to survive aggressive battery
-      optimization on Iranian ROM variants (Xiaomi, Samsung OneUI)?
-- [ ] Cover website content — generic enough to not raise suspicion across all nodes?
-- [ ] Node binary language confirmed as Go (single static binary, fast, minimal runtime).
-- [ ] Minimum viable node: benchmark RAM/CPU for ~200 concurrent WebSocket connections.
-- [ ] How do nodes authenticate to each other? (prevent fake nodes joining the mesh)
-- [ ] What is the threshold for relay mode? WiFi + charging confirmed. Anything else?
-
-**Layer 1 (local P2P):**
-- [ ] Gossip protocol: build on SSB's existing protocol or design a simpler custom one?
-- [ ] iOS ↔ Android sync: only path is same-WiFi mDNS. Is this acceptable?
-- [ ] Store-carry-forward: how long does a device hold messages it hasn't delivered?
-- [ ] What's the maximum local message store size before pruning old days?
-
-**Moderation:**
-- [ ] Who removes spam/disinformation from public rooms? No good answer yet.
-- [ ] Can moderation be decentralized? (community flagging → threshold hides message locally)
-
+- [ ] Flag threshold N — start with 5, needs tuning once real traffic exists
+- [ ] Community Report threshold — what hot_score floor surfaces a comment to Today?
+- [ ] Private room key rotation UX — how does the app communicate "you need to re-join"?
+- [ ] Aggregator Claude API cost at scale — re-evaluate if cluster API gets expensive
+- [ ] Re-probe Firestore accessibility periodically (see network.md) — if it becomes
+      reliably accessible, it's a viable real-time enhancement but not a dependency

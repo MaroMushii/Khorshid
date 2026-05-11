@@ -8,7 +8,7 @@ Project-level guidance for Claude when working in this repo. Read first.
 platform for people living under internet blackouts. Named after the Persian
 word for Sun.
 
-The repo is four cooperating pieces:
+The repo is three cooperating pieces:
 
 ```
 mirror/          — khorshid-mirror, a Node scraper run by GitHub Actions
@@ -16,15 +16,18 @@ mirror/          — khorshid-mirror, a Node scraper run by GitHub Actions
                    t.me, writes per-channel snapshots + media into the
                    `export` branch. Ported from Pigeon's mirror scraper.
 
-cf-dispatcher/   — Cloudflare Worker that fires every 5 min on a CF cron
-                   trigger and POSTs to GitHub's workflow_dispatch to kick
-                   mirror.yml. Same pattern as Pigeon's dispatcher.
-
 mac/             — SwiftUI macOS 26 client (Swift 6, strict concurrency).
-                   Not yet built.
+                   Skeleton built. Reads news feed from export branch.
 
-android/         — Flutter Android app.
-                   Not yet built.
+android/         — Flutter Android app. Not yet built.
+```
+
+There is also a companion repo (not in this directory):
+
+```
+MaroMushii/khorshid-social  — GitHub Issues used as the social layer.
+                               One Issue per context (channel/room) per day.
+                               Issue comments = encrypted posts, plaintext votes/flags.
 ```
 
 ### Data flow
@@ -32,21 +35,25 @@ android/         — Flutter Android app.
 ```
 Telegram channels
     ↓  (mirror scraper, GH Actions ~5 min)
-GitHub export branch  →  raw.githubusercontent.com  (news read path)
+export branch  →  raw.githubusercontent.com  (news read path)
+    ↓  (Today aggregator, GH Action every minute — not yet built)
+export branch/feed/{day}.json  (ranked by importance votes)
 
 Users vote / comment
-    ↓
-Firestore  (primary real-time: comments + votes)
-    ↓  (aggregator GH Action, every minute — not yet built)
-GitHub feed/{day}.json  (sorted by votes — fallback read path)
+    ↓  (PAT pool → GitHub Issues API — near real-time)
+MaroMushii/khorshid-social Issues  (social read/write path)
 ```
 
-### Why GitHub + Firestore
+### Why GitHub only
 
-GitHub's `raw.githubusercontent.com` CDN and Google's `googleapis.com`
-(Firestore) both survive Iranian internet whitelisting. Telegram's `t.me`
-does not — the mirror bridges that gap by scraping from a GitHub Actions
-runner (outside Iran) and pushing results to the export branch.
+GitHub's REST API and `raw.githubusercontent.com` CDN are reliably accessible
+from Iran. Telegram's `t.me` is not — the mirror bridges that gap. Firestore
+(googleapis.com) appeared reachable in a May 2026 probe but is likely sanctioned
+as a Firebase product; Khorshid does not depend on it. See `docs/network.md`.
+
+GitHub Issues API is immediately consistent (POST a comment, GET it back within
+milliseconds), which gives near-real-time social behavior via adaptive polling —
+the same pattern used in a private sister project.
 
 ## Hard rules — do not violate
 
@@ -74,14 +81,36 @@ raw.githubusercontent.com/MaroMushii/Khorshid/refs/heads/export/
   channels/<u>/snapshot.json          — posts for channel <u>
   channels/<u>/media/<hash>.<ext>     — mirrored media
   health.json                         — last sweep status
+  feed/<YYYY-MM-DD>.json              — Today ranked feed (written by aggregator)
 ```
 
-### Social layer (not yet built)
+### Social layer (khorshid-social, not yet built)
 
-Comments and votes go to Firestore. Write path:
+All social content lives in `MaroMushii/khorshid-social` GitHub Issues.
+
+Issue naming: `channel-<slug>-<YYYY-MM-DD>` / `room-<slug>-<YYYY-MM-DD>`
+
+Issue comment types:
 ```
-User action → sign with Ed25519 keypair → AES-GCM encrypt → pick random
-PAT from pool → write to Firestore (real-time) + GitHub (persistent)
+Encrypted blob  →  { v: 1, n: "<nonce b64>", c: "<AES-256-GCM ciphertext b64>" }
+                   Decrypts to: { type: "post"|"comment", body, post_id?, reply_to?, sent_at }
+
+Plaintext vote  →  { type: "vote", target_id, signal: "up"|"important",
+                     vote_id: sha256(privkey || target_id), sent_at }
+
+Plaintext flag  →  { type: "flag", target_id,
+                     vote_id: sha256(privkey || target_id), sent_at }
+```
+
+Write path (public rooms):
+```
+User action → AES-GCM encrypt (comments only) → pick random PAT from pool
+→ POST /repos/MaroMushii/khorshid-social/issues/:id/comments
+```
+
+Read path:
+```
+GET /repos/.../issues/:id/comments?since=<last_seen>  (poll every 10–60s)
 ```
 
 ## Build & dev
@@ -92,14 +121,11 @@ just mirror-check       # typecheck the scraper (offline)
 just mirror-run         # run scraper locally (needs t.me reachable)
 just dry-run <channel>  # parse a single live channel
 just update-mirror      # manually trigger GH Actions mirror run
-just deploy-dispatcher  # deploy CF Worker
-just set-dispatcher-token  # set GITHUB_TOKEN secret on CF Worker
 ```
 
 Install deps:
 ```sh
 cd mirror && pnpm install
-cd cf-dispatcher && pnpm install
 ```
 
 ## Conventions
@@ -110,7 +136,7 @@ cd cf-dispatcher && pnpm install
 - ES modules; `.js` extension on internal imports (TS resolves them).
 - Snake_case for JSON wire fields. Schema lives in `mirror/schema.ts`.
 
-### Swift (`mac/`) — not yet built
+### Swift (`mac/`)
 
 - Swift 6, strict concurrency complete. macOS 26 deployment target.
 - `@Observable` + `@State` over `ObservableObject` + `@StateObject`.
@@ -125,8 +151,8 @@ cd cf-dispatcher && pnpm install
 ### Git
 
 - Branch naming: `type/description` (e.g. `feat/mirror-votes`, `fix/parser`).
-- Conventional commits, scoped: `feat(mirror):`, `feat(mac):`,
-  `feat(android):`, `fix(mirror):`, `chore(ci):`.
+- Conventional commits, scoped: `feat(mirror):`, `feat(mac):`, `feat(social):`,
+  `feat(android):`, `fix(mirror):`, `chore(ci):`, `docs(design):`.
 - Co-author trailer: `Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>`.
 - Never push to `main` without explicit user confirmation.
 
@@ -138,13 +164,11 @@ cd cf-dispatcher && pnpm install
 - `gh` CLI for GitHub API operations, not WebFetch.
 - `just` as the task runner.
 
-## Pigeon / Khorshid connection
+## Pigeon connection
 
 Khorshid shares conventions and some infrastructure with
 [Pigeon](https://github.com/MaroMushii/Pigeon) (the mirror pattern, the
-GT-proxy technique, the export branch layout) and
-[Khorshid](https://github.com/MaroMushii/Khorshid) (AES-GCM over GitHub, keypair
-identity, invite bundles). Both are sister projects by the same developer.
+GT-proxy technique, the export branch layout). Sister project by the same developer.
 
 Do not share code via Swift packages or symlinks. Copy-paste with
 attribution when needed. The threat models and scope are different enough
@@ -152,15 +176,21 @@ that coupling would be a mistake.
 
 ## What's not yet built
 
-In priority order:
+In priority order (see `bd ready` for the full tracked backlog):
 
-1. **macOS app skeleton** — news feed reading from the export branch.
-2. **Android Flutter app skeleton** — same news feed.
-3. **Firestore social layer** — comments + upvotes per post.
-4. **Aggregator GitHub Action** — sorts posts by vote count, writes
-   `feed/{day}.json` to export branch.
-5. **PAT pool** — volunteered tokens for anonymous writes.
-6. **Private rooms** — invite-only encrypted discussion (post-MVP).
+1. **GitHub Issues social schema** (`Khorshid-nku`) — wire format spec as code.
+2. **khorshid-social repo + daily Issue provisioning** (`Khorshid-x2x`) — create
+   the companion repo and the GH Action that ensures today's Issues exist.
+3. **Today aggregator GH Action** (`Khorshid-pen`) — LLM dedup, hot scoring,
+   writes `feed/{day}.json` to export branch.
+4. **Ed25519 identity** (`Khorshid-aqh`) — keypair gen + Keychain storage in mac app.
+5. **PAT pool** (`Khorshid-il6`) — project-owner PATs for anonymous public writes.
+6. **Comment system** (`Khorshid-pye`) — read/write via Issues API with adaptive polling.
+7. **Voting system** (`Khorshid-s7m`) — plaintext votes with commitment hash.
+8. **Community flagging** (`Khorshid-qor`) — threshold-based local content hiding.
+9. **Community Report** (`Khorshid-2xd`) — hot comments elevated into Today feed.
+10. **Private rooms** (`Khorshid-2ay`) — invite bundle model, one private repo per room.
+11. **Android app** (`Khorshid-o5y`) — Flutter, after macOS is working end-to-end.
 
 
 <!-- BEGIN BEADS INTEGRATION v:1 profile:minimal hash:ca08a54f -->

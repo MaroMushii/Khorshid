@@ -1,8 +1,8 @@
 # Khorshid
 
-A censorship-resistant, encrypted communication platform built for people living under
-internet blackouts. Designed around the reality that GitHub and Google are sometimes the
-only accessible services.
+A censorship-resistant, encrypted news and discussion platform built for people living
+under internet blackouts. Designed around the reality that GitHub is reliably accessible
+from Iran even during severe censorship.
 
 Named after the Persian word for "Sun."
 
@@ -11,30 +11,36 @@ Named after the Persian word for "Sun."
 ## Why this exists
 
 Iran has experienced 70+ day internet blackouts where the entire internet is in whitelist
-mode — only a handful of approved services are reachable. People have no way to communicate,
-share news, or coordinate. Khorshid is built to fill that gap using the services that
-remain open.
+mode — only a handful of approved services are reachable. People have no way to get news,
+communicate, or coordinate. Khorshid is built to fill that gap using the infrastructure
+that remains open.
 
 The government will block anything that threatens them, regardless of collateral damage.
-No assumption of "they can't block X" is made here. The design adapts to whatever
+No assumption of "they can't block X" is made here. The design works within whatever
 remains accessible.
 
 ---
 
 ## What it is
 
-A Reddit-inspired platform with two core concepts:
+A news and community platform built on two rails:
 
-**Daily rooms.** Each day is self-contained. You open today, you see today's content.
-Yesterday doesn't pollute today.
+**Channels.** Mirrored Telegram news channels (BBC Persian, Iran International, Radio
+Farda, and others). Read-only. Updated every ~5 minutes by a GitHub Actions scraper.
+You read, vote, and comment. No Telegram account required.
 
-**Importance voting.** Not just upvotes. A specific signal that surfaces what *matters* —
-a report of a crackdown goes up because people need to see it, not because it's popular.
-Important messages float to "Today's highlights" at the top. Everything else scrolls below.
+**Rooms.** Community discussion spaces curated by the core team. You post original
+content — eyewitness reports, links, discussions. Rooms are the bottom-up rail: a post
+or comment from a room can climb into Today's feed alongside official news if enough
+people mark it as important.
 
-**Room types:**
-- Public rooms — open to anyone with the app. Pre-defined: News, Politics, Tech, Random.
-- Private rooms — invite-only, shared via QR code or Bluetooth pairing. Like a group chat.
+**Today.** The editorial surface. Pulls from both channels and rooms. Deduplicates same
+stories from multiple channels. Ranks everything by importance votes and time decay. A
+hot community comment gets a "Community Report" card in Today — the same visual weight
+as a BBC Persian article.
+
+**Private.** Invite-only encrypted rooms. One private GitHub repo per room. Join via QR
+code or pasted invite bundle. Room key never leaves the device.
 
 ---
 
@@ -43,21 +49,21 @@ Important messages float to "Today's highlights" at the top. Everything else scr
 1. **Zero setup for users.** Open the app, pick a name, start reading and writing. No
    GitHub account. No email. No registration.
 
-2. **All rooms encrypted.** GitHub and anyone who accesses the storage sees ciphertext.
-   "Public" means anyone with the app can read it — not anyone on the internet.
+2. **All content encrypted.** GitHub sees ciphertext. "Public" means anyone with the app
+   can read it — not anyone on the internet.
 
 3. **Identity is a keypair, not an account.** Generated locally on first launch. Your
    private key never leaves your device. Your display name is whatever you typed.
 
-4. **Transport is a plugin.** The message format doesn't care how messages travel.
-   When one transport gets blocked, the app silently switches to the next.
+4. **Community sets the agenda.** Importance votes — not recency, not follower count —
+   determine what surfaces in Today. A ground-level eyewitness report competes on equal
+   terms with an official news post.
 
-5. **Relay operators are anonymous bridges.** Volunteers outside Iran run relay nodes
-   that bridge between transports. They see encrypted blobs. Nothing else.
+5. **GitHub is the only infrastructure.** No dedicated servers. No Cloudflare. No
+   Firebase. The REST API and raw CDN are the entire backend.
 
 ---
 
 ## Platforms
 
-Target: Android first (highest reach in Iran), then macOS and Windows.
-A cross-platform framework (Flutter or Kotlin Multiplatform) should be evaluated.
+macOS first (SwiftUI, macOS 26), then Android (Flutter).

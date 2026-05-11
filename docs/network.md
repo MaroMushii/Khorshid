@@ -53,14 +53,18 @@ Everything GitHub-related is accessible:
 
 This is the most reliable foundation available.
 
-### Firestore is accessible; Firebase RT DB is not
+### Firestore: probe shows reachable, but treat as unreliable
 
-`firestore.googleapis.com` returns HTTP 404 on the root path — expected behavior,
-the root path has no handler. The domain is reachable. Actual API calls work.
+`firestore.googleapis.com` returned HTTP 404 on the root path during the May 2026 probe —
+expected behavior, the root path has no handler. TCP connection succeeded.
+
+However: Firestore is a Google Firebase product and likely subject to sanctions targeting
+Firebase specifically. The probe did not verify authenticated Firestore API calls. Do not
+depend on Firestore as a transport. Khorshid uses GitHub Issues API instead, which is
+confirmed working end-to-end.
 
 `firebaseio.com` (Firebase Realtime Database) returns URLError — specifically blocked.
-
-This distinction matters: Firestore is a viable real-time transport. Firebase RT DB is not.
+Do not use.
 
 ### googleapis.com is open
 
@@ -104,9 +108,9 @@ would have lower sustained latency than individual HTTP requests.
 
 ## What to re-probe periodically
 
-- `firebase.google.com` — Firebase project console (needed for setup, not runtime)
-- `accounts.google.com` — Google OAuth (needed for Firestore anonymous auth flow)
-- `securetoken.googleapis.com` — Firebase auth token endpoint (needed for Firestore SDK)
-- `8.8.8.8` / `8.8.4.4` — Google DNS (needed for DNS tunneling fallback)
+- `api.github.com` — core write/read path, most critical to monitor
+- `raw.githubusercontent.com` — CDN read path for news feed
+- `firestore.googleapis.com` — not currently used, but worth tracking if access improves
+- `8.8.8.8` / `8.8.4.4` — Google DNS (emergency DNS tunneling fallback, currently unverified)
 
 Run `python3 scripts/check-network.py` whenever the network situation changes.
