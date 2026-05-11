@@ -15,6 +15,10 @@ social-check:
 update-mirror:
     gh workflow run mirror.yml --repo MaroMushii/Khorshid
 
+# Manually trigger the daily Issue provisioner on khorshid-social
+provision-social:
+    gh workflow run provision.yml --repo MaroMushii/khorshid-social
+
 # Run the scraper locally against a temp tree
 # Requires t.me to be reachable (won't work from Iran-side machines)
 mirror-run:
