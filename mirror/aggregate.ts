@@ -1,19 +1,27 @@
 // Usage: pnpm exec tsx aggregate.ts <out-dir> [YYYY-MM-DD]
 // Reads today's posts from the export branch checkout at <out-dir>,
-// fetches vote/flag signals from khorshid-social, clusters headlines
-// via GitHub Models (GPT-4o mini), scores posts, and writes feed/<date>.json.
+// fetches vote/flag signals from khorshid-social, deduplicates posts via
+// media fingerprint + embedding similarity + LLM, scores, and writes
+// feed/<date>.json (client-facing) and feed/<date>.cache.json (aggregator state).
 
 import { createHash } from "node:crypto";
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import type { IndexDoc, Snapshot } from "./schema.js";
-import type { Feed, FeedPost, CommunityReport } from "./feed-schema.js";
+import type { Feed, FeedPost, FeedCache, CommunityReport } from "./feed-schema.js";
 
 const SOCIAL_REPO = "MaroMushii/khorshid-social";
 const GH_API = "https://api.github.com";
-const GH_MODELS_URL = "https://models.inference.ai.azure.com/chat/completions";
+const GH_COMPLETIONS_URL = "https://models.inference.ai.azure.com/chat/completions";
+const GH_EMBEDDINGS_URL = "https://models.inference.ai.azure.com/embeddings";
+
 const FLAG_THRESHOLD = 5;
 const COMMUNITY_REPORT_TOP_N = 3;
+
+// Cosine similarity thresholds for the dedup decision
+const DEDUP_DEFINITE_MATCH = 0.92; // above → skip without LLM call
+const DEDUP_DEFINITE_NEW = 0.30;   // below → add without LLM call
+const DEDUP_CANDIDATES = 3;        // top N candidates sent to LLM
 
 // --- GitHub API types ---
 
@@ -32,22 +40,7 @@ interface GHSearchResult {
   items: GHIssue[];
 }
 
-// --- Social payload types (subset of social/schema.ts) ---
-
-interface VotePayload {
-  type: "vote";
-  target_id: string;
-  signal: "up" | "important";
-  vote_id: string;
-}
-
-interface FlagPayload {
-  type: "flag";
-  target_id: string;
-  vote_id: string;
-}
-
-// --- GitHub API helpers ---
+// --- GitHub API helper ---
 
 async function ghGet<T>(path: string, token: string): Promise<T> {
   const res = await fetch(`${GH_API}${path}`, {
@@ -65,7 +58,6 @@ async function ghGet<T>(path: string, token: string): Promise<T> {
 
 function hotScore(voteCount: number, postedAt: string | null): number {
   const now = Date.now();
-  // No timestamp on encrypted room comments — treat as posted 6h ago (mid-day proxy)
   const posted = postedAt ? new Date(postedAt).getTime() : now - 6 * 3_600_000;
   const ageHours = Math.max(0, (now - posted) / 3_600_000);
   return voteCount * Math.exp(-0.3 * ageHours);
@@ -73,6 +65,10 @@ function hotScore(voteCount: number, postedAt: string | null): number {
 
 function sha256(str: string): string {
   return createHash("sha256").update(str).digest("hex");
+}
+
+function textExcerpt(plainText: string): string {
+  return (plainText.split("\n")[0] ?? plainText).trim().slice(0, 150);
 }
 
 // --- Vote/flag tallying ---
@@ -112,39 +108,54 @@ function tallySignal(
   return tally;
 }
 
-// --- GitHub Models clustering ---
+// --- Embeddings ---
 
-interface ClusterAssignment {
-  id: string;
-  cluster_id: string;
+async function embedText(token: string, text: string): Promise<number[]> {
+  const res = await fetch(GH_EMBEDDINGS_URL, {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${token}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({ model: "text-embedding-3-small", input: text }),
+  });
+  if (!res.ok) throw new Error(`Embeddings API → ${res.status}: ${await res.text()}`);
+
+  const data = (await res.json()) as { data: Array<{ embedding: number[] }> };
+  const embedding = data.data[0]?.embedding;
+  if (!embedding) throw new Error("No embedding in response");
+  return embedding;
 }
 
-const CLUSTER_BATCH_SIZE = 40;
+function cosineSim(a: number[], b: number[]): number {
+  let dot = 0, normA = 0, normB = 0;
+  for (let i = 0; i < a.length; i++) {
+    const ai = a[i] ?? 0;
+    const bi = b[i] ?? 0;
+    dot += ai * bi;
+    normA += ai * ai;
+    normB += bi * bi;
+  }
+  if (normA === 0 || normB === 0) return 0;
+  return dot / (Math.sqrt(normA) * Math.sqrt(normB));
+}
 
-const CLUSTER_SYSTEM_PROMPT = [
+// --- LLM dedup decision (only called for ambiguous cosine range) ---
+
+const DEDUP_SYSTEM_PROMPT = [
   "You are a Persian/Farsi news deduplication assistant.",
-  "All headlines are written in Persian (Farsi).",
-  "Group posts that cover the same story by semantic meaning — not literal wording.",
-  "Named entities (people, places, organizations) are the strongest clustering signal.",
-  "Assign a short snake_case cluster_id to each post.",
-  "Posts about the same event share one cluster_id; different events get different cluster_ids.",
-  'Return ONLY valid JSON: {"assignments": [{"id": "<post_id>", "cluster_id": "<snake_case>"}, ...]}',
-  "Every post in the input must appear exactly once in the output.",
+  "Each post is an excerpt from a Telegram channel post — not a traditional headline.",
+  "Determine if the new post covers the same story as any candidate already in the feed.",
+  "Same story = same event, even if worded differently. Named entities are the strongest signal.",
+  'Return ONLY valid JSON: {"is_duplicate": true|false, "matching_post_id": "<post_id or null>"}',
 ].join(" ");
 
-function chunkArray<T>(arr: T[], size: number): T[][] {
-  const chunks: T[][] = [];
-  for (let i = 0; i < arr.length; i += size) {
-    chunks.push(arr.slice(i, i + size));
-  }
-  return chunks;
-}
-
-async function clusterBatch(
+async function llmDedupDecision(
   token: string,
-  batch: Array<{ id: string; headline: string }>
-): Promise<Map<string, string>> {
-  const res = await fetch(GH_MODELS_URL, {
+  newExcerpt: string,
+  candidates: Array<{ id: string; excerpt: string }>
+): Promise<{ is_duplicate: boolean; matching_post_id: string | null }> {
+  const res = await fetch(GH_COMPLETIONS_URL, {
     method: "POST",
     headers: {
       Authorization: `Bearer ${token}`,
@@ -154,51 +165,21 @@ async function clusterBatch(
       model: "gpt-4o-mini",
       response_format: { type: "json_object" },
       messages: [
-        { role: "system", content: CLUSTER_SYSTEM_PROMPT },
-        { role: "user", content: JSON.stringify({ posts: batch }) },
+        { role: "system", content: DEDUP_SYSTEM_PROMPT },
+        { role: "user", content: JSON.stringify({ new_post: newExcerpt, candidates }) },
       ],
     }),
   });
+  if (!res.ok) throw new Error(`LLM dedup → ${res.status}: ${await res.text()}`);
 
-  if (!res.ok) throw new Error(`GitHub Models → ${res.status}: ${await res.text()}`);
-
-  const data = (await res.json()) as {
-    choices: Array<{ message: { content: string } }>;
-  };
-
+  const data = (await res.json()) as { choices: Array<{ message: { content: string } }> };
   const content = data.choices[0]?.message.content ?? "{}";
-  const parsed = JSON.parse(content) as { assignments?: ClusterAssignment[] };
+  const parsed = JSON.parse(content) as { is_duplicate?: boolean; matching_post_id?: string | null };
 
-  const map = new Map<string, string>();
-  const assigned = new Set<string>();
-
-  for (const a of parsed.assignments ?? []) {
-    map.set(a.id, a.cluster_id);
-    assigned.add(a.id);
-  }
-
-  for (const post of batch) {
-    if (!assigned.has(post.id)) {
-      console.warn(`[cluster] No assignment for post <${post.id}> — falling back to post ID as cluster`);
-    }
-  }
-
-  return map;
-}
-
-async function clusterHeadlines(
-  token: string,
-  posts: Array<{ id: string; headline: string }>
-): Promise<Map<string, string>> {
-  if (posts.length === 0) return new Map();
-
-  const map = new Map<string, string>();
-  for (const batch of chunkArray(posts, CLUSTER_BATCH_SIZE)) {
-    for (const [id, clusterId] of await clusterBatch(token, batch)) {
-      map.set(id, clusterId);
-    }
-  }
-  return map;
+  return {
+    is_duplicate: parsed.is_duplicate ?? false,
+    matching_post_id: parsed.matching_post_id ?? null,
+  };
 }
 
 // --- Main ---
@@ -236,7 +217,23 @@ async function main(): Promise<void> {
 
   console.log(`Found ${allPosts.length} posts for ${today}`);
 
-  // 3. Fetch today's Issues from khorshid-social (public repo)
+  // 3. Load existing feed and cache (incremental — runs accumulate throughout the day)
+  const feedDir = join(outDir, "feed");
+  const feedPath = join(feedDir, `${today}.json`);
+  const cachePath = join(feedDir, `${today}.cache.json`);
+
+  const existingFeed: Feed = existsSync(feedPath)
+    ? (JSON.parse(readFileSync(feedPath, "utf8")) as Feed)
+    : { date: today, generated_at: "", posts: [], community_reports: [] };
+
+  const cache: FeedCache = existsSync(cachePath)
+    ? (JSON.parse(readFileSync(cachePath, "utf8")) as FeedCache)
+    : { embeddings: {}, media_urls: [] };
+
+  const existingPostIds = new Set(existingFeed.posts.map((p) => p.post_id));
+  const feedMediaUrls = new Set(cache.media_urls);
+
+  // 4. Fetch today's Issues from khorshid-social
   const searchResult = await ghGet<GHSearchResult>(
     `/search/issues?q=repo:${SOCIAL_REPO}+${today}+in:title&per_page=100`,
     ghToken
@@ -245,7 +242,7 @@ async function main(): Promise<void> {
   const channelIssues = searchResult.items.filter((i) => i.title.startsWith("channel-"));
   const roomIssues = searchResult.items.filter((i) => i.title.startsWith("room-"));
 
-  // 4. Fetch vote/flag signals from channel Issues
+  // 5. Fetch vote/flag signals from channel Issues
   const importantVotes = new Map<string, Set<string>>();
   const allFlags = new Map<string, Set<string>>();
 
@@ -258,44 +255,111 @@ async function main(): Promise<void> {
     mergeInto(allFlags, tallySignal(comments, "flag"));
   }
 
-  // 5. Cluster headlines via GitHub Models (GPT-4o mini)
-  const clusterInputs = allPosts.map(({ channelUsername, post }) => ({
-    id: `${channelUsername}/${post.id}`,
-    headline: post.plain_text.slice(0, 200),
-  }));
-
-  const clusterMap = await clusterHeadlines(ghToken, clusterInputs);
-
-  // 6. Score posts and apply flag hiding
-  const scoredPosts: FeedPost[] = [];
-
-  for (const { channelUsername, channelTitle, post } of allPosts) {
-    const postId = `${channelUsername}/${post.id}`;
-    if ((allFlags.get(postId)?.size ?? 0) >= FLAG_THRESHOLD) continue;
-
-    const voteCount = importantVotes.get(postId)?.size ?? 0;
-    scoredPosts.push({
-      post_id: postId,
-      channel_username: channelUsername,
-      channel_title: channelTitle,
-      plain_text: post.plain_text,
-      body_html: post.body_html,
-      media: post.media,
-      posted_at: post.posted_at,
-      hot_score: hotScore(voteCount, post.posted_at),
-      vote_count: voteCount,
-      cluster_id: clusterMap.get(postId) ?? postId,
-    });
+  // 6. Refresh hot_scores for posts already in the feed (votes accumulate throughout the day)
+  for (const post of existingFeed.posts) {
+    const voteCount = importantVotes.get(post.post_id)?.size ?? 0;
+    post.vote_count = voteCount;
+    post.hot_score = hotScore(voteCount, post.posted_at);
   }
 
-  scoredPosts.sort((a, b) => b.hot_score - a.hot_score);
+  // 7. Dedup and add new posts
+  const newPosts = allPosts.filter(
+    ({ channelUsername, post }) => !existingPostIds.has(`${channelUsername}/${post.id}`)
+  );
 
-  // 7. Community Reports: top N encrypted room comments by importance votes
-  type ScoredComment = Omit<CommunityReport, never>;
-  const roomCommentScores: ScoredComment[] = [];
+  console.log(`${newPosts.length} new posts to process`);
+
+  for (const { channelUsername, channelTitle, post } of newPosts) {
+    const postId = `${channelUsername}/${post.id}`;
+
+    // Flag check
+    if ((allFlags.get(postId)?.size ?? 0) >= FLAG_THRESHOLD) {
+      console.log(`[flags] <${postId}> excluded`);
+      continue;
+    }
+
+    // Media fingerprint — only compare across channels
+    const postMediaUrls = post.media
+      .map((m) => m.asset_url)
+      .filter((u): u is string => u !== null);
+
+    if (postMediaUrls.some((url) => feedMediaUrls.has(url))) {
+      console.log(`[media] <${postId}> skipped — shared media with existing feed post`);
+      continue;
+    }
+
+    // Text excerpt for embedding
+    const excerpt = textExcerpt(post.plain_text);
+
+    // Cross-channel candidates (posts from other channels that have embeddings)
+    const candidates = existingFeed.posts.filter(
+      (p) => p.channel_username !== channelUsername && cache.embeddings[p.post_id] !== undefined
+    );
+
+    let isDuplicate = false;
+    let clusterId = sha256(postId).slice(0, 12); // default: own cluster
+
+    if (excerpt.length > 0 && candidates.length > 0) {
+      const embedding = await embedText(ghToken, excerpt);
+      cache.embeddings[postId] = embedding;
+
+      // Score candidates by cosine similarity
+      const scored = candidates
+        .map((p) => ({ p, score: cosineSim(embedding, cache.embeddings[p.post_id]!) }))
+        .sort((a, b) => b.score - a.score);
+
+      const top = scored[0];
+
+      if (top && top.score >= DEDUP_DEFINITE_MATCH) {
+        isDuplicate = true;
+        console.log(`[dedup] <${postId}> duplicate of <${top.p.post_id}> (cosine ${top.score.toFixed(3)})`);
+      } else if (top && top.score >= DEDUP_DEFINITE_NEW) {
+        // Ambiguous — ask LLM with top N candidates
+        const llmCandidates = scored.slice(0, DEDUP_CANDIDATES).map((s) => ({
+          id: s.p.post_id,
+          excerpt: textExcerpt(s.p.plain_text),
+        }));
+        const decision = await llmDedupDecision(ghToken, excerpt, llmCandidates);
+        isDuplicate = decision.is_duplicate;
+        if (decision.is_duplicate && decision.matching_post_id) {
+          const match = existingFeed.posts.find((p) => p.post_id === decision.matching_post_id);
+          if (match) {
+            clusterId = match.cluster_id;
+            console.log(`[dedup] <${postId}> duplicate of <${decision.matching_post_id}> (LLM)`);
+          }
+        }
+      } else {
+        // Clearly new — embed already stored, no LLM needed
+        if (top) console.log(`[dedup] <${postId}> new story (cosine ${top.score.toFixed(3)})`);
+      }
+    } else if (excerpt.length > 0) {
+      // First post of the day — embed and add directly
+      const embedding = await embedText(ghToken, excerpt);
+      cache.embeddings[postId] = embedding;
+    }
+
+    if (!isDuplicate) {
+      const voteCount = importantVotes.get(postId)?.size ?? 0;
+      existingFeed.posts.push({
+        post_id: postId,
+        channel_username: channelUsername,
+        channel_title: channelTitle,
+        plain_text: post.plain_text,
+        body_html: post.body_html,
+        media: post.media,
+        posted_at: post.posted_at,
+        hot_score: hotScore(voteCount, post.posted_at),
+        vote_count: voteCount,
+        cluster_id: clusterId,
+      });
+      for (const url of postMediaUrls) feedMediaUrls.add(url);
+    }
+  }
+
+  // 8. Community Reports: top N encrypted room comments by importance votes
+  const roomCommentScores: CommunityReport[] = [];
 
   for (const issue of roomIssues) {
-    // "room-<slug>-<YYYY-MM-DD>" → extract slug
     const roomSlug = issue.title.slice("room-".length, -(today.length + 1));
     const comments = await ghGet<GHComment[]>(
       `/repos/${SOCIAL_REPO}/issues/${issue.number}/comments?per_page=100`,
@@ -306,7 +370,6 @@ async function main(): Promise<void> {
     const roomFlags = tallySignal(comments, "flag");
 
     for (const comment of comments) {
-      // Only score encrypted blobs (SocialPayloadWrapper), skip plaintext signals
       let p: Record<string, unknown>;
       try {
         p = JSON.parse(comment.body) as Record<string, unknown>;
@@ -331,22 +394,20 @@ async function main(): Promise<void> {
   }
 
   roomCommentScores.sort((a, b) => b.hot_score - a.hot_score);
-  const communityReports = roomCommentScores.slice(0, COMMUNITY_REPORT_TOP_N);
 
-  // 8. Write feed/<date>.json to export branch checkout
-  const feed: Feed = {
-    date: today,
-    generated_at: new Date().toISOString(),
-    posts: scoredPosts,
-    community_reports: communityReports,
-  };
+  // 9. Finalize and write
+  existingFeed.posts.sort((a, b) => b.hot_score - a.hot_score);
+  existingFeed.community_reports = roomCommentScores.slice(0, COMMUNITY_REPORT_TOP_N);
+  existingFeed.generated_at = new Date().toISOString();
 
-  const feedDir = join(outDir, "feed");
+  cache.media_urls = [...feedMediaUrls];
+
   mkdirSync(feedDir, { recursive: true });
-  writeFileSync(join(feedDir, `${today}.json`), JSON.stringify(feed, null, 2) + "\n");
+  writeFileSync(feedPath, JSON.stringify(existingFeed, null, 2) + "\n");
+  writeFileSync(cachePath, JSON.stringify(cache, null, 2) + "\n");
 
   console.log(
-    `Wrote feed/${today}.json — ${scoredPosts.length} posts, ${communityReports.length} community reports`
+    `Wrote feed/${today}.json — ${existingFeed.posts.length} posts, ${existingFeed.community_reports.length} community reports`
   );
 }
 
