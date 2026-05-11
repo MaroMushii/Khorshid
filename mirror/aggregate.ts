@@ -119,12 +119,31 @@ interface ClusterAssignment {
   cluster_id: string;
 }
 
-async function clusterHeadlines(
-  token: string,
-  posts: Array<{ id: string; headline: string }>
-): Promise<Map<string, string>> {
-  if (posts.length === 0) return new Map();
+const CLUSTER_BATCH_SIZE = 40;
 
+const CLUSTER_SYSTEM_PROMPT = [
+  "You are a Persian/Farsi news deduplication assistant.",
+  "All headlines are written in Persian (Farsi).",
+  "Group posts that cover the same story by semantic meaning — not literal wording.",
+  "Named entities (people, places, organizations) are the strongest clustering signal.",
+  "Assign a short snake_case cluster_id to each post.",
+  "Posts about the same event share one cluster_id; different events get different cluster_ids.",
+  'Return ONLY valid JSON: {"assignments": [{"id": "<post_id>", "cluster_id": "<snake_case>"}, ...]}',
+  "Every post in the input must appear exactly once in the output.",
+].join(" ");
+
+function chunkArray<T>(arr: T[], size: number): T[][] {
+  const chunks: T[][] = [];
+  for (let i = 0; i < arr.length; i += size) {
+    chunks.push(arr.slice(i, i + size));
+  }
+  return chunks;
+}
+
+async function clusterBatch(
+  token: string,
+  batch: Array<{ id: string; headline: string }>
+): Promise<Map<string, string>> {
   const res = await fetch(GH_MODELS_URL, {
     method: "POST",
     headers: {
@@ -135,15 +154,8 @@ async function clusterHeadlines(
       model: "gpt-4o-mini",
       response_format: { type: "json_object" },
       messages: [
-        {
-          role: "system",
-          content:
-            "You are a news deduplication assistant. Group posts covering the same story. Return ONLY valid JSON.",
-        },
-        {
-          role: "user",
-          content: `Assign a short snake_case cluster_id to each post. Same story = same cluster_id. Different stories = different cluster_ids.\n\nReturn: {"assignments": [{"id": "<post_id>", "cluster_id": "<snake_case>"}, ...]}\n\nPosts:\n${JSON.stringify(posts)}`,
-        },
+        { role: "system", content: CLUSTER_SYSTEM_PROMPT },
+        { role: "user", content: JSON.stringify({ posts: batch }) },
       ],
     }),
   });
@@ -158,8 +170,33 @@ async function clusterHeadlines(
   const parsed = JSON.parse(content) as { assignments?: ClusterAssignment[] };
 
   const map = new Map<string, string>();
+  const assigned = new Set<string>();
+
   for (const a of parsed.assignments ?? []) {
     map.set(a.id, a.cluster_id);
+    assigned.add(a.id);
+  }
+
+  for (const post of batch) {
+    if (!assigned.has(post.id)) {
+      console.warn(`[cluster] No assignment for post <${post.id}> — falling back to post ID as cluster`);
+    }
+  }
+
+  return map;
+}
+
+async function clusterHeadlines(
+  token: string,
+  posts: Array<{ id: string; headline: string }>
+): Promise<Map<string, string>> {
+  if (posts.length === 0) return new Map();
+
+  const map = new Map<string, string>();
+  for (const batch of chunkArray(posts, CLUSTER_BATCH_SIZE)) {
+    for (const [id, clusterId] of await clusterBatch(token, batch)) {
+      map.set(id, clusterId);
+    }
   }
   return map;
 }
