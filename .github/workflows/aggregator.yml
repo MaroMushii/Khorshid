@@ -20,7 +20,7 @@ concurrency:
 jobs:
   aggregate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
     steps:
       - name: Checkout main (aggregator sources)
         uses: actions/checkout@v6

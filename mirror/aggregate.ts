@@ -108,6 +108,23 @@ function tallySignal(
   return tally;
 }
 
+// --- Rate-limit retry ---
+
+async function withRetry<T>(label: string, fn: () => Promise<T>, maxRetries = 4): Promise<T> {
+  for (let attempt = 0; attempt < maxRetries; attempt++) {
+    try {
+      return await fn();
+    } catch (err) {
+      if (attempt === maxRetries - 1) throw err;
+      const match = String(err).match(/Please wait (\d+) seconds/);
+      const waitSecs = match ? parseInt(match[1]!, 10) + 2 : 62;
+      console.log(`[${label}] rate limited — waiting ${waitSecs}s (attempt ${attempt + 1}/${maxRetries})`);
+      await new Promise((resolve) => setTimeout(resolve, waitSecs * 1000));
+    }
+  }
+  throw new Error(`${label}: max retries exceeded`);
+}
+
 // --- Embeddings ---
 
 async function embedBatch(token: string, texts: string[]): Promise<number[][]> {
@@ -307,7 +324,7 @@ async function main(): Promise<void> {
 
   if (toEmbed.length > 0) {
     console.log(`Embedding ${toEmbed.length} posts in one batch call...`);
-    const embeddings = await embedBatch(ghToken, toEmbed.map((c) => c.excerpt));
+    const embeddings = await withRetry("embed", () => embedBatch(ghToken, toEmbed.map((c) => c.excerpt)));
     for (let i = 0; i < toEmbed.length; i++) {
       const c = toEmbed[i];
       const emb = embeddings[i];
@@ -341,7 +358,7 @@ async function main(): Promise<void> {
           id: s.p.post_id,
           excerpt: textExcerpt(s.p.plain_text),
         }));
-        const decision = await llmDedupDecision(ghToken, excerpt, llmCandidates);
+        const decision = await withRetry("llm-dedup", () => llmDedupDecision(ghToken, excerpt, llmCandidates));
         isDuplicate = decision.is_duplicate;
         if (decision.is_duplicate && decision.matching_post_id) {
           const match = existingFeed.posts.find((p) => p.post_id === decision.matching_post_id);
