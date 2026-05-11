@@ -33,6 +33,22 @@ mirror-run:
 dry-run username="bbcpersian":
     cd mirror && pnpm exec tsx dry-run.ts --live {{username}}
 
+# Run the aggregator locally against a fresh export branch checkout
+aggregate-run date="":
+    #!/usr/bin/env bash
+    set -euo pipefail
+    tmp="$(mktemp -d)"
+    echo "==> checking out export branch into $tmp"
+    git clone --quiet --branch export --depth 1 "https://x-access-token:$(gh auth token)@github.com/MaroMushii/Khorshid.git" "$tmp"
+    echo "==> running aggregator"
+    cd mirror && pnpm exec tsx aggregate.ts "$tmp" {{date}}
+    echo "==> feed output:"
+    ls -lh "$tmp/feed/" 2>/dev/null || echo "(no feed dir written)"
+
+# Manually trigger the aggregator workflow on GitHub
+update-aggregator:
+    gh workflow run aggregator.yml --repo MaroMushii/Khorshid
+
 # Deploy the Cloudflare cron dispatcher
 deploy-dispatcher:
     cd cf-dispatcher && pnpm exec wrangler deploy
