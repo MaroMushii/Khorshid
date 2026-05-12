@@ -14,7 +14,7 @@ const SOCIAL_REPO = "MaroMushii/khorshid-social";
 const GH_API = "https://api.github.com";
 const GH_EMBEDDINGS_URL = "https://models.inference.ai.azure.com/embeddings";
 const OPENROUTER_COMPLETIONS_URL = "https://openrouter.ai/api/v1/chat/completions";
-const OPENROUTER_MODEL = "google/gemma-4-26b-a4b-it:free";
+const OPENROUTER_MODEL = "openai/gpt-oss-120b:free";
 
 const FLAG_THRESHOLD = 5;
 const COMMUNITY_REPORT_TOP_N = 3;
