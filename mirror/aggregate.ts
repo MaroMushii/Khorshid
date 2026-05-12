@@ -286,11 +286,21 @@ async function main(): Promise<void> {
     mergeInto(allFlags, tallySignal(comments, "flag"));
   }
 
-  // 6. Refresh hot_scores for posts already in the feed (votes accumulate throughout the day)
+  // 6. Refresh hot_scores for posts already in the feed (votes accumulate throughout the day).
+  // Also backfill confirmations on any posts written before this field existed.
   for (const post of existingFeed.posts) {
     const voteCount = importantVotes.get(post.post_id)?.size ?? 0;
     post.vote_count = voteCount;
     post.hot_score = hotScore(voteCount, post.posted_at);
+    post.confirmations ??= [];
+  }
+
+  // media_url → primary feed post, for surfacing confirmations on shared-video duplicates
+  const mediaUrlToPost = new Map<string, FeedPost>();
+  for (const post of existingFeed.posts) {
+    for (const m of post.media) {
+      if (m.asset_url) mediaUrlToPost.set(m.asset_url, post);
+    }
   }
 
   // 7. Dedup and add new posts
@@ -324,13 +334,32 @@ async function main(): Promise<void> {
       .map((m) => m.asset_url)
       .filter((u): u is string => u !== null);
 
-    if (postMediaUrls.some((url) => feedMediaUrls.has(url))) {
-      console.log(`[media] <${postId}> skipped — shared media with existing feed post`);
+    const sharedUrl = postMediaUrls.find((url) => feedMediaUrls.has(url));
+    if (sharedUrl) {
+      const primary = mediaUrlToPost.get(sharedUrl);
+      if (primary && primary.channel_username !== channelUsername) {
+        primary.confirmations.push({
+          channel_username: channelUsername,
+          channel_title: channelTitle,
+          permalink: post.permalink,
+        });
+        console.log(`[media] <${postId}> confirms <${primary.post_id}> (shared asset_url)`);
+      } else {
+        console.log(`[media] <${postId}> skipped — shared media with existing feed post`);
+      }
       continue;
     }
 
     toProcess.push({ channelUsername, channelTitle, post, postId, postMediaUrls, excerpt: textExcerpt(post.plain_text) });
   }
+
+  // Sort by posted_at ascending so the channel that broke the story keeps the spot.
+  // Untimestamped posts sort last so they only win when there's no dated alternative.
+  toProcess.sort((a, b) => {
+    if (!a.post.posted_at) return 1;
+    if (!b.post.posted_at) return -1;
+    return a.post.posted_at.localeCompare(b.post.posted_at);
+  });
 
   // Phase 2: batch embed all posts not yet in cache (single API call)
   const toEmbed = toProcess.filter((c) => c.excerpt.length > 0 && cache.embeddings[c.postId] === undefined);
@@ -349,7 +378,7 @@ async function main(): Promise<void> {
   // Embeddings are already computed — cosine comparison is pure math, no API calls for clear cases.
   // Posts added earlier in this run become candidates for later posts (incremental within the run).
   for (const { channelUsername, channelTitle, post, postId, postMediaUrls, excerpt } of toProcess) {
-    let isDuplicate = false;
+    let primaryMatch: FeedPost | null = null;
     let clusterId = sha256(postId).slice(0, 12);
 
     const embedding = cache.embeddings[postId];
@@ -365,20 +394,19 @@ async function main(): Promise<void> {
       const top = scored[0];
 
       if (top && top.score >= DEDUP_DEFINITE_MATCH) {
-        isDuplicate = true;
-        console.log(`[dedup] <${postId}> duplicate of <${top.p.post_id}> (cosine ${top.score.toFixed(3)})`);
+        primaryMatch = top.p;
+        console.log(`[dedup] <${postId}> confirms <${top.p.post_id}> (cosine ${top.score.toFixed(3)})`);
       } else if (top && top.score >= DEDUP_DEFINITE_NEW) {
         const llmCandidates = scored.slice(0, DEDUP_CANDIDATES).map((s) => ({
           id: s.p.post_id,
           excerpt: textExcerpt(s.p.plain_text),
         }));
         const decision = await withRetry("llm-dedup", () => llmDedupDecision(openrouterKey, excerpt, llmCandidates));
-        isDuplicate = decision.is_duplicate;
         if (decision.is_duplicate && decision.matching_post_id) {
           const match = existingFeed.posts.find((p) => p.post_id === decision.matching_post_id);
           if (match) {
-            clusterId = match.cluster_id;
-            console.log(`[dedup] <${postId}> duplicate of <${decision.matching_post_id}> (LLM)`);
+            primaryMatch = match;
+            console.log(`[dedup] <${postId}> confirms <${decision.matching_post_id}> (LLM)`);
           }
         }
       } else {
@@ -386,7 +414,13 @@ async function main(): Promise<void> {
       }
     }
 
-    if (!isDuplicate) {
+    if (primaryMatch) {
+      primaryMatch.confirmations.push({
+        channel_username: channelUsername,
+        channel_title: channelTitle,
+        permalink: post.permalink,
+      });
+    } else {
       const voteCount = importantVotes.get(postId)?.size ?? 0;
       existingFeed.posts.push({
         post_id: postId,
@@ -399,8 +433,12 @@ async function main(): Promise<void> {
         hot_score: hotScore(voteCount, post.posted_at),
         vote_count: voteCount,
         cluster_id: clusterId,
+        confirmations: [],
       });
       for (const url of postMediaUrls) feedMediaUrls.add(url);
+      for (const m of post.media) {
+        if (m.asset_url) mediaUrlToPost.set(m.asset_url, existingFeed.posts[existingFeed.posts.length - 1]!);
+      }
     }
   }
 
