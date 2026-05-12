@@ -55,6 +55,7 @@ jobs:
         run: pnpm exec tsx aggregate.ts ../../out ${{ github.event.inputs.date || '' }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
 
       - name: Commit & push feed if changed
         working-directory: out

@@ -12,15 +12,18 @@ import type { Feed, FeedPost, FeedCache, CommunityReport } from "./feed-schema.j
 
 const SOCIAL_REPO = "MaroMushii/khorshid-social";
 const GH_API = "https://api.github.com";
-const GH_COMPLETIONS_URL = "https://models.inference.ai.azure.com/chat/completions";
 const GH_EMBEDDINGS_URL = "https://models.inference.ai.azure.com/embeddings";
+const OPENROUTER_COMPLETIONS_URL = "https://openrouter.ai/api/v1/chat/completions";
+const OPENROUTER_MODEL = "google/gemma-4-26b-a4b-it:free";
 
 const FLAG_THRESHOLD = 5;
 const COMMUNITY_REPORT_TOP_N = 3;
 
-// Cosine similarity thresholds for dedup
-const DEDUP_DEFINITE_MATCH = 0.92; // above → duplicate, no LLM call
-const DEDUP_DEFINITE_NEW = 0.30;   // below → new story, no LLM call
+// Cosine similarity thresholds for dedup (text-embedding-3-small on Persian news)
+// True duplicates (same story, different wording): typically 0.85–0.98
+// Unrelated stories: typically 0.10–0.65
+const DEDUP_DEFINITE_MATCH = 0.85; // above → duplicate, no LLM call
+const DEDUP_DEFINITE_NEW = 0.65;   // below → new story, no LLM call
 const DEDUP_CANDIDATES = 3;        // top N candidates sent to LLM for ambiguous range
 
 // --- GitHub API types ---
@@ -110,7 +113,9 @@ function tallySignal(
 
 // --- Rate-limit retry ---
 
-async function withRetry<T>(label: string, fn: () => Promise<T>, maxRetries = 4): Promise<T> {
+const MAX_RETRY_WAIT_SECS = 90;
+
+async function withRetry<T>(label: string, fn: () => Promise<T>, maxRetries = 3): Promise<T> {
   for (let attempt = 0; attempt < maxRetries; attempt++) {
     try {
       return await fn();
@@ -118,6 +123,9 @@ async function withRetry<T>(label: string, fn: () => Promise<T>, maxRetries = 4)
       if (attempt === maxRetries - 1) throw err;
       const match = String(err).match(/Please wait (\d+) seconds/);
       const waitSecs = match ? parseInt(match[1]!, 10) + 2 : 62;
+      if (waitSecs > MAX_RETRY_WAIT_SECS) {
+        throw new Error(`[${label}] rate limit backoff too long (${waitSecs}s) — aborting, next run will continue`);
+      }
       console.log(`[${label}] rate limited — waiting ${waitSecs}s (attempt ${attempt + 1}/${maxRetries})`);
       await new Promise((resolve) => setTimeout(resolve, waitSecs * 1000));
     }
@@ -169,18 +177,20 @@ const DEDUP_SYSTEM_PROMPT = [
 ].join(" ");
 
 async function llmDedupDecision(
-  token: string,
+  apiKey: string,
   newExcerpt: string,
   candidates: Array<{ id: string; excerpt: string }>
 ): Promise<{ is_duplicate: boolean; matching_post_id: string | null }> {
-  const res = await fetch(GH_COMPLETIONS_URL, {
+  const res = await fetch(OPENROUTER_COMPLETIONS_URL, {
     method: "POST",
     headers: {
-      Authorization: `Bearer ${token}`,
+      Authorization: `Bearer ${apiKey}`,
       "Content-Type": "application/json",
+      "HTTP-Referer": "https://github.com/MaroMushii/Khorshid",
+      "X-Title": "Khorshid Aggregator",
     },
     body: JSON.stringify({
-      model: "gpt-4o-mini",
+      model: OPENROUTER_MODEL,
       response_format: { type: "json_object" },
       messages: [
         { role: "system", content: DEDUP_SYSTEM_PROMPT },
@@ -188,7 +198,7 @@ async function llmDedupDecision(
       ],
     }),
   });
-  if (!res.ok) throw new Error(`LLM dedup → ${res.status}: ${await res.text()}`);
+  if (!res.ok) throw new Error(`OpenRouter dedup → ${res.status}: ${await res.text()}`);
 
   const data = (await res.json()) as { choices: Array<{ message: { content: string } }> };
   const content = data.choices[0]?.message.content ?? "{}";
@@ -209,6 +219,9 @@ async function main(): Promise<void> {
   const today = process.argv[3] ?? new Date().toISOString().slice(0, 10);
   const ghToken = process.env["GITHUB_TOKEN"];
   if (!ghToken) throw new Error("GITHUB_TOKEN not set");
+
+  const openrouterKey = process.env["OPENROUTER_API_KEY"];
+  if (!openrouterKey) throw new Error("OPENROUTER_API_KEY not set");
 
   // 1. Read index.json from export branch checkout
   const indexPath = join(outDir, "index.json");
@@ -359,7 +372,7 @@ async function main(): Promise<void> {
           id: s.p.post_id,
           excerpt: textExcerpt(s.p.plain_text),
         }));
-        const decision = await withRetry("llm-dedup", () => llmDedupDecision(ghToken, excerpt, llmCandidates));
+        const decision = await withRetry("llm-dedup", () => llmDedupDecision(openrouterKey, excerpt, llmCandidates));
         isDuplicate = decision.is_duplicate;
         if (decision.is_duplicate && decision.matching_post_id) {
           const match = existingFeed.posts.find((p) => p.post_id === decision.matching_post_id);
