@@ -21,6 +21,8 @@ cf-dispatcher/.wrangler/
 # Beads / Dolt files (added by bd init)
 .dolt/
 *.db
+*.db-shm
+*.db-wal
 .beads-credential-key
 
 # bv (beads viewer) local config and caches
