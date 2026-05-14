@@ -7,7 +7,10 @@ final class SocialStore {
 
     private(set) var comments: [Comment] = []
     private(set) var voteTallies: [String: VoteTally] = [:]
+    private(set) var flagTallies: [String: Int] = [:]
     private(set) var isLoading = false
+
+    static let flagThreshold = 5
     private(set) var error: Error?
 
     private let client = SocialClient()
@@ -22,6 +25,7 @@ final class SocialStore {
     private var sendTasks: [String: Task<Void, Never>] = [:]
     private var issueNumberTask: Task<Int, Error>?
     private var seenVoteIds: [String: Set<String>] = [:]
+    private var seenFlagIds: [String: Set<String>] = [:]
 
     private let isoFull: ISO8601DateFormatter = {
         let f = ISO8601DateFormatter()
@@ -46,7 +50,9 @@ final class SocialStore {
         currentKey = key
         comments = []
         voteTallies = [:]
+        flagTallies = [:]
         seenVoteIds = [:]
+        seenFlagIds = [:]
         error = nil
         issueNumber = nil
         lastSeenAt = nil
@@ -66,7 +72,9 @@ final class SocialStore {
         lastSeenAt = nil
         comments = []
         voteTallies = [:]
+        flagTallies = [:]
         seenVoteIds = [:]
+        seenFlagIds = [:]
     }
 
     func send(body: String, postId: String? = nil, replyTo: String? = nil) {
@@ -163,6 +171,53 @@ final class SocialStore {
         return seenVoteIds[targetId]?.contains(voteId) ?? false
     }
 
+    func flag(targetId: String) {
+        guard let pat = patPool?.token(),
+              let identity = identityStore,
+              let context = currentContext else { return }
+
+        let flagId = identity.voteId(for: targetId)
+        guard !(seenFlagIds[targetId]?.contains(flagId) ?? false) else { return }
+
+        let sentAt = Int(Date().timeIntervalSince1970 * 1000)
+        applyFlag(targetId: targetId, flagId: flagId)
+
+        let taskId = UUID().uuidString
+        let task = Task { [weak self] in
+            defer { self?.sendTasks.removeValue(forKey: taskId) }
+            guard let self else { return }
+            do {
+                let n = try await resolveIssueNumber(context: context)
+                let payload = FlagPayload(
+                    type: "flag", target_id: targetId,
+                    vote_id: flagId, sent_at: sentAt
+                )
+                let json = try JSONEncoder().encode(payload)
+                guard let bodyStr = String(data: json, encoding: .utf8) else { return }
+                try await client.postComment(issueNumber: n, body: bodyStr, pat: pat)
+            } catch let err as SocialClient.SocialError {
+                if case .http(let code) = err, [401, 403, 429].contains(code) {
+                    patPool?.markExhausted(pat)
+                }
+                undoFlag(targetId: targetId, flagId: flagId)
+                self.error = err
+            } catch {
+                undoFlag(targetId: targetId, flagId: flagId)
+                self.error = error
+            }
+        }
+        sendTasks[taskId] = task
+    }
+
+    func hasFlagged(targetId: String) -> Bool {
+        guard let flagId = identityStore?.voteId(for: targetId) else { return false }
+        return seenFlagIds[targetId]?.contains(flagId) ?? false
+    }
+
+    func isHidden(targetId: String) -> Bool {
+        (flagTallies[targetId] ?? 0) >= Self.flagThreshold
+    }
+
     // MARK: - Private
 
     private func runPoll() async {
@@ -209,6 +264,9 @@ final class SocialStore {
                 } else if let vote = try? JSONDecoder().decode(VotePayload.self, from: bodyData),
                           vote.type == "vote" {
                     applyVote(targetId: vote.target_id, voteId: vote.vote_id, signal: vote.signal)
+                } else if let flag = try? JSONDecoder().decode(FlagPayload.self, from: bodyData),
+                          flag.type == "flag" {
+                    applyFlag(targetId: flag.target_id, flagId: flag.vote_id)
                 }
 
                 if let last = lastSeenAt {
@@ -267,5 +325,15 @@ final class SocialStore {
         case "important": voteTallies[targetId]?.importantCount = max(0, (voteTallies[targetId]?.importantCount ?? 0) - 1)
         default: break
         }
+    }
+
+    private func applyFlag(targetId: String, flagId: String) {
+        seenFlagIds[targetId, default: []].insert(flagId)
+        flagTallies[targetId, default: 0] += 1
+    }
+
+    private func undoFlag(targetId: String, flagId: String) {
+        seenFlagIds[targetId]?.remove(flagId)
+        flagTallies[targetId] = max(0, (flagTallies[targetId] ?? 0) - 1)
     }
 }
