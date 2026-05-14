@@ -1,7 +1,92 @@
 set shell := ["bash", "-uc", "-o", "pipefail"]
 
+# Pretty-print xcodebuild output if xcbeautify is on PATH; otherwise pass through unchanged.
+xcb := `command -v xcbeautify >/dev/null && echo xcbeautify || echo cat`
+
+# Show the recipe list
 default:
     @just --list
+
+# ── Mac app ──────────────────────────────────────────────────────────────────
+
+# Regenerate Xcode project + build Debug
+build: xcbuild
+
+# Build Debug and launch a fresh copy (kills any running instance after a successful build)
+run: xcbuild kill
+    open "$(ls -dt ~/Library/Developer/Xcode/DerivedData/Khorshid-*/Build/Products/Debug/Khorshid.app | head -1)"
+
+[private]
+kill:
+    pkill -x Khorshid 2>/dev/null || true
+    for i in {1..50}; do pgrep -x Khorshid >/dev/null 2>&1 || break; sleep 0.1; done
+
+# Run the test bundle
+test:
+    cd mac && NSUnbufferedIO=YES xcodebuild -project Khorshid.xcodeproj -scheme Khorshid -configuration Debug test 2>&1 | {{xcb}}
+
+# Open the freshest Debug build (does not rebuild)
+app:
+    open "$(ls -dt ~/Library/Developer/Xcode/DerivedData/Khorshid-*/Build/Products/Debug/Khorshid.app | head -1)"
+
+[private]
+xcbuild:
+    cd mac && xcodegen generate
+    cd mac && NSUnbufferedIO=YES xcodebuild -project Khorshid.xcodeproj -scheme Khorshid -configuration Debug build 2>&1 | {{xcb}}
+
+# Reveal the freshest Debug build in Finder
+reveal:
+    open -R "$(ls -dt ~/Library/Developer/Xcode/DerivedData/Khorshid-*/Build/Products/Debug/Khorshid.app | head -1)"
+
+# Trash all DerivedData copies
+clean: kill
+    -trash ~/Library/Developer/Xcode/DerivedData/Khorshid-*
+
+log_subsystem := "dev.MaroMushii.Khorshid"
+
+# Tail Khorshid logs live. Categories: all (default), feed, net, mirror, identity, social.
+logs category="all":
+    #!/usr/bin/env bash
+    set -euo pipefail
+    cat=$(echo "{{category}}" | tr '[:upper:]' '[:lower:]')
+    if [[ "$cat" == "all" ]]; then
+      pred='subsystem == "{{log_subsystem}}"'
+    else
+      capped="$(tr '[:lower:]' '[:upper:]' <<< ${cat:0:1})${cat:1}"
+      pred='subsystem == "{{log_subsystem}}" AND category == "'"$capped"'"'
+    fi
+    echo "==> tailing $cat — Ctrl-C to stop"
+    exec log stream --style compact --level info --predicate "$pred"
+
+# Dump last <duration> of Khorshid logs and exit. Examples: just logs-since feed 30s
+logs-since category="all" duration="5m":
+    #!/usr/bin/env bash
+    set -euo pipefail
+    cat=$(echo "{{category}}" | tr '[:upper:]' '[:lower:]')
+    if [[ "$cat" == "all" ]]; then
+      pred='subsystem == "{{log_subsystem}}"'
+    else
+      capped="$(tr '[:lower:]' '[:upper:]' <<< ${cat:0:1})${cat:1}"
+      pred='subsystem == "{{log_subsystem}}" AND category == "'"$capped"'"'
+    fi
+    echo "==> dumping $cat (last {{duration}})"
+    log show --style compact --info --debug --last {{duration}} --predicate "$pred"
+
+# Record a SwiftUI Instruments trace → ~/Desktop/khorshid-<ts>.trace. App must be running.
+trace seconds="15":
+    #!/usr/bin/env bash
+    set -euo pipefail
+    ts=$(date +%Y%m%d-%H%M%S)
+    out="$HOME/Desktop/khorshid-$ts.trace"
+    echo "==> recording SwiftUI trace for {{seconds}}s → $out"
+    xcrun xctrace record \
+      --template "SwiftUI" \
+      --attach Khorshid \
+      --time-limit {{seconds}}s \
+      --output "$out"
+    echo "==> done. Open in Instruments:  open '$out'"
+
+# ── Mirror / scraper ─────────────────────────────────────────────────────────
 
 # Typecheck the mirror scraper (offline)
 mirror-check:
