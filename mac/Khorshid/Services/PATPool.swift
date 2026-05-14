@@ -1,4 +1,5 @@
 import Foundation
+import CryptoKit
 import Observation
 
 @Observable @MainActor
@@ -54,10 +55,23 @@ final class PATPool {
               !doc.pats.isEmpty else {
             return nil
         }
-        return doc.pats
+        return doc.pats.compactMap(Self.decode)
+    }
+
+    // XOR-obfuscated tokens: base64(token ^ SHA256("khorshid-pat-pool-v1"))
+    private static let xorKey: [UInt8] = {
+        let digest = SHA256.hash(data: Data("khorshid-pat-pool-v1".utf8))
+        return Array(digest)
+    }()
+
+    private static func decode(_ encoded: String) -> String? {
+        guard let data = Data(base64Encoded: encoded) else { return nil }
+        let bytes = data.enumerated().map { i, b in b ^ xorKey[i % xorKey.count] }
+        return String(bytes: bytes, encoding: .utf8)
     }
 }
 
 private struct PATsDoc: Decodable {
+    let v: Int
     let pats: [String]
 }
