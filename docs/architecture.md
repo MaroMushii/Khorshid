@@ -10,7 +10,7 @@ Two repos carry the entire system:
 
 ```
 MaroMushii/Khorshid          — mirror code + GH Actions workflows + export branch
-MaroMushii/khorshid-social   — social layer (GitHub Issues for comments, votes, flags)
+MaroMushii/Khorshid-Social   — social layer (GitHub Issues for comments, votes, flags)
 MaroMushii/khorshid-room-*   — one private repo per private room (created by room owner)
 ```
 
@@ -56,7 +56,7 @@ Client app reads channel snapshots:
 User action (comment, vote, flag)
   → AES-256-GCM encrypt (comments only; votes and flags are plaintext)
   → pick random PAT from pool
-  → POST /repos/MaroMushii/khorshid-social/issues/:id/comments
+  → POST /repos/MaroMushii/Khorshid-Social/issues/:id/comments
   → optimistic UI: action appears immediately, confirmed on next poll
 ```
 
@@ -64,7 +64,7 @@ User action (comment, vote, flag)
 
 ```
 On context open (channel or room):
-  GET /repos/MaroMushii/khorshid-social/issues?labels=<slug>&state=open
+  GET /repos/MaroMushii/Khorshid-Social/issues?labels=<slug>&state=open
   → find today's issue by title, cache issue number locally
 
 Poll loop (adaptive interval: 10s active, 60s backgrounded):
@@ -80,7 +80,7 @@ or a dedicated server.
 
 ---
 
-## khorshid-social: GitHub Issues as the social layer
+## Khorshid-Social: GitHub Issues as the social layer
 
 One GitHub Issue per context per day. Issues are created automatically by the aggregator
 GH Action if they don't exist yet.
@@ -132,8 +132,8 @@ Produces `feed/<YYYY-MM-DD>.json` on the export branch — the ranked Today view
 
 ```
 1. Fetch all channel posts for today from export branch
-2. Fetch all room posts from khorshid-social (decrypt via public room key — Actions secret)
-3. Fetch all plaintext votes and flags from khorshid-social
+2. Fetch all room posts from Khorshid-Social (decrypt via public room key — Actions secret)
+3. Fetch all plaintext votes and flags from Khorshid-Social
 4. LLM deduplication:
      POST today's channel post headlines + timestamps to Claude Haiku
      Response: cluster_id per post (same story across channels → same cluster)
@@ -198,7 +198,7 @@ All content is AES-256-GCM. There is no unencrypted content.
 
 **Public channels and rooms:** key is hardcoded per context in the app binary.
 - "Public" = anyone with the app can decrypt.
-- `khorshid-social` is a public repo — GitHub sees ciphertext.
+- `Khorshid-Social` is a public repo — GitHub sees ciphertext.
 - Keys are rotated via app update if compromised.
 
 **Private rooms:** key generated at room creation, distributed via invite bundle.
@@ -217,7 +217,7 @@ enum RoomAccess {
 Users do not need GitHub accounts to participate in public channels or rooms.
 
 The app ships a set of fine-grained PATs created by the project owner (MaroMushii),
-scoped to `issues:write` on `MaroMushii/khorshid-social`. GitHub allows many PATs per
+scoped to `issues:write` on `MaroMushii/Khorshid-Social`. GitHub allows many PATs per
 account — each has its own 5,000 req/hour rate limit bucket, so pooling 5–10 gives
 ample capacity. These are:
 - Hardcoded in the app binary (fallback)

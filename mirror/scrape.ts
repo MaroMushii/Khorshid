@@ -85,7 +85,7 @@ async function main(): Promise<void> {
   const channels = manifest.channels.map((c) => c.toLowerCase()).sort();
 
   process.stderr.write(
-    `khorshid-mirror: ${channels.length} channels, writing to ${exportRoot}\n`
+    `Khorshid-Mirror: ${channels.length} channels, writing to ${exportRoot}\n`
   );
 
   const fresh = new Map<string, Snapshot>();

@@ -11,7 +11,7 @@ word for Sun.
 The repo is three cooperating pieces:
 
 ```
-mirror/          — khorshid-mirror, a Node scraper run by GitHub Actions
+mirror/          — Khorshid-Mirror, a Node scraper run by GitHub Actions
                    every ~5 min. Fetches Iranian news Telegram channels via
                    t.me, writes per-channel snapshots + media into the
                    `export` branch. Ported from Pigeon's mirror scraper.
@@ -25,7 +25,7 @@ android/         — Flutter Android app. Not yet built.
 There is also a companion repo (not in this directory):
 
 ```
-MaroMushii/khorshid-social  — GitHub Issues used as the social layer.
+MaroMushii/Khorshid-Social  — GitHub Issues used as the social layer.
                                One Issue per context (channel/room) per day.
                                Issue comments = encrypted posts, plaintext votes/flags.
 ```
@@ -41,7 +41,7 @@ export branch/feed/{day}.json  (ranked by importance votes)
 
 Users vote / comment
     ↓  (PAT pool → GitHub Issues API — near real-time)
-MaroMushii/khorshid-social Issues  (social read/write path)
+MaroMushii/Khorshid-Social Issues  (social read/write path)
 ```
 
 ### Why GitHub only
@@ -84,9 +84,9 @@ raw.githubusercontent.com/MaroMushii/Khorshid/refs/heads/export/
   feed/<YYYY-MM-DD>.json              — Today ranked feed (written by aggregator)
 ```
 
-### Social layer (khorshid-social, not yet built)
+### Social layer (Khorshid-Social, not yet built)
 
-All social content lives in `MaroMushii/khorshid-social` GitHub Issues.
+All social content lives in `MaroMushii/Khorshid-Social` GitHub Issues.
 
 Issue naming: `channel-<slug>-<YYYY-MM-DD>` / `room-<slug>-<YYYY-MM-DD>`
 
@@ -105,7 +105,7 @@ Plaintext flag  →  { type: "flag", target_id,
 Write path (public rooms):
 ```
 User action → AES-GCM encrypt (comments only) → pick random PAT from pool
-→ POST /repos/MaroMushii/khorshid-social/issues/:id/comments
+→ POST /repos/MaroMushii/Khorshid-Social/issues/:id/comments
 ```
 
 Read path:
@@ -179,7 +179,7 @@ that coupling would be a mistake.
 In priority order (see `bd ready` for the full tracked backlog):
 
 1. **GitHub Issues social schema** (`Khorshid-nku`) — wire format spec as code.
-2. **khorshid-social repo + daily Issue provisioning** (`Khorshid-x2x`) — create
+2. **Khorshid-Social repo + daily Issue provisioning** (`Khorshid-x2x`) — create
    the companion repo and the GH Action that ensures today's Issues exist.
 3. **Today aggregator GH Action** (`Khorshid-pen`) — LLM dedup, hot scoring,
    writes `feed/{day}.json` to export branch.

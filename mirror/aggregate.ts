@@ -1,6 +1,6 @@
 // Usage: pnpm exec tsx aggregate.ts <out-dir> [YYYY-MM-DD]
 // Reads today's posts from the export branch checkout at <out-dir>,
-// fetches vote/flag signals from khorshid-social, deduplicates posts via
+// fetches vote/flag signals from Khorshid-Social, deduplicates posts via
 // media fingerprint + embedding similarity + LLM, scores, and writes
 // feed/<date>.json (client-facing) and feed/<date>.cache.json (aggregator state).
 
@@ -10,7 +10,7 @@ import { join } from "node:path";
 import type { IndexDoc, Snapshot } from "./schema.js";
 import type { Feed, FeedPost, FeedCache, CommunityReport } from "./feed-schema.js";
 
-const SOCIAL_REPO = "MaroMushii/khorshid-social";
+const SOCIAL_REPO = "MaroMushii/Khorshid-Social";
 const GH_API = "https://api.github.com";
 const GH_EMBEDDINGS_URL = "https://models.inference.ai.azure.com/embeddings";
 const OPENROUTER_COMPLETIONS_URL = "https://openrouter.ai/api/v1/chat/completions";
@@ -264,7 +264,7 @@ async function main(): Promise<void> {
   const existingPostIds = new Set(existingFeed.posts.map((p) => p.post_id));
   const feedMediaUrls = new Set(cache.media_urls);
 
-  // 4. Fetch today's Issues from khorshid-social
+  // 4. Fetch today's Issues from Khorshid-Social
   const searchResult = await ghGet<GHSearchResult>(
     `/search/issues?q=repo:${SOCIAL_REPO}+${today}+in:title&per_page=100`,
     ghToken

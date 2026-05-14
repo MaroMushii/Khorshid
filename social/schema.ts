@@ -1,5 +1,5 @@
 /**
- * Wire format for all content written to MaroMushii/khorshid-social GitHub Issues.
+ * Wire format for all content written to MaroMushii/Khorshid-Social GitHub Issues.
  *
  * Every GitHub Issue comment body is valid JSON that parses to IssueCommentBody.
  *
@@ -137,7 +137,7 @@ export type IssueCommentBody = SocialPayloadWrapper | PlaintextPayload;
 
 /**
  * Template-literal union that documents the Issue title convention.
- * One Issue per context per day in MaroMushii/khorshid-social.
+ * One Issue per context per day in MaroMushii/Khorshid-Social.
  *   channel-<slug>-<YYYY-MM-DD>  — discussion thread for a channel's news posts
  *   room-<slug>-<YYYY-MM-DD>     — post + comment thread for a room
  */

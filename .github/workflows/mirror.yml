@@ -64,7 +64,7 @@ jobs:
             exit 0
           fi
           git config user.email "282584007+MaroMushii@users.noreply.github.com"
-          git config user.name "khorshid-mirror[bot]"
+          git config user.name "Khorshid-Mirror[bot]"
           STAMP="$(date -u +%Y-%m-%dT%H:%MZ)"
           CHANGES="$(git diff --staged --name-only | wc -l | tr -d ' ')"
           git commit -m "mirror: $STAMP ($CHANGES files)"

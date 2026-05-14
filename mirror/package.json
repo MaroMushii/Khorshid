@@ -1,5 +1,5 @@
 {
-  "name": "khorshid-mirror",
+  "name": "Khorshid-Mirror",
   "version": "0.1.0",
   "private": true,
   "description": "Khorshid's mirror scraper. Runs in GitHub Actions every ~5 min, writes channel snapshots + media to the export branch.",

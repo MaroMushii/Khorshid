@@ -16,7 +16,7 @@ export default {
         "Authorization": `Bearer ${env.GITHUB_TOKEN}`,
         "Accept": "application/vnd.github+json",
         "X-GitHub-Api-Version": "2022-11-28",
-        "User-Agent": "khorshid-mirror-dispatcher",
+        "User-Agent": "Khorshid-Mirror-dispatcher",
       },
       body: JSON.stringify({ ref: REF }),
     });

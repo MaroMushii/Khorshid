@@ -1,5 +1,5 @@
 {
-  "name": "khorshid-mirror-dispatcher",
+  "name": "Khorshid-Mirror-dispatcher",
   "private": true,
   "version": "0.0.1",
   "description": "Cloudflare Worker that pings GitHub workflow_dispatch on cron, replacing GitHub Actions' unreliable scheduled triggers.",

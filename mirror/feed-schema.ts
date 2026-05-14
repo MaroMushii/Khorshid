@@ -23,7 +23,7 @@ export interface FeedPost {
 }
 
 // A high-scoring encrypted room comment surfaced into the Today feed.
-// The client fetches the raw comment from khorshid-social and decrypts locally.
+// The client fetches the raw comment from Khorshid-Social and decrypts locally.
 export interface CommunityReport {
   comment_id: string; // SHA256 of raw GitHub Issue comment body
   issue_number: number;
