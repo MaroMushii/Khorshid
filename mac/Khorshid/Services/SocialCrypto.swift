@@ -32,16 +32,18 @@ enum SocialCrypto {
     }
 
     static func decrypt(_ wrapper: SocialPayloadWrapper, key: SymmetricKey) throws -> DecryptedPayload {
+        // Structural checks — wrong version or unparseable envelope.
         guard wrapper.v == 2,
-              let pubData = dataFromHex(wrapper.pub),
-              let sigData = Data(base64Encoded: wrapper.sig),
               let nonceData = Data(base64Encoded: wrapper.n),
               let combined = Data(base64Encoded: wrapper.c),
-              combined.count >= 16 else {
+              combined.count > 16 else {
             throw CryptoError.malformedWrapper
         }
-        let pubKey = try Curve25519.Signing.PublicKey(rawRepresentation: pubData)
-        guard pubKey.isValidSignature(sigData, for: nonceData + combined) else {
+        // Crypto-material checks — bad pub/sig is a signature failure, not a parse failure.
+        guard let pubData = dataFromHex(wrapper.pub),
+              let sigData = Data(base64Encoded: wrapper.sig),
+              let pubKey = try? Curve25519.Signing.PublicKey(rawRepresentation: pubData),
+              pubKey.isValidSignature(sigData, for: nonceData + combined) else {
             throw CryptoError.invalidSignature
         }
         let nonce = try AES.GCM.Nonce(data: nonceData)

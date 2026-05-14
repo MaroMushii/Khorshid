@@ -99,7 +99,8 @@ final class SocialStore {
                 guard let pubHex = identity.identity?.publicKeyHex else {
                     throw IdentityError.notReady
                 }
-                let wrapper = try SocialCrypto.encrypt(payload, key: key, publicKeyHex: pubHex) {
+                // Non-escaping closure; executes on MainActor because this Task inherits SocialStore's isolation.
+                let wrapper = try SocialCrypto.encrypt(payload, key: key, publicKeyHex: pubHex) { [identity] in
                     try identity.sign($0)
                 }
                 let json = try JSONEncoder().encode(wrapper)
