@@ -1,11 +1,11 @@
 {
   "schema": 2,
-  "generated_at": "2026-05-14T16:20:21.588Z",
+  "generated_at": "2026-05-14T16:21:04.396Z",
   "channels": [
     {
       "username": "bbcpersian",
       "title": "BBCPersian",
-      "last_fetched_at": "2026-05-14T16:20:15.372Z",
+      "last_fetched_at": "2026-05-14T16:21:02.998Z",
       "post_count": 20,
       "media_count": 12,
       "snapshot_path": "channels/bbcpersian/snapshot.json"
@@ -21,7 +21,7 @@
     {
       "username": "farsi_iranwire",
       "title": "Iranwire",
-      "last_fetched_at": "2026-05-14T16:20:15.280Z",
+      "last_fetched_at": "2026-05-14T16:21:02.921Z",
       "post_count": 20,
       "media_count": 19,
       "snapshot_path": "channels/farsi_iranwire/snapshot.json"
