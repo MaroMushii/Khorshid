@@ -27,3 +27,4 @@ cf-dispatcher/.wrangler/
 
 # bv (beads viewer) local config and caches
 .bv/
+pats.json
