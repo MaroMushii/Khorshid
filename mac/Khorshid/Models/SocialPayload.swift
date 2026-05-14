@@ -4,10 +4,10 @@ import Foundation
 
 struct SocialPayloadWrapper: Codable {
     let v: Int
-    let n: String    // base64 12-byte AES-GCM nonce
-    let c: String    // base64 ciphertext + 16-byte GCM tag
-    let pub: String? // pubkey hex — v:2+
-    let sig: String? // base64 Ed25519 sig over nonceBytes||combinedBytes — v:2+
+    let n: String   // base64 12-byte AES-GCM nonce
+    let c: String   // base64 ciphertext + 16-byte GCM tag
+    let pub: String // pubkey hex
+    let sig: String // base64 Ed25519 sig over nonceBytes||combinedBytes
 }
 
 // MARK: - Decrypted payload (inside the encrypted envelope)

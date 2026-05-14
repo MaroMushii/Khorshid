@@ -96,13 +96,12 @@ final class SocialStore {
             guard let self else { return }
             do {
                 let n = try await resolveIssueNumber(context: context)
-                let rawWrapper = try SocialCrypto.encrypt(payload, key: key)
-                guard let pubHex = identity.identity?.publicKeyHex,
-                      let msg = SocialCrypto.signatureMessage(for: rawWrapper) else {
+                guard let pubHex = identity.identity?.publicKeyHex else {
                     throw IdentityError.notReady
                 }
-                let sig = try identity.sign(msg)
-                let wrapper = SocialCrypto.applySignature(sig, publicKeyHex: pubHex, to: rawWrapper)
+                let wrapper = try SocialCrypto.encrypt(payload, key: key, publicKeyHex: pubHex) {
+                    try identity.sign($0)
+                }
                 let json = try JSONEncoder().encode(wrapper)
                 guard let bodyStr = String(data: json, encoding: .utf8) else { return }
                 try await client.postComment(issueNumber: n, body: bodyStr, pat: pat)

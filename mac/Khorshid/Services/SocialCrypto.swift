@@ -9,52 +9,40 @@ enum SocialCrypto {
         case invalidSignature
     }
 
-    static func encrypt(_ payload: DecryptedPayload, key: SymmetricKey) throws -> SocialPayloadWrapper {
+    static func encrypt(
+        _ payload: DecryptedPayload,
+        key: SymmetricKey,
+        publicKeyHex: String,
+        sign: (Data) throws -> Data
+    ) throws -> SocialPayloadWrapper {
         let plaintext = try payload.encoded()
         let nonce = AES.GCM.Nonce()
         let box = try AES.GCM.seal(plaintext, using: key, nonce: nonce)
         var combined = Data(box.ciphertext)
         combined.append(contentsOf: box.tag)
+        let nonceData = Data(nonce)
+        let sig = try sign(nonceData + combined)
         return SocialPayloadWrapper(
-            v: 1,
-            n: Data(nonce).base64EncodedString(),
+            v: 2,
+            n: nonceData.base64EncodedString(),
             c: combined.base64EncodedString(),
-            pub: nil,
-            sig: nil
+            pub: publicKeyHex,
+            sig: sig.base64EncodedString()
         )
     }
 
-    static func signatureMessage(for wrapper: SocialPayloadWrapper) -> Data? {
-        guard let nonceData = Data(base64Encoded: wrapper.n),
-              let combined = Data(base64Encoded: wrapper.c) else { return nil }
-        return nonceData + combined
-    }
-
-    static func applySignature(_ sig: Data, publicKeyHex: String, to wrapper: SocialPayloadWrapper) -> SocialPayloadWrapper {
-        SocialPayloadWrapper(v: 2, n: wrapper.n, c: wrapper.c, pub: publicKeyHex, sig: sig.base64EncodedString())
-    }
-
     static func decrypt(_ wrapper: SocialPayloadWrapper, key: SymmetricKey) throws -> DecryptedPayload {
-        if wrapper.v == 2 {
-            guard let pubHex = wrapper.pub,
-                  let sigB64 = wrapper.sig,
-                  let pubData = dataFromHex(pubHex),
-                  let sigData = Data(base64Encoded: sigB64),
-                  let nonceData = Data(base64Encoded: wrapper.n),
-                  let combined = Data(base64Encoded: wrapper.c) else {
-                throw CryptoError.invalidSignature
-            }
-            let pubKey = try Curve25519.Signing.PublicKey(rawRepresentation: pubData)
-            guard pubKey.isValidSignature(sigData, for: nonceData + combined) else {
-                throw CryptoError.invalidSignature
-            }
-        }
-
-        guard wrapper.v == 1 || wrapper.v == 2,
+        guard wrapper.v == 2,
+              let pubData = dataFromHex(wrapper.pub),
+              let sigData = Data(base64Encoded: wrapper.sig),
               let nonceData = Data(base64Encoded: wrapper.n),
               let combined = Data(base64Encoded: wrapper.c),
               combined.count >= 16 else {
             throw CryptoError.malformedWrapper
+        }
+        let pubKey = try Curve25519.Signing.PublicKey(rawRepresentation: pubData)
+        guard pubKey.isValidSignature(sigData, for: nonceData + combined) else {
+            throw CryptoError.invalidSignature
         }
         let nonce = try AES.GCM.Nonce(data: nonceData)
         let ciphertext = combined.dropLast(16)
