@@ -72,7 +72,8 @@ final class SocialStore {
     func send(body: String, postId: String? = nil, replyTo: String? = nil) {
         guard let key = currentKey,
               let context = currentContext,
-              let pat = patPool?.token() else { return }
+              let pat = patPool?.token(),
+              let identity = identityStore else { return }
 
         let sentAt = Int(Date().timeIntervalSince1970 * 1000)
         let payload: DecryptedPayload
@@ -95,7 +96,13 @@ final class SocialStore {
             guard let self else { return }
             do {
                 let n = try await resolveIssueNumber(context: context)
-                let wrapper = try SocialCrypto.encrypt(payload, key: key)
+                let rawWrapper = try SocialCrypto.encrypt(payload, key: key)
+                guard let pubHex = identity.identity?.publicKeyHex,
+                      let msg = SocialCrypto.signatureMessage(for: rawWrapper) else {
+                    throw IdentityError.notReady
+                }
+                let sig = try identity.sign(msg)
+                let wrapper = SocialCrypto.applySignature(sig, publicKeyHex: pubHex, to: rawWrapper)
                 let json = try JSONEncoder().encode(wrapper)
                 guard let bodyStr = String(data: json, encoding: .utf8) else { return }
                 try await client.postComment(issueNumber: n, body: bodyStr, pat: pat)
