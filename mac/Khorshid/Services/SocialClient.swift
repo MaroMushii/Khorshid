@@ -16,8 +16,8 @@ actor SocialClient {
     private var manifest: ManifestDoc?
     private var manifestFetchedAt: Date?
 
-    // ISO8601DateFormatter is not Sendable — nonisolated(unsafe) matches MirrorClient/FeedClient pattern.
-    nonisolated(unsafe) private static let isoFull: ISO8601DateFormatter = {
+    // Actor-isolated instance property — safe because all access is serialized by the actor.
+    private let isoFull: ISO8601DateFormatter = {
         let f = ISO8601DateFormatter()
         f.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
         return f
@@ -42,14 +42,17 @@ actor SocialClient {
     func fetchComments(issueNumber: Int, since: Date? = nil) async throws -> [IssueCommentDTO] {
         var urlStr = "\(Self.apiBase)/issues/\(issueNumber)/comments?per_page=100"
         if let since {
-            urlStr += "&since=\(Self.isoFull.string(from: since))"
+            urlStr += "&since=\(isoFull.string(from: since))"
         }
-        let data = try await get(URL(string: urlStr)!)
+        guard let url = URL(string: urlStr) else { throw SocialError.http(-1) }
+        let data = try await get(url)
         return try JSONDecoder().decode([IssueCommentDTO].self, from: data)
     }
 
     func postComment(issueNumber: Int, body: String, pat: String) async throws {
-        let url = URL(string: "\(Self.apiBase)/issues/\(issueNumber)/comments")!
+        guard let url = URL(string: "\(Self.apiBase)/issues/\(issueNumber)/comments") else {
+            throw SocialError.http(-1)
+        }
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
         request.setValue("Bearer \(pat)", forHTTPHeaderField: "Authorization")

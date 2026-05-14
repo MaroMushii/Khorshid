@@ -18,11 +18,11 @@ struct KhorshidApp: App {
                 .environment(patPool)
                 .environment(socialStore)
                 .onAppear {
+                    socialStore.configure(patPool: patPool, identityStore: identityStore)
                     channelStore.start()
                     feedStore.start()
                     identityStore.start()
                     patPool.start()
-                    socialStore.configure(patPool: patPool, identityStore: identityStore)
                 }
         }
         .defaultSize(width: 900, height: 600)

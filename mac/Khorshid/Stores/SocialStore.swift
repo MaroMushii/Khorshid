@@ -19,7 +19,20 @@ final class SocialStore {
     private var issueNumber: Int?
     private var lastSeenAt: Date?
     private var pollTask: Task<Void, Never>?
+    private var sendTasks: [String: Task<Void, Never>] = [:]
+    private var issueNumberTask: Task<Int, Error>?
     private var seenVoteIds: [String: Set<String>] = [:]
+
+    private let isoFull: ISO8601DateFormatter = {
+        let f = ISO8601DateFormatter()
+        f.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
+        return f
+    }()
+    private let isoPlain: ISO8601DateFormatter = {
+        let f = ISO8601DateFormatter()
+        f.formatOptions = [.withInternetDateTime]
+        return f
+    }()
 
     func configure(patPool: PATPool, identityStore: IdentityStore) {
         self.patPool = patPool
@@ -43,6 +56,10 @@ final class SocialStore {
     func unsubscribe() {
         pollTask?.cancel()
         pollTask = nil
+        for task in sendTasks.values { task.cancel() }
+        sendTasks = [:]
+        issueNumberTask?.cancel()
+        issueNumberTask = nil
         currentContext = nil
         currentKey = nil
         issueNumber = nil
@@ -58,9 +75,12 @@ final class SocialStore {
               let pat = patPool?.token() else { return }
 
         let sentAt = Int(Date().timeIntervalSince1970 * 1000)
-        let payload: DecryptedPayload = postId != nil
-            ? .comment(postId: postId!, replyTo: replyTo, body: body, sentAt: sentAt)
-            : .post(body: body, sentAt: sentAt)
+        let payload: DecryptedPayload
+        if let postId {
+            payload = .comment(postId: postId, replyTo: replyTo, body: body, sentAt: sentAt)
+        } else {
+            payload = .post(body: body, sentAt: sentAt)
+        }
 
         let optimisticId = UUID().uuidString
         comments.append(Comment(
@@ -70,13 +90,14 @@ final class SocialStore {
             isPending: true
         ))
 
-        Task { [weak self] in
+        let task = Task { [weak self] in
+            defer { self?.sendTasks.removeValue(forKey: optimisticId) }
             guard let self else { return }
             do {
                 let n = try await resolveIssueNumber(context: context)
                 let wrapper = try SocialCrypto.encrypt(payload, key: key)
                 let json = try JSONEncoder().encode(wrapper)
-                let bodyStr = String(data: json, encoding: .utf8)!
+                guard let bodyStr = String(data: json, encoding: .utf8) else { return }
                 try await client.postComment(issueNumber: n, body: bodyStr, pat: pat)
             } catch let err as SocialClient.SocialError {
                 if case .http(let code) = err, [401, 403, 429].contains(code) {
@@ -89,6 +110,7 @@ final class SocialStore {
                 self.error = error
             }
         }
+        sendTasks[optimisticId] = task
     }
 
     func vote(targetId: String, signal: String) {
@@ -102,7 +124,9 @@ final class SocialStore {
         let sentAt = Int(Date().timeIntervalSince1970 * 1000)
         applyVote(targetId: targetId, voteId: voteId, signal: signal)
 
-        Task { [weak self] in
+        let taskId = UUID().uuidString
+        let task = Task { [weak self] in
+            defer { self?.sendTasks.removeValue(forKey: taskId) }
             guard let self else { return }
             do {
                 let n = try await resolveIssueNumber(context: context)
@@ -111,7 +135,7 @@ final class SocialStore {
                     signal: signal, vote_id: voteId, sent_at: sentAt
                 )
                 let json = try JSONEncoder().encode(payload)
-                let bodyStr = String(data: json, encoding: .utf8)!
+                guard let bodyStr = String(data: json, encoding: .utf8) else { return }
                 try await client.postComment(issueNumber: n, body: bodyStr, pat: pat)
             } catch let err as SocialClient.SocialError {
                 if case .http(let code) = err, [401, 403, 429].contains(code) {
@@ -124,6 +148,7 @@ final class SocialStore {
                 self.error = error
             }
         }
+        sendTasks[taskId] = task
     }
 
     func hasVoted(targetId: String, signal: String) -> Bool {
@@ -144,14 +169,12 @@ final class SocialStore {
         guard let context = currentContext, let key = currentKey else { return }
         do {
             let n = try await resolveIssueNumber(context: context)
+            guard !Task.isCancelled else { return }
             let dtos = try await client.fetchComments(issueNumber: n, since: lastSeenAt)
+            guard !Task.isCancelled else { return }
             guard !dtos.isEmpty else { return }
 
             var fresh: [Comment] = []
-            let isoFull = ISO8601DateFormatter()
-            isoFull.formatOptions = [.withInternetDateTime, .withFractionalSeconds]
-            let isoPlain = ISO8601DateFormatter()
-            isoPlain.formatOptions = [.withInternetDateTime]
 
             for dto in dtos {
                 guard let bodyData = dto.body.data(using: .utf8) else { continue }
@@ -181,7 +204,9 @@ final class SocialStore {
                     applyVote(targetId: vote.target_id, voteId: vote.vote_id, signal: vote.signal)
                 }
 
-                if lastSeenAt == nil || createdAt > lastSeenAt! {
+                if let last = lastSeenAt {
+                    if createdAt > last { lastSeenAt = createdAt }
+                } else {
                     lastSeenAt = createdAt
                 }
             }
@@ -192,6 +217,8 @@ final class SocialStore {
                 comments.append(contentsOf: fresh.filter { !existingIds.contains($0.id) })
                 comments.sort { $0.sentAt < $1.sentAt }
             }
+        } catch is CancellationError {
+            // Task was cancelled — not an error worth surfacing
         } catch {
             self.error = error
         }
@@ -199,9 +226,18 @@ final class SocialStore {
 
     private func resolveIssueNumber(context: String) async throws -> Int {
         if let n = issueNumber { return n }
-        let n = try await client.issueNumber(for: context)
-        issueNumber = n
-        return n
+        if let t = issueNumberTask { return try await t.value }
+        let t = Task { [client] in try await client.issueNumber(for: context) }
+        issueNumberTask = t
+        do {
+            let n = try await t.value
+            issueNumber = n
+            issueNumberTask = nil
+            return n
+        } catch {
+            issueNumberTask = nil
+            throw error
+        }
     }
 
     private func removeOptimistic(_ id: String) {
