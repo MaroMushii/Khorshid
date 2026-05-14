@@ -6,6 +6,7 @@ import Observation
 final class SocialStore {
 
     private(set) var comments: [Comment] = []
+    private(set) var voteTallies: [String: VoteTally] = [:]
     private(set) var isLoading = false
     private(set) var error: Error?
 
@@ -18,6 +19,7 @@ final class SocialStore {
     private var issueNumber: Int?
     private var lastSeenAt: Date?
     private var pollTask: Task<Void, Never>?
+    private var seenVoteIds: [String: Set<String>] = [:]
 
     func configure(patPool: PATPool, identityStore: IdentityStore) {
         self.patPool = patPool
@@ -30,6 +32,8 @@ final class SocialStore {
         currentContext = context
         currentKey = key
         comments = []
+        voteTallies = [:]
+        seenVoteIds = [:]
         error = nil
         issueNumber = nil
         lastSeenAt = nil
@@ -44,6 +48,8 @@ final class SocialStore {
         issueNumber = nil
         lastSeenAt = nil
         comments = []
+        voteTallies = [:]
+        seenVoteIds = [:]
     }
 
     func send(body: String, postId: String? = nil, replyTo: String? = nil) {
@@ -83,6 +89,46 @@ final class SocialStore {
                 self.error = error
             }
         }
+    }
+
+    func vote(targetId: String, signal: String) {
+        guard let pat = patPool?.token(),
+              let identity = identityStore,
+              let context = currentContext else { return }
+
+        let voteId = identity.voteId(for: targetId)
+        guard !(seenVoteIds[targetId]?.contains(voteId) ?? false) else { return }
+
+        let sentAt = Int(Date().timeIntervalSince1970 * 1000)
+        applyVote(targetId: targetId, voteId: voteId, signal: signal)
+
+        Task { [weak self] in
+            guard let self else { return }
+            do {
+                let n = try await resolveIssueNumber(context: context)
+                let payload = VotePayload(
+                    type: "vote", target_id: targetId,
+                    signal: signal, vote_id: voteId, sent_at: sentAt
+                )
+                let json = try JSONEncoder().encode(payload)
+                let bodyStr = String(data: json, encoding: .utf8)!
+                try await client.postComment(issueNumber: n, body: bodyStr, pat: pat)
+            } catch let err as SocialClient.SocialError {
+                if case .http(let code) = err, [401, 403, 429].contains(code) {
+                    patPool?.markExhausted(pat)
+                }
+                undoVote(targetId: targetId, voteId: voteId, signal: signal)
+                self.error = err
+            } catch {
+                undoVote(targetId: targetId, voteId: voteId, signal: signal)
+                self.error = error
+            }
+        }
+    }
+
+    func hasVoted(targetId: String, signal: String) -> Bool {
+        guard let voteId = identityStore?.voteId(for: targetId) else { return false }
+        return seenVoteIds[targetId]?.contains(voteId) ?? false
     }
 
     // MARK: - Private
@@ -130,8 +176,10 @@ final class SocialStore {
                             isPending: false
                         ))
                     }
+                } else if let vote = try? JSONDecoder().decode(VotePayload.self, from: bodyData),
+                          vote.type == "vote" {
+                    applyVote(targetId: vote.target_id, voteId: vote.vote_id, signal: vote.signal)
                 }
-                // Plaintext votes/flags are silently skipped — handled by future voting bead
 
                 if lastSeenAt == nil || createdAt > lastSeenAt! {
                     lastSeenAt = createdAt
@@ -158,5 +206,23 @@ final class SocialStore {
 
     private func removeOptimistic(_ id: String) {
         comments.removeAll { $0.id == id }
+    }
+
+    private func applyVote(targetId: String, voteId: String, signal: String) {
+        seenVoteIds[targetId, default: []].insert(voteId)
+        switch signal {
+        case "up":        voteTallies[targetId, default: VoteTally()].upCount += 1
+        case "important": voteTallies[targetId, default: VoteTally()].importantCount += 1
+        default: break
+        }
+    }
+
+    private func undoVote(targetId: String, voteId: String, signal: String) {
+        seenVoteIds[targetId]?.remove(voteId)
+        switch signal {
+        case "up":        voteTallies[targetId]?.upCount = max(0, (voteTallies[targetId]?.upCount ?? 0) - 1)
+        case "important": voteTallies[targetId]?.importantCount = max(0, (voteTallies[targetId]?.importantCount ?? 0) - 1)
+        default: break
+        }
     }
 }
