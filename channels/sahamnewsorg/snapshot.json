@@ -1,25 +1,181 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-15T00:14:33.770Z",
+  "fetched_at": "2026-05-15T10:03:13.805Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
     "description_html": "پایگاه خبری سهام نیوز <br><a href=\"http://www.sahamnews.org/\" target=\"_blank\" rel=\"noopener\">www.sahamnews.org</a><br>info@sahamnews.org<br><a href=\"http://www.fb.com/sahamnews.org\" target=\"_blank\" rel=\"noopener\">www.fb.com/sahamnews.org</a><br><a href=\"http://www.instagram.com/sahamnewsorg\" target=\"_blank\" rel=\"noopener\">www.instagram.com/sahamnewsorg</a>",
-    "photo_url": "https://cdn1.telesco.pe/file/eKkrFQXva91OOfOFNCplsVSisz1NRFVe3jrVXrD1pXhjI2yJuMBfdgTGuNCmOTy3N0hGO6_88bNBZVhT3oXZSQytUX0Hf93iK7EQH_ZLDCPZJsIFrXH48UiDgZIctyBRLAR3fecMvcAtNt4hIuMrI-BY3eiNgtkkcNt_h52fqqTyVAOYRisnTMs7yq2w8eVgZJedDJKroYpvEGIdX-FuoPKVe38Mp2WHUkLujmdzHyhtPCvurF-cuAo3kVurn8L6bscAEgE-PU6JIMqcNKoOPbcuBpF5pyZuGEwJPcUW2FllEikceLISNzatVYbCz8CCTwLIVOeCvbJTXgs07Rjpww.jpg",
-    "photo_path": "channels/sahamnewsorg/media/dfa4b63a837bc2520df6de00.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+    "photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
     "subscriber_count": "217K"
   },
   "posts": [
     {
+      "id": "sahamnewsorg/141784",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>الجزیره : تهران رسما پاسخ واشنگتن به پیشنهاد ۱۴ بندی‌اش را دریافت کرده <br>آمریکا تمام شرط ایران را رد کرده است<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>پ ن: ظاهرا جنگ قطعيه<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅الجزیره : تهران رسما پاسخ واشنگتن به پیشنهاد ۱۴ بندی‌اش را دریافت کرده آمریکا تمام شرط ایران را رد کرده است 🔻پ ن: ظاهرا جنگ قطعيه @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "5.38K",
+      "posted_at": "2026-05-15T09:14:58+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141784"
+    },
+    {
+      "id": "sahamnewsorg/141783",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>رويتر:امارات مسیر نفت را از تنگه هرمز جدا می‌کند؛ خط دوم فجیره تا ۲۰۲۷<br><br>امارات متحده عربی اعلام کرده ساخت خط لوله تازه نفت به بندر فجیره را شتاب می‌دهد؛ مسیری در ساحل شرقی این کشور که صادرات نفت را از وابستگی به تنگه هرمز دور می‌کند.<br><br>به گزارش رویترز، این پروژه قرار است ظرفیت فعلی خط حبشان ـ فجیره را که حدود ۱.۸ میلیون بشکه در روز است، تقریباً دو برابر کند و تا سال ۲۰۲۷ ظرفیت انتقال نفت از این مسیر را به حدود ۳ تا ۳.۶ میلیون بشکه در روز برساند.<br><br>فجیره به دلیل قرار گرفتن در دریای عمان، بیرون از تنگه هرمز قرار دارد و برای امارات یک مسیر حیاتی در زمان تنش‌های منطقه‌ای به شمار می‌رود. با اجرای این طرح، ابوظبی می‌خواهد بخش بزرگ‌تری از صادرات نفت خود را بدون عبور از یکی از حساس‌ترین گلوگاه‌های انرژی جهان به بازار برساند.<br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅رويتر:امارات مسیر نفت را از تنگه هرمز جدا می‌کند؛ خط دوم فجیره تا ۲۰۲۷ امارات متحده عربی اعلام کرده ساخت خط لوله تازه نفت به بندر فجیره را شتاب می‌دهد؛ مسیری در ساحل شرقی این کشور که صادرات نفت را از وابستگی به تنگه هرمز دور می‌کند. به گزارش رویترز، این پروژه قرار است ظرفیت فعلی خط حبشان ـ فجیره را که حدود ۱.۸ میلیون بشکه در روز است، تقریباً دو برابر کند و تا سال ۲۰۲۷ ظرفیت انتقال نفت از این مسیر را به حدود ۳ تا ۳.۶ میلیون بشکه در روز برساند. فجیره به دلیل قرار گرفتن در دریای عمان، بیرون از تنگه هرمز قرار دارد و برای امارات یک مسیر حیاتی در زمان تنش‌های منطقه‌ای به شمار می‌رود. با اجرای این طرح، ابوظبی می‌خواهد بخش بزرگ‌تری از صادرات نفت خود را بدون عبور از یکی از حساس‌ترین گلوگاه‌های انرژی جهان به بازار برساند. @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/141783",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/iC6PWNY2B5AmwLpbAkOT2FF5J7w7v9wAR0o6YYfvSHeDdfpSXyC6LxrG2pzxrpsw5QBH9CVL7SSEk4Ff2we-JfoOVyMjrda4p8P9JxVqnAlo6422HLLctBPbr39SorO39ZHmmtfXmHgVtGYDpdHziK0sK6tN6uCuEYa7Q0v4hhSXBAB298x6p3jevy4eMiBj8e32RN-OWOZ-RkuMou3BJYmCLRsEtFc-O0guAVBlAxdoMXFcKi49Tgbap-Q4iDaIKAhujydfi8lDGOIqGpapWQ7LhAFd3SMljKm3_ZxpiKp3hSQ3QcyGe6KJKZHyTB5wDaw93SnPoPWXV1nhloNkOw.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/88b7183981c3130cd57e9614.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.0066371681415964
+        }
+      ],
+      "reactions": [],
+      "views_label": "5.45K",
+      "posted_at": "2026-05-15T09:13:14+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141783"
+    },
+    {
+      "id": "sahamnewsorg/141782",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>هشدار شي به ترامپ در باره تايوان<br><br><b>شی جین‌پینگ، رئیس‌ جمهوری چین، در دیدار با ترامپ، رئیس جمهوری آمریکا، هشدار داد که در صورت ادامه حمایت ایالات متحده از تایوان، روابط پکن و واشینگتن ممکن است به «جاهای خطرناک» بکشد.<br><br>به گزارش «رویترز»، وزارت خارجه چین اعلام کرد که شی جین‌پینگ در جلسه‌ای بیش از دو ساعته به ترامپ هشدار داد که مدیریت نادرست مساله تایوان می‌تواند روابط دو کشور را به «جایی بسیار خطرناک» بکشاند و حتی خطر درگیری مستقیم ایجاد کند.<br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅هشدار شي به ترامپ در باره تايوان شی جین‌پینگ، رئیس‌ جمهوری چین، در دیدار با ترامپ، رئیس جمهوری آمریکا، هشدار داد که در صورت ادامه حمایت ایالات متحده از تایوان، روابط پکن و واشینگتن ممکن است به «جاهای خطرناک» بکشد. به گزارش «رویترز»، وزارت خارجه چین اعلام کرد که شی جین‌پینگ در جلسه‌ای بیش از دو ساعته به ترامپ هشدار داد که مدیریت نادرست مساله تایوان می‌تواند روابط دو کشور را به «جایی بسیار خطرناک» بکشاند و حتی خطر درگیری مستقیم ایجاد کند. @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/141782",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/nRRI0obrot91PbRD2CL6ZfDQUEnLYYa8nT1pKGW1FsYpcqHYayYMcMCqbzNo4fRHZY4EqsZgp-GwvEr0KinNafcQ6b5QUEaMz1205qeuII3DxQtckxAGU5lUe4G8pwX-QcvPMgtpdk_UmCWLNe5asvUurEOFfOQsQjJTjLkRaqN-kXYzDd3O-b94AGVF2DEbRTlN8RLjVnviPsPo24PUCSNjs24Vj4XdAKRfXcxrqvb0PgGfKM0h2WmNlh6cYg2DU5JXto8jquOUW_27AFUf5PLn-62PpkSk-0R2uKQyQWsw788EWkbkYkj384Djiv17mHg9dLCfeyHeSgH1K-M2ew.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/64e41e82c1313c1b6cc96c36.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.3136288998357963
+        }
+      ],
+      "reactions": [],
+      "views_label": "9.99K",
+      "posted_at": "2026-05-15T07:40:24+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141782"
+    },
+    {
+      "id": "sahamnewsorg/141781",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>ترامپ در گفتگو با فاکس‌ نیوز: ایران حتی قادر به رسیدن به اورانیوم‌های موجود در تاسیسات نیست، زیرا کوه روی آن فرو ریخته است. و تنها کشورهایی که تکنولوژی رسیدن به آن را دارند، ایالات متحده و چین هستند</b><br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅ترامپ در گفتگو با فاکس‌ نیوز: ایران حتی قادر به رسیدن به اورانیوم‌های موجود در تاسیسات نیست، زیرا کوه روی آن فرو ریخته است. و تنها کشورهایی که تکنولوژی رسیدن به آن را دارند، ایالات متحده و چین هستند @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "9.98K",
+      "posted_at": "2026-05-15T07:36:50+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/141781"
+    },
+    {
+      "id": "sahamnewsorg/141780",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>روزنامه یدیعوت آحارونوت: <b>رهبری سیاسی به ارتش دستور داده است تا برای احتمال از سرگیری خصومت‌ها علیه ایران توسط ایالات متحده تا پایان این هفته آماده شود.</b><br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅روزنامه یدیعوت آحارونوت: رهبری سیاسی به ارتش دستور داده است تا برای احتمال از سرگیری خصومت‌ها علیه ایران توسط ایالات متحده تا پایان این هفته آماده شود. @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "10.9K",
+      "posted_at": "2026-05-15T07:12:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/141780"
+    },
+    {
+      "id": "sahamnewsorg/141779",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>گزارشی از تعدیل گسترده کارکنان شهربازی‌های کشور<br><br>مرداني رئیس انجمن شهربازی‌ داران ایران اعلام کرد دستکم نیمی از نیروهای شاغل در این صنف، در پی افزایش هزینه‌ها و شرایط ماه‌های گذشته تعدیل شده‌اند.<br><br>رضا مردانی با اشاره به هزینه‌های جاری مانند اجاره، حقوق پرسنل و نگهداری تجهیزات، گفت: این هزینه‌ها کمرشکن شده و بسیاری از فعالان این صنف را مجبور به تعدیل گسترده نیرو کرده است. بر اساس برآوردهای اولیه، حداقل نیمی از پرسنل در اکثر مجموعه‌ها تعدیل شده‌اند و این آمار در سطح کشور نگران‌کننده است. ما مجبوریم نیروهای خود را حفظ کنیم، اما با این روند، ادامه فعالیت غیرممکن خواهد شد.<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅گزارشی از تعدیل گسترده کارکنان شهربازی‌های کشور مرداني رئیس انجمن شهربازی‌ داران ایران اعلام کرد دستکم نیمی از نیروهای شاغل در این صنف، در پی افزایش هزینه‌ها و شرایط ماه‌های گذشته تعدیل شده‌اند. رضا مردانی با اشاره به هزینه‌های جاری مانند اجاره، حقوق پرسنل و نگهداری تجهیزات، گفت: این هزینه‌ها کمرشکن شده و بسیاری از فعالان این صنف را مجبور به تعدیل گسترده نیرو کرده است. بر اساس برآوردهای اولیه، حداقل نیمی از پرسنل در اکثر مجموعه‌ها تعدیل شده‌اند و این آمار در سطح کشور نگران‌کننده است. ما مجبوریم نیروهای خود را حفظ کنیم، اما با این روند، ادامه فعالیت غیرممکن خواهد شد. @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "10.9K",
+      "posted_at": "2026-05-15T07:08:48+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/141779"
+    },
+    {
+      "id": "sahamnewsorg/141778",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>محمدعلی جعفری، فرمانده کل اسبق سپاه <br><br>تا زمانی که جنگ در همه جبهه‌ها پایان نیافته، تحریم‌ها برداشته نشده، پول‌های بلوکه‌شده آزاد نشده، خسارت‌های ناشی از جنگ جبران نشده و حق حاکمیت ایران بر تنگه هرمز به رسمیت شناخته نشده باشد، هیچ مذاکره دیگری در کار نیست.<br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅محمدعلی جعفری، فرمانده کل اسبق سپاه تا زمانی که جنگ در همه جبهه‌ها پایان نیافته، تحریم‌ها برداشته نشده، پول‌های بلوکه‌شده آزاد نشده، خسارت‌های ناشی از جنگ جبران نشده و حق حاکمیت ایران بر تنگه هرمز به رسمیت شناخته نشده باشد، هیچ مذاکره دیگری در کار نیست. @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/141778",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/PGWFgFTdDAxEnbZEb0BK53xjtuY0jwSVYoH8thKilKCmDp2Ji-6Qo_73T6fYckbckc3wKBxidzdWoZV8jykIaq_DgXLA9ub_3WguJ01xkvxyNEN5YHS7pyTb14g9JrKIgWB6DdPLJtvjXIScfY5u7wvuwx88_3qWdHVQWXWcePyZVaiUeJsFz0no--EjcxeD43djMZl8TNcA4dLTH4VdagtRqNd9TVwqAJXn4Za5eM5N-jEzN_KCtaDJHmzuxJAjtyMX_0VUgsUgc05_atL6pwnTKfxkT_JlpE8oHl2CczgQMt_wzJirhWkbb7gqdPgfZ47cOqIqpvugW3DR_DKUaQ.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/29cdad59c53695c32dac6d6f.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.0217113665389528
+        }
+      ],
+      "reactions": [],
+      "views_label": "11.7K",
+      "posted_at": "2026-05-15T06:57:03+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141778"
+    },
+    {
+      "id": "sahamnewsorg/141777",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>تهران تایمز: <b>آمریکا پیشنهاد ۱۴ ماده‌ای ایران را رد کرد </b><br><br>طبق اطلاعات رسیده به تهران تایمز، دولت آمریکا پاسخ پیشنهاد مکتوب ایران درباره پایان جنگ را داده است. <br><br>آمریکا با رد پیشنهادات تهران، بار دیگر مواضع خود بخصوص در بحث هسته‌ای را تکرار کرده است. <br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅تهران تایمز: آمریکا پیشنهاد ۱۴ ماده‌ای ایران را رد کرد طبق اطلاعات رسیده به تهران تایمز، دولت آمریکا پاسخ پیشنهاد مکتوب ایران درباره پایان جنگ را داده است. آمریکا با رد پیشنهادات تهران، بار دیگر مواضع خود بخصوص در بحث هسته‌ای را تکرار کرده است. @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "11.5K",
+      "posted_at": "2026-05-15T06:51:08+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/141777"
+    },
+    {
+      "id": "sahamnewsorg/141776",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>ترامپ دربارۀ جنگ علیه ایران: این کارها برای کمک به اسرائیل و کشورهای عربی است<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>رئیس‌جمهور آمریکا در مصاحبه با فاکس‌نیوز: داریم این کار را برای کمک به اسرائیل انجام می‌دهیم. برای کمک به عربستان سعودی، قطر، امارات، کویت و کشورهای دیگر و همچنین بحرین.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅ترامپ دربارۀ جنگ علیه ایران: این کارها برای کمک به اسرائیل و کشورهای عربی است 🔹رئیس‌جمهور آمریکا در مصاحبه با فاکس‌نیوز: داریم این کار را برای کمک به اسرائیل انجام می‌دهیم. برای کمک به عربستان سعودی، قطر، امارات، کویت و کشورهای دیگر و همچنین بحرین. @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "11.6K",
+      "posted_at": "2026-05-15T06:45:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/141776"
+    },
+    {
       "id": "sahamnewsorg/141775",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/eKkrFQXva91OOfOFNCplsVSisz1NRFVe3jrVXrD1pXhjI2yJuMBfdgTGuNCmOTy3N0hGO6_88bNBZVhT3oXZSQytUX0Hf93iK7EQH_ZLDCPZJsIFrXH48UiDgZIctyBRLAR3fecMvcAtNt4hIuMrI-BY3eiNgtkkcNt_h52fqqTyVAOYRisnTMs7yq2w8eVgZJedDJKroYpvEGIdX-FuoPKVe38Mp2WHUkLujmdzHyhtPCvurF-cuAo3kVurn8L6bscAEgE-PU6JIMqcNKoOPbcuBpF5pyZuGEwJPcUW2FllEikceLISNzatVYbCz8CCTwLIVOeCvbJTXgs07Rjpww.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/dfa4b63a837bc2520df6de00.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>روبیو: ترامپ درباره ایران با شی گفتگو کرد، اما کمکی نخواست<br>&nbsp;<br>مارکو روبیو، وزیر امور خارجه آمریکا، اعلام کرد که ، دونالد ترامپ رئیس‌جمهور آمریکا در دیدار با شی جین‌پینگ همتای چینی خود موضوع ایران را مطرح کرده است، اما \"هیچ درخواستی\" از او نداشته است.<br>&nbsp;<br>روبیو در مصاحبه با شبکه \"ان‌بی‌سی نیوز\" گفت: «ما از چین درخواست کمک نمی‌کنیم. به کمک آن‌ها نیازی نداریم.»<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
       "plain_text": "✅روبیو: ترامپ درباره ایران با شی گفتگو کرد، اما کمکی نخواست مارکو روبیو، وزیر امور خارجه آمریکا، اعلام کرد که ، دونالد ترامپ رئیس‌جمهور آمریکا در دیدار با شی جین‌پینگ همتای چینی خود موضوع ایران را مطرح کرده است، اما \"هیچ درخواستی\" از او نداشته است. روبیو در مصاحبه با شبکه \"ان‌بی‌سی نیوز\" گفت: «ما از چین درخواست کمک نمی‌کنیم. به کمک آن‌ها نیازی نداریم.» @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "2.88K",
+      "views_label": "18.4K",
       "posted_at": "2026-05-14T23:08:26+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/141775"
@@ -27,13 +183,13 @@
     {
       "id": "sahamnewsorg/141774",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/eKkrFQXva91OOfOFNCplsVSisz1NRFVe3jrVXrD1pXhjI2yJuMBfdgTGuNCmOTy3N0hGO6_88bNBZVhT3oXZSQytUX0Hf93iK7EQH_ZLDCPZJsIFrXH48UiDgZIctyBRLAR3fecMvcAtNt4hIuMrI-BY3eiNgtkkcNt_h52fqqTyVAOYRisnTMs7yq2w8eVgZJedDJKroYpvEGIdX-FuoPKVe38Mp2WHUkLujmdzHyhtPCvurF-cuAo3kVurn8L6bscAEgE-PU6JIMqcNKoOPbcuBpF5pyZuGEwJPcUW2FllEikceLISNzatVYbCz8CCTwLIVOeCvbJTXgs07Rjpww.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/dfa4b63a837bc2520df6de00.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>مجلس نمایندگان آمریکا برای سومین بار به طرحی رای منفی داد که هدف آن محدود کردن اختیارات نظامی دونالد ترامپ در قبال ایران بود. <br><br>این طرح که از سوی دموکرات‌ها ارائه شده بود، با نتیجه&nbsp; ۲۱۲ رای موافق در برابر ۲۱۲ رای مخالف و به دلیل به حد نصاب نرسیدن آرا شکست خورد.<br><br>به گزارش سی‌بی‌اس، بر اساس این طرح، رئیس‌جمهوری آمریکا موظف می‌شد حداکثر ظرف ۳۰ روز پس از آغاز درگیری‌ها، نیروهای آمریکایی را از جنگ خارج کند؛ مگر اینکه کنگره مجوز ادامه عملیات را صادر کند.<br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
       "plain_text": "✅مجلس نمایندگان آمریکا برای سومین بار به طرحی رای منفی داد که هدف آن محدود کردن اختیارات نظامی دونالد ترامپ در قبال ایران بود. این طرح که از سوی دموکرات‌ها ارائه شده بود، با نتیجه ۲۱۲ رای موافق در برابر ۲۱۲ رای مخالف و به دلیل به حد نصاب نرسیدن آرا شکست خورد. به گزارش سی‌بی‌اس، بر اساس این طرح، رئیس‌جمهوری آمریکا موظف می‌شد حداکثر ظرف ۳۰ روز پس از آغاز درگیری‌ها، نیروهای آمریکایی را از جنگ خارج کند؛ مگر اینکه کنگره مجوز ادامه عملیات را صادر کند. @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "3.45K",
+      "views_label": "18.4K",
       "posted_at": "2026-05-14T22:56:15+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141774"
@@ -41,8 +197,8 @@
     {
       "id": "sahamnewsorg/141773",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/eKkrFQXva91OOfOFNCplsVSisz1NRFVe3jrVXrD1pXhjI2yJuMBfdgTGuNCmOTy3N0hGO6_88bNBZVhT3oXZSQytUX0Hf93iK7EQH_ZLDCPZJsIFrXH48UiDgZIctyBRLAR3fecMvcAtNt4hIuMrI-BY3eiNgtkkcNt_h52fqqTyVAOYRisnTMs7yq2w8eVgZJedDJKroYpvEGIdX-FuoPKVe38Mp2WHUkLujmdzHyhtPCvurF-cuAo3kVurn8L6bscAEgE-PU6JIMqcNKoOPbcuBpF5pyZuGEwJPcUW2FllEikceLISNzatVYbCz8CCTwLIVOeCvbJTXgs07Rjpww.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/dfa4b63a837bc2520df6de00.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>اون احمقی که دستور داده؛ ساعت‌ ۱۲ شب بلندگو رو وانت بزارن؛ مداحی پخش کنن و با ۵ تا ماشین پر بچه شعار بدن؛ و تو محله‌ها بگردن؛ براتون فحش و لعنت می‌خره.<br><br>‏قد ارزن عقل داشته باشید؛ مردم آزاری نکنید؛ به مردم احترام بزارید؛ درکش خیلی ساده است.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
       "plain_text": "✅اون احمقی که دستور داده؛ ساعت‌ ۱۲ شب بلندگو رو وانت بزارن؛ مداحی پخش کنن و با ۵ تا ماشین پر بچه شعار بدن؛ و تو محله‌ها بگردن؛ براتون فحش و لعنت می‌خره. ‏قد ارزن عقل داشته باشید؛ مردم آزاری نکنید؛ به مردم احترام بزارید؛ درکش خیلی ساده است. @Sahamnewsorg",
       "media": [
@@ -57,7 +213,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "7.61K",
+      "views_label": "19.8K",
       "posted_at": "2026-05-14T21:47:19+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141773"
@@ -65,8 +221,8 @@
     {
       "id": "sahamnewsorg/141772",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/eKkrFQXva91OOfOFNCplsVSisz1NRFVe3jrVXrD1pXhjI2yJuMBfdgTGuNCmOTy3N0hGO6_88bNBZVhT3oXZSQytUX0Hf93iK7EQH_ZLDCPZJsIFrXH48UiDgZIctyBRLAR3fecMvcAtNt4hIuMrI-BY3eiNgtkkcNt_h52fqqTyVAOYRisnTMs7yq2w8eVgZJedDJKroYpvEGIdX-FuoPKVe38Mp2WHUkLujmdzHyhtPCvurF-cuAo3kVurn8L6bscAEgE-PU6JIMqcNKoOPbcuBpF5pyZuGEwJPcUW2FllEikceLISNzatVYbCz8CCTwLIVOeCvbJTXgs07Rjpww.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/dfa4b63a837bc2520df6de00.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
       "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>یک&nbsp;زوج چینی تو تهران داشتن با گوشیشون فیلم‌ میگرفتن که دو زن رهگذر </b>وابسته به حكومت<b> تصور کردن اینا آمریکایی هستن و به تلفن همراه زن چینی ضربه زدن و شروع کردن به عربی و فارسی شعار دادن علیه آمریکا:(<br><br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
       "plain_text": "✅یک زوج چینی تو تهران داشتن با گوشیشون فیلم‌ میگرفتن که دو زن رهگذر وابسته به حكومت تصور کردن اینا آمریکایی هستن و به تلفن همراه زن چینی ضربه زدن و شروع کردن به عربی و فارسی شعار دادن علیه آمریکا:( @Sahamnewsorg",
       "media": [
@@ -81,7 +237,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.23K",
+      "views_label": "20.3K",
       "posted_at": "2026-05-14T21:25:06+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141772"
@@ -89,8 +245,8 @@
     {
       "id": "sahamnewsorg/141771",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/eKkrFQXva91OOfOFNCplsVSisz1NRFVe3jrVXrD1pXhjI2yJuMBfdgTGuNCmOTy3N0hGO6_88bNBZVhT3oXZSQytUX0Hf93iK7EQH_ZLDCPZJsIFrXH48UiDgZIctyBRLAR3fecMvcAtNt4hIuMrI-BY3eiNgtkkcNt_h52fqqTyVAOYRisnTMs7yq2w8eVgZJedDJKroYpvEGIdX-FuoPKVe38Mp2WHUkLujmdzHyhtPCvurF-cuAo3kVurn8L6bscAEgE-PU6JIMqcNKoOPbcuBpF5pyZuGEwJPcUW2FllEikceLISNzatVYbCz8CCTwLIVOeCvbJTXgs07Rjpww.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/dfa4b63a837bc2520df6de00.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
       "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>اعتصاب غذای بریتانیایی به گروگان گرفته شده در زندان اوین؛ رژیم ایران کرگ فورمن را «ملاقات ممنوع» کرده است<br><br>کرگ فورمن، شهروند بریتانیایی زندانی در اوین، در اعتراض به محرومیت از ملاقات و محدودیت‌های اعمال‌شده علیه خود و همسرش، اعتصاب غذا کرده است.<br><br>کرگ فورمن و همسرش لیندسی فورمن، جهانگردان موتورسوار بریتانیایی هستند که در قالب سفری زمینی به دور دنیا وارد ایران شده بودند. این زوج پس از ورود از طریق ارمنستان قصد داشتند سفر خود را به سمت استرالیا ادامه دهند، اما در دی‌ماه ۱۴۰۳ در شهر کرمان بازداشت شدند.<br><br>ایران طی سال‌های گذشته بارها با «دیپلماسی گروگان‌گیری»، از بازداشت اتباع خارجی برای فشار سیاسی، تبادل زندانی یا گرفتن امتیاز از دولت‌های غربی استفاده کرده است.<br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
       "plain_text": "✅اعتصاب غذای بریتانیایی به گروگان گرفته شده در زندان اوین؛ رژیم ایران کرگ فورمن را «ملاقات ممنوع» کرده است کرگ فورمن، شهروند بریتانیایی زندانی در اوین، در اعتراض به محرومیت از ملاقات و محدودیت‌های اعمال‌شده علیه خود و همسرش، اعتصاب غذا کرده است. کرگ فورمن و همسرش لیندسی فورمن، جهانگردان موتورسوار بریتانیایی هستند که در قالب سفری زمینی به دور دنیا وارد ایران شده بودند. این زوج پس از ورود از طریق ارمنستان قصد داشتند سفر خود را به سمت استرالیا ادامه دهند، اما در دی‌ماه ۱۴۰۳ در شهر کرمان بازداشت شدند. ایران طی سال‌های گذشته بارها با «دیپلماسی گروگان‌گیری»، از بازداشت اتباع خارجی برای فشار سیاسی، تبادل زندانی یا گرفتن امتیاز از دولت‌های غربی استفاده کرده است. @Sahamnewsorg",
       "media": [
@@ -105,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.5K",
+      "views_label": "19.8K",
       "posted_at": "2026-05-14T20:54:03+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141771"
@@ -113,13 +269,13 @@
     {
       "id": "sahamnewsorg/141770",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/eKkrFQXva91OOfOFNCplsVSisz1NRFVe3jrVXrD1pXhjI2yJuMBfdgTGuNCmOTy3N0hGO6_88bNBZVhT3oXZSQytUX0Hf93iK7EQH_ZLDCPZJsIFrXH48UiDgZIctyBRLAR3fecMvcAtNt4hIuMrI-BY3eiNgtkkcNt_h52fqqTyVAOYRisnTMs7yq2w8eVgZJedDJKroYpvEGIdX-FuoPKVe38Mp2WHUkLujmdzHyhtPCvurF-cuAo3kVurn8L6bscAEgE-PU6JIMqcNKoOPbcuBpF5pyZuGEwJPcUW2FllEikceLISNzatVYbCz8CCTwLIVOeCvbJTXgs07Rjpww.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/dfa4b63a837bc2520df6de00.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>خضريان عضو کمیسیون امنیت ملی مجلس: کویت فراموش نکند که تنها در ۹۰ دقیقه توسط صدام تسخیر شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>پ ن:ظاهراً ایشان فراموش کرده بگوید که همان صدام بعداً با چه ذلتی از کویت بیرون انداخته شد و ارتشش چه بلایی سرش آمد. ستون‌های نظامی عراق زیر بمباران ائتلاف چنان نابود شدند که کیلومترها جاده پر از تانک‌ها و خودروهای سوخته و اجساد نیروهای عراقی بود. تهدید کردن دیگران با سرنوشت صدام، انتخاب عجیبی است؛ مخصوصاً وقتی پایان کارش هم جلوی چشم همه دنیا ثبت شده است.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
       "plain_text": "✅خضريان عضو کمیسیون امنیت ملی مجلس: کویت فراموش نکند که تنها در ۹۰ دقیقه توسط صدام تسخیر شد. 🔻پ ن:ظاهراً ایشان فراموش کرده بگوید که همان صدام بعداً با چه ذلتی از کویت بیرون انداخته شد و ارتشش چه بلایی سرش آمد. ستون‌های نظامی عراق زیر بمباران ائتلاف چنان نابود شدند که کیلومترها جاده پر از تانک‌ها و خودروهای سوخته و اجساد نیروهای عراقی بود. تهدید کردن دیگران با سرنوشت صدام، انتخاب عجیبی است؛ مخصوصاً وقتی پایان کارش هم جلوی چشم همه دنیا ثبت شده است. @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "11.3K",
+      "views_label": "19.5K",
       "posted_at": "2026-05-14T20:37:19+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141770"
@@ -127,8 +283,8 @@
     {
       "id": "sahamnewsorg/141769",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/eKkrFQXva91OOfOFNCplsVSisz1NRFVe3jrVXrD1pXhjI2yJuMBfdgTGuNCmOTy3N0hGO6_88bNBZVhT3oXZSQytUX0Hf93iK7EQH_ZLDCPZJsIFrXH48UiDgZIctyBRLAR3fecMvcAtNt4hIuMrI-BY3eiNgtkkcNt_h52fqqTyVAOYRisnTMs7yq2w8eVgZJedDJKroYpvEGIdX-FuoPKVe38Mp2WHUkLujmdzHyhtPCvurF-cuAo3kVurn8L6bscAEgE-PU6JIMqcNKoOPbcuBpF5pyZuGEwJPcUW2FllEikceLISNzatVYbCz8CCTwLIVOeCvbJTXgs07Rjpww.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/dfa4b63a837bc2520df6de00.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
       "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>روزنامه اعتماد مدعی شد: اینترنت بین الملل خرداد ماه وصل می‌ شود</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>پ ن: اميدواريم دولت چشم نخوره<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
       "plain_text": "✅روزنامه اعتماد مدعی شد: اینترنت بین الملل خرداد ماه وصل می‌ شود 🔻پ ن: اميدواريم دولت چشم نخوره @Sahamnewsorg",
       "media": [
@@ -143,7 +299,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.8K",
+      "views_label": "19.8K",
       "posted_at": "2026-05-14T20:27:36+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141769"
@@ -151,13 +307,13 @@
     {
       "id": "sahamnewsorg/141768",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/eKkrFQXva91OOfOFNCplsVSisz1NRFVe3jrVXrD1pXhjI2yJuMBfdgTGuNCmOTy3N0hGO6_88bNBZVhT3oXZSQytUX0Hf93iK7EQH_ZLDCPZJsIFrXH48UiDgZIctyBRLAR3fecMvcAtNt4hIuMrI-BY3eiNgtkkcNt_h52fqqTyVAOYRisnTMs7yq2w8eVgZJedDJKroYpvEGIdX-FuoPKVe38Mp2WHUkLujmdzHyhtPCvurF-cuAo3kVurn8L6bscAEgE-PU6JIMqcNKoOPbcuBpF5pyZuGEwJPcUW2FllEikceLISNzatVYbCz8CCTwLIVOeCvbJTXgs07Rjpww.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/dfa4b63a837bc2520df6de00.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>جایزه دولت برای کشتن ترامپ!!<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>عزیزی، رئیس کمیسیون امنیت ملی مجلس: پیش بینی کرده‌ایم دولت به هر کسی که این رسالت دینی (کشتن ترامپ) را انجام دهد، به عنوان پاداش ۵۰ میلیون یورو بپردازد<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
       "plain_text": "✅جایزه دولت برای کشتن ترامپ!! 🔹عزیزی، رئیس کمیسیون امنیت ملی مجلس: پیش بینی کرده‌ایم دولت به هر کسی که این رسالت دینی (کشتن ترامپ) را انجام دهد، به عنوان پاداش ۵۰ میلیون یورو بپردازد @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "11.7K",
+      "views_label": "19.5K",
       "posted_at": "2026-05-14T20:24:35+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/141768"
@@ -165,8 +321,8 @@
     {
       "id": "sahamnewsorg/141767",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/eKkrFQXva91OOfOFNCplsVSisz1NRFVe3jrVXrD1pXhjI2yJuMBfdgTGuNCmOTy3N0hGO6_88bNBZVhT3oXZSQytUX0Hf93iK7EQH_ZLDCPZJsIFrXH48UiDgZIctyBRLAR3fecMvcAtNt4hIuMrI-BY3eiNgtkkcNt_h52fqqTyVAOYRisnTMs7yq2w8eVgZJedDJKroYpvEGIdX-FuoPKVe38Mp2WHUkLujmdzHyhtPCvurF-cuAo3kVurn8L6bscAEgE-PU6JIMqcNKoOPbcuBpF5pyZuGEwJPcUW2FllEikceLISNzatVYbCz8CCTwLIVOeCvbJTXgs07Rjpww.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/dfa4b63a837bc2520df6de00.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>فرمانده سنتكام:بازسازي نيروي دريايي ايران دست كم يك نسل طول مي كشد<br><br><b>‌دریاسالار برد کوپر، فرمانده سنتکام، طی یک جلسه استماع در مورد جنگ با ایران در سنای آمریکا گفت که توانایی ایران برای تهدید همسایگان خود و منافع ایالات متحده در منطقه به طور چشمگیری کاهش یافته است.<br><br>او گفت عملیات نظامی ما زیرساخت صنعتی توانمندی‌های موشکی، دریایی و ساخت پهپاد ایران را تا ۹۰ درصد تضعیف کرده و بازسازی نیروی دریایی این کشور دستکم یک نسل به طول می‌انجامد.<br><br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
       "plain_text": "✅فرمانده سنتكام:بازسازي نيروي دريايي ايران دست كم يك نسل طول مي كشد ‌دریاسالار برد کوپر، فرمانده سنتکام، طی یک جلسه استماع در مورد جنگ با ایران در سنای آمریکا گفت که توانایی ایران برای تهدید همسایگان خود و منافع ایالات متحده در منطقه به طور چشمگیری کاهش یافته است. او گفت عملیات نظامی ما زیرساخت صنعتی توانمندی‌های موشکی، دریایی و ساخت پهپاد ایران را تا ۹۰ درصد تضعیف کرده و بازسازی نیروی دریایی این کشور دستکم یک نسل به طول می‌انجامد. @Sahamnewsorg",
       "media": [
@@ -181,7 +337,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "18.2K",
+      "views_label": "22.3K",
       "posted_at": "2026-05-14T16:44:12+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141767"
@@ -189,13 +345,13 @@
     {
       "id": "sahamnewsorg/141766",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/eKkrFQXva91OOfOFNCplsVSisz1NRFVe3jrVXrD1pXhjI2yJuMBfdgTGuNCmOTy3N0hGO6_88bNBZVhT3oXZSQytUX0Hf93iK7EQH_ZLDCPZJsIFrXH48UiDgZIctyBRLAR3fecMvcAtNt4hIuMrI-BY3eiNgtkkcNt_h52fqqTyVAOYRisnTMs7yq2w8eVgZJedDJKroYpvEGIdX-FuoPKVe38Mp2WHUkLujmdzHyhtPCvurF-cuAo3kVurn8L6bscAEgE-PU6JIMqcNKoOPbcuBpF5pyZuGEwJPcUW2FllEikceLISNzatVYbCz8CCTwLIVOeCvbJTXgs07Rjpww.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/dfa4b63a837bc2520df6de00.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
       "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>ترامپ: رئیس‌جمهور چین</b> <b>گفت به خرید نفت از ایران ادامه می‌دهد</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> رئیس دولت آمریکا: رئیس‌جمهور چین به من گفت پکن به ایران تجهیزات نظامی نخواهد داد اما در عین حال گفت چین به خرید نفت از ایران ادامه می‌دهد.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
       "plain_text": "✅ترامپ: رئیس‌جمهور چین گفت به خرید نفت از ایران ادامه می‌دهد 🔹 رئیس دولت آمریکا: رئیس‌جمهور چین به من گفت پکن به ایران تجهیزات نظامی نخواهد داد اما در عین حال گفت چین به خرید نفت از ایران ادامه می‌دهد. @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "18.2K",
+      "views_label": "21.6K",
       "posted_at": "2026-05-14T16:14:22+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/141766"
@@ -203,8 +359,8 @@
     {
       "id": "sahamnewsorg/141765",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/eKkrFQXva91OOfOFNCplsVSisz1NRFVe3jrVXrD1pXhjI2yJuMBfdgTGuNCmOTy3N0hGO6_88bNBZVhT3oXZSQytUX0Hf93iK7EQH_ZLDCPZJsIFrXH48UiDgZIctyBRLAR3fecMvcAtNt4hIuMrI-BY3eiNgtkkcNt_h52fqqTyVAOYRisnTMs7yq2w8eVgZJedDJKroYpvEGIdX-FuoPKVe38Mp2WHUkLujmdzHyhtPCvurF-cuAo3kVurn8L6bscAEgE-PU6JIMqcNKoOPbcuBpF5pyZuGEwJPcUW2FllEikceLISNzatVYbCz8CCTwLIVOeCvbJTXgs07Rjpww.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/dfa4b63a837bc2520df6de00.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/uSqZ_Mjhy3ePG--Ym6CPgG3rEX_Ue93BIUzIEP6PKuHWhV6pAAqYWkOBjwlVO32INAwqZtiChk0nzR3qu5zuE3S8qz27CPFzwHekR-ka92tmGeUJKLBgiUQmvO3zfFXtR5KUWzgjyTuEi147Wj2RgYJglrBdeTsyUt_SYLV_XjpaYYDvMJj0UmQ4BuLMN4Ckxg5NjRV73EEgnuME_gSYrLvc60xVvaSngDVYX-7Ju826OrTzJqSIhHb8LO7j53rjJ3aEIiO1HXGVjb4hSKi5KZnLxz_iBNeHVdEY-vESWsy5nMFB_-b46XId2Yb5je3Yf9raDBUM1zwBSQct4m7WDQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/243a3164d95f4456ecf5bc3d.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>پیروزی طوفان‌الاقصی<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9894.png')\"><b>😔</b></i><br><br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
       "plain_text": "✅پیروزی طوفان‌الاقصی😔 @Sahamnewsorg",
       "media": [
@@ -219,7 +375,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.1K",
+      "views_label": "23.2K",
       "posted_at": "2026-05-14T14:46:18+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141765"
