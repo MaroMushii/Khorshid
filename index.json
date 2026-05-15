@@ -1,19 +1,19 @@
 {
   "schema": 2,
-  "generated_at": "2026-05-15T16:30:58.590Z",
+  "generated_at": "2026-05-15T20:41:57.451Z",
   "channels": [
     {
       "username": "bbcpersian",
       "title": "BBCPersian",
-      "last_fetched_at": "2026-05-15T16:30:54.543Z",
-      "post_count": 65,
-      "media_count": 64,
+      "last_fetched_at": "2026-05-15T20:41:51.857Z",
+      "post_count": 76,
+      "media_count": 70,
       "snapshot_path": "channels/bbcpersian/snapshot.json"
     },
     {
       "username": "dwpersian",
       "title": "DW Persian | دویچه وله فارسی",
-      "last_fetched_at": "2026-05-15T16:30:54.462Z",
+      "last_fetched_at": "2026-05-15T20:41:51.805Z",
       "post_count": 20,
       "media_count": 5,
       "snapshot_path": "channels/dwpersian/snapshot.json"
@@ -21,39 +21,39 @@
     {
       "username": "farsi_iranwire",
       "title": "Iranwire",
-      "last_fetched_at": "2026-05-15T16:30:54.507Z",
-      "post_count": 43,
-      "media_count": 40,
+      "last_fetched_at": "2026-05-15T20:41:51.893Z",
+      "post_count": 52,
+      "media_count": 48,
       "snapshot_path": "channels/farsi_iranwire/snapshot.json"
     },
     {
       "username": "farsivoa",
       "title": "Farsi VOA",
-      "last_fetched_at": "2026-05-15T16:30:55.830Z",
-      "post_count": 72,
-      "media_count": 55,
+      "last_fetched_at": "2026-05-15T20:41:53.094Z",
+      "post_count": 92,
+      "media_count": 69,
       "snapshot_path": "channels/farsivoa/snapshot.json"
     },
     {
       "username": "hranews",
       "title": "خبرگزاری هرانا",
-      "last_fetched_at": "2026-05-15T16:30:56.009Z",
-      "post_count": 27,
-      "media_count": 14,
+      "last_fetched_at": "2026-05-15T20:41:54.027Z",
+      "post_count": 33,
+      "media_count": 15,
       "snapshot_path": "channels/hranews/snapshot.json"
     },
     {
       "username": "iranintltv",
       "title": "Iran International ایران اینترنشنال",
-      "last_fetched_at": "2026-05-15T16:30:56.281Z",
-      "post_count": 92,
-      "media_count": 91,
+      "last_fetched_at": "2026-05-15T20:41:54.291Z",
+      "post_count": 100,
+      "media_count": 94,
       "snapshot_path": "channels/iranintltv/snapshot.json"
     },
     {
       "username": "mamlekate",
       "title": "مملکته",
-      "last_fetched_at": "2026-05-15T16:30:57.254Z",
+      "last_fetched_at": "2026-05-15T20:41:55.026Z",
       "post_count": 23,
       "media_count": 11,
       "snapshot_path": "channels/mamlekate/snapshot.json"
@@ -61,17 +61,17 @@
     {
       "username": "radiofarda",
       "title": "RadioFarda",
-      "last_fetched_at": "2026-05-15T16:30:57.417Z",
-      "post_count": 57,
-      "media_count": 30,
+      "last_fetched_at": "2026-05-15T20:41:55.535Z",
+      "post_count": 65,
+      "media_count": 35,
       "snapshot_path": "channels/radiofarda/snapshot.json"
     },
     {
       "username": "sahamnewsorg",
       "title": "سهام نیوز",
-      "last_fetched_at": "2026-05-15T16:30:57.487Z",
-      "post_count": 46,
-      "media_count": 21,
+      "last_fetched_at": "2026-05-15T20:41:56.409Z",
+      "post_count": 49,
+      "media_count": 24,
       "snapshot_path": "channels/sahamnewsorg/snapshot.json"
     }
   ]
