@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-16T11:19:24.655Z",
+  "fetched_at": "2026-05-16T11:19:53.786Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -22,8 +22,8 @@
           "kind": "photo",
           "asset_url": "https://t.me/farsivoa/217885",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Hk3SldFUaj0tP0xwCRRWsdh1AG-oVHQNgr8Aks6reHyeYymguEShT7wQg-je9suJyKaajxleWp1vl7f96N-e3DrUlAEV9YkGBAJJkDWLUc1rWJ6EPPXkSHsB7IjiYwwJC35DlR23Jf4K8dyokpgBwr_C2SorjnGZARWSfgRVKsPcV8RT_ekw8X0KuvTVNU06SHrCu9CMUFXN73SgmBPUihacHL4VZvqfJBfRi1Log3iPBlK-22DYHDZ9S65P21rw5W6Z2aKJ5kEGUdME9Qz5wJfH__2JLFw8oc-a9hjtAAknDRjgSqmfQgYQ2XpNc_yigeGU3-_GjyGzh-Yh_KzTww.jpg",
-          "thumbnail_path": "channels/farsivoa/media/a908aa8796c8ee2d14f80346.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/W4dD1OLdvguwIGYKeEQ-btv13PPhmuW5pFerHlh360ch6q1Nx1mDCW4xDDMCnBN2dgKdUXldwis8g2YNkSh20QHQ1d6ZiPnSjkHZtyZTTuO10md_Li38FOzouWOVTzWooeV13dwonyz6bCS5g-91iHN6CJ9g3haGag1K3wfO19jiwe7tiyziXaZpJgiQdFHTCjQMhBGCd80Ox1BomaX1tlbj9sdWffAgBYAWAOCYy6y-STTPCb2fHgqwHxUgldrsbu-K62bVEtTO9Ix4FgMpyLb16jOwpLDcTt6WZmXTrLhT7ka6a1joajdYdrFC5dgBpM0Dkz-nQW9ok9jEoRPaBg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/9979d32e968ec32f37425e5c.jpg",
           "duration_label": null,
           "aspect_ratio": 0.8
         }
@@ -31,7 +31,7 @@
       "reactions": [],
       "views_label": "173",
       "posted_at": "2026-05-16T11:13:28+00:00",
-      "edited": false,
+      "edited": true,
       "permalink": "https://t.me/farsivoa/217885"
     },
     {
@@ -77,7 +77,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.07K",
+      "views_label": "1.08K",
       "posted_at": "2026-05-16T10:30:36+00:00",
       "edited": true,
       "permalink": "https://t.me/farsivoa/217883"
@@ -91,7 +91,7 @@
       "plain_text": "🔺بلومبرگ: ادامه جنگ نگرانی از بازگشت تورم جهانی را تشدید کرد ◾️پیامدهای جنگ در خاورمیانه همچنان در اقتصاد جهانی گسترش می‌یابد و چشم‌انداز رشد، تورم و بازارهای مالی را پیچیده‌تر کرده است. ◾️بر اساس این گزارش، جنگ دیگر فقط یک بحران منطقه‌ای نیست؛ اثر آن از مسیر نفت، هزینه حمل‌ونقل، قیمت کالاها و انتظارات تورمی به اقتصادهای بزرگ و کوچک منتقل شده است. ◾️صندوق بین‌المللی پول اخیراً اعلام کرد که جنگ در خاورمیانه اقتصاد جهانی را با شوک تازه‌ای روبه‌رو کرده و حتی با فرض محدود ماندن درگیری، رشد جهانی در سال ۲۰۲۶ به ۳.۱ درصد کاهش می‌یابد. ◾️سازمان همکاری و توسعه اقتصادی نیز پیش‌بینی کرده رشد جهانی در سال ۲۰۲۶ به ۲.۹ درصد برسد و تورم اقتصادهای گروه ۲۰ به ۴ درصد افزایش یابد. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150656.html",
       "media": [],
       "reactions": [],
-      "views_label": "1.03K",
+      "views_label": "1.04K",
       "posted_at": "2026-05-16T10:26:00+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/217882"
@@ -153,7 +153,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.53K",
+      "views_label": "1.54K",
       "posted_at": "2026-05-16T09:13:11+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/217879"
@@ -215,7 +215,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.62K",
+      "views_label": "1.63K",
       "posted_at": "2026-05-16T08:29:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/217876"
@@ -277,7 +277,7 @@
       "plain_text": "🔺نیویورک‌تایمز: آمریکا و اسرائیل آماده شروع حملات به جمهوری اسلامی می‌شوند ◾️نیویورک‌تایمز به نقل از دو مقام خاورمیانه‌ای گزارش داد که آمریکا و اسرائیل در حال انجام فشرده‌ترین آماده‌سازی‌ها از زمان آتش‌بس ماه گذشته برای ازسرگیری احتمالی حملات علیه ایران هستند؛ حملاتی که ممکن است از اوایل هفته آینده در دستور کار قرار گیرد. ◾️بر اساس این گزارش، یکی از گزینه‌های مورد بررسی آمریکا، اعزام نیروهای ویژه به خاک ایران برای خارج‌کردن مواد هسته‌ای مدفون زیر آوار تأسیسات بمباران‌شده است. ◾️این گزارش در شرایطی منتشر شده که دونالد ترامپ، رئیس جمهوری آمریکا، به تازگی در گفت‌وگویی با فاکس‌نیوز گفت: «خیلی بیشتر از این صبر نخواهم کرد» و افزود که تهران باید با آمریکا به توافق برسد. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150653.html",
       "media": [],
       "reactions": [],
-      "views_label": "2.14K",
+      "views_label": "2.15K",
       "posted_at": "2026-05-16T07:16:44+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/217873"
@@ -339,7 +339,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "2.29K",
+      "views_label": "2.3K",
       "posted_at": "2026-05-16T06:06:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/217870"
