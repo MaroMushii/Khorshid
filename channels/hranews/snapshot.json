@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-16T07:31:08.085Z",
+  "fetched_at": "2026-05-16T11:19:24.785Z",
   "channel": {
     "username": "hranews",
     "title": "خبرگزاری هرانا",
@@ -11,17 +11,159 @@
   },
   "posts": [
     {
+      "id": "hranews/112968",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/LCiwXE1S8tef0ZUQZvZg7aHb8-9eP_i6Y-l__iESt1u2KOcnvGCp4VodcujKf3TvizFgPn34Gr6jCLdxMqxOGzPrpE5vt2btysE5pY1u3AGdLJG-RjxuyIXwq3VZhcRsxV-BFxxdPzRU_-Ij0qLt-5JXQvrl0ru18zuWPQ1DsAdmu1avWV-gfGNuw_9wSerDWAanBWUZkdmOd3VcrTCmt8XNgBQUaWKhfFUIBxYoWAbhFmipGNMlxkxdB9FoqiUrgjvQZ6v81163GGr4koc1VSXIZ5O4rm51BlTNdr4z3Z2Pu4G9D3hGyElEo2w9qHU2kvRLrE0ksCVVKXAEcYXGog.jpg",
+      "author_photo_path": "channels/hranews/media/d2931c90d64e23fd3ec98f20.jpg",
+      "body_html": "خبرگزاری کار ایران در گزارشی نوشت: در روزهایی که <a href=\"?q=%23%D8%A8%DB%8C%DA%A9%D8%A7%D8%B1%DB%8C\">#بیکاری</a> فشار بی‌سابقه‌ای بر زندگی کارگران وارد کرده، مراجعه به واحد شمال‌شرق اداره کار تهران بیش از هر چیز روایت انسان‌هایی است که میان امید و ناامیدی سرگردان مانده‌اند. جایی که باید پناهگاه کارگران بیکار باشد، امروز با انباشت پرونده‌ها و تأخیرهای طولانی در رسیدگی مواجه است؛ به‌طوری‌که شکایت‌های ثبت‌شده از اسفندماه سال گذشته همچنان بلاتکلیف باقی مانده‌اند.<br><br>در میان این انتظارهای طولانی، صدای <a href=\"?q=%23%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%D9%86\">#کارگران</a> بیش از هر آمار و گزارشی شنیده می‌شود. یکی از آن‌ها با چشمانی خسته می‌گوید: «از کار بیکارم کردند، با هزار امید آمدم تا دست‌کم بیمه بیکاری‌ام برقرار شود و شرمنده صاحب‌خانه نشم… یک ماهه هر بار میام میگن در دست بررسیه.» کارگر دیگری که ۱۵ سال در یک کارخانه کار کرده، با تلخی اضافه می‌کند: «همه جوانی‌م رو اونجا گذاشتم، آخرش گفتن به مشکل خوردیم، نیازی به شما نیست… حالا یک ماهه فقط دارم می‌دوم دنبال بیمه بیکاری، بی‌جواب.»<br><br>در کنار این روایت‌ها، پرونده‌هایی دیده می‌شود که از اواخر فروردین ثبت شده‌اند اما هنوز در وضعیت «در دست بررسی» باقی مانده‌اند؛ در حالی که بسیاری از این کارگران با اجاره‌خانه عقب‌افتاده، بدهی و بیکاری ناگهانی دست‌وپنجه نرم می‌کنند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "خبرگزاری کار ایران در گزارشی نوشت: در روزهایی که #بیکاری فشار بی‌سابقه‌ای بر زندگی کارگران وارد کرده، مراجعه به واحد شمال‌شرق اداره کار تهران بیش از هر چیز روایت انسان‌هایی است که میان امید و ناامیدی سرگردان مانده‌اند. جایی که باید پناهگاه کارگران بیکار باشد، امروز با انباشت پرونده‌ها و تأخیرهای طولانی در رسیدگی مواجه است؛ به‌طوری‌که شکایت‌های ثبت‌شده از اسفندماه سال گذشته همچنان بلاتکلیف باقی مانده‌اند. در میان این انتظارهای طولانی، صدای #کارگران بیش از هر آمار و گزارشی شنیده می‌شود. یکی از آن‌ها با چشمانی خسته می‌گوید: «از کار بیکارم کردند، با هزار امید آمدم تا دست‌کم بیمه بیکاری‌ام برقرار شود و شرمنده صاحب‌خانه نشم… یک ماهه هر بار میام میگن در دست بررسیه.» کارگر دیگری که ۱۵ سال در یک کارخانه کار کرده، با تلخی اضافه می‌کند: «همه جوانی‌م رو اونجا گذاشتم، آخرش گفتن به مشکل خوردیم، نیازی به شما نیست… حالا یک ماهه فقط دارم می‌دوم دنبال بیمه بیکاری، بی‌جواب.» در کنار این روایت‌ها، پرونده‌هایی دیده می‌شود که از اواخر فروردین ثبت شده‌اند اما هنوز در وضعیت «در دست بررسی» باقی مانده‌اند؛ در حالی که بسیاری از این کارگران با اجاره‌خانه عقب‌افتاده، بدهی و بیکاری ناگهانی دست‌وپنجه نرم می‌کنند. ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/112968",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/kXCBGvNf6YhepbMM9D8nr4eKmrFJ-L8SOI6TINuSjUyFC-DboA-rZtqnBXfq96UFfh579d0tHOYmBoKsguz_PWL992uFStuj_rjx3cnl5KEUgGZJ6eEmzhUCZzOeAGh5qlwrPYLOQGBdepCMVxlJFRsCZHWEdgCHgYhaNAXJ3OTdZr1Ebb5ls4yco-zPbIHLUD-Wk9J9Exli1ixeBY92O9py7vdUklzIDsfqcOuAvVYyftMJvJT3ehRvRQrkScOSUd7ShdTA5iEcqHl7tY1oeXrd2mbLnma2NvCqnrH1y12XYRHxLGQ2vEloNEUwIeNW4eGqJoXHHhlOud3WM5O_Fg.jpg",
+          "thumbnail_path": "channels/hranews/media/7f2a140cfe4aed74bfccedef.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [],
+      "views_label": "90",
+      "posted_at": "2026-05-16T10:59:52+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/112968"
+    },
+    {
+      "id": "hranews/112967",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/LCiwXE1S8tef0ZUQZvZg7aHb8-9eP_i6Y-l__iESt1u2KOcnvGCp4VodcujKf3TvizFgPn34Gr6jCLdxMqxOGzPrpE5vt2btysE5pY1u3AGdLJG-RjxuyIXwq3VZhcRsxV-BFxxdPzRU_-Ij0qLt-5JXQvrl0ru18zuWPQ1DsAdmu1avWV-gfGNuw_9wSerDWAanBWUZkdmOd3VcrTCmt8XNgBQUaWKhfFUIBxYoWAbhFmipGNMlxkxdB9FoqiUrgjvQZ6v81163GGr4koc1VSXIZ5O4rm51BlTNdr4z3Z2Pu4G9D3hGyElEo2w9qHU2kvRLrE0ksCVVKXAEcYXGog.jpg",
+      "author_photo_path": "channels/hranews/media/d2931c90d64e23fd3ec98f20.jpg",
+      "body_html": "دادگاه تجدیدنظر؛ امیر رحیمی، معلم به حبس محکوم شد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– امیر رحیمی، معلم محبوس در زندان شهرستان درود و از بازداشت شدگان اعتراضات دی ماه ۱۴۰۴، توسط دادگاه تجدیدنظر استان لرستان به چهار سال حبس محکوم شد.<br><br><a href=\"?q=%23%D8%A7%D9%85%DB%8C%D8%B1_%D8%B1%D8%AD%DB%8C%D9%85%DB%8C\">#امیر_رحیمی</a><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-579fed9c/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب </a><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "دادگاه تجدیدنظر؛ امیر رحیمی، معلم به حبس محکوم شد ❗️❗️❗️❗️❗️– امیر رحیمی، معلم محبوس در زندان شهرستان درود و از بازداشت شدگان اعتراضات دی ماه ۱۴۰۴، توسط دادگاه تجدیدنظر استان لرستان به چهار سال حبس محکوم شد. #امیر_رحیمی ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [],
+      "reactions": [],
+      "views_label": "224",
+      "posted_at": "2026-05-16T10:06:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/112967"
+    },
+    {
+      "id": "hranews/112966",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/LCiwXE1S8tef0ZUQZvZg7aHb8-9eP_i6Y-l__iESt1u2KOcnvGCp4VodcujKf3TvizFgPn34Gr6jCLdxMqxOGzPrpE5vt2btysE5pY1u3AGdLJG-RjxuyIXwq3VZhcRsxV-BFxxdPzRU_-Ij0qLt-5JXQvrl0ru18zuWPQ1DsAdmu1avWV-gfGNuw_9wSerDWAanBWUZkdmOd3VcrTCmt8XNgBQUaWKhfFUIBxYoWAbhFmipGNMlxkxdB9FoqiUrgjvQZ6v81163GGr4koc1VSXIZ5O4rm51BlTNdr4z3Z2Pu4G9D3hGyElEo2w9qHU2kvRLrE0ksCVVKXAEcYXGog.jpg",
+      "author_photo_path": "channels/hranews/media/d2931c90d64e23fd3ec98f20.jpg",
+      "body_html": "گزارشی از بازداشت صباح بیواره در پیرانشهر<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– صباح بیواره، شهروند اهل پیرانشهر روز پنجشنبه ۲۴ اردیبهشت ماه، توسط نیروهای امنیتی در این شهرستان بازداشت شده و کماکان از محل نگهداری وی اطلاعی حاصل نشده است.<br><br><a href=\"?q=%23%D8%B5%D8%A8%D8%A7%D8%AD_%D8%A8%DB%8C%D9%88%D8%A7%D8%B1%D9%87\">#صباح_بیواره</a><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-e3564770/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "گزارشی از بازداشت صباح بیواره در پیرانشهر ❗️❗️❗️❗️❗️– صباح بیواره، شهروند اهل پیرانشهر روز پنجشنبه ۲۴ اردیبهشت ماه، توسط نیروهای امنیتی در این شهرستان بازداشت شده و کماکان از محل نگهداری وی اطلاعی حاصل نشده است. #صباح_بیواره ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [],
+      "reactions": [],
+      "views_label": "283",
+      "posted_at": "2026-05-16T09:24:13+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/112966"
+    },
+    {
+      "id": "hranews/112965",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/LCiwXE1S8tef0ZUQZvZg7aHb8-9eP_i6Y-l__iESt1u2KOcnvGCp4VodcujKf3TvizFgPn34Gr6jCLdxMqxOGzPrpE5vt2btysE5pY1u3AGdLJG-RjxuyIXwq3VZhcRsxV-BFxxdPzRU_-Ij0qLt-5JXQvrl0ru18zuWPQ1DsAdmu1avWV-gfGNuw_9wSerDWAanBWUZkdmOd3VcrTCmt8XNgBQUaWKhfFUIBxYoWAbhFmipGNMlxkxdB9FoqiUrgjvQZ6v81163GGr4koc1VSXIZ5O4rm51BlTNdr4z3Z2Pu4G9D3hGyElEo2w9qHU2kvRLrE0ksCVVKXAEcYXGog.jpg",
+      "author_photo_path": "channels/hranews/media/d2931c90d64e23fd3ec98f20.jpg",
+      "body_html": "اموال ۵۱ شهروند در استان یزد توقیف شد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– دارایی‌ها و اموال ۵۱ شهروند در استان یزد مصادره شد. دستگاه قضایی این افراد را متهم به «همکاری با دشمن» دانسته است. ۲۰ تن از این شهروندان در داخل کشور و ۳۱ نفر دیگر در خارج از ایران سکونت دارند.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-1ee5a5db/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "اموال ۵۱ شهروند در استان یزد توقیف شد ❗️❗️❗️❗️❗️– دارایی‌ها و اموال ۵۱ شهروند در استان یزد مصادره شد. دستگاه قضایی این افراد را متهم به «همکاری با دشمن» دانسته است. ۲۰ تن از این شهروندان در داخل کشور و ۳۱ نفر دیگر در خارج از ایران سکونت دارند. ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [],
+      "reactions": [],
+      "views_label": "306",
+      "posted_at": "2026-05-16T09:14:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/112965"
+    },
+    {
+      "id": "hranews/112964",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/LCiwXE1S8tef0ZUQZvZg7aHb8-9eP_i6Y-l__iESt1u2KOcnvGCp4VodcujKf3TvizFgPn34Gr6jCLdxMqxOGzPrpE5vt2btysE5pY1u3AGdLJG-RjxuyIXwq3VZhcRsxV-BFxxdPzRU_-Ij0qLt-5JXQvrl0ru18zuWPQ1DsAdmu1avWV-gfGNuw_9wSerDWAanBWUZkdmOd3VcrTCmt8XNgBQUaWKhfFUIBxYoWAbhFmipGNMlxkxdB9FoqiUrgjvQZ6v81163GGr4koc1VSXIZ5O4rm51BlTNdr4z3Z2Pu4G9D3hGyElEo2w9qHU2kvRLrE0ksCVVKXAEcYXGog.jpg",
+      "author_photo_path": "channels/hranews/media/d2931c90d64e23fd3ec98f20.jpg",
+      "body_html": "با پایان دوران محکومیت؛ فهیمه سلطانی آزاد شد<br><br>خبرگزاری هرانا – فهیمه سلطانی، زندانی سیاسی محبوس در زندان دستگرد اصفهان، با پایان دوران محکومیت آزاد شد.<br><br>به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، فهیمه سلطانی آزاد شد.<br><br>بر اساس اطلاعات دریافتی هرانا، آزادی خانم سلطانی در تاریخ ۱۸ اردیبهشت ماه، با پایان دوران محکومیت وی از زندان دستگرد اصفهان صورت گرفته است.<br><br><a href=\"?q=%23%D9%81%D9%87%DB%8C%D9%85%D9%87_%D8%B3%D9%84%D8%B7%D8%A7%D9%86%DB%8C\">#فهیمه_سلطانی</a><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-58087/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "با پایان دوران محکومیت؛ فهیمه سلطانی آزاد شد خبرگزاری هرانا – فهیمه سلطانی، زندانی سیاسی محبوس در زندان دستگرد اصفهان، با پایان دوران محکومیت آزاد شد. به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، فهیمه سلطانی آزاد شد. بر اساس اطلاعات دریافتی هرانا، آزادی خانم سلطانی در تاریخ ۱۸ اردیبهشت ماه، با پایان دوران محکومیت وی از زندان دستگرد اصفهان صورت گرفته است. #فهیمه_سلطانی ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/112964",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/bYpLA1yCi7HEK95g_Cd-52aTkv5rDoPHHziaWVcpe0e4PE2Fzp_p3w7MzWnqcxYGeU9a7JPcRBkn3-k0qaA9XaqeaWFtwv04631-l18vOPdN7_ceS-PVqeaN3C1Nr0GU5vK-RE3kxOso7Qu9fGGJRQ-0pdCrq-XqYdCo6skz7gjek9-ysN4LNhXPjeA7MmGvM16-DdymJs2R1zrlCsh0Re4_NwvvRwM-omt2S7L0hcDZayEZUFv54_EEbUSVawaAPEdPLiY6EgNkZ1OVu8qDVyaZ0rGPpf6-Uu9FovUu1LsI8r4nt3F3v_BlUTvGGOHAZANSRLUpyQVPeyJbtyE3zQ.jpg",
+          "thumbnail_path": "channels/hranews/media/35af4bbbe2b70ddf19b48d59.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.5009380863039399
+        }
+      ],
+      "reactions": [],
+      "views_label": "271",
+      "posted_at": "2026-05-16T08:48:56+00:00",
+      "edited": true,
+      "permalink": "https://t.me/hranews/112964"
+    },
+    {
+      "id": "hranews/112963",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/LCiwXE1S8tef0ZUQZvZg7aHb8-9eP_i6Y-l__iESt1u2KOcnvGCp4VodcujKf3TvizFgPn34Gr6jCLdxMqxOGzPrpE5vt2btysE5pY1u3AGdLJG-RjxuyIXwq3VZhcRsxV-BFxxdPzRU_-Ij0qLt-5JXQvrl0ru18zuWPQ1DsAdmu1avWV-gfGNuw_9wSerDWAanBWUZkdmOd3VcrTCmt8XNgBQUaWKhfFUIBxYoWAbhFmipGNMlxkxdB9FoqiUrgjvQZ6v81163GGr4koc1VSXIZ5O4rm51BlTNdr4z3Z2Pu4G9D3hGyElEo2w9qHU2kvRLrE0ksCVVKXAEcYXGog.jpg",
+      "author_photo_path": "channels/hranews/media/d2931c90d64e23fd3ec98f20.jpg",
+      "body_html": "گزارشی از بازداشت یک شهروند در ارومیه<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– فروزان نوجوان (اسلامی)، مدرس زبان انگلیسی و اهل ارومیه، روز چهارشنبه ۲۳ اردیبهشت ماه، توسط نیروهای امنیتی در این شهرستان بازداشت و به مکان نامعلومی منتقل شد.<br><br><a href=\"?q=%23%D9%81%D8%B1%D9%88%D8%B2%D8%A7%D9%86_%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86\">#فروزان_نوجوان</a><br><a href=\"?q=%23%D9%81%D8%B1%D9%88%D8%B2%D8%A7%D9%86_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C\">#فروزان_اسلامی</a><br><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-a0ecbcf7/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "گزارشی از بازداشت یک شهروند در ارومیه ❗️❗️❗️❗️❗️– فروزان نوجوان (اسلامی)، مدرس زبان انگلیسی و اهل ارومیه، روز چهارشنبه ۲۳ اردیبهشت ماه، توسط نیروهای امنیتی در این شهرستان بازداشت و به مکان نامعلومی منتقل شد. #فروزان_نوجوان #فروزان_اسلامی ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [],
+      "reactions": [],
+      "views_label": "306",
+      "posted_at": "2026-05-16T08:24:11+00:00",
+      "edited": true,
+      "permalink": "https://t.me/hranews/112963"
+    },
+    {
+      "id": "hranews/112962",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/LCiwXE1S8tef0ZUQZvZg7aHb8-9eP_i6Y-l__iESt1u2KOcnvGCp4VodcujKf3TvizFgPn34Gr6jCLdxMqxOGzPrpE5vt2btysE5pY1u3AGdLJG-RjxuyIXwq3VZhcRsxV-BFxxdPzRU_-Ij0qLt-5JXQvrl0ru18zuWPQ1DsAdmu1avWV-gfGNuw_9wSerDWAanBWUZkdmOd3VcrTCmt8XNgBQUaWKhfFUIBxYoWAbhFmipGNMlxkxdB9FoqiUrgjvQZ6v81163GGr4koc1VSXIZ5O4rm51BlTNdr4z3Z2Pu4G9D3hGyElEo2w9qHU2kvRLrE0ksCVVKXAEcYXGog.jpg",
+      "author_photo_path": "channels/hranews/media/d2931c90d64e23fd3ec98f20.jpg",
+      "body_html": "بر اساس آخرین داده‌های نت‌بلاکس، قطع <a href=\"?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA\">#اینترنت</a> در ایران وارد هفتادوهشتمین روز خود شده و اکنون دوازدهمین هفته از این اختلال گسترده سپری می‌شود. این نهاد ناظر بر وضعیت دسترسی به اینترنت در جهان اعلام کرد که تداوم این وضعیت، بخش عمده‌ای از جمعیت حدود ۹۰ میلیونی کشور را برای مدتی بی‌سابقه از دسترسی به اینترنت جهانی محروم کرده است.<br><br>نت‌بلاکس همچنین تاکید کرده است که ادامه این محدودیت‌ها به‌طور گسترده حقوق بشر، آزادی‌های اساسی و وضعیت اقتصادی شهروندان را تحت تاثیر قرار داده و پیامدهای آن در ابعاد مختلف همچنان رو به گسترش است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "بر اساس آخرین داده‌های نت‌بلاکس، قطع #اینترنت در ایران وارد هفتادوهشتمین روز خود شده و اکنون دوازدهمین هفته از این اختلال گسترده سپری می‌شود. این نهاد ناظر بر وضعیت دسترسی به اینترنت در جهان اعلام کرد که تداوم این وضعیت، بخش عمده‌ای از جمعیت حدود ۹۰ میلیونی کشور را برای مدتی بی‌سابقه از دسترسی به اینترنت جهانی محروم کرده است. نت‌بلاکس همچنین تاکید کرده است که ادامه این محدودیت‌ها به‌طور گسترده حقوق بشر، آزادی‌های اساسی و وضعیت اقتصادی شهروندان را تحت تاثیر قرار داده و پیامدهای آن در ابعاد مختلف همچنان رو به گسترش است. ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/112962",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/rvEfqv_UhAXNdMZWM2VPwfwRGEQ0nPHYhN13ZgbmyOF8AsgcD8A1FPgmzSabT4z_X2oOv0A3N-gTj6K23HE0qZMQICyy8zm7gIlz9xjhtdU65oaB-1WGWBugATGxAzSRbFdRR59fNqu3hH10DIkCwjS_h0S8F2kzQ2m3PUBu1tc6dmgo_69aaH1P6BqtlR-_QsDMGebMPQvjMYVL1-iDNOMBoIuIBzXNSBx_nIo3uJw31rwpHr4_6ibhdoqvlsGVYbnfsBnauVpG1ad4vcJsyCIpM6_DIho8tN5n_pMgXLGjD46bbnqhZyZWGhHI3E8CON8F7bgKYrDj2DfUKyD9tw.jpg",
+          "thumbnail_path": "channels/hranews/media/c7837d7234883fe93b9480a3.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "reactions": [],
+      "views_label": "308",
+      "posted_at": "2026-05-16T08:11:52+00:00",
+      "edited": false,
+      "permalink": "https://t.me/hranews/112962"
+    },
+    {
+      "id": "hranews/112961",
+      "author_name": "خبرگزاری هرانا",
+      "author_photo_url": "https://cdn1.telesco.pe/file/LCiwXE1S8tef0ZUQZvZg7aHb8-9eP_i6Y-l__iESt1u2KOcnvGCp4VodcujKf3TvizFgPn34Gr6jCLdxMqxOGzPrpE5vt2btysE5pY1u3AGdLJG-RjxuyIXwq3VZhcRsxV-BFxxdPzRU_-Ij0qLt-5JXQvrl0ru18zuWPQ1DsAdmu1avWV-gfGNuw_9wSerDWAanBWUZkdmOd3VcrTCmt8XNgBQUaWKhfFUIBxYoWAbhFmipGNMlxkxdB9FoqiUrgjvQZ6v81163GGr4koc1VSXIZ5O4rm51BlTNdr4z3Z2Pu4G9D3hGyElEo2w9qHU2kvRLrE0ksCVVKXAEcYXGog.jpg",
+      "author_photo_path": "channels/hranews/media/d2931c90d64e23fd3ec98f20.jpg",
+      "body_html": "یک شهروند توسط نیروهای امنیتی در سرابله بازداشت شد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– محمدرضا فریادی، شهروند اهل سرابله روز چهارشنبه ۲۳ اردیبهشت ماه، توسط نیروهای امنیتی در این شهرستان بازداشت و به مکان نامعلومی منتقل شده است.<br><br><a href=\"?q=%23%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7_%D9%81%D8%B1%DB%8C%D8%A7%D8%AF%DB%8C\">#محمدرضا_فریادی</a><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-58086/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "یک شهروند توسط نیروهای امنیتی در سرابله بازداشت شد ❗️❗️❗️❗️❗️– محمدرضا فریادی، شهروند اهل سرابله روز چهارشنبه ۲۳ اردیبهشت ماه، توسط نیروهای امنیتی در این شهرستان بازداشت و به مکان نامعلومی منتقل شده است. #محمدرضا_فریادی ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "media": [],
+      "reactions": [],
+      "views_label": "363",
+      "posted_at": "2026-05-16T07:42:14+00:00",
+      "edited": true,
+      "permalink": "https://t.me/hranews/112961"
+    },
+    {
       "id": "hranews/112960",
       "author_name": "خبرگزاری هرانا",
       "author_photo_url": "https://cdn1.telesco.pe/file/LCiwXE1S8tef0ZUQZvZg7aHb8-9eP_i6Y-l__iESt1u2KOcnvGCp4VodcujKf3TvizFgPn34Gr6jCLdxMqxOGzPrpE5vt2btysE5pY1u3AGdLJG-RjxuyIXwq3VZhcRsxV-BFxxdPzRU_-Ij0qLt-5JXQvrl0ru18zuWPQ1DsAdmu1avWV-gfGNuw_9wSerDWAanBWUZkdmOd3VcrTCmt8XNgBQUaWKhfFUIBxYoWAbhFmipGNMlxkxdB9FoqiUrgjvQZ6v81163GGr4koc1VSXIZ5O4rm51BlTNdr4z3Z2Pu4G9D3hGyElEo2w9qHU2kvRLrE0ksCVVKXAEcYXGog.jpg",
       "author_photo_path": "channels/hranews/media/d2931c90d64e23fd3ec98f20.jpg",
-      "body_html": "مجید درویش‌نژاد با تودیع وثیقه آزاد شد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– مجید درویش‌نژاد، شهروند اهل ارومیه، با تودیع وثیقه از یکی از بازداشتگاه‌های امنیتی این شهر آزاد شد.<br><br><a href=\"?q=%23%D9%85%D8%AC%DB%8C%D8%AF_%D8%AF%D8%B1%D9%88%DB%8C%D8%B4_%E2%80%8C%D9%86%DA%98%D8%A7%D8%AF\">#مجید_درویش_‌نژاد</a><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-4a7c3a9c/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a>",
-      "plain_text": "مجید درویش‌نژاد با تودیع وثیقه آزاد شد ❗️❗️❗️❗️❗️– مجید درویش‌نژاد، شهروند اهل ارومیه، با تودیع وثیقه از یکی از بازداشتگاه‌های امنیتی این شهر آزاد شد. #مجید_درویش_‌نژاد ادامه مطلب",
+      "body_html": "مجید درویش‌نژاد با تودیع وثیقه آزاد شد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– مجید درویش‌نژاد، شهروند اهل ارومیه، با تودیع وثیقه از یکی از بازداشتگاه‌های امنیتی این شهر آزاد شد.<br><br><a href=\"?q=%23%D9%85%D8%AC%DB%8C%D8%AF_%D8%AF%D8%B1%D9%88%DB%8C%D8%B4_%E2%80%8C%D9%86%DA%98%D8%A7%D8%AF\">#مجید_درویش_‌نژاد</a><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-4a7c3a9c/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "plain_text": "مجید درویش‌نژاد با تودیع وثیقه آزاد شد ❗️❗️❗️❗️❗️– مجید درویش‌نژاد، شهروند اهل ارومیه، با تودیع وثیقه از یکی از بازداشتگاه‌های امنیتی این شهر آزاد شد. #مجید_درویش_‌نژاد ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "102",
+      "views_label": "426",
       "posted_at": "2026-05-16T07:06:59+00:00",
-      "edited": false,
+      "edited": true,
       "permalink": "https://t.me/hranews/112960"
     },
     {
@@ -33,7 +175,7 @@
       "plain_text": "یک شهروند توسط نیروهای امنیتی در بوکان بازداشت شد ❗️❗️❗️❗️❗️ – سید علی قریشی، شهروند اهل بوکان روز دوشنبه ۲۱ اردیبهشت ماه، توسط نیروهای امنیتی در این شهرستان #بازداشت و به مکان نامعلومی منتقل شده است. ادامه مطلب #سید_علی_قریشی ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "598",
+      "views_label": "726",
       "posted_at": "2026-05-15T19:39:51+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/112959"
@@ -47,7 +189,7 @@
       "plain_text": "کازرون؛ مرگ یک کارگر در سایه فقدان ایمنی کار ❗️❗️❗️❗️❗️ – در سایه فقدان ایمنی محیط و شرایط نامناسب کار، روز پنجشنبه ۲۴ اردیبهشت، یک #کارگر در کازرون، حین انجام کار بر اثر سقوط به داخل یک چاه کشاورزی جان خود را از دست داد. ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "593",
+      "views_label": "679",
       "posted_at": "2026-05-15T18:44:24+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/112958"
@@ -61,7 +203,7 @@
       "plain_text": "اجرای حکم اعدام ۲ زندانی/ رهایی ۲ زندانی از چوبه دار ❗️❗️❗️❗️❗️ – سحرگاه روز چهارشنبه ۲۳ اردیبهشت ماه، حکم دو زندانی که پیشتر از بابت اتهامات مرتبط با جرائم مواد مخدر و قتل به #اعدام محکوم شده بودند، در ندامتگاه مرکزی کرج و زندان قم اجرا شد. همچنین، دو زندانی محکوم به اعدام در سنندج و استان اصفهان، با گذشت اولیای دم از مجازات مرگ رهایی یافتند. ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "550",
+      "views_label": "627",
       "posted_at": "2026-05-15T18:34:18+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/112957"
@@ -75,7 +217,7 @@
       "plain_text": "گزارشی از مطالبات مزدی رانندگان سرویس مدارس مشهد ❗️❗️❗️❗️❗️ – شماری از #رانندگان سرویس مدارس مشهد، نسبت به بلاتکلیفی وضعیت شغلی و عدم دریافت حقوق در سه ماه پایانی سال تحصیلی انتقاد کردند. ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "539",
+      "views_label": "614",
       "posted_at": "2026-05-15T18:07:46+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/112956"
@@ -89,7 +231,7 @@
       "plain_text": "اردبیل؛ یک شهروند توسط ماموران سازمان اطلاعات سپاه بازداشت شد ❗️❗️❗️❗️❗️ – سازمان اطلاعات سپاه اردبیل از #بازداشت یک شهروند در این استان به اتهام «#جاسوسی از طریق ارسال تصاویر و اطلاعات به موساد» خبر داد. همزمان ویدیویی از اعترافات این شهروند نیز منتشر شده که شرایط ضبط آن مشخص نیست. #اعترافات_اجباری ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "535",
+      "views_label": "612",
       "posted_at": "2026-05-15T17:55:24+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/112955"
@@ -113,7 +255,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "659",
+      "views_label": "721",
       "posted_at": "2026-05-15T16:51:08+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/112954"
@@ -137,7 +279,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "700",
+      "views_label": "759",
       "posted_at": "2026-05-15T15:16:15+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/112952"
@@ -151,7 +293,7 @@
       "plain_text": "گزارشی از بازداشت شهرام پس‌وپیش در پیرانشهر ❗️❗️❗️❗️❗️– شهرام پس‌وپیش، شهروند اهل پیرانشهر روز چهارشنبه ۲۳ اردیبهشت ماه توسط نیروهای امنیتی در این شهرستان بازداشت شده و کماکان از محل نگهداری وی اطلاعی حاصل نشده است. #شهرام_پس‌وپیش ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
       "media": [],
       "reactions": [],
-      "views_label": "759",
+      "views_label": "811",
       "posted_at": "2026-05-15T12:34:03+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/112951"
@@ -168,14 +310,14 @@
           "kind": "photo",
           "asset_url": "https://t.me/hranews/112950",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/CldQtMcvH79_FAUsBaPaGvRpNsGcEi7KRALdN1LNn5GizU1jBz9LxygTQ1xddeZ6s3EL0iCmumRyIiEqo5_iTDVgDXxYoG0mz-TobHBPUN_lct0a_3H_GR45FA1x3OPDS-ofUQSMeNfxVHB7qSr-y8rUIl0BYhKjJipwEYIh9kR7CVZRSH-BDYdOYHIWfc1aX8u881vNiozDR9yQQihDQZeCRBgervvGV57vaF4yjoQag2wweUKsxLCaSX15xjIeR6MzPDiDXAVx4pcBs-mMFafnkUZ1q4vfdjl6GFB4C4zUw22wsfc5BVfC7gshjP6opJAm_7uU1ipRTtZXy64wUA.jpg",
-          "thumbnail_path": "channels/hranews/media/bfa9230577cab0a3f68805c5.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/oQStrcdK9PXpjvZwTvywqCEFeSG_XMfCxbXqfs94P1-SyFdpdh0rD6bg0ubuP3w35ctpi-0T1dE63lBtHr1Bu4ZyLxk99tIBp43_f2Et77vXEHL3qRli1gBydOxlvYC8ZhNSI4MslOgsfI6ua-YqL0a3riXv0XEemkclV9aku1frfhJJ_FFusz4JSji61J5-CWqtRD1nkz_0VbrmvLKlqa-QZGmJj3EQQK0_WV-j02H2hjHAuF92oQyOQQpiS5dne0QnuhOY5RY0uhOD3cE3AnQ57LiCjinvtTeFZD0Ev0sPJHTWSc8VaXiZQ0MvRSJ_4CfDJk7_SXa7fx7ZLHXuUA.jpg",
+          "thumbnail_path": "channels/hranews/media/a91668e0bcf86eaf47480e8b.jpg",
           "duration_label": null,
           "aspect_ratio": 1.5009380863039399
         }
       ],
       "reactions": [],
-      "views_label": "826",
+      "views_label": "860",
       "posted_at": "2026-05-15T09:26:54+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/112950"
@@ -192,14 +334,14 @@
           "kind": "photo",
           "asset_url": "https://t.me/hranews/112949",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/JeFCI06Ap75GjPzAhZ8bY9Bsja4hPbe1SmPjimEdiXMeYtf0WuiOfOp1KSkkmcxtpFTa4afU1P4TQA1bEgiAVWUglwEIkOGTmz_ovx7T7oKb6p7CiblkuYwtvahaJLUm4yr_M5ww9VaUWZciwF9cIx9lHnfgXxMuHwSk_QXdgD8FC4w8lMc_oeyoHvMDBaJePBpjJ535F72asQYQ2maa3RFJrU8T2c6uA3wHYKNMLsg5e4cmDabOtxj8op_v-TpzVRs7NIrmSCoSj435HCPyKyTArggoDl5xqKAzvgeHebrYvbFoy2MsMUlbEZR7F-Wy-SYckbqfYEe4Xo9d1rr8iQ.jpg",
-          "thumbnail_path": "channels/hranews/media/ae3e0a3bdeea9df73a2d799a.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/P2tzcvECHzt0yXUgPXRxp5SQPMjiXPkIyAo_4gxolEbh92ClA9tF1dD72rBgwa2aH5tb0axfm1tbDHEmupkNA4xAz8bfaAoUZ8XmlTefwQ1UXTltJ70e4M6EH8TocTjkFMmdcHntF3IDEQm0ucYzkscsS-_r2mcb27Cp6rgyfBmg8eCMlFbAFDthwr1PrCWitfvNPMo6ImnSJ4CnOUBKT_4UtY5OVe9Z7XrTCxcahP69_oMZu2yf0II0mQ2x42kA_13ZT_dBkSR5qyuP_l9vMASi2OcrZVVNGeMyaaIQ8hsVnXdISPMmuZoghsfGs1rJO1IA5pmHDzlQh0H4ZX6onA.jpg",
+          "thumbnail_path": "channels/hranews/media/7753ce27969a4fa41c835284.jpg",
           "duration_label": null,
           "aspect_ratio": 1.5009380863039399
         }
       ],
       "reactions": [],
-      "views_label": "827",
+      "views_label": "871",
       "posted_at": "2026-05-15T08:23:42+00:00",
       "edited": true,
       "permalink": "https://t.me/hranews/112949"
@@ -216,14 +358,14 @@
           "kind": "photo",
           "asset_url": "https://t.me/hranews/112948",
           "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/muRHLUsB6qBqfvK-EAOWFAiqLoLYNgmDNo9y8r2P-BGnUhYv7ZO3aOsz0D_UiF5Whou3P2261ODDJY_wOBHyyM566-WLv-RJyJwHU6q2DxEnvrQfNMFbttnN9HyU__r6CwJBe3JVIDx19wK_oLtfLp4rNjfWU5adDSBm1F6aYHwhcZ6R65JmRsRGuv909pH3pp9IaxJMnHzLw72UrgUz-qughumY4RiP9W46r1RN7IOWuT2ZkjLNw_aPQlGgGclyOo-J2fA6nXRfhjIcLC38Trye2BHLOoomwyRrNBmssnWi4XqWgOuDPyMk9MjLjekTpXY5abO2ho4dYChLUxSLhg.jpg",
-          "thumbnail_path": "channels/hranews/media/87cb726681e62d8193541735.jpg",
+          "thumbnail_url": "https://cdn4.telesco.pe/file/DXmoubIxQMO0t-8xI2I4xd5sm1vj0k6jOVOXiA7J_Lu4GYBLFK7Uy-3qedruW03akwCSBNRWT-1oGipxP4MUDGqWAkTWMf80TwcSAtMxnhbKHZzxj9TPh1TmDqPeXxiTgnEXL7BgO0mNvdJh5ugz95v6VQMtJeM7-yvyfW0Qnvy8I5vSqzVdLDCRnkvJ-jfTIuw2LmMnjxXwmToACSNL4fopMLMSHycBMH9HDjZpEmak35yk4qY-PdeQt3oi5M3iTIzW18fdNRrPbUVMvGIi8fmyTlFtXxpqxDZmVKZxGAqGMS6x3b1DUPEa7RZdh13PwyICMm90fiwgmWDjvMrRUw.jpg",
+          "thumbnail_path": "channels/hranews/media/06956cc0996b2cad16b23169.jpg",
           "duration_label": null,
           "aspect_ratio": 1
         }
       ],
       "reactions": [],
-      "views_label": "792",
+      "views_label": "836",
       "posted_at": "2026-05-15T08:10:23+00:00",
       "edited": false,
       "permalink": "https://t.me/hranews/112948"

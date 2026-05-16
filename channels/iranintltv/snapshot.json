@@ -1,15 +1,405 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-16T07:31:08.643Z",
+  "fetched_at": "2026-05-16T11:19:25.319Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
     "description_html": "رسانه خبری پیشرو برای ایرانیان<br>خبررسانی حرفه‌ای، بی‌پروا و با تکیه بر روایت‌ شهروندان<br><br>ارسال امن گزارش‌ شما:<br><a href=\"https://t.me/intlmedia_bot\" target=\"_blank\">@intlmedia_bot</a><br>وب‌سایت ما:<br><a href=\"http://iranintl.com/\" target=\"_blank\" rel=\"noopener\">iranintl.com</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/Jm-r8TIOIB8Dbe91x3V2vqBAhTjh3qcJ3Mio6aqzfe0ob2_izb7PiG3kYTTMzHGhXvLqnTC7AHOlvHdJH5EZ-ExMVZ9XmK5JIYDH3q05WDdRiDFfatMpONHXlf3i-0KVy-WEPhWLdS4ZBJRPrpq-jv3IOaDlPwPBwTNKC640A0UMObpYFisRP4sTTC06wctnTNiAqSxc4-mQOxhHwW01GKItDBJAF9OCeGlBgkUkIRAOgMl6XoXIaMFWCkPzM5GKLpQ8bQSGJPuGgdBaDs_7p8EpjYZdBuaotCDlhGn8GUOCTp5OtJHQl0Q4Vien5ITh4TrrCA2XHDMMrHlFYsVePw.jpg",
-    "photo_path": "channels/iranintltv/media/7affdd0eed75bc55af3c6aa8.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/Lg3q5nI5fpd-MGTEZzSFab54EOewM4t1o_qktqtMD7qcJo4xri1SHP_wBLK83x9Ga0kpA8OjlDWUcLbdvX9HgC-7y_TevB_dzUlxYnFffVOSRsJgj9ADbm03bBiJ5Vjd1onCX5NZAUPsu5_EQhUuFuorx9YSSIwCf3GRKR_X9dQv2feJSnmCMN65pO6J6V2Hikhp38uX42tNICPEjkmfCoEFXfVfusJ-DqYkG5-bU9B-KekfBNHTwJNsXZxtkCEKelcOrcIRPWGFp3fVYZ9tu0duQDY-nAgWDj1TIKqituTHKrzlOpVEX5BxgQiAOWxpVmbvYniHt64ZxBeoPneaWQ.jpg",
+    "photo_path": "channels/iranintltv/media/f88303c3f11564978f5c3f0d.jpg",
     "subscriber_count": "1.32M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/337459",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Lg3q5nI5fpd-MGTEZzSFab54EOewM4t1o_qktqtMD7qcJo4xri1SHP_wBLK83x9Ga0kpA8OjlDWUcLbdvX9HgC-7y_TevB_dzUlxYnFffVOSRsJgj9ADbm03bBiJ5Vjd1onCX5NZAUPsu5_EQhUuFuorx9YSSIwCf3GRKR_X9dQv2feJSnmCMN65pO6J6V2Hikhp38uX42tNICPEjkmfCoEFXfVfusJ-DqYkG5-bU9B-KekfBNHTwJNsXZxtkCEKelcOrcIRPWGFp3fVYZ9tu0duQDY-nAgWDj1TIKqituTHKrzlOpVEX5BxgQiAOWxpVmbvYniHt64ZxBeoPneaWQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/f88303c3f11564978f5c3f0d.jpg",
+      "body_html": "گزارش‌ها حاکی از بحران جدی بهداشت و درمان در زندان فشافویه تهران است. بر اساس روایت زندانیان، شیوع بیماری پوستی گال، تراکم بالای جمعیت و نبود دسترسی به پزشک و دارو، وضعیت زندانیان را بحرانی کرده است.<br><br>گفت‌وگو با محمد مقیمی، وکیل دادگستری و کارشناس ارشد حقوق بشر<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "گزارش‌ها حاکی از بحران جدی بهداشت و درمان در زندان فشافویه تهران است. بر اساس روایت زندانیان، شیوع بیماری پوستی گال، تراکم بالای جمعیت و نبود دسترسی به پزشک و دارو، وضعیت زندانیان را بحرانی کرده است. گفت‌وگو با محمد مقیمی، وکیل دادگستری و کارشناس ارشد حقوق بشر @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337459",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/TS2Y3_sqGkVsylUQA7zNN1-8XInCCR-h-bt3FkKlVatv2xLYPynarnbrKG7quyPwDlvxUZdxFBW3j4tp8U58rVJiEnmB_6g1t0pg6I0ngIEbmvCzYeUhXKIJkyAaIsd97Xs0qnDOkhq53_oBETzswxGBB1QQvb8HRZ7co0C7-WGfrgyG8HYxupi7n7N2IoQCkIMT0J9VqYHeeYGdchocVPHxO8IuD80-pYoNEJjTTWwYmNg9eCFVSV2Pv_iHNI1SM3Zz1EOc-SjR6yibu4RhLnHEcdW55kwwknR0VfIoIp0sdLbGGqQARxW6z01UDN7NAo31tN9hz3TCrGC_4kKl1g",
+          "thumbnail_path": "channels/iranintltv/media/112d614c74f620d5d148f3cd.jpg",
+          "duration_label": "4:07",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.16K",
+      "posted_at": "2026-05-16T11:16:00+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337459"
+    },
+    {
+      "id": "IranintlTV/337457",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Lg3q5nI5fpd-MGTEZzSFab54EOewM4t1o_qktqtMD7qcJo4xri1SHP_wBLK83x9Ga0kpA8OjlDWUcLbdvX9HgC-7y_TevB_dzUlxYnFffVOSRsJgj9ADbm03bBiJ5Vjd1onCX5NZAUPsu5_EQhUuFuorx9YSSIwCf3GRKR_X9dQv2feJSnmCMN65pO6J6V2Hikhp38uX42tNICPEjkmfCoEFXfVfusJ-DqYkG5-bU9B-KekfBNHTwJNsXZxtkCEKelcOrcIRPWGFp3fVYZ9tu0duQDY-nAgWDj1TIKqituTHKrzlOpVEX5BxgQiAOWxpVmbvYniHt64ZxBeoPneaWQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/f88303c3f11564978f5c3f0d.jpg",
+      "body_html": "ایرانیان نیوزیلند روز شنبه ۲۶ اردیبهشت‌ماه در حمایت از شاهزاده رضا پهلوی و علیه قطع اینترنت و اعدام‌های جمهوری اسلامی در اوکلند تجمع برگزار کردند.",
+      "plain_text": "ایرانیان نیوزیلند روز شنبه ۲۶ اردیبهشت‌ماه در حمایت از شاهزاده رضا پهلوی و علیه قطع اینترنت و اعدام‌های جمهوری اسلامی در اوکلند تجمع برگزار کردند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337457",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/REayPvaFYJQ6RpDzglMoi_fdFXTh5cFnN6R287ZR6S79_jnTJEwaBUPNVwXr5AAEVuTqWlrVuruivnDhl6aWOAaxtBSgoEWklK06NzP9BqukGMzcG4IxZdrE48qr9-qN_HZbLuiUkpNmK0EshIOhf6Uk_W8YIeV3rNqwiHoN7nhVDKCKzYW_gTPmLOLez3d372QMABqcuuRrlWz_nIcw_gCo6HXDZGxoksh0TuFQRilTTrSuLWoREXaqwLhchGK0S2yqKlRUm9jR_ucarzVjZzD4oEoNh01UhCygIVwFtLyWNRvH_iV0CxwYoRWLSoBvrKdI_MAhyXKbmCfcIl9cmw",
+          "thumbnail_path": "channels/iranintltv/media/92b67c6322cf1f7122a8c4ad.jpg",
+          "duration_label": "0:28",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "7.71K",
+      "posted_at": "2026-05-16T10:59:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337457"
+    },
+    {
+      "id": "IranintlTV/337458",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Lg3q5nI5fpd-MGTEZzSFab54EOewM4t1o_qktqtMD7qcJo4xri1SHP_wBLK83x9Ga0kpA8OjlDWUcLbdvX9HgC-7y_TevB_dzUlxYnFffVOSRsJgj9ADbm03bBiJ5Vjd1onCX5NZAUPsu5_EQhUuFuorx9YSSIwCf3GRKR_X9dQv2feJSnmCMN65pO6J6V2Hikhp38uX42tNICPEjkmfCoEFXfVfusJ-DqYkG5-bU9B-KekfBNHTwJNsXZxtkCEKelcOrcIRPWGFp3fVYZ9tu0duQDY-nAgWDj1TIKqituTHKrzlOpVEX5BxgQiAOWxpVmbvYniHt64ZxBeoPneaWQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/f88303c3f11564978f5c3f0d.jpg",
+      "body_html": "عطا حسینیان، روزنامه‌نگار اقتصادی و حوزه انرژی، گفت ایران در حال حاضر در زمینه تولید بنزین با مشکلات جدی مواجه است. او «حملات به پارس جنوبی، محاصره دریایی، روابط مخدوش جمهوری اسلامی با امارات و کمبود منابع مالی» را از جمله عوامل موثر بر تولید و عرضه بنزین در کشور دانست.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "عطا حسینیان، روزنامه‌نگار اقتصادی و حوزه انرژی، گفت ایران در حال حاضر در زمینه تولید بنزین با مشکلات جدی مواجه است. او «حملات به پارس جنوبی، محاصره دریایی، روابط مخدوش جمهوری اسلامی با امارات و کمبود منابع مالی» را از جمله عوامل موثر بر تولید و عرضه بنزین در کشور دانست. @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337458",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/g1WBIpUUmpiMtE6XM7fbtf0ughhJnq_mmGoJuK2_oh21HkAcUcJQ-utfFHoIU_zzKDOuyhaU1_wqjLfiRcnNUMuSxB7Rg4kn56H_ufvmyD36AlXEGS9kMM2dSKuD9Z1O-D37ZGaFQN1Eid-emR-V4Evbm1sHDy63bp2ty-GA37Fu_5abHWXVF4dzYLBeKeMIaETMfj2U3shtzJ0AicuVFk1Imyezk2C9jbyC7K5UdtnzDGctOsGbUVvlzfBHivRWCadLYcMxUmeIpB6YW01NwaK4nsJu_pK5d-h2RbxumJIaVLn2oyt7JqlnvD0mslVgqSZMh9wF4q3b1f7TpyUlGw",
+          "thumbnail_path": "channels/iranintltv/media/5f7f045a99d3a3e358a3839e.jpg",
+          "duration_label": "5:01",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "7.71K",
+      "posted_at": "2026-05-16T10:59:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337458"
+    },
+    {
+      "id": "IranintlTV/337450",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Lg3q5nI5fpd-MGTEZzSFab54EOewM4t1o_qktqtMD7qcJo4xri1SHP_wBLK83x9Ga0kpA8OjlDWUcLbdvX9HgC-7y_TevB_dzUlxYnFffVOSRsJgj9ADbm03bBiJ5Vjd1onCX5NZAUPsu5_EQhUuFuorx9YSSIwCf3GRKR_X9dQv2feJSnmCMN65pO6J6V2Hikhp38uX42tNICPEjkmfCoEFXfVfusJ-DqYkG5-bU9B-KekfBNHTwJNsXZxtkCEKelcOrcIRPWGFp3fVYZ9tu0duQDY-nAgWDj1TIKqituTHKrzlOpVEX5BxgQiAOWxpVmbvYniHt64ZxBeoPneaWQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/f88303c3f11564978f5c3f0d.jpg",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>اریک کانتونا، اسطوره فوتبال فرانسه و یکی از عوامل مستند «کانتونا»، در جریان فوتوکال این فیلم که در بخش «نمایش‌های ویژه» هفتاد و نهمین جشنواره فیلم کن ارائه شد، روز شنبه ۲۶ اردیبهشت مقابل دوربین عکاسان ژست گرفت.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>مستند «کانتونا» که در جشنواره فیلم کن رونمایی شد، پرتره‌ای از اریک کانتونا، ستاره فرانسوی دهه ۹۰ منچستریونایتد، ارائه می‌دهد؛ فوتبالیستی جذاب اما تندخو که هم به‌واسطه نبوغ فوتبالی‌اش و هم به دلیل جنجال‌هایش به چهره‌ای اسطوره‌ای بدل شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>این فیلم به کارگردانی دیوید تری‌هورن و بن نیکلاس، سازندگان مستند «پله»، با ترکیبی از گفت‌وگوهای تازه با کانتونا و روایت‌هایی از الکس فرگوسن، دیوید بکام و گی رو، تلاش می‌کند تصویری کامل از «مرد، اسطوره، افسانه» بسازد.<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\">@iranintltvsport</a></div>",
+      "plain_text": "🔻اریک کانتونا، اسطوره فوتبال فرانسه و یکی از عوامل مستند «کانتونا»، در جریان فوتوکال این فیلم که در بخش «نمایش‌های ویژه» هفتاد و نهمین جشنواره فیلم کن ارائه شد، روز شنبه ۲۶ اردیبهشت مقابل دوربین عکاسان ژست گرفت. 🔹مستند «کانتونا» که در جشنواره فیلم کن رونمایی شد، پرتره‌ای از اریک کانتونا، ستاره فرانسوی دهه ۹۰ منچستریونایتد، ارائه می‌دهد؛ فوتبالیستی جذاب اما تندخو که هم به‌واسطه نبوغ فوتبالی‌اش و هم به دلیل جنجال‌هایش به چهره‌ای اسطوره‌ای بدل شد. 🔹این فیلم به کارگردانی دیوید تری‌هورن و بن نیکلاس، سازندگان مستند «پله»، با ترکیبی از گفت‌وگوهای تازه با کانتونا و روایت‌هایی از الکس فرگوسن، دیوید بکام و گی رو، تلاش می‌کند تصویری کامل از «مرد، اسطوره، افسانه» بسازد. @iranintltvsport",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337450?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/vC-loROK8oCrWwyh_NOrQfKhp14hwMsqaYgdGR1KWuUpEqKjB958b71rdRZATz10MvLkK4LM7QxIYXDzfP03BjxT2J9A8rihTJIoAoxMJlpvC-7GAjn9O_YKPZYZWyrY8WLNTpWHYN-CoXA9h2pIRr2FbPf952-COkb9H6MSbIMKKz0OCU_nRNoQ6GCzpLoePtu7YJXKQH46Zw0Z5Ojc37X3-Nor4Ple39NFJ9MmwzEVGbIbA7d3m4GI1R343lpQL7esdFkMQq4BrrI4ResvTX3yaF8FsPTaU_FQBLIQh6AmLA0TCug4T5X9sUL0YSiOdCcavj3kq10y7nuEH0HfCA.jpg",
+          "thumbnail_path": "channels/iranintltv/media/97fc4e79d6cf8eff4027e4e1.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337451?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/a9leLWSlkhQapwVEug06JrkPGuWwHso4bj4Tj7DTzfhaQHOD_EThIGuDU3REkPx9JqkE04xf01lfFfqtfUNwud922iOfiP0DuwCMySkn9gk8n87_c4y3fF6s4-yFgH3S4zK5x8ba20qFk8B7WzrYaqroS4JIlF6Grcoqsnjp8LBSIYz3_zK0wkT2Epc1EjC7t9ucmgW4yQHaFvghctVTRpFobK7HGfQtq9BJg_RdekLBIuzJtzC2K1YMep4wr3_mpY4vC0EWUXn0NTUR30l9-_8Nh_Tp5nQe2ClMtvINKfVaquzzuKBkHnR7YB-W9F8gX1OrShoCmrxSlvErZsTFhA.jpg",
+          "thumbnail_path": "channels/iranintltv/media/250e54b00ad6d3260d0c5245.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337452?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SqB3yAvo_zDM0fr595iLPqo_cGhd9x26BzWuvFYFznRvAFk2N87uFkgREJDB1WzLYgs0tOxOnGb9UNbZiHYcvZfjYKcwqM-As72Ym5JzR-Wl26R83PPVOtE8tl7_otJw8PzXMjTqSIVcxImtYajEzj1zAW8q5vMtEP1lDwitgPHueMR2PJOd-qwoHGnMFqrK4QWaqsnkZpAR-Z621Z1eyZBmSOmxXzeu8FFahF_5eooNSaHKzlESpHqIOw3A6OVF3Ld-8jfIHNK-Ek-WQ03y7MoSKlsD6JRE-W-IVx7HyRiURwdrUQzh4ki_jEDcOrwCQma4JPkEJwP2ngKrAbihUw.jpg",
+          "thumbnail_path": "channels/iranintltv/media/b1487c7eff5899800ccf8c64.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337453?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/RNqG6yZOZqyOKnma91jp1jSv3YqvpPIg1b8GUTC6_jggOWDLilEqEoDwmhIMb_jVk_oSUjmIMj10464cCLQ_1djFYIqd1pX2GAWNNeYUS3Lh0iSJNpqClsVvKhoc8Ng19oJcimj3nmF8AZWcauspegRXqjvW03QWs8VF9yCSQV5YrWDpclI2vCQ0h5tIIDh4lxjQHwNKvD4MpuZsL9ye_9EGd-cB1fCxsaxxYLe0IWAqpMuWF-0fcB9HCsKQjHFzkeOA2WVWZucBmAWo0pfjrvXjbJr19lfsraA4QvtnZ5BcOYpDMELubMOu3lyy996pnnYcrTRoRYyZoB2EdyQJMg.jpg",
+          "thumbnail_path": "channels/iranintltv/media/0de13562388dad0d8f7f1cc9.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337454?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/AG4dOB8CkGGKJsAasylM0-VCgCdt_4g3GfjT7zliF3IreRYa38uyzofX5sb5l7vcHg7neUDkJzdLuWOqvb2WIg9lXENlFNHbEnnHCYMgAv2nkioZlMOschGtuZO-gtKYqOR5hi97orLM2CCK_NO4PJv0HVuPX0qk3uGe-rA8oOMRkVr20O4LcnlRPDsZZHwogS3jG-FrKCZNbmZhxaizIUHS_b6mFwU8xJ39fyqgeb4YJ609Jr5JVc4NF84aWTK0eyTmC4CMD-DcLEQh5lFp54ngMFjSdJxYOpK30_r5rH-s_DvWM-0nCXVQHZc0KiSLj22oqoO9KFrBu3BkKb3MMg.jpg",
+          "thumbnail_path": "channels/iranintltv/media/7a64dfdf7f2668c890ac8da0.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337455?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ohZ6vaTjLnpSo0bl04HK3aFiIFxmRyPJ5ZVB9epcToaaRvz0fDqNGHgyzwkAt79H71PIEsAWA3QjNhhI3-OmjJiD8Y2wnGc2zCk8nLEWESSPXbwiIsPG4lrknq-c8OYN1f8BBGeOTSqgJxYrpOWLwel2Fb7wiclp8sAgngEUxqtHWq-YnNeaDyPYHbrcFVrHiZT0yR9XIQwJbDsXHZ7BRoF1JsyEc972koQ3fY8SxIj33iQRalC3cAgbvUjDsSYjIDl58cgynFhE9FpQa9VHDSYRe3hM2TCDvzWEHKD9DukkVxX77eNGd3eQOrshTlWIst-tzBtTghztKRhoySo3hw.jpg",
+          "thumbnail_path": "channels/iranintltv/media/a8e606aad09672aae5a5d48e.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337456?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/OjHV7j6CPAefjJw7TSPeK-C2YstZ6zqQsO2wbi7If9ZUfP6T9hle2xXiG71gv3wXXgxL38hWPyEYSpbzaqlOcReOTiL6NW9RQW6gwsLAaO7d99bSnWYK25_deMtIHuWDEH0FniifszDN_TIIQXhBx2Y_JWbwe68djepUaDUCqzxjyRvEy5aWCGGRfcIL9DmQtQSRa33lvW2scuBo9kOz4s7xnK9X94CDA0ckMg4Gu7-auWlQDEsCUMuwo0zmyLoGL1U6y7oMYx8tCZ9MroKlkrIC492ILI5pC88MWeJAVNe9rXuwXE1dGrdfbn_5BbhMGMm7Z_2hLFOyY2RJm_Ulxw.jpg",
+          "thumbnail_path": "channels/iranintltv/media/75e0211ef45395aa03905e7b.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "15.4K",
+      "posted_at": "2026-05-16T10:35:34+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337450"
+    },
+    {
+      "id": "IranintlTV/337449",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Lg3q5nI5fpd-MGTEZzSFab54EOewM4t1o_qktqtMD7qcJo4xri1SHP_wBLK83x9Ga0kpA8OjlDWUcLbdvX9HgC-7y_TevB_dzUlxYnFffVOSRsJgj9ADbm03bBiJ5Vjd1onCX5NZAUPsu5_EQhUuFuorx9YSSIwCf3GRKR_X9dQv2feJSnmCMN65pO6J6V2Hikhp38uX42tNICPEjkmfCoEFXfVfusJ-DqYkG5-bU9B-KekfBNHTwJNsXZxtkCEKelcOrcIRPWGFp3fVYZ9tu0duQDY-nAgWDj1TIKqituTHKrzlOpVEX5BxgQiAOWxpVmbvYniHt64ZxBeoPneaWQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/f88303c3f11564978f5c3f0d.jpg",
+      "body_html": "سرخط خبرهای شنبه ۲۶ اردیبهشت<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "سرخط خبرهای شنبه ۲۶ اردیبهشت @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337449",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/QITGxQVD9zIaYrdhcqJoenfScq5qMPbiLkTbQmGm5yI5_QtFoNaXB4K-dvec7-QQWqXK45xj4heXuMSNqIFo0-diPMm16fzcKONsi2eXycUktoClcGoPIyDlhzJiwnHpUOyDLpFLfBQS3w6NHvx1Xb-yhfqUnCeNZ6vPYzrknrNCxVSKWenyT7FwtZgsJsKPe2VhKk7ladvjC7xCpnUlNAfkC-r2wXdYW2XSaMXKqMYR5qMLYm3XNdFGmOmeYRwp-GQAOwy3MbFJXQqilrBj73X2xRWxhpe0ya3CWPaCZ66zRvikBZHLLrLOZ5Uoh1L-gpUqv5999Gh3FS--r2p7dQ",
+          "thumbnail_path": "channels/iranintltv/media/3fcceb495b63b24d6ee0cfd7.jpg",
+          "duration_label": "1:17",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "13.2K",
+      "posted_at": "2026-05-16T10:35:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337449"
+    },
+    {
+      "id": "IranintlTV/337448",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Lg3q5nI5fpd-MGTEZzSFab54EOewM4t1o_qktqtMD7qcJo4xri1SHP_wBLK83x9Ga0kpA8OjlDWUcLbdvX9HgC-7y_TevB_dzUlxYnFffVOSRsJgj9ADbm03bBiJ5Vjd1onCX5NZAUPsu5_EQhUuFuorx9YSSIwCf3GRKR_X9dQv2feJSnmCMN65pO6J6V2Hikhp38uX42tNICPEjkmfCoEFXfVfusJ-DqYkG5-bU9B-KekfBNHTwJNsXZxtkCEKelcOrcIRPWGFp3fVYZ9tu0duQDY-nAgWDj1TIKqituTHKrzlOpVEX5BxgQiAOWxpVmbvYniHt64ZxBeoPneaWQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/f88303c3f11564978f5c3f0d.jpg",
+      "body_html": "ایرانیان استرالیا روز شنبه در حمایت از انقلاب ملی علیه جمهوری اسلامی تجمع کرده و با حمل پرچم شیروخورشید ترانه‌های ملی را هم‌خوانی کردند.",
+      "plain_text": "ایرانیان استرالیا روز شنبه در حمایت از انقلاب ملی علیه جمهوری اسلامی تجمع کرده و با حمل پرچم شیروخورشید ترانه‌های ملی را هم‌خوانی کردند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337448",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/nX6smsxfLAAaIS-Exm5KnTr0_boOkTDJwxxrCYSSPrd4OnygbD4KmrVvflcrAffkUZIBsiKkH4_HykceHDoiXEGEgrYTZPhFiSFNiB3cE-fD-F-gj6aCsL_9YVvzY9CXeCTbhMV9kDjMAmj3HOHKH2OKrl3m1gUhHzIho8vQSNNzA0124dWm-GBtA4sbJT8B32zLj9WWGfWxMbHMMy74FJ6G7Ww-HZqONOvw964QbAi5S0KQdcRU9kZtC1vnTWoqbEpR_OOsQmOwQJ-BX_QLDmTWjiOC_gTXEhJg5Bmb6mO9hjqScBvU-BSdXNrF1aPBUVMFyJxWB-HWZaOhXxM4Aw",
+          "thumbnail_path": "channels/iranintltv/media/76cea5128ae758d806b8c854.jpg",
+          "duration_label": "0:45",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "12.2K",
+      "posted_at": "2026-05-16T10:35:04+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337448"
+    },
+    {
+      "id": "IranintlTV/337447",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Lg3q5nI5fpd-MGTEZzSFab54EOewM4t1o_qktqtMD7qcJo4xri1SHP_wBLK83x9Ga0kpA8OjlDWUcLbdvX9HgC-7y_TevB_dzUlxYnFffVOSRsJgj9ADbm03bBiJ5Vjd1onCX5NZAUPsu5_EQhUuFuorx9YSSIwCf3GRKR_X9dQv2feJSnmCMN65pO6J6V2Hikhp38uX42tNICPEjkmfCoEFXfVfusJ-DqYkG5-bU9B-KekfBNHTwJNsXZxtkCEKelcOrcIRPWGFp3fVYZ9tu0duQDY-nAgWDj1TIKqituTHKrzlOpVEX5BxgQiAOWxpVmbvYniHt64ZxBeoPneaWQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/f88303c3f11564978f5c3f0d.jpg",
+      "body_html": "روزنامه معاریو به نقل از منابع آگاه گزارش داد که دولت دونالد ترامپ در روزهای اخیر آمادگی خود را برای دادن «چراغ سبز» به اقدام نظامی در صورت شکست نهایی تلاش‌های دیپلماتیک با جمهوری اسلامی نشان داده است.<br><br>بر اساس این گزارش، با وجود این رویکرد، هنوز تصمیم نهایی برای آغاز عملیات نظامی اتخاذ نشده است.<br><br>این منابع افزودند که «پنجره دیپلماتیک به سرعت در حال بسته شدن است» و روزهای آینده می‌تواند در تعیین مسیر تحولات سرنوشت‌ساز باشد.<br><a href=\"https://iranintl.com/202605162346\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605162346</a>",
+      "plain_text": "روزنامه معاریو به نقل از منابع آگاه گزارش داد که دولت دونالد ترامپ در روزهای اخیر آمادگی خود را برای دادن «چراغ سبز» به اقدام نظامی در صورت شکست نهایی تلاش‌های دیپلماتیک با جمهوری اسلامی نشان داده است. بر اساس این گزارش، با وجود این رویکرد، هنوز تصمیم نهایی برای آغاز عملیات نظامی اتخاذ نشده است. این منابع افزودند که «پنجره دیپلماتیک به سرعت در حال بسته شدن است» و روزهای آینده می‌تواند در تعیین مسیر تحولات سرنوشت‌ساز باشد. https://iranintl.com/202605162346",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337447",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/vWTkflQl4fAoCc9Wj6kFKZF6rktZ4rcPtoTdX-a6zH0nZ5HzqouhPGKzX2L_rjgkJ4n6AO1So7xs-phphRRg3VJj8fc8NsQKnTSZ-swgCiaTWKA0eFyEgGu0sr1F_Nctr403-EH9pQVcTzyFBamabtlhBdj1FQSkxltn1pK6K9fdNTd_1la9kuiFm2Rk6xfvNQ76an2Rq1-D4lb-I78BcQaX4Y-jKu7WfbMxMwcaNx-sYBRpv1RmzzQVwX_I0CUFXyiTQYM6-E5Y3-7kMRwD5aR5FQDfV8t_qhPzU7scPVBVMf61qNocyjRc7F-pZflHZC0jjtrEMFhjvMzFTT-5PA.jpg",
+          "thumbnail_path": "channels/iranintltv/media/18e82b8d2874127ea54111e8.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "12.2K",
+      "posted_at": "2026-05-16T10:34:19+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337447"
+    },
+    {
+      "id": "IranintlTV/337446",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Lg3q5nI5fpd-MGTEZzSFab54EOewM4t1o_qktqtMD7qcJo4xri1SHP_wBLK83x9Ga0kpA8OjlDWUcLbdvX9HgC-7y_TevB_dzUlxYnFffVOSRsJgj9ADbm03bBiJ5Vjd1onCX5NZAUPsu5_EQhUuFuorx9YSSIwCf3GRKR_X9dQv2feJSnmCMN65pO6J6V2Hikhp38uX42tNICPEjkmfCoEFXfVfusJ-DqYkG5-bU9B-KekfBNHTwJNsXZxtkCEKelcOrcIRPWGFp3fVYZ9tu0duQDY-nAgWDj1TIKqituTHKrzlOpVEX5BxgQiAOWxpVmbvYniHt64ZxBeoPneaWQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/f88303c3f11564978f5c3f0d.jpg",
+      "body_html": "همزمان با افزایش تنش‌ها میان امارات متحده عربی و جمهوری اسلامی، یک مجری صدا و سیمای جمهوری اسلامی در برنامه‌ای با محور آموزش کار با سلاح، پرچم امارات متحده عربی را به‌عنوان هدف انتخاب کرد و به سوی آن شلیک کرد.<br><br>این بخش از برنامه در حالی پخش شد که روابط تهران و ابوظبی در هفته‌های اخیر با تنش‌هایی همراه بوده است.<br><br>صدا و سیمای جمهوری اسلامی جمعه چند برنامه پخش کرد که در آنها مجریان در بخش‌های استودیویی با در دست داشتن تفنگ ظاهر شدند و اعلام کردند در حال یادگیری کار با سلاح‌های سبک هستند و در صورت لزوم به جنگ خواهند پیوست. <br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "همزمان با افزایش تنش‌ها میان امارات متحده عربی و جمهوری اسلامی، یک مجری صدا و سیمای جمهوری اسلامی در برنامه‌ای با محور آموزش کار با سلاح، پرچم امارات متحده عربی را به‌عنوان هدف انتخاب کرد و به سوی آن شلیک کرد. این بخش از برنامه در حالی پخش شد که روابط تهران و ابوظبی در هفته‌های اخیر با تنش‌هایی همراه بوده است. صدا و سیمای جمهوری اسلامی جمعه چند برنامه پخش کرد که در آنها مجریان در بخش‌های استودیویی با در دست داشتن تفنگ ظاهر شدند و اعلام کردند در حال یادگیری کار با سلاح‌های سبک هستند و در صورت لزوم به جنگ خواهند پیوست. @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337446",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/teKJLyrxlM1TKZDg8NMFchUuaD5jmFkthUeM1cr6VUvS8T8xU-css-2Vzk9Gv2D0twmEr7fBtp-Sjm_P8uznYEJsY6vIdDIcGy4U_mNW0XY5Nr_vwjQTkIQN8-zy53rObnzhYD8TZq9Xq-1gZVJ6gnjYI0zFOlGsqfnx_GsHh6YszMx3J4rTjFig4zduSChaDY9jRouFbmwpmLRzMNf1J19dh-jdFG3LiamMdKr7Fuwt3rO8dxefAS7_Oz6M_T_L113pLtYUJXcW-ZCBh36TTC2zQxsjtk2kw84og3gP6Nh7wYnsf-HNADN82elj39Ejw8NxxJ__sY8mCYtA_5B-Ig",
+          "thumbnail_path": "channels/iranintltv/media/eedd0b915dfa2575878f7a35.jpg",
+          "duration_label": "1:36",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "11.1K",
+      "posted_at": "2026-05-16T10:33:54+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337446"
+    },
+    {
+      "id": "IranintlTV/337445",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Lg3q5nI5fpd-MGTEZzSFab54EOewM4t1o_qktqtMD7qcJo4xri1SHP_wBLK83x9Ga0kpA8OjlDWUcLbdvX9HgC-7y_TevB_dzUlxYnFffVOSRsJgj9ADbm03bBiJ5Vjd1onCX5NZAUPsu5_EQhUuFuorx9YSSIwCf3GRKR_X9dQv2feJSnmCMN65pO6J6V2Hikhp38uX42tNICPEjkmfCoEFXfVfusJ-DqYkG5-bU9B-KekfBNHTwJNsXZxtkCEKelcOrcIRPWGFp3fVYZ9tu0duQDY-nAgWDj1TIKqituTHKrzlOpVEX5BxgQiAOWxpVmbvYniHt64ZxBeoPneaWQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/f88303c3f11564978f5c3f0d.jpg",
+      "body_html": "مخاطبان ایران اینترنشنال طی روزهای اخیر با ارسال پیام‌هایی درباره سلامت و جان فاطمه سپهری، زندانی سیاسی، ابراز نگرانی کرده و از ایرانیان خواستند در خارج از کشور صدای او باشند. پیام مخاطبان با هوش مصنوعی بازخوانی شده است.",
+      "plain_text": "مخاطبان ایران اینترنشنال طی روزهای اخیر با ارسال پیام‌هایی درباره سلامت و جان فاطمه سپهری، زندانی سیاسی، ابراز نگرانی کرده و از ایرانیان خواستند در خارج از کشور صدای او باشند. پیام مخاطبان با هوش مصنوعی بازخوانی شده است.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337445",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/duBM94TktgvVUEqJd203BPpnhvd0k_vtADGy-uftiACoSdw-bD-ZxJLiVHS79AxiDewlMXi_CeQuXoOkUxMxtvOO8Dmi3IJYPS70H8V5WRBmqny1vtXgUxRlbz0Ij7gW4HsZmSd_DvunPzaTqGbEZtCYtonZR_MQqWcE7GNaYysWOmowELiomSzPwlC3rvsZNTvB5_oYRwS_fElUW1UbTE4cFVfQXOQPRLsgRtsLoZpHhDndClLBcZEQyOjrArV4WaodCEO3RK0I9ZMgS4U6WjjycQeHSJkZxEyF29t2isn4dQNSap7wLBVybHQ8-oWyJlbVTCXUClhVmAOiusbHEQ",
+          "thumbnail_path": "channels/iranintltv/media/59603b8d1bf86cb6f51a796e.jpg",
+          "duration_label": "1:06",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "12.2K",
+      "posted_at": "2026-05-16T10:29:41+00:00",
+      "edited": true,
+      "permalink": "https://t.me/IranintlTV/337445"
+    },
+    {
+      "id": "IranintlTV/337444",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Lg3q5nI5fpd-MGTEZzSFab54EOewM4t1o_qktqtMD7qcJo4xri1SHP_wBLK83x9Ga0kpA8OjlDWUcLbdvX9HgC-7y_TevB_dzUlxYnFffVOSRsJgj9ADbm03bBiJ5Vjd1onCX5NZAUPsu5_EQhUuFuorx9YSSIwCf3GRKR_X9dQv2feJSnmCMN65pO6J6V2Hikhp38uX42tNICPEjkmfCoEFXfVfusJ-DqYkG5-bU9B-KekfBNHTwJNsXZxtkCEKelcOrcIRPWGFp3fVYZ9tu0duQDY-nAgWDj1TIKqituTHKrzlOpVEX5BxgQiAOWxpVmbvYniHt64ZxBeoPneaWQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/f88303c3f11564978f5c3f0d.jpg",
+      "body_html": "بنا بر گزارش کانال۱۲ اسرائیل، رییس‌جمهور آمریکا قرار است ظرف ۲۴ ساعت آینده نشستی ویژه با مشاورانش برگزار کند تا تصمیم نهایی درباره جمهوری اسلامی را اتخاذ کند.<br><br>گفت‌وگو با منشه امیر، کارشناس امور خاورمیانه<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "بنا بر گزارش کانال۱۲ اسرائیل، رییس‌جمهور آمریکا قرار است ظرف ۲۴ ساعت آینده نشستی ویژه با مشاورانش برگزار کند تا تصمیم نهایی درباره جمهوری اسلامی را اتخاذ کند. گفت‌وگو با منشه امیر، کارشناس امور خاورمیانه @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337444",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qISAAbeyHk1uU__pK2mSPhSXIooQ567638YSBrT1Y7Aevcggox6jGuVCkwrpJzeXOXly4r0ogh90gaYDBI_u-F95wpJeZPbjYjRCQs-_rdZ9vD81EX_75E8CwbBN5A-ZPC6JFxLNrRIOtAxy7kKnUB5euRl7v6A2cRIcTHsT19wY14tDO2V6yzMjJkFTkXlwdM3IX6vZdUeWpDv-dFmxdSBzpWwXBAuVBRYYHKECTbCVH7cBuJYbn_vHDLNbm5Z_oI6K0cVUoGpcasoYiwqYXeRkmDNDy3OCG66oFRg7YwkpKz2eozi5J-yyS7OdIib8q6pTKV-F1pF9KzqITcNdeA",
+          "thumbnail_path": "channels/iranintltv/media/1ce027fe5a352e0e9d5bceff.jpg",
+          "duration_label": "4:55",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "13.3K",
+      "posted_at": "2026-05-16T10:27:30+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337444"
+    },
+    {
+      "id": "IranintlTV/337443",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Lg3q5nI5fpd-MGTEZzSFab54EOewM4t1o_qktqtMD7qcJo4xri1SHP_wBLK83x9Ga0kpA8OjlDWUcLbdvX9HgC-7y_TevB_dzUlxYnFffVOSRsJgj9ADbm03bBiJ5Vjd1onCX5NZAUPsu5_EQhUuFuorx9YSSIwCf3GRKR_X9dQv2feJSnmCMN65pO6J6V2Hikhp38uX42tNICPEjkmfCoEFXfVfusJ-DqYkG5-bU9B-KekfBNHTwJNsXZxtkCEKelcOrcIRPWGFp3fVYZ9tu0duQDY-nAgWDj1TIKqituTHKrzlOpVEX5BxgQiAOWxpVmbvYniHt64ZxBeoPneaWQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/f88303c3f11564978f5c3f0d.jpg",
+      "body_html": "محمد مخبر، مشاور رهبر جمهوری اسلامی، با انتشار مطلبی در ایکس با هشتگ کویت و امارات نوشت: «ایران سال‌ها به چشم دوست و برادر به آنها نگاه کرد، ولی آنها با پیش‌فروش استقلال خود، حتی خاک و خانه‌هایشان را در اختیار دشمنان فلسطین و ایران قرار دادند.»<br><br>او تهدید کرد: «پاسخ جمهوری اسلامی به سنگرهای استیجاری سنتکام در جنگ اخیر تمام‌عیار نبود، اما قطعا این خویشتن‌داری همیشگی نیست.»<br><a href=\"https://iranintl.com/202605169610\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605169610</a>",
+      "plain_text": "محمد مخبر، مشاور رهبر جمهوری اسلامی، با انتشار مطلبی در ایکس با هشتگ کویت و امارات نوشت: «ایران سال‌ها به چشم دوست و برادر به آنها نگاه کرد، ولی آنها با پیش‌فروش استقلال خود، حتی خاک و خانه‌هایشان را در اختیار دشمنان فلسطین و ایران قرار دادند.» او تهدید کرد: «پاسخ جمهوری اسلامی به سنگرهای استیجاری سنتکام در جنگ اخیر تمام‌عیار نبود، اما قطعا این خویشتن‌داری همیشگی نیست.» https://iranintl.com/202605169610",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337443",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/l8Gs5mHMQjAV4dhRBiOuFaH-MLy8QBW3L_lLf4iWLZL9R2ne1QH2Kl8Uie41uQx4gbCYfU_2uApHBn1FrDVBNgqZkxM0Yh_CkWMciapZuBd1DrAWZFsc56_SLd14DH7S17IbZiyOZlgvA2EblkDk9iIGruCxKdevq1LB_AXpeDXMGi5e6crgq7snUg_crDvkiN-ath33m14ya2W2NKLM0AD9BQukH1ecIRlmAaRvKTYwidhzUwBeeg5lF45m2rnDdwuuevKdKJQ8VI44axlrnVEvSCrQCLKbLz3nBkNsjzvcd5czPHWN7QfBQw8R6ER5xVkvy9bKodYc5e_JCAenCQ.jpg",
+          "thumbnail_path": "channels/iranintltv/media/423b17664cb6500f59141452.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "13.3K",
+      "posted_at": "2026-05-16T10:24:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337443"
+    },
+    {
+      "id": "IranintlTV/337442",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Lg3q5nI5fpd-MGTEZzSFab54EOewM4t1o_qktqtMD7qcJo4xri1SHP_wBLK83x9Ga0kpA8OjlDWUcLbdvX9HgC-7y_TevB_dzUlxYnFffVOSRsJgj9ADbm03bBiJ5Vjd1onCX5NZAUPsu5_EQhUuFuorx9YSSIwCf3GRKR_X9dQv2feJSnmCMN65pO6J6V2Hikhp38uX42tNICPEjkmfCoEFXfVfusJ-DqYkG5-bU9B-KekfBNHTwJNsXZxtkCEKelcOrcIRPWGFp3fVYZ9tu0duQDY-nAgWDj1TIKqituTHKrzlOpVEX5BxgQiAOWxpVmbvYniHt64ZxBeoPneaWQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/f88303c3f11564978f5c3f0d.jpg",
+      "body_html": "فرماندهی کل نیروی دفاعی بحرین اعلام کرد که تمامی سلاح‌ها و یگان‌های این نیرو در بالاترین سطح آمادگی و آماده‌باش دفاعی برای مواجه با حمله احتمالی جمهوری اسلامی قرار دارند.  بحرین همچنین از شهروندانش خواست با توجه به پیامدهای این حمله، از نزدیک شدن یا دست زدن به هرگونه شیء ناشناس یا مشکوک که ممکن است از بقایای این حمله باشد، خودداری کنند.<br><br>در بیانیه این فرماندهی آمده است که نیروهای آن از آمادگی رزمی پیشرفته و هوشیاری بالا در انجام وظیفه ملی خود برای دفاع از کشور و حفاظت از دستاوردهای آن برخوردارند.<br><a href=\"https://iranintl.com/202605161969\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605161969</a>",
+      "plain_text": "فرماندهی کل نیروی دفاعی بحرین اعلام کرد که تمامی سلاح‌ها و یگان‌های این نیرو در بالاترین سطح آمادگی و آماده‌باش دفاعی برای مواجه با حمله احتمالی جمهوری اسلامی قرار دارند. بحرین همچنین از شهروندانش خواست با توجه به پیامدهای این حمله، از نزدیک شدن یا دست زدن به هرگونه شیء ناشناس یا مشکوک که ممکن است از بقایای این حمله باشد، خودداری کنند. در بیانیه این فرماندهی آمده است که نیروهای آن از آمادگی رزمی پیشرفته و هوشیاری بالا در انجام وظیفه ملی خود برای دفاع از کشور و حفاظت از دستاوردهای آن برخوردارند. https://iranintl.com/202605161969",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337442",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/j12TLU9VMG6svhHuXJTMV-4eqqJLhX_pgXBcRVlGzhk0HHBwXN0RyNn_UECiwe1bJxJrRVGK4eBGm88SLn0xyx6tI9Ukzql0nhDP16aFIPcI9NIAavv3X21VVH-Ir-rO7KGa61-0Ng3f6lEvbPbeTlos806aMejqgEdsx6m1LBm4pOm0VjWlhLNS9WwfhI2G3f1lTlZ6b3kNZszvnTIULgDXq4p9R2w1ub0VC5wCdQNRFs85_RBtFafLg6kCHG7-vHo-53zws4zKY1nifq74HqY6lUrREzX30dpjGh-aoaG3h4XREM5-1BO_KFwlYIRARHMK_k6orPiAgXfQ_uQalg.jpg",
+          "thumbnail_path": "channels/iranintltv/media/7b9bd282a2135123c1846924.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "18K",
+      "posted_at": "2026-05-16T10:08:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337442"
+    },
+    {
+      "id": "IranintlTV/337441",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Lg3q5nI5fpd-MGTEZzSFab54EOewM4t1o_qktqtMD7qcJo4xri1SHP_wBLK83x9Ga0kpA8OjlDWUcLbdvX9HgC-7y_TevB_dzUlxYnFffVOSRsJgj9ADbm03bBiJ5Vjd1onCX5NZAUPsu5_EQhUuFuorx9YSSIwCf3GRKR_X9dQv2feJSnmCMN65pO6J6V2Hikhp38uX42tNICPEjkmfCoEFXfVfusJ-DqYkG5-bU9B-KekfBNHTwJNsXZxtkCEKelcOrcIRPWGFp3fVYZ9tu0duQDY-nAgWDj1TIKqituTHKrzlOpVEX5BxgQiAOWxpVmbvYniHt64ZxBeoPneaWQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/f88303c3f11564978f5c3f0d.jpg",
+      "body_html": "یک شهروند ویدیویی به ایران اینترنشنال فرستاده که بحران در دسترسی به بنزین و تشکیل صف‌های طولانی در بندرعباس در روز شنبه ۲۶ اردیبهشت‌ماه را نشان می‌دهد.",
+      "plain_text": "یک شهروند ویدیویی به ایران اینترنشنال فرستاده که بحران در دسترسی به بنزین و تشکیل صف‌های طولانی در بندرعباس در روز شنبه ۲۶ اردیبهشت‌ماه را نشان می‌دهد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337441",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/WA46d9VVbc8z7DLSR72B1Q1V8inLdk0dnpZfNJX5K1mlO8gdT_pniED_pJt0aRo5UCEPNHcwPT9CSjEOW71N-N0UpjnNOxO_Udqh8f0hqOf5femHNJ23ZtjWRASx3oLEIkcDz-CS54aUGv568v6SIzj8jlC0TIa_wmWRqoz9hFwjnujZrLcGUnMFQek62fLkNUoylYPzBTSCxUpWCrRl_DNdC5HI8W1FJOpN0GZvkw44iLzz9hP2PYMpRexJ7GZ4bCNPEbB5LUZPtQrSqME36rVbLjwdfKs4ojxEgea8e7U_uOjXAIwVciBopz48Nm-_IoPlcAfcG0AvHkdhOa4DVg",
+          "thumbnail_path": "channels/iranintltv/media/9aba677da1c2b2970495e613.jpg",
+          "duration_label": "0:47",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "18.4K",
+      "posted_at": "2026-05-16T09:59:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337441"
+    },
+    {
+      "id": "IranintlTV/337440",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/Lg3q5nI5fpd-MGTEZzSFab54EOewM4t1o_qktqtMD7qcJo4xri1SHP_wBLK83x9Ga0kpA8OjlDWUcLbdvX9HgC-7y_TevB_dzUlxYnFffVOSRsJgj9ADbm03bBiJ5Vjd1onCX5NZAUPsu5_EQhUuFuorx9YSSIwCf3GRKR_X9dQv2feJSnmCMN65pO6J6V2Hikhp38uX42tNICPEjkmfCoEFXfVfusJ-DqYkG5-bU9B-KekfBNHTwJNsXZxtkCEKelcOrcIRPWGFp3fVYZ9tu0duQDY-nAgWDj1TIKqituTHKrzlOpVEX5BxgQiAOWxpVmbvYniHt64ZxBeoPneaWQ.jpg",
+      "author_photo_path": "channels/iranintltv/media/f88303c3f11564978f5c3f0d.jpg",
+      "body_html": "مشاهدات شما از بحران کمبود و گرانی سوخت در استان‌های مختلف ایران چیست؟ <br><br><br>روی لینک زیر کلیک کنید و پیام‌های خود از طریق مدیا‌بات برای ما بفرستید. <br><br><a href=\"https://t.me/intlmedia_bot\" target=\"_blank\" rel=\"noopener\">https://t.me/intlmedia_bot</a><br><br>پیام‌های شما به صورت زیر‌نویس در تلویزیون و همچنین در بخش‌های مختلف‌ خبری منتشر خواهد شد",
+      "plain_text": "مشاهدات شما از بحران کمبود و گرانی سوخت در استان‌های مختلف ایران چیست؟ روی لینک زیر کلیک کنید و پیام‌های خود از طریق مدیا‌بات برای ما بفرستید. https://t.me/intlmedia_bot پیام‌های شما به صورت زیر‌نویس در تلویزیون و همچنین در بخش‌های مختلف‌ خبری منتشر خواهد شد",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337440",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/mTVV4klM3rG9R1wu6gZIzEk0zgoLaNcta9DXjkHxAZuG7F20srImCgyjOefOZeezv083iDw4Ed3-yYhPnjTsxqquwGmExpNJdT39whUkL7Ap9VTR9V0GJLu8hNpBD3YGmuyL5lNQ3RwTSVTwLk1V8WRXpzqhdex4BhBr3EE0704YB0lQLr-zHZluyFxMFw-IsLt3Bl2VaICCeIpv3vgXN6mvYC-KxIL_LXAvxXwSJ7Mu7hiRSj3YOhF0QARF6kdpDfoqmEqd5FbhYDjP6IW7Rp6ykM9rsW7O7geM-Gz4dBs9ydxJJm7znGjJb78mEpIPxFcRvVNinUejvBKgOeN8ow.jpg",
+          "thumbnail_path": "channels/iranintltv/media/85b47981ba8c0b2476dadcab.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "18.3K",
+      "posted_at": "2026-05-16T09:58:21+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337440"
+    },
     {
       "id": "IranintlTV/337423",
       "author_name": "Iran International ایران اینترنشنال",
@@ -1973,404 +2363,6 @@
       "posted_at": "2026-05-15T08:59:51+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/337284"
-    },
-    {
-      "id": "IranintlTV/337283",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Jm-r8TIOIB8Dbe91x3V2vqBAhTjh3qcJ3Mio6aqzfe0ob2_izb7PiG3kYTTMzHGhXvLqnTC7AHOlvHdJH5EZ-ExMVZ9XmK5JIYDH3q05WDdRiDFfatMpONHXlf3i-0KVy-WEPhWLdS4ZBJRPrpq-jv3IOaDlPwPBwTNKC640A0UMObpYFisRP4sTTC06wctnTNiAqSxc4-mQOxhHwW01GKItDBJAF9OCeGlBgkUkIRAOgMl6XoXIaMFWCkPzM5GKLpQ8bQSGJPuGgdBaDs_7p8EpjYZdBuaotCDlhGn8GUOCTp5OtJHQl0Q4Vien5ITh4TrrCA2XHDMMrHlFYsVePw.jpg",
-      "author_photo_path": "channels/iranintltv/media/7affdd0eed75bc55af3c6aa8.jpg",
-      "body_html": "کانال ۱۱ اسرائیل به نقل از منابع&nbsp;اسرائیلی و آمریکایی گزارش داد اسرائیل در پیامی روشن به واشینگتن، خواستار بازگشت به درگیری با جمهوری اسلامی شده است.<br><br>جزییات بیشتر در گزارش بابک اسحاقی، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "کانال ۱۱ اسرائیل به نقل از منابع اسرائیلی و آمریکایی گزارش داد اسرائیل در پیامی روشن به واشینگتن، خواستار بازگشت به درگیری با جمهوری اسلامی شده است. جزییات بیشتر در گزارش بابک اسحاقی، خبرنگار ایران‌اینترنشنال @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337283",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/DRcNEuyduhm938d-vCIOPse2dEL3IrWxpipCa_riyyQ-2vwMdJfvQTyYXdJftCV47ICKtNAXM5LxZtjBvbxTdL5WwuuUf_f1k2bHQ9RfY8FlUa440m8uQMdJo_V4PWlXQUrolVxmpb_-nVxdDa5gwLXalWSYt2LmLQgqOUNoHX1UEQck6qvWxIZ04JuLTq_SkSxP_oCw_OrzDVGvB6u9CaQkOyaMitNBW7iY3m-4wKASi0TD3KIPKk3ovGkCSdW4eDxn7U42qrgzPJPrORz7JidxHX-imB3XWkh4wDOzPLJzXVbxHV3OH0z2fbGzFdGkUHonrWjzj3Z9bpZAGKx1iA",
-          "thumbnail_path": "channels/iranintltv/media/715931c6d65dde352c9fb00b.jpg",
-          "duration_label": "4:15",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "15.4K",
-      "posted_at": "2026-05-15T08:49:57+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337283"
-    },
-    {
-      "id": "IranintlTV/337282",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Jm-r8TIOIB8Dbe91x3V2vqBAhTjh3qcJ3Mio6aqzfe0ob2_izb7PiG3kYTTMzHGhXvLqnTC7AHOlvHdJH5EZ-ExMVZ9XmK5JIYDH3q05WDdRiDFfatMpONHXlf3i-0KVy-WEPhWLdS4ZBJRPrpq-jv3IOaDlPwPBwTNKC640A0UMObpYFisRP4sTTC06wctnTNiAqSxc4-mQOxhHwW01GKItDBJAF9OCeGlBgkUkIRAOgMl6XoXIaMFWCkPzM5GKLpQ8bQSGJPuGgdBaDs_7p8EpjYZdBuaotCDlhGn8GUOCTp5OtJHQl0Q4Vien5ITh4TrrCA2XHDMMrHlFYsVePw.jpg",
-      "author_photo_path": "channels/iranintltv/media/7affdd0eed75bc55af3c6aa8.jpg",
-      "body_html": "نت‌بلاکس خبر داد که قطعی اینترنت در ایران از هزار و ۸۲۴ ساعت گذشته و وارد هفتادوهفتمین روز شده است.<br>نت‌بلاکس نوشت: در پی تداوم قطع اینترنت در ایران، بخش زیادی از مردم از ارتباطات آنلاین و تعامل با جهان خارج محروم شده‌اند و نگرانی‌ها درباره پیامدهای روانی افزایش یافته است.<br><a href=\"https://iranintl.com/202605150265\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605150265</a>",
-      "plain_text": "نت‌بلاکس خبر داد که قطعی اینترنت در ایران از هزار و ۸۲۴ ساعت گذشته و وارد هفتادوهفتمین روز شده است. نت‌بلاکس نوشت: در پی تداوم قطع اینترنت در ایران، بخش زیادی از مردم از ارتباطات آنلاین و تعامل با جهان خارج محروم شده‌اند و نگرانی‌ها درباره پیامدهای روانی افزایش یافته است. https://iranintl.com/202605150265",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337282",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/OZNVYZ_7DVBHgdc6wdsK9olzKN7nLzjWYx-Z26JQAgLr-321riSQrovvslQ8BBnVeohmgJ4a-LFhaF0e4ubBiLpxvrGoEEvHqgSmcBn6ljwwczayCPz5cPSirLe2hI2xHE35rdEg83D4pI4N0LUcu5HuLR16n1Kx5RPzBYrb2EcXVLNfYFYsseh1RIw8lq7vCte82UhP0dFIowysti5CNPZQii_Ejfa4mak9qlGJkePDr0zPSSugVr0s6N7HuHs4Qx0JJXnfVw8c4LA1ccE3mNZfTwxgPrWguHcn8t_J_H17OR6TLkx2aWPeGl8voUjgFUbqqom5M9iD-YQEswHX6g.jpg",
-          "thumbnail_path": "channels/iranintltv/media/0bce4fb89e1273a94892c0f5.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "16.2K",
-      "posted_at": "2026-05-15T08:47:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337282"
-    },
-    {
-      "id": "IranintlTV/337281",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Jm-r8TIOIB8Dbe91x3V2vqBAhTjh3qcJ3Mio6aqzfe0ob2_izb7PiG3kYTTMzHGhXvLqnTC7AHOlvHdJH5EZ-ExMVZ9XmK5JIYDH3q05WDdRiDFfatMpONHXlf3i-0KVy-WEPhWLdS4ZBJRPrpq-jv3IOaDlPwPBwTNKC640A0UMObpYFisRP4sTTC06wctnTNiAqSxc4-mQOxhHwW01GKItDBJAF9OCeGlBgkUkIRAOgMl6XoXIaMFWCkPzM5GKLpQ8bQSGJPuGgdBaDs_7p8EpjYZdBuaotCDlhGn8GUOCTp5OtJHQl0Q4Vien5ITh4TrrCA2XHDMMrHlFYsVePw.jpg",
-      "author_photo_path": "channels/iranintltv/media/7affdd0eed75bc55af3c6aa8.jpg",
-      "body_html": "کانال ۱۱ اسرائیل به نقل از منابع&nbsp;اسرائیلی و آمریکایی گزارش داد اسرائیل در پیامی روشن به واشینگتن، خواستار بازگشت به درگیری با جمهوری اسلامی شده است.<br><br>جزییات بیشتر در گزارش بابک اسحاقی، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "کانال ۱۱ اسرائیل به نقل از منابع اسرائیلی و آمریکایی گزارش داد اسرائیل در پیامی روشن به واشینگتن، خواستار بازگشت به درگیری با جمهوری اسلامی شده است. جزییات بیشتر در گزارش بابک اسحاقی، خبرنگار ایران‌اینترنشنال @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337281",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/HDYNKB6lSO8vlE2KwzQ65px2KsyPUjbSdCo5_duPNCTE5NeyUgy_YOkK0BFuc2JsVZhqIv-ZYyoEK_idCP21SdANgyBV4T5JYM-9sMuhmc9Pp7HcZBSwwKw0F-0uCic5woS9DEDa-Wfvwu_f8hOdb6YlvPlYl-wMSG0ojHE9MHG_4KbtmaytyltueiviyXbnRSmae2CcnnInGHQMIOXjGeHYFJyybVJMv0le2hZf24idGOi2nALFRoZfpw9X0mpfaveOaDs5UcU7hQczAiEIWfAHvTIyy0xZba8bK9aBZKLS7H1eXvX7DJQlrGara6pXY-g8eKelkJv0J7QLQdIKaw",
-          "thumbnail_path": "channels/iranintltv/media/9196f7d69126dc19b108f097.jpg",
-          "duration_label": "4:15",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "16.8K",
-      "posted_at": "2026-05-15T08:41:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337281"
-    },
-    {
-      "id": "IranintlTV/337280",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Jm-r8TIOIB8Dbe91x3V2vqBAhTjh3qcJ3Mio6aqzfe0ob2_izb7PiG3kYTTMzHGhXvLqnTC7AHOlvHdJH5EZ-ExMVZ9XmK5JIYDH3q05WDdRiDFfatMpONHXlf3i-0KVy-WEPhWLdS4ZBJRPrpq-jv3IOaDlPwPBwTNKC640A0UMObpYFisRP4sTTC06wctnTNiAqSxc4-mQOxhHwW01GKItDBJAF9OCeGlBgkUkIRAOgMl6XoXIaMFWCkPzM5GKLpQ8bQSGJPuGgdBaDs_7p8EpjYZdBuaotCDlhGn8GUOCTp5OtJHQl0Q4Vien5ITh4TrrCA2XHDMMrHlFYsVePw.jpg",
-      "author_photo_path": "channels/iranintltv/media/7affdd0eed75bc55af3c6aa8.jpg",
-      "body_html": "یکی از مخاطبان ایران‌اینترنشنال که دانش‌آموز پایه دهم انسانی است می‌گوید با وجود نهایی نبودن امتحان‌های امسال، نگران سال آینده است، چون به گفته او کیفیت آموزش و شرایط یادگیری در سال جاری «افتضاح» بوده و دانش‌آموزان عملا چیزی یاد نگرفته‌اند. او می‌گوید در مدرسه غیردولتی تحصیل می‌کند.<br>این پیام با هوش مصنوعی خوانده شده است.",
-      "plain_text": "یکی از مخاطبان ایران‌اینترنشنال که دانش‌آموز پایه دهم انسانی است می‌گوید با وجود نهایی نبودن امتحان‌های امسال، نگران سال آینده است، چون به گفته او کیفیت آموزش و شرایط یادگیری در سال جاری «افتضاح» بوده و دانش‌آموزان عملا چیزی یاد نگرفته‌اند. او می‌گوید در مدرسه غیردولتی تحصیل می‌کند. این پیام با هوش مصنوعی خوانده شده است.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337280",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/t65afEy5im64hKGKSa-du0UPGU0TQWhMn06b5ROKpt2cOqynldfPxCdVkoD8MgHRotcOTAsCzH2noBq0S99LmEW1nhat9bLJhEJAeRGPhpyoJ6EuPnCyWzFz1wE_pBXyoFaouBbgLAx6MWUkcJTBCjsVNR1Dbhtl52dL0qkXCj9NqFUEQg8B6hjJ51NazBF3TD9Reg0U8J38VSoGFL5TlE8gTrXUbYbiai0LZH4oWIxhwMGTEeAFWd6ES5ZGjWLP5A0jBA9Zi0UdoUSd5dCqrB-TTzwNxOo-tTJNN-iwwqjhoV1-k8doZPJDEl8f6WGK4xgNq-3CWdrdr2EvGSV3ag",
-          "thumbnail_path": "channels/iranintltv/media/6f9423c5b6e6e9b60eea0434.jpg",
-          "duration_label": "0:17",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "19.2K",
-      "posted_at": "2026-05-15T08:29:41+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337280"
-    },
-    {
-      "id": "IranintlTV/337279",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Jm-r8TIOIB8Dbe91x3V2vqBAhTjh3qcJ3Mio6aqzfe0ob2_izb7PiG3kYTTMzHGhXvLqnTC7AHOlvHdJH5EZ-ExMVZ9XmK5JIYDH3q05WDdRiDFfatMpONHXlf3i-0KVy-WEPhWLdS4ZBJRPrpq-jv3IOaDlPwPBwTNKC640A0UMObpYFisRP4sTTC06wctnTNiAqSxc4-mQOxhHwW01GKItDBJAF9OCeGlBgkUkIRAOgMl6XoXIaMFWCkPzM5GKLpQ8bQSGJPuGgdBaDs_7p8EpjYZdBuaotCDlhGn8GUOCTp5OtJHQl0Q4Vien5ITh4TrrCA2XHDMMrHlFYsVePw.jpg",
-      "author_photo_path": "channels/iranintltv/media/7affdd0eed75bc55af3c6aa8.jpg",
-      "body_html": "<b><u><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')\"><b>🗣</b></i>روایت شما از زندگی در آتش‌بس- جمعه ۲۵ اردیبهشت ۱۴۰۵</u></b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>از مشهد پیام می‌دهم. واقعاً ما از این بلاتکلیفی خسته شدیم، گرانی بیداد می‌کند، دخل و خرج‌مان با هم همخوانی ندارد، باید ده نفر کار کنیم که یک نفر بتواند بخورد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>یادم هست اینترنت غزه فقط چند روز قطع بود، کل دنیا و سازمان ملل گفتند جنایت جنگی است، علیه بشریت است و کلی فشار آوردند به اسرائیل و گفتند می‌خواهد حقایق جنگ در غزه را سرکوب کند. هی روزگار.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>یک عدد مرغ یک‌میلیون تومان شده است، ما چند ماه پیش با این رقم چهار عدد مرغ خریداری می‌کردیم، دیگر نمی‌دانم چه بگویم، باز ارزشی‌ها بروند بیرون شعار بدهند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>از ملارد تهران، ما خیلی بدبختیم، به کی بگوییم آخه آب را روزی سه مرتبه قطع می‌کنند، بعدازظهرها از ساعت ۶ تا فردا ۶ صبح کلاً قطع می‌کنند، با این همه بارندگی باز می‌گویند آب کم است. با همه این قطعی‌ها قبض آب نجومی می‌آید.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>در مشهد، محله‌ی دلاوران. به هزار و یک بدبختی توانستیم وصل شویم، اینترنت نداریم، بنزین نداریم. از دوازده شب به بعد باید تو صف بنزین بایستی، شاید بنزین گیرت آمد، الان حتی بنزین پنج‌تومانی هم نمی‌دهند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>من از تهران پیام می‌دهم، اوضاع واقعاً داغون است، شرکت‌ها همه تعطیل شدند و تعدیل نیرو می‌کنند، شرکت سیماران از ۶۰۰ پرسنل فقط ۵۰ نفر را نگه داشتند و بقیه را اخراج کردند.",
-      "plain_text": "🗣روایت شما از زندگی در آتش‌بس- جمعه ۲۵ اردیبهشت ۱۴۰۵ 🔹از مشهد پیام می‌دهم. واقعاً ما از این بلاتکلیفی خسته شدیم، گرانی بیداد می‌کند، دخل و خرج‌مان با هم همخوانی ندارد، باید ده نفر کار کنیم که یک نفر بتواند بخورد. 🔹یادم هست اینترنت غزه فقط چند روز قطع بود، کل دنیا و سازمان ملل گفتند جنایت جنگی است، علیه بشریت است و کلی فشار آوردند به اسرائیل و گفتند می‌خواهد حقایق جنگ در غزه را سرکوب کند. هی روزگار. 🔹یک عدد مرغ یک‌میلیون تومان شده است، ما چند ماه پیش با این رقم چهار عدد مرغ خریداری می‌کردیم، دیگر نمی‌دانم چه بگویم، باز ارزشی‌ها بروند بیرون شعار بدهند. 🔹از ملارد تهران، ما خیلی بدبختیم، به کی بگوییم آخه آب را روزی سه مرتبه قطع می‌کنند، بعدازظهرها از ساعت ۶ تا فردا ۶ صبح کلاً قطع می‌کنند، با این همه بارندگی باز می‌گویند آب کم است. با همه این قطعی‌ها قبض آب نجومی می‌آید. 🔹در مشهد، محله‌ی دلاوران. به هزار و یک بدبختی توانستیم وصل شویم، اینترنت نداریم، بنزین نداریم. از دوازده شب به بعد باید تو صف بنزین بایستی، شاید بنزین گیرت آمد، الان حتی بنزین پنج‌تومانی هم نمی‌دهند. 🔹من از تهران پیام می‌دهم، اوضاع واقعاً داغون است، شرکت‌ها همه تعطیل شدند و تعدیل نیرو می‌کنند، شرکت سیماران از ۶۰۰ پرسنل فقط ۵۰ نفر را نگه داشتند و بقیه را اخراج کردند.",
-      "media": [],
-      "reactions": [],
-      "views_label": "19.4K",
-      "posted_at": "2026-05-15T08:19:24+00:00",
-      "edited": true,
-      "permalink": "https://t.me/IranintlTV/337279"
-    },
-    {
-      "id": "IranintlTV/337249",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/MgBaK6ZFKPxyo9PggvEFpglBt9ruUNAKXwHi1cz__cPQtHX1O4kMQ51oCw8920KJ3YPr9my4XCfDlGHP6xmZqoAoipZ_cfid-ql8MUsXM56wVvjZ1nZFlHQZTMUdoS71cYf3Sre5BpS_Oal969pB_NbSN_0o8Ugsa26oBNxngSij3f5NjPOPAoNAnzO7cQSsh8P5CYGvOXXQ8KAbhMG8sNV3TueP5Oco0xe0VPI9G4fdSkV8wXRJtxhSjMFzGcBuZZvJiXBwoOTDdC5pyevqQUUEr_x7qq-6F-Ju9g_jf0HNZ4Fhz2ZhRGh8N50fI0FuP1QUyANNl2HZEgEcDnmu7Q.jpg",
-      "author_photo_path": "channels/iranintltv/media/24425d89d4c2a1074e0af524.jpg",
-      "body_html": "اینترنت؛ رانت تازهٔ جمهوری اسلامی<br>شرط دسترسی به اینترنت: انتشار تصاویر خامنه‌ای<br><br>در حالی‌ که قطع و محدودیت اینترنت خسارت‌های سنگینی به زندگی و کسب‌وکار مردم وارد کرده، حکومت نه‌تنها محدودیت‌ها را کاهش نداده، بلکه با طرح‌هایی مانند «اینترنت پرو» و «سیم‌کارت سفید»، نگرانی‌ها دربارهٔ اینترنت طبقاتی را افزایش داده است.<br><br>گزارش‌هایی منتشر شده که نشان می‌دهد برخی شهروندان، پس از انتقاد از حکومت یا فعالیت در شبکه‌های اجتماعی، با قطع سیم‌کارت و اینترنت مواجه شده‌اند و برای وصل دوباره، مجبور به ارائهٔ تعهد یا فعالیت حمایتی به نفع حکومت شده‌اند.<br><br>جمهوری اسلامی اینترنت را به ابزاری برای کنترل سیاسی و سنجش وفاداری شهروندان تبدیل کرده است؛ وضعیتی که برای بسیاری از مردم فقط یک معنا دارد:<br>هرجا اینترنت نیست، آزادی هم نیست.<br><br>کامبیز حسینی در «برنامه» به این موضوع می‌پردازد.<br><br>«یک ایران صدای شما را می‌شنود»<br>دوشنبه تا پنجشنبه ۱۱ شب تهران<br>از تلویزیون ایران اینترنشنال<br><br>تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:<br><a href=\"https://youtu.be/9CC8wX4Bim0\" target=\"_blank\" rel=\"noopener\">https://youtu.be/9CC8wX4Bim0</a><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "اینترنت؛ رانت تازهٔ جمهوری اسلامی شرط دسترسی به اینترنت: انتشار تصاویر خامنه‌ای در حالی‌ که قطع و محدودیت اینترنت خسارت‌های سنگینی به زندگی و کسب‌وکار مردم وارد کرده، حکومت نه‌تنها محدودیت‌ها را کاهش نداده، بلکه با طرح‌هایی مانند «اینترنت پرو» و «سیم‌کارت سفید»، نگرانی‌ها دربارهٔ اینترنت طبقاتی را افزایش داده است. گزارش‌هایی منتشر شده که نشان می‌دهد برخی شهروندان، پس از انتقاد از حکومت یا فعالیت در شبکه‌های اجتماعی، با قطع سیم‌کارت و اینترنت مواجه شده‌اند و برای وصل دوباره، مجبور به ارائهٔ تعهد یا فعالیت حمایتی به نفع حکومت شده‌اند. جمهوری اسلامی اینترنت را به ابزاری برای کنترل سیاسی و سنجش وفاداری شهروندان تبدیل کرده است؛ وضعیتی که برای بسیاری از مردم فقط یک معنا دارد: هرجا اینترنت نیست، آزادی هم نیست. کامبیز حسینی در «برنامه» به این موضوع می‌پردازد. «یک ایران صدای شما را می‌شنود» دوشنبه تا پنجشنبه ۱۱ شب تهران از تلویزیون ایران اینترنشنال تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب: https://youtu.be/9CC8wX4Bim0 @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337249",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/WhXb3KPye95cmLhkGJaa9oYoSGc22A5pGyRH6r2r3tcVo9JwB6Go5uGaHoMmlxhM-uKCK5hfArLmSAZcu0B-3Fr22bze2UykEd_O7GvlnIanVN5jgeTstvB45UTMrvFLFL6Ovcbi6ca4IR0_jpHuQmzIX7sgfHHTroMQyEDksv_Ys7HlBZBZanSbSNTs8kFKl6XFlRSEe1d0vQ7IrERBNsvdrSntXRCRLAwbdUO3TnvQx8RZRhD0AP222WR3TOAYQnobG-ScTI0qxbb3qSw8azBVheABHpnevjMcy3xLnZ9EEk0DpAG4dNWlS8GQ9RSMV9ehcVRwVLi4zQyQVAPISg",
-          "thumbnail_path": "channels/iranintltv/media/c2114e7acc6adb26a2d02bb9.jpg",
-          "duration_label": "10:34",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.79K",
-      "posted_at": "2026-05-15T00:06:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337249"
-    },
-    {
-      "id": "IranintlTV/337240",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/MgBaK6ZFKPxyo9PggvEFpglBt9ruUNAKXwHi1cz__cPQtHX1O4kMQ51oCw8920KJ3YPr9my4XCfDlGHP6xmZqoAoipZ_cfid-ql8MUsXM56wVvjZ1nZFlHQZTMUdoS71cYf3Sre5BpS_Oal969pB_NbSN_0o8Ugsa26oBNxngSij3f5NjPOPAoNAnzO7cQSsh8P5CYGvOXXQ8KAbhMG8sNV3TueP5Oco0xe0VPI9G4fdSkV8wXRJtxhSjMFzGcBuZZvJiXBwoOTDdC5pyevqQUUEr_x7qq-6F-Ju9g_jf0HNZ4Fhz2ZhRGh8N50fI0FuP1QUyANNl2HZEgEcDnmu7Q.jpg",
-      "author_photo_path": "channels/iranintltv/media/24425d89d4c2a1074e0af524.jpg",
-      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><b>هر کدام از این نام‌ها، روایت جوانی‌ست که می‌توانست زندگی کند، کار کند، عاشق شود و آینده‌ای بسازد؛ اما گلوله سرکوب مسیر زندگی‌شان را قطع کرد.<br>جاویدنامان انقلاب ملی ایرانیان فقط نام‌های ثبت‌شده در یک فهرست نیستند؛ حافظه زخمی نسلی‌اند که بهای آزادی را با جان خود پرداخت.</b><br><b>عرفان علیزاده، علی‌اصغر محمدی چمستان، مبین فیلی، علیرضا موسی‌نیا، محمدامین قبادی، علی زنگنه، امیررضا حسنوند و محمدرضا سعیدی؛<br>نام‌هایی که از خیابان‌های ایران پاک نشدند و در حافظه جمعی این سرزمین باقی خواهند ماند.</b><br><a href=\"?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF%D9%86%D8%A7%D9%85%D8%A7%D9%86_%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8_%D9%85%D9%84%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%D8%A7%D9%86\"><b>#جاویدنامان_انقلاب_ملی_ایرانیان</b></a></div>",
-      "plain_text": "هر کدام از این نام‌ها، روایت جوانی‌ست که می‌توانست زندگی کند، کار کند، عاشق شود و آینده‌ای بسازد؛ اما گلوله سرکوب مسیر زندگی‌شان را قطع کرد. جاویدنامان انقلاب ملی ایرانیان فقط نام‌های ثبت‌شده در یک فهرست نیستند؛ حافظه زخمی نسلی‌اند که بهای آزادی را با جان خود پرداخت. عرفان علیزاده، علی‌اصغر محمدی چمستان، مبین فیلی، علیرضا موسی‌نیا، محمدامین قبادی، علی زنگنه، امیررضا حسنوند و محمدرضا سعیدی؛ نام‌هایی که از خیابان‌های ایران پاک نشدند و در حافظه جمعی این سرزمین باقی خواهند ماند. #جاویدنامان_انقلاب_ملی_ایرانیان",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337240?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/dzG8uSu-V-7FDuoueRyFn-AcOYmQ0V8_aFNDOvhH9LsvC_O_dXsQZinQvdRqCg2grmCvQ4yi4Fe6ICjBIr4_PEyxCmuKZRMgW0i6imq_4Nl_7hq-HJk7dyBm2MGwY7cra-SE4slYbDdjCNI8g_bRRudYKyhTPE9g8yVDAbBqKTfp4ZlIxIB8HkgaGnUwoYtP9q8GNi8qUv8C7812rE8U1EGWogPNl-SdmGFkUzRieLZ25_Nss1RQpng05k6f0DRmDie81OSRRES54BT_jvkt8S9_2niylddtDLxIYvEV0MvfRvL3ZQFicJdDQjDoxdZWabObFwI9IWSE9WswBM73Dg.jpg",
-          "thumbnail_path": "channels/iranintltv/media/1a7dd6795d9f290d48704df3.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337241?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/nwbqt6bHFC-YqChtvQmpiApTvODmNBzyJYtzTqVWz8WKfMRtbiGw9--qflCRXpe5JF7jPIyPHgCMqdFJooASsNcl8PLwjh-RkZOrcTB312CQw0ZYV7DJO8joyUbpzro-tpQwlFbkgT4OwFgLwa0PVQYxeJqnMXfvN8zzmiUYTe88sH1FQlDmt9yJxQH-1Y6y1eYGp0lNx0NMS3lrVQRnjd7AcPSEDAmTTCTRs1xwgqLxBqcxOd6x1Tnfz63B_018LneqeQnWBhllPhlgfeRaleJROYu0L598vmmUdKAT_5-uOQZt2jJhN93FrHbwjHrQqwjT5YBjUEs1egmkA6VC_Q.jpg",
-          "thumbnail_path": "channels/iranintltv/media/1d1e0b680eb46ccf4463aa24.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337242?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/kg8FclFYRGTg8Haft8kuoAbfGJ2NPd38YDHamzQJLC9k012hO5CSNO4YmmNYWPmUUHysLLraKbEUUtFp02BaS5nR-_uOPAzENc_lHWU4hbfrD8atSXIzEp32qGSLjcZqOFfNV1wPUmF-yorZE5NRq4U2AjKyJzgf5cA_cdvcNVAv4Vl2m8T0gsa4UXyC52PkgLO5Ml7c1FHJ9e4LVIH_-pu2M5ua5fIIRnKGPHvU3TZoHIztxr96Gp0HZTtfP5zaj7PWXC1D4eku0LXJpq2f4TA4NSyPVTRuT0HVr1Q8WpQquZKmVC3tcphldeYTHu7S4zm9eaYSj-veZYOgwdHQzA.jpg",
-          "thumbnail_path": "channels/iranintltv/media/e35e0ee5a788f139c785fa09.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337243?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/enji_JSX94kE-4mDTg9_fKXJog_PJ26GYR5gNw7wFQ3Kjpd4dYwy3v6Hiw6OCKkAjjjzXagEeMpzbUaLopV-AS8DQ1G7Ncz01nvZOwPnFn402H1xCtfZUOXxpzkOmt8VsFgWy1kSzoklXm_zHTSrdguu35HeVEVeTaaoKLzqudYQglOl63Q9VxChX2t2IJdkpf1pengrCS3ZTur5vSrBFSFn8fAiTl-sWoS3R-yXWxLcluPYkXDn3i7C3TBoCmRhFeA8GZOmt7PviFpnclKwAdtreFAClPDEVKMe57tz1MMkrr5L1yx7RLasgnKi_0dqICi2eSsJAEyAW1kWhEEWKg.jpg",
-          "thumbnail_path": "channels/iranintltv/media/5f1290ed8753d2d5e249fb60.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337244?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/aY20Lwl8swHWrkBVyAelixWw4phd57jL9QKNsm9eWAjHA8Gg9mFbjAlmauiPspthA5Peo2JJtBfyVh6rn2HnnHl6sYKv7UhjXOSZ9By_gWl-Gx0gsiBCw2DlsyHiyjmr-hHJ2xdDiu5kMKS65QUihImYEGwu-1pBnjpPCOJzd6EmrNN06w-4U7TsNqHRSyVBAqT6JFyK8W9GhKpcLbhR0-dUtxddEZq5E1O2E9ld9uv-GAm1wY2ozjJmy5FVE1kWFVEdft5e7ju3tq0LPev83YXqjJQLhsuHDrMrXAmNQhRX7B9Wg9kVBxcWSOQGXbPXklFh9M-B8ma1F6HQwQcA9w.jpg",
-          "thumbnail_path": "channels/iranintltv/media/931b77d0c3502550e7070309.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337245?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/HigCzMKZq3hw4Z-oQk7U1PgieV0Cdlc34dUjWt0-dDgKi4edn1axOcJ7HyLsaZ9FbVr2djm8W794vCTc_wP-cW_yeWL2lOcKXf9nntKW1_UDZjcAHp_n3lTVqB5YpkX23crPdQ7mvbLdPP8ftMNNAY-zzpROd_mZkislxBRv6yeXInlF-oaGB1yDsFOZoIVbA1jHiR2pK8ei6L68HKkfReKEB0DBthVRLyV20vUS0DlbFySkmde5Qf0c2GKYtcB8COTgFvfyUiEfk-pjJfzZwKS50ru80gYlrJjQnrS8_yeSQIzVm4UcOohXgNHL6OfFmAXiGjWY_xJ0O3D55WtV0Q.jpg",
-          "thumbnail_path": "channels/iranintltv/media/79706f781c77432af137882c.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337246?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/nK3DVlSr0-7fckqrcPiVJyPl2laj_nzhh4WtjI6widf0FeW4xpQq92UcYC8IY1FzzjDDge0CJKuHtksPgujMXxWaITUa_wH-pzS4Z2QYkFLQxFaQeBgKrGcyWmqthH5eXhL5OZElecPjCUVXk6Al3kaw4hwIQZ0dP9EhXsAWf0dfUxsMHVvDEfDa3v2wHA02yG5WVftVTw3nJ8wFVQoRkUKS9YcJEmwPqPxMZU7GRaYwK_acfa8iSa0KMeB2nlKfKmk_byXo_GxCPWoE3-WlFzRBmexVu_tpqobuzJ7bMrXrQOitt1m1i-fmmdp5wsXQ8TgRdf1rNOi7zKpLqdQ0Ng.jpg",
-          "thumbnail_path": "channels/iranintltv/media/8140a4ce3e0926ef1d3ff3cd.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337247?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/eXzbDm3YSAmhsuNROVQ3bUFIehMwyGQ7255hp4WxROVQsZBLBSi5vYOCJ4qy_Aqm8L5fgj6jL7V3PM44VV5Ns1DxWJKMoCHXQ7Frhme_BoUwwIi4eriDYfMWfKh52NoMYoI-HzGhKdvYeSgP6kSGfs5sg6tiZC9-AMT9RswU6AmvS_YaAYb25zwhCKxXWArvlx2zyGaUi7dNxyf8pqQPrytjysCSaPtatg-o2wSNpCyyhqyS0cr6TB2Q0w-o83RCDhJ8gLBs90uF5IHcVKRaTQHLKVQpAhBiVSczSrYM_7WGwQ_D75e1xf2q5RoswHdocobfHoPpyT6dd2wnZLwvAw.jpg",
-          "thumbnail_path": "channels/iranintltv/media/27186574062ad7a4d8b3241d.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337248?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/d1Z3ZP2y-W-03DVSnIjX9cfTzpjCDNJyrJ0pGVbvZCP9K_1d59_ZUNPbA2tq2egUincazf3db9_WJDjrpH6ihga5G0mrLokgvgxatnz7bU5EMCPjaKuwm99B-BmkmMV4TpGeUsdFr6dg-QkyJD7aFfPSnoErgxXTQhijIn2mBkCx9rKddcgn9U1dUE31iqjZcGqlPcVmAr6GGm48qKV0rtCAhFiNVZbIRn3qw1nbPqJz5VexDnLgNbQm9ziPff5d78qY0d-txBIpZVcCWhvG_4IvEtfOJ4RaOxAw5h6ij79QwTmyaDoaf1K4CB2367WbfcXh0kPoFyNSRvjRxL4b2w.jpg",
-          "thumbnail_path": "channels/iranintltv/media/efacf120aef29b9c2ac13c06.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.11K",
-      "posted_at": "2026-05-15T00:04:31+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337240"
-    },
-    {
-      "id": "IranintlTV/337239",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/MgBaK6ZFKPxyo9PggvEFpglBt9ruUNAKXwHi1cz__cPQtHX1O4kMQ51oCw8920KJ3YPr9my4XCfDlGHP6xmZqoAoipZ_cfid-ql8MUsXM56wVvjZ1nZFlHQZTMUdoS71cYf3Sre5BpS_Oal969pB_NbSN_0o8Ugsa26oBNxngSij3f5NjPOPAoNAnzO7cQSsh8P5CYGvOXXQ8KAbhMG8sNV3TueP5Oco0xe0VPI9G4fdSkV8wXRJtxhSjMFzGcBuZZvJiXBwoOTDdC5pyevqQUUEr_x7qq-6F-Ju9g_jf0HNZ4Fhz2ZhRGh8N50fI0FuP1QUyANNl2HZEgEcDnmu7Q.jpg",
-      "author_photo_path": "channels/iranintltv/media/24425d89d4c2a1074e0af524.jpg",
-      "body_html": "مریم از پاریس: نگران حال فاطمه سپهری هستم و امیدوارم پوشش خبری بیشتری درباره ایشان داده شود<br><br>«یک ایران صدای شما را می‌شنود»<br>دوشنبه تا پنجشنبه ۱۱ شب تهران<br>از تلویزیون ایران اینترنشنال<br><br>تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:<br><a href=\"https://youtu.be/9CC8wX4Bim0\" target=\"_blank\" rel=\"noopener\">https://youtu.be/9CC8wX4Bim0</a><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "مریم از پاریس: نگران حال فاطمه سپهری هستم و امیدوارم پوشش خبری بیشتری درباره ایشان داده شود «یک ایران صدای شما را می‌شنود» دوشنبه تا پنجشنبه ۱۱ شب تهران از تلویزیون ایران اینترنشنال تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب: https://youtu.be/9CC8wX4Bim0 @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337239",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/F3oPWSrlK-ApTMoko-U-g70o4oX8xEOv33i3XznDBbATOScmKJZVnltFkg01THzC3vwaOE0-pCwOIWIQ0X01SMs022uJfp-oOlUTqMRf88WuSjkHlRt6A7H65oxwIxU15mad9qlUkzbwr6c-Feg4JIjmNKj6BfUf2etIeLJ1_MqvSnV4S5z8cFYFrUbruNrC-QoiwY0yl4H_Ndzy5PO_PI-f_aYHHmDc_F9nAvbFhhgA3mhy9LT9bj-52Y72a2__H7jED1DN0f-kAp5fSFxirR-caDYilWVRxX3PQLrTyorMp7q1wRsK9azO_sMhgIkSxy9lXI5tPpaaEk80ZnFZ0g",
-          "thumbnail_path": "channels/iranintltv/media/fd42f1371f5b2132ff7853c2.jpg",
-          "duration_label": "2:16",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.09K",
-      "posted_at": "2026-05-15T00:03:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337239"
-    },
-    {
-      "id": "IranintlTV/337238",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/MgBaK6ZFKPxyo9PggvEFpglBt9ruUNAKXwHi1cz__cPQtHX1O4kMQ51oCw8920KJ3YPr9my4XCfDlGHP6xmZqoAoipZ_cfid-ql8MUsXM56wVvjZ1nZFlHQZTMUdoS71cYf3Sre5BpS_Oal969pB_NbSN_0o8Ugsa26oBNxngSij3f5NjPOPAoNAnzO7cQSsh8P5CYGvOXXQ8KAbhMG8sNV3TueP5Oco0xe0VPI9G4fdSkV8wXRJtxhSjMFzGcBuZZvJiXBwoOTDdC5pyevqQUUEr_x7qq-6F-Ju9g_jf0HNZ4Fhz2ZhRGh8N50fI0FuP1QUyANNl2HZEgEcDnmu7Q.jpg",
-      "author_photo_path": "channels/iranintltv/media/24425d89d4c2a1074e0af524.jpg",
-      "body_html": "دریا از لندن: با زور و اعتراف اجباری، زندانی بی‌گناه را به اعدام محکوم می‌کنند<br><br>«یک ایران صدای شما را می‌شنود»<br>دوشنبه تا پنجشنبه ۱۱ شب تهران<br>از تلویزیون ایران اینترنشنال<br><br>تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:<br><a href=\"https://youtu.be/9CC8wX4Bim0\" target=\"_blank\" rel=\"noopener\">https://youtu.be/9CC8wX4Bim0</a><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "دریا از لندن: با زور و اعتراف اجباری، زندانی بی‌گناه را به اعدام محکوم می‌کنند «یک ایران صدای شما را می‌شنود» دوشنبه تا پنجشنبه ۱۱ شب تهران از تلویزیون ایران اینترنشنال تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب: https://youtu.be/9CC8wX4Bim0 @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337238",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/TZguUgRJQtum11nsQuHV_6Q4_cHW8QnYsaGNAMk0p_gZYg-0RJjMvr0pwD62gMhwNa134hpVBhOrk-2Gu8dnhosVIPRmm75quajQhoWXeZe-UYX5WrsPaElpBCqeXAqTOa8N4rxu6qEyccDcxTJBCinRwGnM7WD5XLQX4J4iEcxsSuZtELZZcGerVHF18Bg_-aZKfGFtX88f-0lBwjemvYh3LBJLpRRrp2WJ_uSM43EQ7BmBSuJhoIHEzzzjB789BgkrZz7kE018uQtBwk5Y3Zyy2d5gS6nu4PB_-R7HeZN47HdL11JhNdfjiQzfhvlCAWbMsZNUUL-nU9W7W3TOZg",
-          "thumbnail_path": "channels/iranintltv/media/c3c87d3ee13c8c1761380573.jpg",
-          "duration_label": "2:16",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.12K",
-      "posted_at": "2026-05-15T00:01:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337238"
-    },
-    {
-      "id": "IranintlTV/337237",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/MgBaK6ZFKPxyo9PggvEFpglBt9ruUNAKXwHi1cz__cPQtHX1O4kMQ51oCw8920KJ3YPr9my4XCfDlGHP6xmZqoAoipZ_cfid-ql8MUsXM56wVvjZ1nZFlHQZTMUdoS71cYf3Sre5BpS_Oal969pB_NbSN_0o8Ugsa26oBNxngSij3f5NjPOPAoNAnzO7cQSsh8P5CYGvOXXQ8KAbhMG8sNV3TueP5Oco0xe0VPI9G4fdSkV8wXRJtxhSjMFzGcBuZZvJiXBwoOTDdC5pyevqQUUEr_x7qq-6F-Ju9g_jf0HNZ4Fhz2ZhRGh8N50fI0FuP1QUyANNl2HZEgEcDnmu7Q.jpg",
-      "author_photo_path": "channels/iranintltv/media/24425d89d4c2a1074e0af524.jpg",
-      "body_html": "عسل از اصفهان: جنگ اوضاع را تغییر نداد؛ حالا خودمان باید تغییرش بدهیم<br><br>«یک ایران صدای شما را می‌شنود»<br>دوشنبه تا پنجشنبه ۱۱ شب تهران<br>از تلویزیون ایران اینترنشنال<br><br>تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:<br><a href=\"https://youtu.be/9CC8wX4Bim0\" target=\"_blank\" rel=\"noopener\">https://youtu.be/9CC8wX4Bim0</a><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "عسل از اصفهان: جنگ اوضاع را تغییر نداد؛ حالا خودمان باید تغییرش بدهیم «یک ایران صدای شما را می‌شنود» دوشنبه تا پنجشنبه ۱۱ شب تهران از تلویزیون ایران اینترنشنال تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب: https://youtu.be/9CC8wX4Bim0 @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337237",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/q9ROx4bmo8kYUvsHyOwEsI7MYnp70MQxi2sP1v-8aZoknm5kdibcDxo5MyhlM_bNN5nOkuiOe0bfX6ulanQxa4U2WZR_2Iz9wWvJoTP2pN1T8vVL6LWWBZTom9I669hRFuBg4s1gT3leHkbZkg9rB-xr6SlniCrqxXJ-zuRoq0008x7n64wcqEm5K-zIe94O11E3sbWvBaiQldhT1ROcpvwN-aVnn3fdhX_A3nPPgJflx70T49ZqPGJS_GnKhPkcvkEp9Gl_J1AvZ_qj9voYFiH6Yq9BhohpLEFrw1ahg0G-SEeavPgRsNWklHGxTdjas_UMAjAr6JKoIvi2dt0OWg",
-          "thumbnail_path": "channels/iranintltv/media/ccab88b05f4833692f746dd4.jpg",
-          "duration_label": "2:17",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.33K",
-      "posted_at": "2026-05-15T00:01:00+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337237"
-    },
-    {
-      "id": "IranintlTV/337236",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/MgBaK6ZFKPxyo9PggvEFpglBt9ruUNAKXwHi1cz__cPQtHX1O4kMQ51oCw8920KJ3YPr9my4XCfDlGHP6xmZqoAoipZ_cfid-ql8MUsXM56wVvjZ1nZFlHQZTMUdoS71cYf3Sre5BpS_Oal969pB_NbSN_0o8Ugsa26oBNxngSij3f5NjPOPAoNAnzO7cQSsh8P5CYGvOXXQ8KAbhMG8sNV3TueP5Oco0xe0VPI9G4fdSkV8wXRJtxhSjMFzGcBuZZvJiXBwoOTDdC5pyevqQUUEr_x7qq-6F-Ju9g_jf0HNZ4Fhz2ZhRGh8N50fI0FuP1QUyANNl2HZEgEcDnmu7Q.jpg",
-      "author_photo_path": "channels/iranintltv/media/24425d89d4c2a1074e0af524.jpg",
-      "body_html": "سهراب از تهران: «درود بر وی‌پی‌ان‌فروشِ حلال‌خور!»<br><br>«یک ایران صدای شما را می‌شنود»<br>دوشنبه تا پنجشنبه ۱۱ شب تهران<br>از تلویزیون ایران اینترنشنال<br><br>تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:<br><a href=\"https://youtu.be/9CC8wX4Bim0\" target=\"_blank\" rel=\"noopener\">https://youtu.be/9CC8wX4Bim0</a><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "سهراب از تهران: «درود بر وی‌پی‌ان‌فروشِ حلال‌خور!» «یک ایران صدای شما را می‌شنود» دوشنبه تا پنجشنبه ۱۱ شب تهران از تلویزیون ایران اینترنشنال تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب: https://youtu.be/9CC8wX4Bim0 @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337236",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/B570LEG7QcNjaHMcYXl1Axb7KW5NwmEc4sClKzYJoYS8Ak19BZ3HiSFwyU8QXZz1J269Ey3_4hC8H5xhkY-YQYoiAyTRJfAzkWtajIZrLbBjmvoVjumbAONtLvmBoR1Lv6w8tWUVoz6iZFS3ojim6tUVot7Dac6qdNe_Xp0579_C4RYbE1BMzyPQImDRSEqCmbHn5rh_EQQAa8FC7r-UB0W_lXb8eX0PCnkzcELbqPz-e4zXJ8VOAI17nAmG6aHEfILHUXuE40VzzJbcR0rBGpnU2l9ynIN_rUEvUp6272XNR5ToKgmObalM8mTJ2UymPmSmROhLs8aKocJtqScmGw",
-          "thumbnail_path": "channels/iranintltv/media/1bcc592fdfe4dcfb6bfc82fc.jpg",
-          "duration_label": "1:25",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.71K",
-      "posted_at": "2026-05-14T23:59:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337236"
-    },
-    {
-      "id": "IranintlTV/337235",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/MgBaK6ZFKPxyo9PggvEFpglBt9ruUNAKXwHi1cz__cPQtHX1O4kMQ51oCw8920KJ3YPr9my4XCfDlGHP6xmZqoAoipZ_cfid-ql8MUsXM56wVvjZ1nZFlHQZTMUdoS71cYf3Sre5BpS_Oal969pB_NbSN_0o8Ugsa26oBNxngSij3f5NjPOPAoNAnzO7cQSsh8P5CYGvOXXQ8KAbhMG8sNV3TueP5Oco0xe0VPI9G4fdSkV8wXRJtxhSjMFzGcBuZZvJiXBwoOTDdC5pyevqQUUEr_x7qq-6F-Ju9g_jf0HNZ4Fhz2ZhRGh8N50fI0FuP1QUyANNl2HZEgEcDnmu7Q.jpg",
-      "author_photo_path": "channels/iranintltv/media/24425d89d4c2a1074e0af524.jpg",
-      "body_html": "امیر از چالوس: حواستان به سلامت روانتان باشد؛ ایران با شهروندان افسرده آباد نمی‌شود<br><br>«یک ایران صدای شما را می‌شنود»<br>دوشنبه تا پنجشنبه ۱۱ شب تهران<br>از تلویزیون ایران اینترنشنال<br>تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب:<br><a href=\"https://youtu.be/9CC8wX4Bim0\" target=\"_blank\" rel=\"noopener\">https://youtu.be/9CC8wX4Bim0</a><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "امیر از چالوس: حواستان به سلامت روانتان باشد؛ ایران با شهروندان افسرده آباد نمی‌شود «یک ایران صدای شما را می‌شنود» دوشنبه تا پنجشنبه ۱۱ شب تهران از تلویزیون ایران اینترنشنال تماشای نسخه کامل این قسمت از «برنامه» در یوتیوب: https://youtu.be/9CC8wX4Bim0 @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337235",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Is7ywd0c8zzS7xqEFxMe732L5f0FVfJZ7u-g-wvC_pgdiK7zzbbJiT8gFED8tetkrSKvMFZw35Gf6EtqunCxGVyqj4NT6vWHcwipo7G7HF-uANzPZjrq5oyNHuZQ6oOJw8ulIfy6yOYzHW3Ff06kI_8-S3jkKUguzT6mukSVsiVlJH9ZvGpoWs6W3Iy7u0kVZ6P7pfB-L8CrJIzIkhiZkFN0iolCGCnyPCu6AtMqgGDpXgAIHdqJ-ruyuSE46i_y_r20Y1Sj_nIcCiSesfAx5IA9PpbvwYchCwgH09wbYrRJf1SQn-5owbebgznZZ_QZOeImRk_gxsaUtPOYDMPQXw",
-          "thumbnail_path": "channels/iranintltv/media/c1b98a43e1c536e4bd60c898.jpg",
-          "duration_label": "3:02",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.45K",
-      "posted_at": "2026-05-14T23:59:09+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337235"
-    },
-    {
-      "id": "IranintlTV/337234",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/MgBaK6ZFKPxyo9PggvEFpglBt9ruUNAKXwHi1cz__cPQtHX1O4kMQ51oCw8920KJ3YPr9my4XCfDlGHP6xmZqoAoipZ_cfid-ql8MUsXM56wVvjZ1nZFlHQZTMUdoS71cYf3Sre5BpS_Oal969pB_NbSN_0o8Ugsa26oBNxngSij3f5NjPOPAoNAnzO7cQSsh8P5CYGvOXXQ8KAbhMG8sNV3TueP5Oco0xe0VPI9G4fdSkV8wXRJtxhSjMFzGcBuZZvJiXBwoOTDdC5pyevqQUUEr_x7qq-6F-Ju9g_jf0HNZ4Fhz2ZhRGh8N50fI0FuP1QUyANNl2HZEgEcDnmu7Q.jpg",
-      "author_photo_path": "channels/iranintltv/media/24425d89d4c2a1074e0af524.jpg",
-      "body_html": "تد باد، سناتور جمهوری‌خواه آمریکا، در حساب کاربری خود در ایکس نوشت جمهوری اسلامی بیش از ۴۷ سال به آمریکا و متحدانش حمله کرده و شهروندان آمریکایی را کشته است.<br>تد باد افزود در حالی که روسای‌جمهوری پیشین این موضوع را به تعویق می‌انداختند، دونالد ترامپ، رییس‌جمهوری آمریکا، در حال انجام کاری است که آن‌ها حاضر به انجامش نبودند.<br>او در عین حال تاکید کرد که آمریکا اکنون «در مسیری قرار گرفته که می‌تواند تهدید موشک‌های بالستیک و برنامه غنی‌سازی هسته‌ای جمهوری اسلامی را برای همیشه از بین ببرد.»<br><br><a href=\"https://iranintl.com/202605147923\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605147923</a>",
-      "plain_text": "تد باد، سناتور جمهوری‌خواه آمریکا، در حساب کاربری خود در ایکس نوشت جمهوری اسلامی بیش از ۴۷ سال به آمریکا و متحدانش حمله کرده و شهروندان آمریکایی را کشته است. تد باد افزود در حالی که روسای‌جمهوری پیشین این موضوع را به تعویق می‌انداختند، دونالد ترامپ، رییس‌جمهوری آمریکا، در حال انجام کاری است که آن‌ها حاضر به انجامش نبودند. او در عین حال تاکید کرد که آمریکا اکنون «در مسیری قرار گرفته که می‌تواند تهدید موشک‌های بالستیک و برنامه غنی‌سازی هسته‌ای جمهوری اسلامی را برای همیشه از بین ببرد.» https://iranintl.com/202605147923",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337234",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/DVAZDrbwrCgyUDqudZp8A5tExVTl_828FLK7_a1BnaYHM2b-e9iZDT0VmKyFYDQK913gaw9hX01I6FR8gTV6RvFyGnbhCeV2wsehHY0hv0mdTatoXMPePwPd3Ozb7U6e33VEdPI3H7jTkbMx5TgDYqW4SLQzuWhXIlr5yx9puVIzj1aQGIH_TNkPVJS84quuJEgxZoeTMI9Fk4Df5fMZ5Ta9mhnyS-h0jfszS613LExWzo1Udg8SxD8kn_mNFHwDSAv0Ei901YHdxPP1gZh5a0Jd-QS6_wgT76q6qvQp41eUYnit3iF6SK_l4ys2pSG8Wb0kRnOpJo9z5lLTfwh-6Q.jpg",
-          "thumbnail_path": "channels/iranintltv/media/c76b70168ce886828248363d.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "9.83K",
-      "posted_at": "2026-05-14T23:15:03+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337234"
-    },
-    {
-      "id": "IranintlTV/337233",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/MgBaK6ZFKPxyo9PggvEFpglBt9ruUNAKXwHi1cz__cPQtHX1O4kMQ51oCw8920KJ3YPr9my4XCfDlGHP6xmZqoAoipZ_cfid-ql8MUsXM56wVvjZ1nZFlHQZTMUdoS71cYf3Sre5BpS_Oal969pB_NbSN_0o8Ugsa26oBNxngSij3f5NjPOPAoNAnzO7cQSsh8P5CYGvOXXQ8KAbhMG8sNV3TueP5Oco0xe0VPI9G4fdSkV8wXRJtxhSjMFzGcBuZZvJiXBwoOTDdC5pyevqQUUEr_x7qq-6F-Ju9g_jf0HNZ4Fhz2ZhRGh8N50fI0FuP1QUyANNl2HZEgEcDnmu7Q.jpg",
-      "author_photo_path": "channels/iranintltv/media/24425d89d4c2a1074e0af524.jpg",
-      "body_html": "گزارش‌ها حاکی است یک کشتی لنگر انداخته در نزدیکی بندر فجیره امارات متحده عربی توسط افراد ناشناس سوار شده و به سمت آب‌های ایران هدایت شده است.<br>به گزارش رویترز، شرکت امنیت دریایی وندگارد گفته است این اقدام احتمالا از سوی نیروهای ایرانی انجام شده و پیش از آن نیز نهاد دریایی «یو‌کی‌ام‌تی‌او»از ورود افراد غیرمجاز به این کشتی خبر داده بود.<br>هم‌زمان منابع دریایی از افزایش تحرکات در تنگه هرمز خبر داده‌اند. بر اساس گزارش‌ها، چندین کشتی از جمله نفتکش‌ها و کشتی‌های تجاری در روزهای اخیر با هماهنگی‌های محدود از این مسیر عبور کرده‌اند، در حالی که پیش‌تر تعداد عبور روزانه به شکل محسوسی کاهش یافته بود.<br>همچنین گزارش شده است نیروهای سپاه پاسداران اعلام کرده‌اند شمار بیشتری از شناورها در روزهای اخیر از تنگه هرمز عبور کرده‌اند؛ موضوعی که نشان‌دهنده تغییر تدریجی در وضعیت عبور و مرور دریایی در این آبراه راهبردی است.<br><br><a href=\"https://iranintl.com/202605147292\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605147292</a>",
-      "plain_text": "گزارش‌ها حاکی است یک کشتی لنگر انداخته در نزدیکی بندر فجیره امارات متحده عربی توسط افراد ناشناس سوار شده و به سمت آب‌های ایران هدایت شده است. به گزارش رویترز، شرکت امنیت دریایی وندگارد گفته است این اقدام احتمالا از سوی نیروهای ایرانی انجام شده و پیش از آن نیز نهاد دریایی «یو‌کی‌ام‌تی‌او»از ورود افراد غیرمجاز به این کشتی خبر داده بود. هم‌زمان منابع دریایی از افزایش تحرکات در تنگه هرمز خبر داده‌اند. بر اساس گزارش‌ها، چندین کشتی از جمله نفتکش‌ها و کشتی‌های تجاری در روزهای اخیر با هماهنگی‌های محدود از این مسیر عبور کرده‌اند، در حالی که پیش‌تر تعداد عبور روزانه به شکل محسوسی کاهش یافته بود. همچنین گزارش شده است نیروهای سپاه پاسداران اعلام کرده‌اند شمار بیشتری از شناورها در روزهای اخیر از تنگه هرمز عبور کرده‌اند؛ موضوعی که نشان‌دهنده تغییر تدریجی در وضعیت عبور و مرور دریایی در این آبراه راهبردی است. https://iranintl.com/202605147292",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337233",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/H7drlBgI3I9Wp7g7doQtA_R1ySd0DNVpNtJ3DbI6akmh5qyA7mgYTcE9aGtmQdWcD1ZoYShgqFUuLqldncM6oOqJ1nm-vCQv4CBCHjkk7ypQ9B4a282vR3VUgmkze4F1x24Yif07103emOmEYiGPx3irpl3g7kCHm7DJcBplm7xxsfITbOqht0uKbfEJGm4eqJuK2SAoQy7P1mMtYN1kxO_QMo1pxuMgq_O6UyNpMQ8y2Z-6Xi3G9SILUKvY2tkPcQ3vt5uNTyYhyu76mFj8ftAH1UKE8K7IsvNizdplB0BQeiHNzJLnlWZ91Qvale7MypqnqvWErK8iZtCZ8cuANQ.jpg",
-          "thumbnail_path": "channels/iranintltv/media/faa039e2483e15a6dd86aae3.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "10K",
-      "posted_at": "2026-05-14T23:10:56+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337233"
     }
   ]
 }
