@@ -1,6 +1,6 @@
 {
   "date": "2026-05-16",
-  "generated_at": "2026-05-16T11:23:27.985Z",
+  "generated_at": "2026-05-16T14:47:22.388Z",
   "posts": [
     {
       "post_id": "farsivoa/farsivoa/217865",
@@ -47,6 +47,11 @@
       "vote_count": 0,
       "cluster_id": "04655bc9ab7b",
       "confirmations": [
+        {
+          "channel_username": "iranintltv",
+          "channel_title": "Iran International ایران اینترنشنال",
+          "permalink": "https://t.me/IranintlTV/337414"
+        },
         {
           "channel_username": "iranintltv",
           "channel_title": "Iran International ایران اینترنشنال",
@@ -195,6 +200,11 @@
           "channel_username": "farsivoa",
           "channel_title": "Farsi VOA",
           "permalink": "https://t.me/farsivoa/217871"
+        },
+        {
+          "channel_username": "farsivoa",
+          "channel_title": "Farsi VOA",
+          "permalink": "https://t.me/farsivoa/217871"
         }
       ]
     },
@@ -256,6 +266,16 @@
       "vote_count": 0,
       "cluster_id": "bc9bc247594f",
       "confirmations": [
+        {
+          "channel_username": "mamlekate",
+          "channel_title": "مملکته",
+          "permalink": "https://t.me/mamlekate/103532"
+        },
+        {
+          "channel_username": "farsivoa",
+          "channel_title": "Farsi VOA",
+          "permalink": "https://t.me/farsivoa/217873"
+        },
         {
           "channel_username": "mamlekate",
           "channel_title": "مملکته",
@@ -594,6 +614,11 @@
       "vote_count": 0,
       "cluster_id": "24480c80da65",
       "confirmations": [
+        {
+          "channel_username": "farsi_iranwire",
+          "channel_title": "Iranwire",
+          "permalink": "https://t.me/Farsi_Iranwire/90143"
+        },
         {
           "channel_username": "farsi_iranwire",
           "channel_title": "Iranwire",
@@ -1059,6 +1084,11 @@
           "channel_username": "bbcpersian",
           "channel_title": "BBCPersian",
           "permalink": "https://t.me/bbcpersian/281200"
+        },
+        {
+          "channel_username": "bbcpersian",
+          "channel_title": "BBCPersian",
+          "permalink": "https://t.me/bbcpersian/281200"
         }
       ]
     },
@@ -1188,7 +1218,13 @@
       "hot_score": 0,
       "vote_count": 0,
       "cluster_id": "89c39264da51",
-      "confirmations": []
+      "confirmations": [
+        {
+          "channel_username": "bbcpersian",
+          "channel_title": "BBCPersian",
+          "permalink": "https://t.me/bbcpersian/281201"
+        }
+      ]
     },
     {
       "post_id": "farsi_iranwire/Farsi_Iranwire/90144",
@@ -1211,6 +1247,1386 @@
       "hot_score": 0,
       "vote_count": 0,
       "cluster_id": "c0e7d90bfcd7",
+      "confirmations": []
+    },
+    {
+      "post_id": "bbcpersian/bbcpersian/281182",
+      "channel_username": "bbcpersian",
+      "channel_title": "BBCPersian",
+      "plain_text": "🔻دونالد ترامپ، رئیس جمهور آمریکا گفته است که نیروهای آمریکا و نیجریه در یک عملیات مشترک، نفر دوم گروه دولت اسلامی (داعش) را کشته‌اند. آقای ترامپ در پستی در تروث سوشال گفت که ابوبلال المینوکی دیگر به مردم آفریقا آسیب نخواهد زد و نمی‌تواند برای هدف قرار دادن آمریکایی‌ها عملیات برنامه‌ریزی کند. او المینوکی را «فعال‌ترین تروریست جهان» توصیف کرد و گفت که با کشته شدن او، عملیات جهانی این گروه به‌شدت تضعیف شده است. المینوکی در سال ۲۰۲۳ به دلیل ارتباط با گروه داعش تحت تحریم‌های ایالات متحده قرار گرفته بود. 📷Getty Images @BBCPersian",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>دونالد ترامپ، رئیس جمهور آمریکا گفته است که نیروهای آمریکا و نیجریه در یک عملیات مشترک، نفر دوم گروه دولت اسلامی (داعش) را کشته‌اند.<br><br>آقای ترامپ در پستی در تروث سوشال گفت که ابوبلال المینوکی دیگر به مردم آفریقا آسیب نخواهد زد و نمی‌تواند برای هدف قرار دادن آمریکایی‌ها عملیات برنامه‌ریزی کند.<br><br>او المینوکی را «فعال‌ترین تروریست جهان» توصیف کرد و گفت که با کشته شدن او، عملیات جهانی این گروه به‌شدت تضعیف شده است.<br><br>المینوکی در سال ۲۰۲۳ به دلیل ارتباط با گروه داعش تحت تحریم‌های ایالات متحده قرار گرفته بود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B7.png')\"><b>📷</b></i>Getty Images<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281182",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SJR8ji-akpPBJ9-aRFCXVTeb2fzMbUQIZK0SOMatAJgr6JbLpXRNssPmFw7ika-90eb9lpDqy4EaFhd-t4IctlA5aoipB3cImhVzNw5QygbdJzK3MKp8Z8EaMuTz4v7VDpR4rdFyunz00bdjTCa4AuerQVMNsRb2Egw5vt7IwK-hs9gS3i4yxpaJAOgCJR5raH-wpRze4yXv7uV_JTLdPW4DxKFGxOqTQPG5XyPE23bnEbaRckfzbYpieCduTLNlEHiS0ROpi7qX3n7pMakGN3S-E7hLKQW5wl0rYx-TXTaSNr41jYtcx51H4eJFONwWee4XM_DezkuBcm7nR-TFnw.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/8e5d10c9b9ea3ec2912de108.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T05:10:57+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "b2f950723c27",
+      "confirmations": [
+        {
+          "channel_username": "farsivoa",
+          "channel_title": "Farsi VOA",
+          "permalink": "https://t.me/farsivoa/217872"
+        }
+      ]
+    },
+    {
+      "post_id": "radiofarda/radiofarda/157249",
+      "channel_username": "radiofarda",
+      "channel_title": "RadioFarda",
+      "plain_text": "🔸دونالد ترامپ، رئیس جمهور آمریکا، در مصاحبه‌ای تازه با شبکه فاکس‌نیوز گفت که در پی آتش‌بس حکومت ایران «پنج بار» تا آستانه توافق کامل با آمریکا آمده، اما در لحظه آخر عقب کشیده است. 🔸او در این مصاحبه تأکید می‌کند: «هر بار که توافق می‌کنند، روز بعد انگار نه انگار که با هم حرف زده‌ایم. و این پنج بار اتفاق افتاده است. یک جای کارشان ایراد دارد. راستش دیوانه‌اند.» 🔸او چنین ادامه می‌دهد: «و چون دیوانه‌اند، نباید به سلاح هسته‌ای دست پیدا کنند.» 🔸آن طور که رئیس جمهور آمریکا در این مصاحبه نقل می‌کند، حکومت ایران در مذاکرات اخیر حتی پذیرفته است که کل اورانیوم غنی‌شده‌اش را تحویل دهد. 🔸ترامپ گفت: «هسته‌ای خلاص. قرار بود غبار هسته‌ای را به ما بدهند. هر چه که ما خواسته بودیم.» 🔸این‌ها نکاتی است که دونالد ترامپ پیش از سفرش به چین هم با خبرنگاران در میان گذاشته بود. 🔸این در حالی است که مقام‌های جمهوری اسلامی از جمله عباس عراقچی، وزیر خارجه، تکذیب می‌کنند که شرایط آمریکا را پذیرفته‌اند. @RadioFarda",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>دونالد ترامپ، رئیس جمهور آمریکا، در مصاحبه‌ای تازه با شبکه فاکس‌نیوز گفت که در پی آتش‌بس حکومت ایران «پنج بار» تا آستانه توافق کامل با آمریکا آمده، اما در لحظه آخر عقب کشیده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>او در این مصاحبه تأکید می‌کند: «هر بار که توافق می‌کنند، روز بعد انگار نه انگار که با هم حرف زده‌ایم. و این پنج بار اتفاق افتاده است. یک جای کارشان ایراد دارد. راستش دیوانه‌اند.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>او چنین ادامه می‌دهد: «و چون دیوانه‌اند، نباید به سلاح هسته‌ای دست پیدا کنند.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>آن طور که رئیس جمهور آمریکا در این مصاحبه نقل می‌کند، حکومت ایران در مذاکرات اخیر حتی پذیرفته است که کل اورانیوم غنی‌شده‌اش را تحویل دهد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>ترامپ گفت: «هسته‌ای خلاص. قرار بود غبار هسته‌ای را به ما بدهند. هر چه که ما خواسته بودیم.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>این‌ها نکاتی است که دونالد ترامپ پیش از سفرش به چین هم با خبرنگاران در میان گذاشته بود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>این در حالی است که مقام‌های جمهوری اسلامی از جمله عباس عراقچی، وزیر خارجه، تکذیب می‌کنند که شرایط آمریکا را پذیرفته‌اند.<br><br><br><a href=\"https://t.me/RadioFarda\" target=\"_blank\">@RadioFarda</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/radiofarda/157249",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hTfWLsF4oJezE1a4Oo0Yl1USeJTqlZ7vMddXACBb95EW8rV21GDoBBiJNalQ9h7yMVeB_2ex2SBrzxNYTA8qy37g5Pzgw22-AUp2uad1QnFfNMgzIXMhThLS5O4rQmAeTPY-G5Ccn4ZAZtjQoYE1iTlryF73KfhJINlYHCisV3h4lw2eDnut3x4ZvCHccyYLEGVqBKoTLv47UNeQ7VA_EhoZ8zr3jycL8d6E68EQcbzaZEl2GXWNXSnuuqozZg9JlO9zfxySabWlxV8LU9VQvp_vCXTfNaDz4-9yiuEOgEiNRM5olC3jYU_WpNiqwWCacvm21NjJDDRqCj0eot4-eQ.jpg",
+          "thumbnail_path": "channels/radiofarda/media/c378cf7556337d7478bfa4b9.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T07:31:47+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "f6ad8d6a1b0d",
+      "confirmations": []
+    },
+    {
+      "post_id": "hranews/hranews/112961",
+      "channel_username": "hranews",
+      "channel_title": "خبرگزاری هرانا",
+      "plain_text": "یک شهروند توسط نیروهای امنیتی در سرابله بازداشت شد ❗️❗️❗️❗️❗️– محمدرضا فریادی، شهروند اهل سرابله روز چهارشنبه ۲۳ اردیبهشت ماه، توسط نیروهای امنیتی در این شهرستان بازداشت و به مکان نامعلومی منتقل شده است. #محمدرضا_فریادی ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "body_html": "یک شهروند توسط نیروهای امنیتی در سرابله بازداشت شد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– محمدرضا فریادی، شهروند اهل سرابله روز چهارشنبه ۲۳ اردیبهشت ماه، توسط نیروهای امنیتی در این شهرستان بازداشت و به مکان نامعلومی منتقل شده است.<br><br><a href=\"?q=%23%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7_%D9%81%D8%B1%DB%8C%D8%A7%D8%AF%DB%8C\">#محمدرضا_فریادی</a><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-58086/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "media": [],
+      "posted_at": "2026-05-16T07:42:14+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "e37e0c8a6d1d",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsi_iranwire/Farsi_Iranwire/90145",
+      "channel_username": "farsi_iranwire",
+      "channel_title": "Iranwire",
+      "plain_text": "مجریان شبکه‌های مختلف سیمای جمهوری اسلامی با انواع سلاح‌های سبک و ضد نفر از جمله کلاشینکف مقابل دوربین رفتند. حتی در اقدامی غیر معمول‌تر آموزش استفاده از سلاح در برنامه سیما، بدون هیچ هشداری، پخش شد. @Farsi_Iranwire",
+      "body_html": "مجریان شبکه‌های مختلف سیمای جمهوری اسلامی با انواع سلاح‌های سبک و ضد نفر از جمله کلاشینکف مقابل دوربین رفتند.<br><br>حتی در اقدامی غیر معمول‌تر آموزش استفاده از سلاح در برنامه سیما، بدون هیچ هشداری، پخش شد.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Farsi_Iranwire/90145",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/fP6a3E-RU4y9twbSac2V-FwlXuaKmTjOVt5wnCT-QuazVWq5AiFJDB07JmtVna1vW_dsY981WOUhNHLNSjvCvzbKOcCMsNIT6JA5tceqibuDMGWBOTyQf7hYCluVC9Dd-hlyHpQj6ew_p9qG7_NJaK7filTz-y-pEy7Q1QFGsuXFp7SnpPTxhQMpiCBsGKl-X_fkLt11UezP59JaGDpVXbv87SecKhRZPDb72UAQsDVffUxeNQmDqU4aEODo6-LF_K9dFjNEtoz9lX8xD_HkwJEmAM1QItAZ8Q82_T6sd4-m3-fjdY8AOfuQ9zCa4ogOR60v4xqEeM-OPbuBYSNCMA",
+          "thumbnail_path": "channels/farsi_iranwire/media/8d725989470e5994702db09b.jpg",
+          "duration_label": "2:09",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "posted_at": "2026-05-16T07:49:27+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "b977303294fb",
+      "confirmations": []
+    },
+    {
+      "post_id": "radiofarda/radiofarda/157250",
+      "channel_username": "radiofarda",
+      "channel_title": "RadioFarda",
+      "plain_text": "🔸وزیر نفت جدید عراق، روز شنبه ۲۶ اردیبهشت در یک کنفرانس مطبوعاتی اعلام کرد که این کشور در ماه آوریل (۱۲ فروردین تا ۱۰ اردیبهشت) ۱۰ میلیون بشکه نفت از طریق تنگه هرمز صادر کرده است. 🔸باسم محمد هم‌چنین گفت که کشورش قصد دارد برای افزایش ظرفیت تولید و صادرات کشور با اوپک همکاری کند و افزود که بغداد قصد دارد به ظرفیت تولید پنج میلیون بشکه در روز برسد. 🔸بغداد پیش از این اعلام کرده بود که با ایالات متحده و ایران به «تفاهماتی» مبنی بر کاهش پیامدهای محاصره تنگه هرمز بر صادرات نفت عراق دست یافته است. 🔸مقامات عراقی اوایل ماه آوریل اعلام کرده بودند که این کشور با از سرگیری صادرات نفت ۲۵۰ هزار بشکه در روز از طریق بندر جیحان ترکیه، صادرات نفت خام را با استفاده از کامیون‌های نفتکش از طریق سوریه آغاز کرده است. @RadioFarda",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>وزیر نفت جدید عراق، روز شنبه ۲۶ اردیبهشت در یک کنفرانس مطبوعاتی اعلام کرد که این کشور در ماه آوریل (۱۲ فروردین تا ۱۰ اردیبهشت) ۱۰ میلیون بشکه نفت از طریق تنگه هرمز صادر کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>باسم محمد هم‌چنین گفت که کشورش قصد دارد برای افزایش ظرفیت تولید و صادرات کشور با اوپک همکاری کند و افزود که بغداد قصد دارد به ظرفیت تولید پنج میلیون بشکه در روز برسد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>بغداد پیش از این اعلام کرده بود که با ایالات متحده و ایران به «تفاهماتی» مبنی بر کاهش پیامدهای محاصره تنگه هرمز بر صادرات نفت عراق دست یافته است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>مقامات عراقی اوایل ماه آوریل اعلام کرده بودند که این کشور با از سرگیری صادرات نفت ۲۵۰ هزار بشکه در روز از طریق بندر جیحان ترکیه، صادرات نفت خام را با استفاده از کامیون‌های نفتکش از طریق سوریه آغاز کرده است.<br><br><a href=\"https://t.me/RadioFarda\" target=\"_blank\">@RadioFarda</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/radiofarda/157250",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/O1Nl6CKfA0UaEpUY-sLRGKOCT4BaV5ohuQa6BfpAMBETxzj-DuAANgMw9QowPTsrWk8BterRbsBZEsIneIfIY0ijq7ojfsJ8FdqfAEurNhsK-DaNuEOup392oS_r2kwvkYWBoEIcP46XbcgfxBxRstriXRtkwkxCmVvW2HedkAY3LUmAL2DR1zBDKKa5hOMEejsZynda_RtL3UrEQj9eAJTrQl2eOy_EZR9OV_FEAq4GkyCq-gYAx1AKcZyjnSkUoogxKwQ7SUSW3RtY_ZRLx7smyZuk8bT7O39qE8VSkoYN5eZ6QkEG8Fe4lbXMdLg8LFrnUq3SnUgUa7lOTJFZ1A.jpg",
+          "thumbnail_path": "channels/radiofarda/media/a0b60271c0844516eb6a6e73.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T08:00:49+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "686e3aea3a4e",
+      "confirmations": [
+        {
+          "channel_username": "bbcpersian",
+          "channel_title": "BBCPersian",
+          "permalink": "https://t.me/bbcpersian/281202"
+        }
+      ]
+    },
+    {
+      "post_id": "sahamnewsorg/sahamnewsorg/141808",
+      "channel_username": "sahamnewsorg",
+      "channel_title": "سهام نیوز",
+      "plain_text": "✅چرا تایوان اینقدر مهمه برای چین و امریکا ؟ توی این سفر ترامپ به چین بارها راجع به تایوان شنیدیم ،حالا یه مستندی براتون درست کردیم که دلیل اهمیت تایوان رو کامل بهتون توضیح دادیم. @Sahamnewsorg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>چرا تایوان اینقدر مهمه برای چین و امریکا ؟<br><br>توی این سفر ترامپ به چین بارها راجع به تایوان شنیدیم ،حالا یه مستندی براتون درست کردیم که دلیل اهمیت تایوان رو کامل بهتون توضیح دادیم.<br><br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/sahamnewsorg/141808",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/A7PQMDahtNsef6XA6nOsrpXMReX1JNaRCVPBmuaMxWnTCalV3tpcUWs424ZCCsJDKRFd2qxnz459rVxpVd5DajZ2EmC9bgTaPrqZ2oBzFMel8lf2lxYksBRxJ8jJLjTEx-qhJN5ViNiFEMYqrugoePLxmTO7qNlByRihnRJRcfCKGUJ7b_x8Q9MCXybwUoQInHwoKPu6JmOBHK6N9Zfs9Vrp1DOMxbwr9295Sactn0GnP7PSnjX_UwdGSBa5QfMA9xxEpIbToR1c46V4izDsQ-XqIfYxgzN-xyIHrGkE4tP_k2wDfhicuelM66o3XXDiux68mokyLralrqlYx7OVRA",
+          "thumbnail_path": "channels/sahamnewsorg/media/6946aca70bd4dd861c60ba02.jpg",
+          "duration_label": "1:53",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "posted_at": "2026-05-16T08:01:16+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "7b376d516c34",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsi_iranwire/Farsi_Iranwire/90146",
+      "channel_username": "farsi_iranwire",
+      "channel_title": "Iranwire",
+      "plain_text": "دونالد ترامپ، رئیس‌جمهور آمریکا، در گفت‌وگویی با شبکه فاکس‌نیوز اعلام کرد که به گفته او، در دوره‌های اخیر مذاکرات، ایران «پنج بار» تا آستانه رسیدن به توافق کامل با ایالات متحده پیش رفته اما در مراحل پایانی از آن عقب‌نشینی کرده است. بخوانید: https://iranwire.com/fa/news-1/152469 @Farsi_Iranwire",
+      "body_html": "دونالد ترامپ، رئیس‌جمهور آمریکا، در گفت‌وگویی با شبکه فاکس‌نیوز اعلام کرد که به گفته او، در دوره‌های اخیر مذاکرات، ایران «پنج بار» تا آستانه رسیدن به توافق کامل با ایالات متحده پیش رفته اما در مراحل پایانی از آن عقب‌نشینی کرده است.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/152469\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152469</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90146",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/NUFL0M2n3KaP8ruH0T5pRZU05-5-_VZqA8ta5Uejc3-LTEcC5z6nq2KH4q4IO0fHjo9INS6aQhaP2knXnG50guMdibbuThpFQKbMTTgIqbeRKPBThB1SRr-AnvH21YwjIBKXIGv4g68kc1WHQvoQULkXY6hX-VLcRHaDz5ki6qGqnxQKc7ZOmoVHDgnG_s8gR-oxQQ0fVJ7dB5KzRTssntC_z8IDHvacg1ydQOEFUBjdSho3h3kh39hjgdJL_WAyWSKTdsiXnktAC62rB1SbODJdTmigo_2AS1533xV_V-czD7VXwxWIh_qXraCntje0gXqtxJFdUvdv1b5sSiTAmA.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/a9c6529c6983abaa27166ac2.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T08:05:15+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "9a6462c021ef",
+      "confirmations": []
+    },
+    {
+      "post_id": "hranews/hranews/112962",
+      "channel_username": "hranews",
+      "channel_title": "خبرگزاری هرانا",
+      "plain_text": "بر اساس آخرین داده‌های نت‌بلاکس، قطع #اینترنت در ایران وارد هفتادوهشتمین روز خود شده و اکنون دوازدهمین هفته از این اختلال گسترده سپری می‌شود. این نهاد ناظر بر وضعیت دسترسی به اینترنت در جهان اعلام کرد که تداوم این وضعیت، بخش عمده‌ای از جمعیت حدود ۹۰ میلیونی کشور را برای مدتی بی‌سابقه از دسترسی به اینترنت جهانی محروم کرده است. نت‌بلاکس همچنین تاکید کرده است که ادامه این محدودیت‌ها به‌طور گسترده حقوق بشر، آزادی‌های اساسی و وضعیت اقتصادی شهروندان را تحت تاثیر قرار داده و پیامدهای آن در ابعاد مختلف همچنان رو به گسترش است. ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "body_html": "بر اساس آخرین داده‌های نت‌بلاکس، قطع <a href=\"?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA\">#اینترنت</a> در ایران وارد هفتادوهشتمین روز خود شده و اکنون دوازدهمین هفته از این اختلال گسترده سپری می‌شود. این نهاد ناظر بر وضعیت دسترسی به اینترنت در جهان اعلام کرد که تداوم این وضعیت، بخش عمده‌ای از جمعیت حدود ۹۰ میلیونی کشور را برای مدتی بی‌سابقه از دسترسی به اینترنت جهانی محروم کرده است.<br><br>نت‌بلاکس همچنین تاکید کرده است که ادامه این محدودیت‌ها به‌طور گسترده حقوق بشر، آزادی‌های اساسی و وضعیت اقتصادی شهروندان را تحت تاثیر قرار داده و پیامدهای آن در ابعاد مختلف همچنان رو به گسترش است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/112962",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/rvEfqv_UhAXNdMZWM2VPwfwRGEQ0nPHYhN13ZgbmyOF8AsgcD8A1FPgmzSabT4z_X2oOv0A3N-gTj6K23HE0qZMQICyy8zm7gIlz9xjhtdU65oaB-1WGWBugATGxAzSRbFdRR59fNqu3hH10DIkCwjS_h0S8F2kzQ2m3PUBu1tc6dmgo_69aaH1P6BqtlR-_QsDMGebMPQvjMYVL1-iDNOMBoIuIBzXNSBx_nIo3uJw31rwpHr4_6ibhdoqvlsGVYbnfsBnauVpG1ad4vcJsyCIpM6_DIho8tN5n_pMgXLGjD46bbnqhZyZWGhHI3E8CON8F7bgKYrDj2DfUKyD9tw.jpg",
+          "thumbnail_path": "channels/hranews/media/c7837d7234883fe93b9480a3.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "posted_at": "2026-05-16T08:11:52+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "5d5e1cfd35a2",
+      "confirmations": [
+        {
+          "channel_username": "farsivoa",
+          "channel_title": "Farsi VOA",
+          "permalink": "https://t.me/farsivoa/217878"
+        },
+        {
+          "channel_username": "farsi_iranwire",
+          "channel_title": "Iranwire",
+          "permalink": "https://t.me/Farsi_Iranwire/90150"
+        }
+      ]
+    },
+    {
+      "post_id": "farsivoa/farsivoa/217874",
+      "channel_username": "farsivoa",
+      "channel_title": "Farsi VOA",
+      "plain_text": "خبرگزاری رویترز از قول یک منبع آگاه گزارش داده که دبیر کل فیفا با مقامات فدراسیون فوتبال ایران در استانبول دیدار خواهد کرد. این منبع که نامی از او برده نشده گفته است ماتیاس گرافستروم درباره حضور ایران در جام جهانی به مقامات فدراسیون ایران «اطمینان خاطر» خواهد داد. پس از آنکه مهدی تاج، رئیس فدراسیون فوتبال ایران، به دلیل ارتباط با سپاه پاسداران از ورود به کانادا برای شرکت در کنگره فیفا در ونکوور در اوایل ماه جاری منع شد، پرسش‌های بیشتری درباره وضعیت حضور ایران مطرح شد. آمریکا و کانادا که همراه با مکزیک میزبان جام جهانی هستند، سپاه پاسداران را «سازمان تروریستی» طبقه‌بندی کرده‌ و گفته‌اند افرادی را که با سپاه ارتباط دارند، نخواهند پذیرفت. @FarsiVOA",
+      "body_html": "خبرگزاری رویترز از قول یک منبع آگاه گزارش داده که دبیر کل فیفا با مقامات فدراسیون فوتبال ایران در استانبول دیدار خواهد کرد.<br><br>این منبع که نامی از او برده نشده گفته است ماتیاس گرافستروم درباره حضور ایران در جام جهانی به مقامات فدراسیون ایران «اطمینان خاطر» خواهد داد.<br><br>پس از آنکه مهدی تاج، رئیس فدراسیون فوتبال ایران، به دلیل ارتباط با سپاه پاسداران از ورود به کانادا برای شرکت در کنگره فیفا در ونکوور در اوایل ماه جاری منع شد، پرسش‌های بیشتری درباره وضعیت حضور ایران مطرح شد.<br><br>آمریکا و کانادا که همراه با مکزیک میزبان جام جهانی هستند، سپاه پاسداران را «سازمان تروریستی» طبقه‌بندی کرده‌ و گفته‌اند افرادی را که با سپاه ارتباط دارند، نخواهند پذیرفت.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/217874",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hcm7fcVjsWkU7Nebto_IOtE6bRJtepCKyjP1EByUfKKbXCkH0JK4DLFMx1NHj1tFAOemWLaxKqq53OS5hEY-P6L1547mUn5OI3eWf2K6fe9KqCLNRRE1vevz6YsS-R2ySFrfSd4KVE5vyZTaBDB-leb0EUXtCCFY3IiTn0iwJyTTiH5WzsQPO22Bv5Up3EFudic_1a1YlKk7w9S0zexEMyA1el5bR0z-iFT2KfAu9XxA8EPsH2d7z9OzMP0LhuaWdLTn6xvaZttcSUKDajKW1RB25cZDzmagbeTMwGSD4lWXzs8gvK4qGyHswe_KcL-pfDXKitTYVPgUwM50oLtZyA.jpg",
+          "thumbnail_path": "channels/farsivoa/media/96906d61dfb21ec7a3fafb2a.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T08:20:59+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "d365c225d48b",
+      "confirmations": []
+    },
+    {
+      "post_id": "hranews/hranews/112963",
+      "channel_username": "hranews",
+      "channel_title": "خبرگزاری هرانا",
+      "plain_text": "گزارشی از بازداشت یک شهروند در ارومیه ❗️❗️❗️❗️❗️– فروزان نوجوان (اسلامی)، مدرس زبان انگلیسی و اهل ارومیه، روز چهارشنبه ۲۳ اردیبهشت ماه، توسط نیروهای امنیتی در این شهرستان بازداشت و به مکان نامعلومی منتقل شد. #فروزان_نوجوان #فروزان_اسلامی ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "body_html": "گزارشی از بازداشت یک شهروند در ارومیه<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– فروزان نوجوان (اسلامی)، مدرس زبان انگلیسی و اهل ارومیه، روز چهارشنبه ۲۳ اردیبهشت ماه، توسط نیروهای امنیتی در این شهرستان بازداشت و به مکان نامعلومی منتقل شد.<br><br><a href=\"?q=%23%D9%81%D8%B1%D9%88%D8%B2%D8%A7%D9%86_%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86\">#فروزان_نوجوان</a><br><a href=\"?q=%23%D9%81%D8%B1%D9%88%D8%B2%D8%A7%D9%86_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C\">#فروزان_اسلامی</a><br><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-a0ecbcf7/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "media": [],
+      "posted_at": "2026-05-16T08:24:11+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "852e5683c460",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsivoa/farsivoa/217875",
+      "channel_username": "farsivoa",
+      "channel_title": "Farsi VOA",
+      "plain_text": "آمارهای اداره تنظیم بازار انرژی ترکیه از جهش ۸۲ درصدی صادرات گاز ایران به ترکیه در اولین ماه آغاز عملیات نظامی مشترک اسرائیل و آمریکا علیه جمهوری اسلامی خبر داد. ایران در ماه مارس بیش از ۸۲۳ میلیون متر مکعب گاز تحویل ترکیه داده و سهمی بالای ۱۳ درصدی در کل واردات گاز ترکیه داشته است. واردات گاز ترکیه از ایران در سه ماهه ابتدایی ۲۰۲۶ نیز بیش از دو برابر شده و به یک میلیارد و ۷۵۶ میلیون متر مکعب اوج گرفته است. این در حالی است که ایران با کسری شدید گاز در داخل کشور مواجه است و قرارداد ۲۵ ساله صادرات گاز ایران به ترکیه نیز در هفته‌های پیش رو به اتمام می‌رسد. پیشتر وزیر انرژی ترکیه گفته بود که مذاکراتی برای تمدید این قرارداد در جریان نیست. @FarsiVOA",
+      "body_html": "آمارهای اداره تنظیم بازار انرژی ترکیه از جهش ۸۲ درصدی صادرات گاز ایران به ترکیه در اولین ماه آغاز عملیات نظامی مشترک اسرائیل و آمریکا علیه جمهوری اسلامی خبر داد.<br><br>ایران در ماه مارس بیش از ۸۲۳ میلیون متر مکعب گاز تحویل ترکیه داده و سهمی بالای ۱۳ درصدی در کل واردات گاز ترکیه داشته است. واردات گاز ترکیه از ایران در سه ماهه ابتدایی ۲۰۲۶ نیز بیش از دو برابر شده و به یک میلیارد و ۷۵۶ میلیون متر مکعب اوج گرفته است.<br><br>این در حالی است که ایران با کسری شدید گاز در داخل کشور مواجه است و قرارداد ۲۵ ساله صادرات گاز ایران به ترکیه نیز در هفته‌های پیش رو به اتمام می‌رسد. پیشتر وزیر انرژی ترکیه گفته بود که مذاکراتی برای تمدید این قرارداد در جریان نیست.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/217875",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/pcwQCB4hGIC1RNxYZDNrPaCf8ncJetf5GiSCKUP1oLuJ7-omu7pgd0DuRkzlUBpDH8iKmzrJ1OGnSXxzyrYnytpcRRZ74ZnQEA2D8VzSPvSoTnwwmeXe-fecEFBLobH-V1zgdsxzI0ZE-yjphYajQaHT6zshM08jz1OZ__jinOv10At9oWIZHlC7mkmN8iUXXZps9rfi2UGHCiK4akCYSX75hr3yNtXdrYawDGGDD1s9GbtNscO7wmKv3RDQ1SiUpT86ZhG1CcjPqAOHmVCUpeHY3oUYfbppe0oX0Pw3YX_4cHbCFUUgSiC43EcelNXFucPYF3rndCX0Hsz1UtlFgg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/ba0c606960e186b79548f5bd.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T08:25:59+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "675d4bb7711c",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsivoa/farsivoa/217876",
+      "channel_username": "farsivoa",
+      "channel_title": "Farsi VOA",
+      "plain_text": "ارتش اسرائیل اعلام کرد پیش از آغاز حملات هوایی علیه مواضع حزب‌الله در جنوب لبنان، برای ساکنان ۹ روستا هشدار تخلیه صادر کرده است. بر اساس این هشدار، ساکنان قعقعیه الصنوبر، کوثریه السیاد، مروانیه، غسانیه، تفاحتا، ارزی، بابلیه، انصار و بیصاریه باید دست‌کم یک کیلومتر از محل سکونت خود فاصله بگیرند. سخنگوی ارتش اسرائیل گفت این اقدام در پی نقض توافق آتش‌بس از سوی حزب‌الله انجام می‌شود و ارتش اسرائیل قصد آسیب‌زدن به غیرنظامیان را ندارد. @FarsiVOA",
+      "body_html": "ارتش اسرائیل اعلام کرد پیش از آغاز حملات هوایی علیه مواضع حزب‌الله در جنوب لبنان، برای ساکنان ۹ روستا هشدار تخلیه صادر کرده است.<br><br>بر اساس این هشدار، ساکنان قعقعیه الصنوبر، کوثریه السیاد، مروانیه، غسانیه، تفاحتا، ارزی، بابلیه، انصار و بیصاریه باید دست‌کم یک کیلومتر از محل سکونت خود فاصله بگیرند.<br><br>سخنگوی ارتش اسرائیل گفت این اقدام در پی نقض توافق آتش‌بس از سوی حزب‌الله انجام می‌شود و ارتش اسرائیل قصد آسیب‌زدن به غیرنظامیان را ندارد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/217876",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/hxqBjk4_PKbqU8f-s-L28snTBj6BK6cnwKzZSYgkkynSvcL8rsVDR7YuypZULHwdpyKnqlmMXpC0xnoUDi8u697PVaRp6ROvkaDsW_Gc8Ag43y0VsDOBswyxrzbrLWnIfCQjB5gF_HeBuZsIS52tBhEk31lW89-YL21a2teShCBUIeXU2wO2bze60W5n6u0JIdSqlWvy9oHIoiljfgI5NFNIqEE0teajwT5Gap6xHHCwq3-pvsZkH6iEfp7YQ42i2x9f-f6t7eOP_Sh1jBMIXhj_5kCZxNg86iG1zm_wV8Y1p1jalYKG7TPjVJdLBwZiTngnHjd_X0FKZXIviuhbMg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/737e521560702c811a676dec.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T08:29:04+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "5ca6cdeaff5f",
+      "confirmations": []
+    },
+    {
+      "post_id": "mamlekate/mamlekate/103533",
+      "channel_username": "mamlekate",
+      "channel_title": "مملکته",
+      "plain_text": "دیشب کانال «چشم عقاب» رفت روی ماهواره. مدتی بود روی این پروژه کار می‌کردم. روش کار ساده است: کانال ماهواره را روی تلویزیون باز می‌کنی، کیوآر کدها پشت سر هم روی صفحه می‌آیند، اپ چشم عقاب روی گوشی اندروید با دوربین آن‌ها را می‌خواند، خبر روی گوشی ذخیره می‌شود. کاملاً آفلاین. گوشی حتی مجوز اینترنت هم ندارد. هر پخش امضای دیجیتال دارد، اپ پخش‌های جعلی را رد می‌کند. داخل اپ خبر از چند رسانه فارسی و خارجی، توییت‌های اکانت‌های اضافه شده به سیستم، پیام‌های کانال‌های تلگرامی، و کانفیگ فیلترشکن می‌رسد، تا هرکسی توانست به اینترنت وصل شود راهی داشته باشد. توجه داشته باشید از سایت چشم عقاب میتونید کانال تلگرام یا اکانت ایکس مورد علاقه خودتون رو که فکر می‌کنید برای مردم مناسب است را پیشنهاد بدین. الان بیش از ۷۰ روز از یکی از طولانی‌ترین قطعی‌های اینترنت در تاریخ ایران می‌گذرد. این یکی از روش‌هایی است که برای رساندن خبر به‌طور مطمئن به دست مردم می‌بینم. هزینه اجاره کانال برای یک ماه تأمین شده است. بعدش اگر کسی نباشد که کمک کند، قطع می‌شود. فعلا نه فاند دولتی برای این پروژه گرفته‌ام، نه از رسانه‌ای پول، هیچ. تنها راه ادامه‌اش حمایت مستقیم مردمی است. اگر اندرویدی هستید، نصبش کنید و برای کسانی که به اینترنت دسترسی ندارند یکطوری اپلیکیشن رو بهشون برسون اگر باهاش حال کردی. اگر نمی‌توانید نصب کنید، حداقل همرسانی کنید. و اگر می‌توانید حمایت مالی هم کنید، الان از هر چیز دیگری مهم‌تر است. https://x.com/NarimanGharib/status/2052054823025942545 https://cheshmehoghab.app/ دانلود اپلیکیشن اندروید: https://t.me/CheshmehOghabApp/11",
+      "body_html": "دیشب کانال «چشم عقاب» رفت روی ماهواره. مدتی بود روی این پروژه کار می‌کردم.<br><br>روش کار ساده است: کانال ماهواره را روی تلویزیون باز می‌کنی، کیوآر کدها پشت سر هم روی صفحه می‌آیند، اپ چشم عقاب روی گوشی اندروید با دوربین آن‌ها را می‌خواند، خبر روی گوشی ذخیره می‌شود. کاملاً آفلاین. گوشی حتی مجوز اینترنت هم ندارد. هر پخش امضای دیجیتال دارد، اپ پخش‌های جعلی را رد می‌کند.<br><br>داخل اپ خبر از چند رسانه فارسی و خارجی، توییت‌های اکانت‌های اضافه شده به سیستم، پیام‌های کانال‌های تلگرامی، و کانفیگ فیلترشکن می‌رسد، تا هرکسی توانست به اینترنت وصل شود راهی داشته باشد. توجه داشته باشید از سایت چشم عقاب میتونید کانال تلگرام یا اکانت ایکس مورد علاقه خودتون رو که فکر می‌کنید برای مردم مناسب است را پیشنهاد بدین.<br><br>الان بیش از ۷۰ روز از یکی از طولانی‌ترین قطعی‌های اینترنت در تاریخ ایران می‌گذرد. این یکی از روش‌هایی است که برای رساندن خبر به‌طور مطمئن به دست مردم می‌بینم.<br><br>هزینه اجاره کانال برای یک ماه تأمین شده است. بعدش اگر کسی نباشد که کمک کند، قطع می‌شود. فعلا نه فاند دولتی برای این پروژه گرفته‌ام، نه از رسانه‌ای پول، هیچ. تنها راه ادامه‌اش حمایت مستقیم مردمی است.<br><br>اگر اندرویدی هستید، نصبش کنید و برای کسانی که به اینترنت دسترسی ندارند یکطوری اپلیکیشن رو بهشون برسون اگر باهاش حال کردی. اگر نمی‌توانید نصب کنید، حداقل همرسانی کنید. و اگر می‌توانید حمایت مالی هم کنید، الان از هر چیز دیگری مهم‌تر است.<br><br><a href=\"https://x.com/NarimanGharib/status/2052054823025942545\" target=\"_blank\" rel=\"noopener\">https://x.com/NarimanGharib/status/2052054823025942545</a><br><a href=\"https://cheshmehoghab.app/\" target=\"_blank\" rel=\"noopener\">https://cheshmehoghab.app/</a><br><br>دانلود اپلیکیشن اندروید:<br><br><a href=\"https://t.me/CheshmehOghabApp/11\" target=\"_blank\" rel=\"noopener\">https://t.me/CheshmehOghabApp/11</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mamlekate/103533",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/BMhPcAu9Vxani5np5Miz9najodBd2OKuyhouuSPPdjfTyHR8ZYPD_-7LKdjoq65NMclD-dRpUyMBc2WXPjoqa1bGEcqmSs6EwNJLRwgYcgfm9BKECPo_a5JhQPQtTUN1D64KrIY5HEP8wLRNaSHVL7xsp1EF3I6V1X_vbe9M1kVzEeSMKUaEo1RULLOY1E17omVkcGs470t6xiNnhMGScUAFJnLZVe5NmqsyjTUCYMBeO9lbOkzjFkpcsW_nXWzlEGWGuiHTJ20z-VgPuRnEKQ-tREQDKMp9UetvkNItvJnJMPSUM-aSV4_lRzzgfzim7bR8khm4Hy5LS-06_biAfA.jpg",
+          "thumbnail_path": "channels/mamlekate/media/c41180152a2eaca9f77a745d.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.6427104722792607
+        }
+      ],
+      "posted_at": "2026-05-16T08:30:28+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "52a32921dd78",
+      "confirmations": []
+    },
+    {
+      "post_id": "mamlekate/mamlekate/103534",
+      "channel_username": "mamlekate",
+      "channel_title": "مملکته",
+      "plain_text": "«مربی برتر آموزش استفاده از سلاح» میگه شلیک کن ببینیم توی سلاح یک گلوله بوده یا دوتا! به این نتیجه می‌رسن شلیک کنن بفهمن! 🎈 t.me/mamlekate/103529",
+      "body_html": "«مربی برتر آموزش استفاده از سلاح» میگه شلیک کن ببینیم توی سلاح یک گلوله بوده یا دوتا! به این نتیجه می‌رسن شلیک کنن بفهمن!<br><br><tg-emoji emoji-id=\"5938550593260887559\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E88.png')\"><b>🎈</b></i></tg-emoji> <a href=\"http://t.me/mamlekate/103529\" target=\"_blank\" rel=\"noopener\">t.me/mamlekate/103529</a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/103534",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/sfW98dMTk22roOlkr1eG-EONB1bJy_0ikMry92wzck_CoUHRgykEjMtstEXfbl7vy_tuianxdGlqnNKy2fSS8COPWOmHg1CdeUARinZ2bQXQ98ReW-OpGE1nYMsBRfOViwimDMBLuCm7BG8edVMV64LnDMKgjsnDGy_8Hjah_-ZH9o_oG7ac6JXxF3KOWVwEk5Jg6hdftgf8ynBrNhXE2hM1X9npu4EnO1M0-2IOYLxY1BmSXH9L0CW5uj6d2QRIJk6ZZibOAluiJAjpPgWhlyOYbLjZ6niwAgHZinK-jX-7yMfxEu5kF0IuC0F9iIO3qPPKsa0S5I1G0z3h2SrZGA",
+          "thumbnail_path": "channels/mamlekate/media/99c80c781280dfe51b7c1ef4.jpg",
+          "duration_label": "1:21",
+          "aspect_ratio": 1.7703703703703568
+        }
+      ],
+      "posted_at": "2026-05-16T08:32:01+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "4bf421c3a8f8",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsi_iranwire/Farsi_Iranwire/90147",
+      "channel_username": "farsi_iranwire",
+      "channel_title": "Iranwire",
+      "plain_text": "📻 نسخه کامل برنامه نیمروزی رادیو ایران‌وایر - شنبه ۲۶ اردیبهشت در دو نوبت به وقت ایران، ساعت ۱۲ تا ۱۳ روی موج کوتاه ۱۵۵۰۰ کیلوهرتز و ساعت ۲۳ تا ۲۴روی موج کوتاه ۹۷۷۰ کیلوهرتز در داخل ایران با شما هستیم. همین‌طور از طریق وب‌سایت و شبکه‌های اجتماعی در چهارگوشه جهان. @Farsi_Iranwire",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93BB.png')\"><b>📻</b></i> نسخه کامل برنامه نیمروزی رادیو ایران‌وایر - شنبه ۲۶ اردیبهشت<br><br>در دو نوبت به وقت ایران، ساعت ۱۲ تا ۱۳ روی موج کوتاه ۱۵۵۰۰ کیلوهرتز<br>و ساعت ۲۳ تا ۲۴روی موج کوتاه ۹۷۷۰ کیلوهرتز در داخل ایران با شما هستیم.<br>همین‌طور از طریق وب‌سایت و شبکه‌های اجتماعی در چهارگوشه جهان.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "media": [],
+      "posted_at": "2026-05-16T08:36:32+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "16dc12526daf",
+      "confirmations": []
+    },
+    {
+      "post_id": "sahamnewsorg/sahamnewsorg/141809",
+      "channel_username": "sahamnewsorg",
+      "channel_title": "سهام نیوز",
+      "plain_text": "✅رييس و اعضاي كميسيون امنيت مجلس چيزي از سياسيت و مذاكره نمي فهمند ✍️محمد مهاجري یکی از نمایندگان قم گفته:مجلس که باید در راس امور باشد در 80روز گذشته تعطیل بوده و به همین دلیل پیامهای اعتراضی فراوانی به او رسیده است. 🔸به این نماینده محترم متصف به ویژگیهای پایداریچی ها عرض می‌کنم اگر می‌خواهد واقعا بداند مردم چقدر از تعطیلی مجلس و اظهارنظرهای امثال او و مصوبات مجلس نگرانند، یک روز در میدان بهارستان و روبروی مجلس بایستد و از 100 رهگذر بپرسد که چقدر دلشان برای سخنان او و همقطارانش ومصوباتی مثل \"طرح صیانت\" و \"عفاف وحجاب\" تنگ شده؟ اگر واقعا و خداوکیلی 5نفر از ان 100نفر دلشان تنگ شده بود ،این نماینده خواستار تشکیل جلسات شود و نمایندگان همفکرش را به درافشانی فرا بخواند. خود او می داند که از بین ان 100نفر حتی یک نفر هم با او همنظر نخواهد بود. ضمنا پیامهایی را که به او رسیده و از تعطیلی مجلس نگران شده اند با ذکر نام فرستنده منتشر کند تا شفاف سازی شود! 🔸در روزها و هفته های اخیر بعضی نمایندگان از جمله رئیس و سخنگو و اعضای کمیسیون‌امنیت ملی در مصاحبه های خود حرفهایی در باره جنگ و... زده اند که نشان می‌دهد واقعا چیزی از سیاست و جنگ و امنیت و مذاکره نمی‌دانند و فقط برای کشور هزینه می‌تراشند. محتوای بیشتر اظهارنظرها این است که \"من هم هستم\"! 🔸 مهم اینکه چندنماینده عضو این کمیسیون که منافع ملی را درک می‌کنند کاملا سکوت کرده یا بسیار کم سخن گفته اند. اکثریت نمایندگان هم از هزینه افزایی برای کشور خودداری کرده اند که دم شان گرم. 🔸و بالاخره اینکه قبول کنیم مردم ، حال نمی کنند با مااصولگراها . @Sahamnewsorg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>رييس و اعضاي كميسيون امنيت مجلس چيزي از سياسيت و مذاكره نمي فهمند<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C8D.png')\"><b>✍️</b></i>محمد مهاجري</b><br>یکی از نمایندگان قم گفته:مجلس که باید در راس امور باشد در 80روز گذشته تعطیل بوده و به همین دلیل پیامهای اعتراضی فراوانی به او رسیده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>به این نماینده محترم متصف به ویژگیهای پایداریچی ها عرض می‌کنم اگر می‌خواهد واقعا بداند مردم چقدر از تعطیلی مجلس و اظهارنظرهای امثال او  و مصوبات مجلس نگرانند، یک روز در میدان بهارستان و روبروی مجلس بایستد و از 100 رهگذر بپرسد که چقدر دلشان برای سخنان او و همقطارانش ومصوباتی مثل \"طرح صیانت\" و \"عفاف وحجاب\" تنگ شده؟ اگر واقعا و خداوکیلی 5نفر از ان 100نفر دلشان تنگ شده بود ،این نماینده خواستار تشکیل جلسات شود و نمایندگان همفکرش را به درافشانی فرا بخواند. خود او می داند که از بین ان 100نفر حتی یک نفر هم با او همنظر نخواهد بود. ضمنا پیامهایی را که به او رسیده و از تعطیلی مجلس نگران شده اند با ذکر نام فرستنده منتشر کند تا شفاف سازی شود!<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>در روزها و هفته های اخیر بعضی نمایندگان از جمله رئیس و سخنگو و اعضای کمیسیون‌امنیت ملی در مصاحبه های خود حرفهایی در باره جنگ و...  زده اند که نشان می‌دهد واقعا چیزی از سیاست و جنگ و امنیت و مذاکره نمی‌دانند و فقط برای کشور هزینه می‌تراشند. محتوای بیشتر اظهارنظرها این است که \"من هم هستم\"!<br><br> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>&nbsp;مهم اینکه چندنماینده عضو این کمیسیون که منافع ملی را درک می‌کنند کاملا سکوت کرده یا بسیار کم  سخن گفته اند. اکثریت نمایندگان هم از هزینه افزایی برای کشور خودداری کرده اند که دم شان گرم.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>و بالاخره اینکه قبول کنیم  مردم ، حال نمی کنند با مااصولگراها&nbsp;.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "media": [],
+      "posted_at": "2026-05-16T08:37:39+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "d65b9634161f",
+      "confirmations": []
+    },
+    {
+      "post_id": "radiofarda/radiofarda/157251",
+      "channel_username": "radiofarda",
+      "channel_title": "RadioFarda",
+      "plain_text": "🔸 معاون سیاسی و سخنگوی وزارت کشور در نشست خبری روز شنبه ۲۶ اردیبهشت ضمن تأکید بر «حفظ انسجام» در کشور گفت: «اظهارات برخی در میادین مثلاً در موضوع بی‌حجابی سیاست رسمی کشور و نظام نیست و جامعه متکثر است.» 🔸 علی زینی‌وند در بخشی از سخنان امروز ضمن تأکید بر «تنوع جمعیت ۹۰ میلیون نفری ایران» به حضور زنان با «حجاب ضعیف» در کنار زنان چادری در تجمعات حکومتی اشاره کرد و گفت: «مهم این است که حاکمیت همه مردم را ببینید.» 🔸این اظهارات در حالی مطرح می‌شود که پدر مهسا امینی، بهمن‌ماه پارسال با انتشار عکسی از مصاحبه با یک زن در راهپیمایی ۲۲ بهمن توسط رسانه‌های حکومتی گفته بود «به خاطر چهار تار مو دختر معصوم من را کشتند و کسی جوابگو نشد و این که از دختران با سرهای برهنه و پوشش به قول آن‌ها غیر متعارف در مراسم رسمی فیلم می‌گیرند و کسی فریاد وا اسلاما سر نمی‌دهد، روزگار غریبی است!» 🔸 در ماه‌های گذشته رسانه‌های حکومتی تصاویر و گزارش‌های بسیاری از زنان بدون حجاب در رویدادهای حکومتی منتشر کرده‌اند. 🔸 چرخش سیاست حکومت در قبال حجاب با واکنش‌های افراد تندرو همراه شده است. @RadioFarda",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i> معاون سیاسی و سخنگوی وزارت کشور در نشست خبری روز شنبه ۲۶ اردیبهشت ضمن تأکید بر «حفظ انسجام» در کشور گفت: «اظهارات برخی در میادین مثلاً در موضوع بی‌حجابی سیاست رسمی کشور و نظام نیست و جامعه متکثر است.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i> علی زینی‌وند در بخشی از سخنان امروز ضمن تأکید بر «تنوع جمعیت ۹۰ میلیون نفری ایران» به حضور زنان با «حجاب ضعیف» در کنار زنان چادری در تجمعات حکومتی اشاره کرد و گفت: «مهم این است که حاکمیت همه مردم را ببینید.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>این اظهارات در حالی مطرح می‌شود که پدر مهسا امینی، بهمن‌ماه پارسال با انتشار عکسی از مصاحبه با یک زن در راهپیمایی ۲۲ بهمن توسط رسانه‌های حکومتی گفته بود «به خاطر چهار تار مو دختر معصوم من را کشتند و کسی جوابگو نشد و این که از دختران با سرهای برهنه و پوشش به قول آن‌ها غیر متعارف در مراسم رسمی فیلم می‌گیرند و کسی فریاد وا اسلاما سر نمی‌دهد، روزگار غریبی است!»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i> در ماه‌های گذشته رسانه‌های حکومتی تصاویر و گزارش‌های بسیاری از زنان بدون حجاب در رویدادهای حکومتی منتشر کرده‌اند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i> چرخش سیاست حکومت در قبال حجاب با واکنش‌های افراد تندرو همراه شده است.<br><br><a href=\"https://t.me/RadioFarda\" target=\"_blank\">@RadioFarda</a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/radiofarda/157251",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ida_akO9mb3JlFOdIScwdnDjkOvuYtC7FkTRF8iddlDQSOcU4uQzE3tE1u7tx25ETIq4fwqllFm1ZHliKYfb9eVHqtRK0m8ae0JVXpKlp_Cw8yOHz9lIO8GVQGGrKcCxNzS3sr_Z5NXRuS7UF7C4704xHDU-D10CQHjs1rGyK3X7qjfVvVAFTPMjXEV7uiJcKWbVVlnNVOnF5dr35nJKobthKXNP8kpK5q28ks1hY3CA97lswFbA-DvA3crzl2zql1k_6Q8orauYf4qXE6xEd-I4n8q7T4CZGRMZAesHnBHEENKl9i-9xKen_xhx7uc4j5vyJLZVa8h0tJqPcvhstA",
+          "thumbnail_path": "channels/radiofarda/media/27be83487e6b0d353980d172.jpg",
+          "duration_label": "1:28",
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T08:43:00+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "1b6c831aaa22",
+      "confirmations": []
+    },
+    {
+      "post_id": "hranews/hranews/112964",
+      "channel_username": "hranews",
+      "channel_title": "خبرگزاری هرانا",
+      "plain_text": "با پایان دوران محکومیت؛ فهیمه سلطانی آزاد شد خبرگزاری هرانا – فهیمه سلطانی، زندانی سیاسی محبوس در زندان دستگرد اصفهان، با پایان دوران محکومیت آزاد شد. به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، فهیمه سلطانی آزاد شد. بر اساس اطلاعات دریافتی هرانا، آزادی خانم سلطانی در تاریخ ۱۸ اردیبهشت ماه، با پایان دوران محکومیت وی از زندان دستگرد اصفهان صورت گرفته است. #فهیمه_سلطانی ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "body_html": "با پایان دوران محکومیت؛ فهیمه سلطانی آزاد شد<br><br>خبرگزاری هرانا – فهیمه سلطانی، زندانی سیاسی محبوس در زندان دستگرد اصفهان، با پایان دوران محکومیت آزاد شد.<br><br>به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، فهیمه سلطانی آزاد شد.<br><br>بر اساس اطلاعات دریافتی هرانا، آزادی خانم سلطانی در تاریخ ۱۸ اردیبهشت ماه، با پایان دوران محکومیت وی از زندان دستگرد اصفهان صورت گرفته است.<br><br><a href=\"?q=%23%D9%81%D9%87%DB%8C%D9%85%D9%87_%D8%B3%D9%84%D8%B7%D8%A7%D9%86%DB%8C\">#فهیمه_سلطانی</a><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-58087/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -&nbsp; <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>&nbsp; کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/112964",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/bYpLA1yCi7HEK95g_Cd-52aTkv5rDoPHHziaWVcpe0e4PE2Fzp_p3w7MzWnqcxYGeU9a7JPcRBkn3-k0qaA9XaqeaWFtwv04631-l18vOPdN7_ceS-PVqeaN3C1Nr0GU5vK-RE3kxOso7Qu9fGGJRQ-0pdCrq-XqYdCo6skz7gjek9-ysN4LNhXPjeA7MmGvM16-DdymJs2R1zrlCsh0Re4_NwvvRwM-omt2S7L0hcDZayEZUFv54_EEbUSVawaAPEdPLiY6EgNkZ1OVu8qDVyaZ0rGPpf6-Uu9FovUu1LsI8r4nt3F3v_BlUTvGGOHAZANSRLUpyQVPeyJbtyE3zQ.jpg",
+          "thumbnail_path": "channels/hranews/media/35af4bbbe2b70ddf19b48d59.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.5009380863039399
+        }
+      ],
+      "posted_at": "2026-05-16T08:48:56+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "59b8cd5b96d7",
+      "confirmations": []
+    },
+    {
+      "post_id": "mamlekate/mamlekate/103536",
+      "channel_username": "mamlekate",
+      "channel_title": "مملکته",
+      "plain_text": "نرخ ارز طبق برنامه اعلام‌شده پیش رفته. تا سال آینده هم قراره به ۲۸۴۸۰۰ برسه که زودتر از برنامه هم بهش خواهد رسید. رشد اقتصادی هم منفی بوده (فروپاشی) که ننوشتن. پست کانال در آبان ۱۴۰۳: t.me/mamlekate/90970",
+      "body_html": "نرخ ارز طبق برنامه اعلام‌شده پیش رفته. تا سال آینده هم قراره به ۲۸۴۸۰۰ برسه که زودتر از برنامه هم بهش خواهد رسید. رشد اقتصادی هم منفی بوده (فروپاشی) که ننوشتن.<br><br>پست کانال در آبان ۱۴۰۳:<br><a href=\"http://t.me/mamlekate/90970\" target=\"_blank\" rel=\"noopener\">t.me/mamlekate/90970</a>",
+      "media": [],
+      "posted_at": "2026-05-16T08:49:55+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "68180015301c",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsivoa/farsivoa/217877",
+      "channel_username": "farsivoa",
+      "channel_title": "Farsi VOA",
+      "plain_text": "رسانه وابسته به قوه قضائیه جمهوری اسلامی اعلام کرد اموال ۵۱ نفر در استان یزد، با دستور قضایی و به اتهام آنچه «خیانت به وطن» و «همکاری با دشمن» خوانده شده، توقیف شده است. بر اساس این گزارش، پرونده این افراد در ارتباط با قانون موسوم به «تشدید مجازات جاسوسی و همکاری با رژیم صهیونیستی علیه امنیت و منافع ملی» در حال رسیدگی است و مقام‌های قضایی مدعی شده‌اند دارایی‌های توقیف‌شده قرار است برای «حفظ حقوق عامه» و بازسازی اماکن آسیب‌دیده از جنگ هزینه شود. اموال توقیف‌شده شامل حساب‌های بانکی، دارایی‌های منقول و غیرمنقول، سهام شرکت‌ها و حتی اموال وکالتی عنوان شده است. طبق گزارش میزان، از میان این ۵۱ نفر، ۲۰ نفر در داخل کشور حضور دارند و ۳۱ نفر دیگر در خارج از کشور به سر می‌برند. این اقدام در ادامه موج تازه‌ای از مصادره و توقیف اموال شهروندان و مخالفان سیاسی صورت می‌گیرد؛ روندی که در عمل به ابزاری برای فشار، ارعاب و مصادره دارایی افراد تحت عنوان‌های سنگینی مانند «خیانت» و «همکاری با دشمن» تبدیل شده است. @FarsiVOA",
+      "body_html": "رسانه وابسته به قوه قضائیه جمهوری اسلامی اعلام کرد اموال ۵۱ نفر در استان یزد، با دستور قضایی و به اتهام آنچه «خیانت به وطن» و «همکاری با دشمن» خوانده شده، توقیف شده است.<br><br>بر اساس این گزارش، پرونده این افراد در ارتباط با قانون موسوم به «تشدید مجازات جاسوسی و همکاری با رژیم صهیونیستی علیه امنیت و منافع ملی» در حال رسیدگی است و مقام‌های قضایی مدعی شده‌اند دارایی‌های توقیف‌شده قرار است برای «حفظ حقوق عامه» و بازسازی اماکن آسیب‌دیده از جنگ هزینه شود.<br><br>اموال توقیف‌شده شامل حساب‌های بانکی، دارایی‌های منقول و غیرمنقول، سهام شرکت‌ها و حتی اموال وکالتی عنوان شده است.<br><br>طبق گزارش میزان، از میان این ۵۱ نفر، ۲۰ نفر در داخل کشور حضور دارند و ۳۱ نفر دیگر در خارج از کشور به سر می‌برند.<br><br>این اقدام در ادامه موج تازه‌ای از مصادره و توقیف اموال شهروندان و مخالفان سیاسی صورت می‌گیرد؛ روندی که در عمل به ابزاری برای فشار، ارعاب و مصادره دارایی افراد تحت عنوان‌های سنگینی مانند «خیانت» و «همکاری با دشمن» تبدیل شده است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/217877",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ZedkbZTukivfKEsS0BJ3npQ5mADb8HYP9kI7ceK3Jwy368vVOcpSaUThl40yxYkFn0mxZ-ymzmTjpF6Pn1meF03yEbAS2xJgY17nlIot0_TeoVWjgzMN5sGFry_q_EdzMOa_UW1hBsGJmYr9YemrcOhMtRfJnxaa2HCRv2pMGLh9uQqcwQBfJ4FcQxWyi5IrFM6big7oR2WD-P5YUIOccQTUAbfypT7wst2tDvMVUhqjSwfnfih46581OoTMqUG5vuJvGgWm0-pB1GHdNZpiOLAFyo8g7Jl-kvtWo-sysw4nNPP-k63A3NGuKwU_1GzXSQUYpcBBy8VJz2T69yP7Zg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/777ae236d86db183cf235544.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T08:53:47+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "63b4bb670b27",
+      "confirmations": [
+        {
+          "channel_username": "radiofarda",
+          "channel_title": "RadioFarda",
+          "permalink": "https://t.me/radiofarda/157252"
+        }
+      ]
+    },
+    {
+      "post_id": "farsi_iranwire/Farsi_Iranwire/90148",
+      "channel_username": "farsi_iranwire",
+      "channel_title": "Iranwire",
+      "plain_text": "مهدی خانعلی‌زاده، معاون پژوهشی «اندیشکده خانه دیپلماسی» در برنامه سیمای جمهوری اسلامی عکس ساخته شده توسط هوش مصنوعی را تحلیل و آن‌را نشانه‌ای از افول آمریکا و پیروزی چین دانست. خانعلی‌زاده کارشناس روابط خارجی و همراه تیم مذاکره کننده در سفر به پاکستان و مهمان دائم صدا و سیما است. @Farsi_Iranwire",
+      "body_html": "مهدی خانعلی‌زاده، معاون پژوهشی «اندیشکده خانه دیپلماسی» در برنامه سیمای جمهوری اسلامی عکس ساخته شده توسط هوش مصنوعی را تحلیل و آن‌را نشانه‌ای از افول آمریکا و پیروزی چین دانست.&nbsp; خانعلی‌زاده کارشناس روابط خارجی و همراه تیم مذاکره کننده در سفر به پاکستان و مهمان دائم صدا و سیما است.<br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Farsi_Iranwire/90148",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/IT2HNw-AEFutewAzvLmBYJRqx5mokdLBB5Vlq_htyZlRV_aURxvso7edG-TeK5HRGVvcD8LzFzx0xxkoCz4qtr6_2StTR4cCk3Qr6ABlqhBRYlqyP0U8mD1A0MXUHU9ZI7XqRxoxqpZ3InmLAB3P3KbVBcGYqgwhS8q7Jr0X3kN-RJX-qidOL-hy6zV7EIW6tZSIzD28j3ypoYQrVW3TMvZw9AoMOsu_akIskzbetVhiCb_IuxV8Ozp6Aj6v1ftVRM5PG7Lvqt85_N9AL4CX4gJ8Tyr8CrruxO4QMf_p3mOOnmfUg5ZP7grVz24Rh3d1fkVEiOLJD4G6XtG0rOe4RQ",
+          "thumbnail_path": "channels/farsi_iranwire/media/043563c7dfdbb99ddf08fec4.jpg",
+          "duration_label": "0:33",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "posted_at": "2026-05-16T08:55:19+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "7473db6deb16",
+      "confirmations": []
+    },
+    {
+      "post_id": "bbcpersian/bbcpersian/281203",
+      "channel_username": "bbcpersian",
+      "channel_title": "BBCPersian",
+      "plain_text": "🔻ساعاتی پس از آنکه دونالد ترامپ گفت که هنوز در مورد فروش سلاح به تایوان تصمیم نگرفته است، رئیس‌جمهور تایوان بر اهمیت و لزوم این موضوع تاکید کرده است. سخنگوی رئیس‌جمهور تایوان گفت که فروش تسلیحات آمریکا به تایوان نه تنها تعهدی حقوقی است، بلکه همواره یک عامل بازدارنده مشترک علیه تهدیدهای منطقه‌ای بوده است. این موضعگیری تایوان پس از دیداردونالد ترامپ و همتای چینی‌اش شی‌ جین‌پینگ است که در آن رهبر چین هشدار داد که «مدیریت نامناسب» مساله تایوان می‌تواند به درگیری یا جنگ مستقیم بینجامد. چین تایوان را یک استان متمرد خود می‌داند و امکان استفاده از زور برای تحت کنترل درآوردن آن را رد نکرده است. واشنگتن بر اساس «قانون روابط با تایوان» موظف است برای این جزیره سلاح فراهم کند. 📷Getty Images @BBCPersian",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i></b>ساعاتی پس از آنکه دونالد ترامپ گفت که هنوز در مورد فروش سلاح به تایوان تصمیم نگرفته است، رئیس‌جمهور تایوان بر اهمیت و لزوم این موضوع تاکید کرده است.<br><br>سخنگوی رئیس‌جمهور تایوان گفت که فروش تسلیحات آمریکا به تایوان نه تنها تعهدی حقوقی است، بلکه همواره یک عامل بازدارنده مشترک علیه تهدیدهای منطقه‌ای بوده است.<br><br>این موضعگیری تایوان پس از دیداردونالد ترامپ و همتای چینی‌اش شی‌ جین‌پینگ است که در آن رهبر چین هشدار داد که «مدیریت نامناسب» مساله تایوان می‌تواند به درگیری یا جنگ مستقیم بینجامد.<br><br>چین تایوان را یک استان متمرد خود می‌داند و امکان استفاده از زور برای تحت کنترل درآوردن آن را رد نکرده است.<br><br>واشنگتن بر اساس «قانون روابط با تایوان» موظف است برای این جزیره سلاح فراهم کند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B7.png')\"><b>📷</b></i>Getty Images<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281203",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/gyzRvEfD39EY3xDgOT4j92pFyDJm4g8T8BFsKDXZxVsjPrUe2Cz5cqFU09zsU74k3GezsyqvD0TkXsg0WMR1NRqPrmWw0jyJJZHIgMdx5AFGuSADsAmAxZrVJQhb1mneugG9NiZJzjZvMqfQEiRQgcIuyrwAOBUH2BR-9F4y-tMfBvZJcKVTHsL8aMcjNV1BE_cqze4SDIj5085KVgrK6N8RIvqQOHLVT8fmqONKLivMNb-G-7jaaNuMgF4JhUMyN7pIEHUm-hd-48m-bgHWS0tFXGXoVMZnbXp9vHIiO2M13S5ch6XPjCjeFb7BwnCdsuUjI1AZoA91iaQ2EyTC8g.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/e60b127ee8b17abc7bdfac49.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T09:07:23+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "a9efef052bbc",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsivoa/farsivoa/217879",
+      "channel_username": "farsivoa",
+      "channel_title": "Farsi VOA",
+      "plain_text": "بلومبرگ گزارش داد شرکت ملی نفت ابوظبی، ادنوک، با وجود اختلال‌های حمل‌ونقل در خلیج فارس، همچنان گاز طبیعی مایع را روی نفتکش‌هایی بارگیری می‌کند که سامانه‌های ردیابی خود را خاموش کرده‌اند. بر اساس این گزارش، این کشتی‌ها برای عبور از تنگه هرمز موقعیت خود را پنهان می‌کنند؛ مسیری که از آغاز جنگ و افزایش تهدیدها علیه کشتیرانی، با خطر جدی روبه‌رو شده است. ادنوک پیش‌تر اعلام کرده بود به دلیل اختلال در عبور کشتی‌ها از تنگه هرمز، تولید و صادرات ال‌ان‌جی و برخی محصولات صادراتی خود را به‌طور موقت تنظیم کرده است. تأسیسات داس آیلند این شرکت در داخل خلیج فارس قرار دارد و صادرات آن برای رسیدن به بازارهای جهانی ناچار به عبور از تنگه هرمز است. رویترز نیز اوایل ماه مه گزارش داد دومین نفتکش ال‌ان‌جی تحت مدیریت ادنوک، پس از خاموش کردن سامانه ردیابی خود، از تنگه هرمز عبور کرده است. داده‌های رهگیری کشتی‌ها نشان می‌دهد شماری از نفتکش‌ها در هفته‌های اخیر برای کاهش خطر هدف‌گیری یا توقیف، موقعیت خود را پنهان کرده یا الگوهای شناسایی غیرعادی داشته‌اند. @FarsiVOA",
+      "body_html": "بلومبرگ گزارش داد شرکت ملی نفت ابوظبی، ادنوک، با وجود اختلال‌های حمل‌ونقل در خلیج فارس، همچنان گاز طبیعی مایع را روی نفتکش‌هایی بارگیری می‌کند که سامانه‌های ردیابی خود را خاموش کرده‌اند.<br><br>بر اساس این گزارش، این کشتی‌ها برای عبور از تنگه هرمز موقعیت خود را پنهان می‌کنند؛ مسیری که از آغاز جنگ و افزایش تهدیدها علیه کشتیرانی، با خطر جدی روبه‌رو شده است.<br><br>ادنوک پیش‌تر اعلام کرده بود به دلیل اختلال در عبور کشتی‌ها از تنگه هرمز، تولید و صادرات ال‌ان‌جی و برخی محصولات صادراتی خود را به‌طور موقت تنظیم کرده است.<br><br>تأسیسات داس آیلند این شرکت در داخل خلیج فارس قرار دارد و صادرات آن برای رسیدن به بازارهای جهانی ناچار به عبور از تنگه هرمز است.<br><br>رویترز نیز اوایل ماه مه گزارش داد دومین نفتکش ال‌ان‌جی تحت مدیریت ادنوک، پس از خاموش کردن سامانه ردیابی خود، از تنگه هرمز عبور کرده است.<br><br>داده‌های رهگیری کشتی‌ها نشان می‌دهد شماری از نفتکش‌ها در هفته‌های اخیر برای کاهش خطر هدف‌گیری یا توقیف، موقعیت خود را پنهان کرده یا الگوهای شناسایی غیرعادی داشته‌اند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/217879",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ci6coZzrGyKndp2WNyVusZ_7fOFGMzKULGLypD66AQ5rCuAcDth10r__BzaX6GxxeGRiGZUw-geDqfgnC8ixwOWgMK-DwW3dRRgpsM86lA7uJFuaToekNqdTy3rndMODvYw-7p9co6B9rS9HNeldu1KPserimyecLCfHxCXDsPos1iJI1OGjr1C01sB9L91AiAIg5xVg0wJvQuuJQJs5aVrMghVr4f5vaohuZPIGGiRXwREixKbZ806OY3nMOqdTiVK5rCyVucDl2NvOVSO9XDmwE9fQ0JyTYe6r14okhIDlbGUxEie7OlRYg1Q2TueR6RGNSP3uincqkTVcGR8LwQ.jpg",
+          "thumbnail_path": "channels/farsivoa/media/f6b8af65da052a363a151511.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T09:13:11+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "03332039cb24",
+      "confirmations": []
+    },
+    {
+      "post_id": "hranews/hranews/112965",
+      "channel_username": "hranews",
+      "channel_title": "خبرگزاری هرانا",
+      "plain_text": "اموال ۵۱ شهروند در استان یزد توقیف شد ❗️❗️❗️❗️❗️– دارایی‌ها و اموال ۵۱ شهروند در استان یزد مصادره شد. دستگاه قضایی این افراد را متهم به «همکاری با دشمن» دانسته است. ۲۰ تن از این شهروندان در داخل کشور و ۳۱ نفر دیگر در خارج از ایران سکونت دارند. ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "body_html": "اموال ۵۱ شهروند در استان یزد توقیف شد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– دارایی‌ها و اموال ۵۱ شهروند در استان یزد مصادره شد. دستگاه قضایی این افراد را متهم به «همکاری با دشمن» دانسته است. ۲۰ تن از این شهروندان در داخل کشور و ۳۱ نفر دیگر در خارج از ایران سکونت دارند.<br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-1ee5a5db/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "media": [],
+      "posted_at": "2026-05-16T09:14:57+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "91195ec7aaf1",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsi_iranwire/Farsi_Iranwire/90149",
+      "channel_username": "farsi_iranwire",
+      "channel_title": "Iranwire",
+      "plain_text": "خبرگزاری میزان، ارگان رسانه‌ای قوه قضاییه خبر از توقیف اموال ۵۱ نفر در استان یزد داد. در خبر منتشر شده توسط میزان بدون اشاره به اسامی افراد، ادعا شده که آن‌ها «از خائنین» به کشور بودند و بدون اشاره به برگزاری دادگاهی ادامه داده اموال آن‌ها«به اتهام جاسوسی و همکاری با کشورهای متخاصم و گروه‌های معاند» مصادره شده است. بیشتر: https://iranwire.com/fa/news-1/152471https://iranwire.com/fa/news-1/152471 @Farsi_Iranwire",
+      "body_html": "خبرگزاری میزان، ارگان رسانه‌ای قوه قضاییه خبر از توقیف اموال ۵۱ نفر در استان یزد داد.<br>در خبر منتشر شده توسط میزان بدون اشاره به اسامی افراد، ادعا شده که آن‌ها «از خائنین» به کشور بودند و بدون اشاره به برگزاری دادگاهی ادامه داده اموال آن‌ها«به اتهام جاسوسی و همکاری با کشورهای متخاصم و گروه‌های معاند» مصادره شده است.<br>بیشتر: <a href=\"https://iranwire.com/fa/news-1/152471https://iranwire.com/fa/news-1/152471\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152471https://iranwire.com/fa/news-1/152471</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90149",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/msz6jKmMmrl-8dAX2-MC2pT5-H7ZavHA74ZtAAWuUunSB1iN_IAWWPrYuciMJcWuIN4q1InYauIZFRx-9cRIE33nW6IX1XsUPHGnxrEyRjabMJcY1p8ppphNrSSG3eQEoSIr1weeo8m5JNc-gbpYvMoVwxJbI4CtJx37fzIc40bS_I7bwBLQTQuB5UVLCnwue3dPFJxToynZUOjyPsP8Z4rKrPOMA6Iibv1pzqj94V-fc2AZe9LJzLQ6zuFAxEz-_qf7Ryicua93b-P5gIGy2TKtO9CvhR_Rec_NwSa7CcY-C8_XN-LTGA38tARkHZ4QfAczkj-pU94GHoEs2hSRyQ.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/6fc6dd273d7b9baa5ef3fa6c.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T09:17:11+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "3c1d40a3ec93",
+      "confirmations": []
+    },
+    {
+      "post_id": "mamlekate/mamlekate/103537",
+      "channel_username": "mamlekate",
+      "channel_title": "مملکته",
+      "plain_text": "🔫 صداوسیما 🔫سقوط دولت لیبی: t.me/mamlekate/101453",
+      "body_html": "<tg-emoji emoji-id=\"5222486447306602688\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94AB.png')\"><b>🔫</b></i></tg-emoji> صداوسیما<br><br><tg-emoji emoji-id=\"5222486447306602688\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94AB.png')\"><b>🔫</b></i></tg-emoji>سقوط دولت لیبی:<br><a href=\"http://t.me/mamlekate/101453\" target=\"_blank\" rel=\"noopener\">t.me/mamlekate/101453</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mamlekate/103537?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/i2b3zWLIJHzZWdmT6h4TbNcAee-PTx_UTTS29q-GU2b0Bq-UJCAcuq6-ImJiysTSsffwCCXFJNsWpmvlSusmxpLLwjpAsedU0RhjF-k4A8LWegmX6uFsZxTgyuwCmvr9OAe7Cv1cug3iW-sQ1GpwHTLvZ-fs3isBVK0Zxd8p8vwVOeIOUMmGYzpmhaZq2Y5Mgsv0at0wIfkmbx4yr5vOthCDgoV9nonMRMwH52HclTW8meJ2-rY6z6qbh4pA7BjSS81RN845PxnZTVtJgKi7ERG8CzHsir33CNZmdZp3iAnroSm0x4rqyTKaZ_cNm3OgRkKBYAy0pnlDIWHvSE69dA.jpg",
+          "thumbnail_path": "channels/mamlekate/media/50eebebb5b1b90deb67a2a25.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7391304347826
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mamlekate/103538?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/pYSKIDHgs_ja6Qmc9-reS4QivexLlfDVUcePoXZFsGLbkp-hL6mZt75Hcn1Y8UC2Qt2KVql2ETREqit-19SJnLMZFwpMQ5OCmasVLc2NKBggCE0_p_JHmPQZzOUz3C8DiVTvgewq4ZiH6ygDTg2QAgUx4O_hCK8Adn-SVXv4ATsVWM3_yBTr_TElS9egdT9U_fLaU61fn0zKz2i6bPlcum7AIbMuqJ2mfpwRDL9HQsEJMHxGWyJf0Qy6q2nkFmpcqBRwKDVnLxftYbFG-N8bh9aBU5ZRWDcMDdQ4JRPGLJ_tYCgwctxSnM6tm94v7P29AI7t2gL4wIyc1aB_KFbniQ.jpg",
+          "thumbnail_path": "channels/mamlekate/media/69c3cb3fb451b9d22cede19a.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7167381974249
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/mamlekate/103539?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/h6dktwfS5wXE01lm3u9GNNLK2S9Cx-JnKGrgJgkc0mVeB9nyboG0YerpjyVhXptJh0klHjAwqdfFR4uLiNWXXViJQHWJeRVde_YVO6-HpCuAb7ZSGOuKjy0RFBnhNMSh6-Ok6JSeQHgV_PFOnCLGQ3aAM1OhpnzhdlC3bmHsymZZnqDp77UraiL6wRVZR5zmBkrpRjMR8fkMZYkDSBj9hA6ZAyp6tyxDVgqnHQDJYEpMOipbWSI-Op9udgPHFo7KUpWArR404y0LyarNf3AfIRDXAJ6_f0LRvMNKCCAPOURkUv9XlYP-1YXcHAajvK-EgUIbY82i17psiZgWwRVevA.jpg",
+          "thumbnail_path": "channels/mamlekate/media/553f298563f6df68f451bf6c.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7817371937639
+        }
+      ],
+      "posted_at": "2026-05-16T09:19:34+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "4e105c5598af",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsivoa/farsivoa/217880",
+      "channel_username": "farsivoa",
+      "channel_title": "Farsi VOA",
+      "plain_text": "🔺آمریکا در تدارک اعلام جرم علیه رائول کاسترو رهبر پیشین کوبا ◾️رویترز به نقل از یک مقام وزارت دادگستری آمریکا گزارش داد دولت ترامپ قصد دارد روز چهارشنبه ۲۰ مه، اتهامات کیفری علیه رائول کاسترو، رهبر پیشین کوبا، را در میامی اعلام کند. ◾️به گفته این مقام، پرونده به حادثه سال ۱۹۹۶ بازمی‌گردد؛ زمانی که جنگنده‌های کوبا دو هواپیمای کوچک متعلق به گروه تبعیدیان کوبایی «برادران نجات» را سرنگون کردند و چهار نفر شهروند آمریکایی کشته شدند. رائول کاسترو در آن زمان وزیر دفاع کوبا بود. ◾️واشنگتن پس از این حادثه، در دوره بیل کلینتون، تحریم‌هایی علیه کوبا اعمال کرد؛ از جمله تعلیق پروازهای چارتر، محدود کردن رفت‌وآمد دیپلمات‌های کوبایی، و تلاش برای تشدید تحریم‌ها در کنگره. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150655.html",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>آمریکا در تدارک اعلام جرم علیه رائول کاسترو رهبر پیشین کوبا<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>رویترز به نقل از یک مقام وزارت دادگستری آمریکا گزارش داد دولت ترامپ قصد دارد روز چهارشنبه ۲۰ مه، اتهامات کیفری علیه رائول کاسترو، رهبر پیشین کوبا، را در میامی اعلام کند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>به گفته این مقام، پرونده به حادثه سال ۱۹۹۶ بازمی‌گردد؛ زمانی که جنگنده‌های کوبا دو هواپیمای کوچک متعلق به گروه تبعیدیان کوبایی «برادران نجات» را سرنگون کردند و چهار نفر شهروند آمریکایی کشته شدند. رائول کاسترو در آن زمان وزیر دفاع کوبا بود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>واشنگتن پس از این حادثه، در دوره بیل کلینتون، تحریم‌هایی علیه کوبا اعمال کرد؛ از جمله تعلیق پروازهای چارتر، محدود کردن رفت‌وآمد دیپلمات‌های کوبایی، و تلاش برای تشدید تحریم‌ها در کنگره.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8150655.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8150655.html</a>",
+      "media": [],
+      "posted_at": "2026-05-16T09:20:24+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "b16d43bf32b5",
+      "confirmations": [
+        {
+          "channel_username": "bbcpersian",
+          "channel_title": "BBCPersian",
+          "permalink": "https://t.me/bbcpersian/281205"
+        }
+      ]
+    },
+    {
+      "post_id": "mamlekate/mamlekate/103540",
+      "channel_username": "mamlekate",
+      "channel_title": "مملکته",
+      "plain_text": "سخنرانی حسین یکتا از تیرخلاص زن‌های دی‌ماه خونین… در کنار مزدوران تیم فوتبال جمهوری اسلامی! CrimesArchives @mamlekate",
+      "body_html": "سخنرانی حسین یکتا از تیرخلاص زن‌های دی‌ماه خونین… در کنار مزدوران تیم فوتبال جمهوری اسلامی!<br><br><a href=\"https://x.com/CrimesArchives/status/2055454322402451648\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">CrimesArchives</a><br><a href=\"https://t.me/mamlekate\" target=\"_blank\">@mamlekate</a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/mamlekate/103540",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/FOHGDpAqkIUZZoLekoFKAlkrw0_SLACR8Iq4jCkGQn0ED6MRXtiWhl4kFgxBrIcdsszlUdRO3kEQlUWg5eCR9_-hPjsYs7HT56z3txpufJGwxXNYZhRNAfigZF9lzqGt8dX_LM7bGeOeS_1EqdU-pJissDCl0U3gdeGXu5b7Sb7UGtidQ9rIBoPOwo3etR4WkgwJGbGIu2macJ-7seBgzz1moUiKLcC3nrgeo9o4M_PtIPIDANf2zQ7KFnbtWHkMpO_pLYFithk5R-EzqFi7RoH5sJLJiVuNzii4CxMmKUx38eOzLBE9xAmX_FDngp5tsBkCEw9ymMNssOyxiCALrA",
+          "thumbnail_path": "channels/mamlekate/media/0e7e2488fc33f278fbb520e6.jpg",
+          "duration_label": "0:43",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "posted_at": "2026-05-16T09:21:22+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "541863df1cb1",
+      "confirmations": []
+    },
+    {
+      "post_id": "hranews/hranews/112966",
+      "channel_username": "hranews",
+      "channel_title": "خبرگزاری هرانا",
+      "plain_text": "گزارشی از بازداشت صباح بیواره در پیرانشهر ❗️❗️❗️❗️❗️– صباح بیواره، شهروند اهل پیرانشهر روز پنجشنبه ۲۴ اردیبهشت ماه، توسط نیروهای امنیتی در این شهرستان بازداشت شده و کماکان از محل نگهداری وی اطلاعی حاصل نشده است. #صباح_بیواره ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "body_html": "گزارشی از بازداشت صباح بیواره در پیرانشهر<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– صباح بیواره، شهروند اهل پیرانشهر روز پنجشنبه ۲۴ اردیبهشت ماه، توسط نیروهای امنیتی در این شهرستان بازداشت شده و کماکان از محل نگهداری وی اطلاعی حاصل نشده است.<br><br><a href=\"?q=%23%D8%B5%D8%A8%D8%A7%D8%AD_%D8%A8%DB%8C%D9%88%D8%A7%D8%B1%D9%87\">#صباح_بیواره</a><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-e3564770/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب</a><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "media": [],
+      "posted_at": "2026-05-16T09:24:13+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "89a1db20ae4a",
+      "confirmations": []
+    },
+    {
+      "post_id": "bbcpersian/bbcpersian/281204",
+      "channel_username": "bbcpersian",
+      "channel_title": "BBCPersian",
+      "plain_text": "🔻اسرائیل از موج تازه حملات علیه مواضع حزب‌الله خبر داد ارتش اسرائیل می‌گوید که موج تازه‌ای از حملات هوایی را علیه مواضع حزب‌الله در جنوب لبنان آغاز کرده است. ارتش اسرائیل پیش‌تر به ساکنان چندین منطقه در جنوب لبنان دستور تخلیه داده بود. این حملات جدید یک روز پس از آن انجام شد که نمایندگان اسرائیل و لبنان در نشستی در واشنگتن، آتش‌بس شکننده جاری را برای ۴۵ روز دیگر تمدید کردند. پیش‌تر، مقام‌های لبنانی اسرائیل را متهم کردند که عمداً مراکز درمانی را هدف قرار داده است. وزارت بهداشت لبنان اعلام کرد که اسرائیل یک مرکز امدادرسانی را هدف حمله قرار داده که در نتیجه آن شش نفر، از جمله سه امدادگر، کشته شدند. اما اسرائیل هدف قرار دادن نیروهای امدادی و پزشکی را رد کرد. https://bbc.in/4uQiCnV @BBCPersian",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>اسرائیل از موج تازه حملات علیه مواضع حزب‌الله خبر داد</b><br><br>ارتش اسرائیل می‌گوید که موج تازه‌ای از حملات هوایی را علیه مواضع حزب‌الله در جنوب لبنان آغاز کرده است.<br><br>ارتش اسرائیل پیش‌تر به ساکنان چندین منطقه در جنوب لبنان دستور تخلیه داده بود.<br><br>این حملات جدید یک روز پس از آن انجام شد که نمایندگان اسرائیل و لبنان در نشستی در واشنگتن، آتش‌بس شکننده جاری را برای ۴۵ روز دیگر تمدید کردند.<br><br>پیش‌تر، مقام‌های لبنانی اسرائیل را متهم کردند که عمداً مراکز درمانی را هدف قرار داده است.<br><br>وزارت بهداشت لبنان اعلام کرد که اسرائیل یک مرکز امدادرسانی را هدف حمله قرار داده که در نتیجه آن شش نفر، از جمله سه امدادگر، کشته شدند.<br><br>اما اسرائیل هدف قرار دادن نیروهای امدادی و پزشکی را رد کرد.<br><br><a href=\"https://bbc.in/4uQiCnV\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4uQiCnV</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "media": [],
+      "posted_at": "2026-05-16T09:38:04+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "7bed8326b3f1",
+      "confirmations": []
+    },
+    {
+      "post_id": "radiofarda/radiofarda/157253",
+      "channel_username": "radiofarda",
+      "channel_title": "RadioFarda",
+      "plain_text": "🔸عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، روز جمعه ۲۵ اردیبهشت در گفت‌وگو با خبرنگاران در هند ادعا کرد که ایران با عمان در حال رایزنی برای ایجاد سازوکار مناسب برای اداره تنگه هرمز است. 🔸بر اساس ادعای عراقچی، از آنجا که ایران و عمان در دو سوی تنگه هرمز قرار دارند، آنها باید برای مدیریت این آبراهه تصمیم بگیرند. 🔸عمان تاکنون هیچ واکنشی به این اظهار نظر نداشته و در برابر آن سکوت کرده است. 🔸عباس عراقچی این طور توضیح داده است:‌ «ایران و عمان دو کشور ساحلی در دو سوی تنگه هرمز هستند و این تنگه در آب‌های سرزمینی دو کشور قرار دارد و میان آن آب‌های بین‌المللی وجود ندارد. بنابراین مدیریت این مسیر باید توسط ایران و عمان انجام شود.» 🔸این در حالی است که ایالات متحده با این که این تنگه باید در دست ایران باشد و تهران می‌تواند در ازای اجازه عبور از کشتی‌ها عوارض دریافت کند از ابتدا مخالفت کرده و می‌گوید که عمان هم با این موضع‌گیری موافق است. @RadioFarda",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>عباس عراقچی، وزیر امور خارجه جمهوری اسلامی، روز جمعه ۲۵ اردیبهشت در گفت‌وگو با خبرنگاران در هند ادعا کرد که ایران با عمان در حال رایزنی برای ایجاد سازوکار مناسب برای اداره تنگه هرمز است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>بر اساس ادعای عراقچی، از آنجا که ایران و عمان در دو سوی تنگه هرمز قرار دارند، آنها باید برای مدیریت این آبراهه تصمیم بگیرند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>عمان تاکنون هیچ واکنشی به این اظهار نظر نداشته و در برابر آن سکوت کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>عباس عراقچی این طور توضیح داده است:‌ «ایران و عمان دو کشور ساحلی در دو سوی تنگه هرمز هستند و این تنگه در آب‌های سرزمینی دو کشور قرار دارد و میان آن آب‌های بین‌المللی وجود ندارد. بنابراین مدیریت این مسیر باید توسط ایران و عمان انجام شود.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>این در حالی است که ایالات متحده با این که این تنگه باید در دست ایران باشد و تهران می‌تواند در ازای اجازه عبور از کشتی‌ها عوارض دریافت کند از ابتدا مخالفت کرده و می‌گوید که عمان هم با این موضع‌گیری موافق است.<br><br><br><a href=\"https://t.me/RadioFarda\" target=\"_blank\">@RadioFarda</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/radiofarda/157253",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/l8IcpKxu-2IUqV0wDKEEDlC--WzYMoD4kcrkQ1KeoZFt-U-mph2LXyHvZG15uwiwnpCn-p7cKnPY_A-YjRZMFXNIRaW2fBISh-6g3e8Nx84TVUVH9y57LikgTYCvw9yt-2OvniFBI89Bu_ljM6TUoyEJawq47noYzHPu6VD-67HRVianj93wOENnXYz6PBw_F81lrInjmPlNvMMAq7o0qVyyZcfQTIw1RK7STTI-DRwLSNEAD7lV-T33_sAWZRe5vtePMJA6XgOx4po0-OkmYsclh13cb06V9EojqhMFwk565gt9nJgc15zQyrURKtSuNejFkw3f-Ogse2G4pqd1Kw.jpg",
+          "thumbnail_path": "channels/radiofarda/media/5c1ddb65ea0b2352adc29f14.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T09:44:06+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "6686e5f148b4",
+      "confirmations": []
+    },
+    {
+      "post_id": "iranintltv/IranintlTV/337440",
+      "channel_username": "iranintltv",
+      "channel_title": "Iran International ایران اینترنشنال",
+      "plain_text": "مشاهدات شما از بحران کمبود و گرانی سوخت در استان‌های مختلف ایران چیست؟ روی لینک زیر کلیک کنید و پیام‌های خود از طریق مدیا‌بات برای ما بفرستید. https://t.me/intlmedia_bot پیام‌های شما به صورت زیر‌نویس در تلویزیون و همچنین در بخش‌های مختلف‌ خبری منتشر خواهد شد",
+      "body_html": "مشاهدات شما از بحران کمبود و گرانی سوخت در استان‌های مختلف ایران چیست؟ <br><br><br>روی لینک زیر کلیک کنید و پیام‌های خود از طریق مدیا‌بات برای ما بفرستید. <br><br><a href=\"https://t.me/intlmedia_bot\" target=\"_blank\" rel=\"noopener\">https://t.me/intlmedia_bot</a><br><br>پیام‌های شما به صورت زیر‌نویس در تلویزیون و همچنین در بخش‌های مختلف‌ خبری منتشر خواهد شد",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337440",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/mTVV4klM3rG9R1wu6gZIzEk0zgoLaNcta9DXjkHxAZuG7F20srImCgyjOefOZeezv083iDw4Ed3-yYhPnjTsxqquwGmExpNJdT39whUkL7Ap9VTR9V0GJLu8hNpBD3YGmuyL5lNQ3RwTSVTwLk1V8WRXpzqhdex4BhBr3EE0704YB0lQLr-zHZluyFxMFw-IsLt3Bl2VaICCeIpv3vgXN6mvYC-KxIL_LXAvxXwSJ7Mu7hiRSj3YOhF0QARF6kdpDfoqmEqd5FbhYDjP6IW7Rp6ykM9rsW7O7geM-Gz4dBs9ydxJJm7znGjJb78mEpIPxFcRvVNinUejvBKgOeN8ow.jpg",
+          "thumbnail_path": "channels/iranintltv/media/85b47981ba8c0b2476dadcab.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T09:58:21+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "afb7aa172e41",
+      "confirmations": []
+    },
+    {
+      "post_id": "iranintltv/IranintlTV/337441",
+      "channel_username": "iranintltv",
+      "channel_title": "Iran International ایران اینترنشنال",
+      "plain_text": "یک شهروند ویدیویی به ایران اینترنشنال فرستاده که بحران در دسترسی به بنزین و تشکیل صف‌های طولانی در بندرعباس در روز شنبه ۲۶ اردیبهشت‌ماه را نشان می‌دهد.",
+      "body_html": "یک شهروند ویدیویی به ایران اینترنشنال فرستاده که بحران در دسترسی به بنزین و تشکیل صف‌های طولانی در بندرعباس در روز شنبه ۲۶ اردیبهشت‌ماه را نشان می‌دهد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337441",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/WA46d9VVbc8z7DLSR72B1Q1V8inLdk0dnpZfNJX5K1mlO8gdT_pniED_pJt0aRo5UCEPNHcwPT9CSjEOW71N-N0UpjnNOxO_Udqh8f0hqOf5femHNJ23ZtjWRASx3oLEIkcDz-CS54aUGv568v6SIzj8jlC0TIa_wmWRqoz9hFwjnujZrLcGUnMFQek62fLkNUoylYPzBTSCxUpWCrRl_DNdC5HI8W1FJOpN0GZvkw44iLzz9hP2PYMpRexJ7GZ4bCNPEbB5LUZPtQrSqME36rVbLjwdfKs4ojxEgea8e7U_uOjXAIwVciBopz48Nm-_IoPlcAfcG0AvHkdhOa4DVg",
+          "thumbnail_path": "channels/iranintltv/media/9aba677da1c2b2970495e613.jpg",
+          "duration_label": "0:47",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "posted_at": "2026-05-16T09:59:41+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "6b0c579323b6",
+      "confirmations": []
+    },
+    {
+      "post_id": "hranews/hranews/112967",
+      "channel_username": "hranews",
+      "channel_title": "خبرگزاری هرانا",
+      "plain_text": "دادگاه تجدیدنظر؛ امیر رحیمی، معلم به حبس محکوم شد ❗️❗️❗️❗️❗️– امیر رحیمی، معلم محبوس در زندان شهرستان درود و از بازداشت شدگان اعتراضات دی ماه ۱۴۰۴، توسط دادگاه تجدیدنظر استان لرستان به چهار سال حبس محکوم شد. #امیر_رحیمی ادامه مطلب ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "body_html": "دادگاه تجدیدنظر؛ امیر رحیمی، معلم به حبس محکوم شد<br><br><tg-emoji emoji-id=\"4936376861581116178\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936234406105842841\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4936202185261187827\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933936920725029797\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji><tg-emoji emoji-id=\"4933769043338331221\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D97.png')\"><b>❗️</b></i></tg-emoji>– امیر رحیمی، معلم محبوس در زندان شهرستان درود و از بازداشت شدگان اعتراضات دی ماه ۱۴۰۴، توسط دادگاه تجدیدنظر استان لرستان به چهار سال حبس محکوم شد.<br><br><a href=\"?q=%23%D8%A7%D9%85%DB%8C%D8%B1_%D8%B1%D8%AD%DB%8C%D9%85%DB%8C\">#امیر_رحیمی</a><br><br><a href=\"https://t.me/iv?url=https://www.hra-news.org/2026/hranews/a-579fed9c/&amp;amp;rhash=22a41dd9689763\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مطلب </a><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "media": [],
+      "posted_at": "2026-05-16T10:06:46+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "fd0b3af70fa6",
+      "confirmations": []
+    },
+    {
+      "post_id": "radiofarda/radiofarda/157254",
+      "channel_username": "radiofarda",
+      "channel_title": "RadioFarda",
+      "plain_text": "🔸در یک برنامه زنده تلویزیونی که از شبکه افق صداوسیما پخش شده است، مجری برنامه با اسلحه واقعی به پرچم امارات متحده عربی شلیک می‌کند. 🔸در این برنامه که موضوع آن درباره آموزش شلیک با اسلحه کلاشنیکف است، فردی که لباس نظامی به تن دارد و صورت خود را با ماسک پوشانده است مراحل آماده‌سازی اسلحه و شلیک گلوله را به مجری آموزش می‌دهد. 🔸مجری برنامه هم در مرحله شلیک تصمیم می‌گیرد به پرچم امارات که در بنر مربوط به دکور استودیو، شلیک کند. 🔸این اقدام هم‌زمان با اوج‌گیری تنش‌های لفظی میان ایران و امارات در روزهای اخیر انجام شده است. 🔸امارات متحده عربی روز جمعه ۲۵ اردیبهشت «تلاش‌ها برای توجیه حملات تروریستی ایران» را رد کرد و گفت که حق پاسخگویی به هرگونه تهدید، ادعا یا اقدام خصمانه ایران را برای خود محفوظ می‌دارد. 🔸این بیانیه در پی نشست روز ۲۴ اردیبهشت بریکس در دهلی نو منتشر شد که در آن‌جا عباس عراقچی، وزیر خارجه ایران، با اشاره به حملات آمریکا و اسرائیل، گفت: «امارات شریک فعال این تجاوز است.» 🔸ایران در جریان حملات آمریکا و اسرائیل بارها امارات متحده عربی را هدف قرار داد. @RadioFarda",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>در یک برنامه زنده تلویزیونی که از شبکه افق صداوسیما پخش شده است، مجری برنامه با اسلحه واقعی به پرچم امارات متحده عربی شلیک می‌کند. <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>در این برنامه که موضوع آن درباره آموزش شلیک با اسلحه کلاشنیکف است، فردی که لباس نظامی به تن دارد و صورت خود را با ماسک پوشانده است مراحل آماده‌سازی اسلحه و شلیک گلوله را به مجری آموزش می‌دهد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>مجری برنامه هم در مرحله شلیک تصمیم می‌گیرد به پرچم امارات که در بنر مربوط به دکور استودیو، شلیک کند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>این اقدام هم‌زمان با اوج‌گیری تنش‌های لفظی میان ایران و امارات در روزهای اخیر انجام شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>امارات متحده عربی روز جمعه ۲۵ اردیبهشت «تلاش‌ها برای توجیه حملات تروریستی ایران» را رد کرد و گفت که حق پاسخگویی به هرگونه تهدید، ادعا یا اقدام خصمانه ایران را برای خود محفوظ می‌دارد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>این بیانیه در پی نشست روز ۲۴ اردیبهشت بریکس در دهلی نو منتشر شد که در آن‌جا عباس عراقچی، وزیر خارجه ایران، با اشاره به حملات آمریکا و اسرائیل، گفت: «امارات شریک فعال این تجاوز است.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>ایران در جریان حملات آمریکا و اسرائیل بارها امارات متحده عربی را هدف قرار داد.<br><br><a href=\"https://t.me/RadioFarda\" target=\"_blank\">@RadioFarda</a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/radiofarda/157254",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/PqC4OCMYH4nyPBcAw4LDiJmlZNEGqe2_ywsfSsKER7hd-24o993uZbnW9euN84WO4Qv7JCI9df_WJRxDOIsFdAgP0okaHNjQRcGV-yJsP5VzbItzUDy1X0oKPsB9Hk7WRwKNvb0k95K4dreG5LlqNonLjPYBGuumobeF2xxJdVO2Wap6m8ow2tOfOZPH4yH-IubXErQfL9xBC0ouwWoqNVliT7PZ4B-jiYf7uI8W1Ja5gC86mxZlyJgphXyzmQaUQmIqj5LDIYxtO24giLCrKXFqW98XYGI3FOANn6THYctLTcwGdmQ1eY6qizzPUm7pLRK13AsIz1AIJCR1DQiVwA",
+          "thumbnail_path": "channels/radiofarda/media/6280150768ccd5eaae5d469c.jpg",
+          "duration_label": "0:57",
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T10:07:52+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "fcb62c2685bd",
+      "confirmations": []
+    },
+    {
+      "post_id": "iranintltv/IranintlTV/337442",
+      "channel_username": "iranintltv",
+      "channel_title": "Iran International ایران اینترنشنال",
+      "plain_text": "فرماندهی کل نیروی دفاعی بحرین اعلام کرد که تمامی سلاح‌ها و یگان‌های این نیرو در بالاترین سطح آمادگی و آماده‌باش دفاعی برای مواجه با حمله احتمالی جمهوری اسلامی قرار دارند. بحرین همچنین از شهروندانش خواست با توجه به پیامدهای این حمله، از نزدیک شدن یا دست زدن به هرگونه شیء ناشناس یا مشکوک که ممکن است از بقایای این حمله باشد، خودداری کنند. در بیانیه این فرماندهی آمده است که نیروهای آن از آمادگی رزمی پیشرفته و هوشیاری بالا در انجام وظیفه ملی خود برای دفاع از کشور و حفاظت از دستاوردهای آن برخوردارند. https://iranintl.com/202605161969",
+      "body_html": "فرماندهی کل نیروی دفاعی بحرین اعلام کرد که تمامی سلاح‌ها و یگان‌های این نیرو در بالاترین سطح آمادگی و آماده‌باش دفاعی برای مواجه با حمله احتمالی جمهوری اسلامی قرار دارند.  بحرین همچنین از شهروندانش خواست با توجه به پیامدهای این حمله، از نزدیک شدن یا دست زدن به هرگونه شیء ناشناس یا مشکوک که ممکن است از بقایای این حمله باشد، خودداری کنند.<br><br>در بیانیه این فرماندهی آمده است که نیروهای آن از آمادگی رزمی پیشرفته و هوشیاری بالا در انجام وظیفه ملی خود برای دفاع از کشور و حفاظت از دستاوردهای آن برخوردارند.<br><a href=\"https://iranintl.com/202605161969\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605161969</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337442",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/j12TLU9VMG6svhHuXJTMV-4eqqJLhX_pgXBcRVlGzhk0HHBwXN0RyNn_UECiwe1bJxJrRVGK4eBGm88SLn0xyx6tI9Ukzql0nhDP16aFIPcI9NIAavv3X21VVH-Ir-rO7KGa61-0Ng3f6lEvbPbeTlos806aMejqgEdsx6m1LBm4pOm0VjWlhLNS9WwfhI2G3f1lTlZ6b3kNZszvnTIULgDXq4p9R2w1ub0VC5wCdQNRFs85_RBtFafLg6kCHG7-vHo-53zws4zKY1nifq74HqY6lUrREzX30dpjGh-aoaG3h4XREM5-1BO_KFwlYIRARHMK_k6orPiAgXfQ_uQalg.jpg",
+          "thumbnail_path": "channels/iranintltv/media/7b9bd282a2135123c1846924.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T10:08:58+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "65cb275a6efd",
+      "confirmations": []
+    },
+    {
+      "post_id": "bbcpersian/bbcpersian/281206",
+      "channel_username": "bbcpersian",
+      "channel_title": "BBCPersian",
+      "plain_text": "🔻بنابر گزارش‌ها وزارت دادگستری آمریکا در نظر دارد در روزهای آینده علیه رائول کاسترو، رهبر سابق کوبا، اعلام جرم کند. این پرونده به سرنگونی دو هواپیما با پدافند هوایی کوبا در سال ۱۹۹۶ مربوط می‌شود که در جریان آن چهار نفر کشته شدند. این هواپیماها متعلق به گروه…",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>بنابر گزارش‌ها وزارت دادگستری آمریکا در نظر دارد در روزهای آینده علیه رائول کاسترو، رهبر سابق کوبا، اعلام جرم کند.  این پرونده به سرنگونی دو هواپیما با پدافند هوایی کوبا در سال ۱۹۹۶ مربوط می‌شود که در جریان آن چهار نفر کشته شدند.  این هواپیماها متعلق به گروه…",
+      "media": [],
+      "posted_at": "2026-05-16T10:10:55+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "18fdfd8721df",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsivoa/farsivoa/217881",
+      "channel_username": "farsivoa",
+      "channel_title": "Farsi VOA",
+      "plain_text": "تصاویر منتشر شده از سواحل جنوبی ایران، از یک فاجعه زیست‌محیطی گسترده حکایت دارد؛ لجن‌های نفتی و مواد سمی بخش وسیعی از اکوسیستم دریایی این منطقه را آلوده کرده است. در حالی که کارشناسان به فرسودگی شدید زیرساخت‌ها اشاره می‌کنند، برخی گزارش‌ها نیز حاکی از احتمال تخلیه عمدی پسماندهای نفتی در آب‌های ساحلی است که ابعاد این فاجعه را پیچیده‌تر می‌کند. در همین زمینه مایک والتز، نماینده آمریکا در سازمان ملل متحد، روز جمعه با بازنشر این ویدیو در شبکه ایکس نوشت جمهوری اسلامی «ایران اکنون علاوه بر اهداف غیرنظامی، کمک‌های بشردوستانه و کشتیرانی غیرنظامی، به محیط زیست نیز حمله می‌کند.» نشت مواد سمی باعث مرگ دسته‌جمعی هزاران خرچنگ و گونه‌های جانوری دیگر در نوار ساحلی شده است. آتش‌سوزی در بخش‌هایی از لکه‌های نفتی، توده‌های عظیم دود سیاه ایجاد کرده که سلامت ساکنان منطقه را تهدید می‌کند. @FarsiVOA",
+      "body_html": "تصاویر منتشر شده از سواحل جنوبی ایران، از یک فاجعه زیست‌محیطی گسترده حکایت دارد؛ لجن‌های نفتی و مواد سمی بخش وسیعی از اکوسیستم دریایی این منطقه را آلوده کرده است.<br><br>در حالی که کارشناسان به فرسودگی شدید زیرساخت‌ها اشاره می‌کنند، برخی گزارش‌ها نیز حاکی از احتمال تخلیه عمدی پسماندهای نفتی در آب‌های ساحلی است که ابعاد این فاجعه را پیچیده‌تر می‌کند.<br><br>در همین زمینه مایک والتز، نماینده آمریکا در سازمان ملل متحد، روز جمعه با بازنشر این ویدیو در شبکه ایکس نوشت جمهوری اسلامی «ایران اکنون علاوه بر اهداف غیرنظامی، کمک‌های بشردوستانه و کشتیرانی غیرنظامی، به محیط زیست نیز حمله می‌کند.»<br><br>نشت مواد سمی باعث مرگ دسته‌جمعی هزاران خرچنگ و گونه‌های جانوری دیگر در نوار ساحلی شده است.<br><br>آتش‌سوزی در بخش‌هایی از لکه‌های نفتی، توده‌های عظیم دود سیاه ایجاد کرده که سلامت ساکنان منطقه را تهدید می‌کند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/217881",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/iCql1nTIEHjTkfOAr1sNszk8-hcdXNbdsJyRgdaqT25jq5fGzs8u_JGyCN3xN0DgyBKtRSitKoa2Ucrsw_rmyrxjQR6CZFsbgHvu60ZZDygcNYRBvkhrHlW9DkQS1TqgQZh7DsOX95jMS9n3DoFt1bla7Cqt-nrGnshk95LAy-fsb1akxT_ks3uBXAhm_SJMNzOrFB9vj9wii6BwjNPXJb1NGJRbOfAIg_Qh1apk3iCIY44CcWsHNfRsfHgPnJV9222S6W3g-PV6_z-LEPrWYlKsLp5JQ_yoCOw1KLllaUg4nutZrzjE8cltgA9Uot0Q7pWlNjG2g5NBmPH6No0jeA",
+          "thumbnail_path": "channels/farsivoa/media/d58d61a428c1873b3a5eee64.jpg",
+          "duration_label": "0:24",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "posted_at": "2026-05-16T10:11:28+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "57b7240f93f8",
+      "confirmations": []
+    },
+    {
+      "post_id": "bbcpersian/bbcpersian/281207",
+      "channel_username": "bbcpersian",
+      "channel_title": "BBCPersian",
+      "plain_text": "🔻مهدی چمران، رئیس شورای شهر تهران، درباره تمدید رایگان شدن اتوبوس و مترو در پایتخت گفت کار احساسی نمی‌توان انجام داد و قرار نیست تمدید شود. او در گفت‌وگو با باشگاه خبرنگاران جوان گفت اجرای چنین تصمیمی نیازمند ارائه طرح یا لایحه است، اما تاکنون هیچ‌یک از این دو به شورای شهر ارائه نشده است. اتوبوس‌های درون‌شهری در تهران اولین‌بار نهم اسفند ۱۴۰۴ و به دنبال شروع جنگ و مترو از ۲۴ اسفند رایگان شد. پس از آن شورای شهر بصورت هفتگی این طرح را تمدید کرد. پرویز سروری، نایب رئیس شورای شهر تهران پنجم اردیبهشت در تلویزیون ایران اعلام کرد: براساس برنامه‌ریزی صورت گرفته قرار است اتوبوس و مترو با تصویب شورای اسلامی شهر تهران برای همیشه رایگان شود. او گفت در حال برنامه‌ریزی با نمایندگان و مدیریت شهرداری هستیم تا امکان دائمی‌شدن خدمات رایگان مترو و اتوبوس در تهران انجام شود. https://bbc.in/4dNI8o4 @BBCPersian",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>مهدی چمران، رئیس شورای شهر تهران، درباره تمدید رایگان شدن اتوبوس و مترو در پایتخت گفت کار احساسی نمی‌توان انجام داد و قرار نیست تمدید شود.<br> <br> او در گفت‌وگو با باشگاه خبرنگاران جوان گفت اجرای چنین تصمیمی نیازمند ارائه طرح یا لایحه است، اما تاکنون هیچ‌یک از این دو به شورای شهر ارائه نشده است.<br><br><br>اتوبوس‌های درون‌شهری در تهران اولین‌بار نهم اسفند ۱۴۰۴ و به دنبال شروع جنگ و مترو از ۲۴ اسفند رایگان شد. پس از آن شورای شهر بصورت هفتگی این طرح را تمدید کرد.<br> <br>پرویز سروری، نایب رئیس شورای شهر تهران پنجم اردیبهشت در تلویزیون ایران اعلام کرد: براساس برنامه‌ریزی صورت گرفته قرار است اتوبوس و مترو با تصویب شورای اسلامی شهر تهران برای همیشه رایگان شود.<br> او گفت در حال برنامه‌ریزی با نمایندگان و مدیریت شهرداری هستیم تا امکان دائمی‌شدن خدمات رایگان مترو و اتوبوس در تهران انجام شود.<br><br><a href=\"https://bbc.in/4dNI8o4\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4dNI8o4</a><br><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/bbcpersian/281207",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/lJHqSAq3rKKA-8EsHZLQRqp7ggj9mOoXlpnLHNaXJ-Hn_3Xs3gvFmJv509Aauh2bmXa4JKRrqq45ujcAee7o3w33Ajzghy64FVFi4nJIELXN7JFsawOgBryubiYAb_fX9yXdqOIx7QBucwBNfZh3KZG468NwuSqRYo6SyKgvadiUrHoVBhG_lZFmey9RonKMdDegHj9uwDw-ypz8gCwPiRNfxpfa6xA-DSD-FCUxhwPMdUQJZ6nk-U9WFft40yOhebLB0GCDMfhoM_u8F8C2JFdynADVgUoG6HStDu8OshbBQwKTVj8Y_7ijGvu60K1fENN5JtXmNehXFTetPJDCkg",
+          "thumbnail_path": "channels/bbcpersian/media/a2dcf27e624a3bf60ece05ec.jpg",
+          "duration_label": "0:50",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "posted_at": "2026-05-16T10:18:52+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "cc12f5c84781",
+      "confirmations": []
+    },
+    {
+      "post_id": "iranintltv/IranintlTV/337443",
+      "channel_username": "iranintltv",
+      "channel_title": "Iran International ایران اینترنشنال",
+      "plain_text": "محمد مخبر، مشاور رهبر جمهوری اسلامی، با انتشار مطلبی در ایکس با هشتگ کویت و امارات نوشت: «ایران سال‌ها به چشم دوست و برادر به آنها نگاه کرد، ولی آنها با پیش‌فروش استقلال خود، حتی خاک و خانه‌هایشان را در اختیار دشمنان فلسطین و ایران قرار دادند.» او تهدید کرد: «پاسخ جمهوری اسلامی به سنگرهای استیجاری سنتکام در جنگ اخیر تمام‌عیار نبود، اما قطعا این خویشتن‌داری همیشگی نیست.» https://iranintl.com/202605169610",
+      "body_html": "محمد مخبر، مشاور رهبر جمهوری اسلامی، با انتشار مطلبی در ایکس با هشتگ کویت و امارات نوشت: «ایران سال‌ها به چشم دوست و برادر به آنها نگاه کرد، ولی آنها با پیش‌فروش استقلال خود، حتی خاک و خانه‌هایشان را در اختیار دشمنان فلسطین و ایران قرار دادند.»<br><br>او تهدید کرد: «پاسخ جمهوری اسلامی به سنگرهای استیجاری سنتکام در جنگ اخیر تمام‌عیار نبود، اما قطعا این خویشتن‌داری همیشگی نیست.»<br><a href=\"https://iranintl.com/202605169610\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605169610</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337443",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/l8Gs5mHMQjAV4dhRBiOuFaH-MLy8QBW3L_lLf4iWLZL9R2ne1QH2Kl8Uie41uQx4gbCYfU_2uApHBn1FrDVBNgqZkxM0Yh_CkWMciapZuBd1DrAWZFsc56_SLd14DH7S17IbZiyOZlgvA2EblkDk9iIGruCxKdevq1LB_AXpeDXMGi5e6crgq7snUg_crDvkiN-ath33m14ya2W2NKLM0AD9BQukH1ecIRlmAaRvKTYwidhzUwBeeg5lF45m2rnDdwuuevKdKJQ8VI44axlrnVEvSCrQCLKbLz3nBkNsjzvcd5czPHWN7QfBQw8R6ER5xVkvy9bKodYc5e_JCAenCQ.jpg",
+          "thumbnail_path": "channels/iranintltv/media/423b17664cb6500f59141452.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T10:24:41+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "a954b333858e",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsivoa/farsivoa/217882",
+      "channel_username": "farsivoa",
+      "channel_title": "Farsi VOA",
+      "plain_text": "🔺بلومبرگ: ادامه جنگ نگرانی از بازگشت تورم جهانی را تشدید کرد ◾️پیامدهای جنگ در خاورمیانه همچنان در اقتصاد جهانی گسترش می‌یابد و چشم‌انداز رشد، تورم و بازارهای مالی را پیچیده‌تر کرده است. ◾️بر اساس این گزارش، جنگ دیگر فقط یک بحران منطقه‌ای نیست؛ اثر آن از مسیر نفت، هزینه حمل‌ونقل، قیمت کالاها و انتظارات تورمی به اقتصادهای بزرگ و کوچک منتقل شده است. ◾️صندوق بین‌المللی پول اخیراً اعلام کرد که جنگ در خاورمیانه اقتصاد جهانی را با شوک تازه‌ای روبه‌رو کرده و حتی با فرض محدود ماندن درگیری، رشد جهانی در سال ۲۰۲۶ به ۳.۱ درصد کاهش می‌یابد. ◾️سازمان همکاری و توسعه اقتصادی نیز پیش‌بینی کرده رشد جهانی در سال ۲۰۲۶ به ۲.۹ درصد برسد و تورم اقتصادهای گروه ۲۰ به ۴ درصد افزایش یابد. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150656.html",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>بلومبرگ: ادامه جنگ نگرانی از بازگشت تورم جهانی را تشدید کرد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>پیامدهای جنگ در خاورمیانه همچنان در اقتصاد جهانی گسترش می‌یابد و چشم‌انداز رشد، تورم و بازارهای مالی را پیچیده‌تر کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>بر اساس این گزارش، جنگ دیگر فقط یک بحران منطقه‌ای نیست؛ اثر آن از مسیر نفت، هزینه حمل‌ونقل، قیمت کالاها و انتظارات تورمی به اقتصادهای بزرگ و کوچک منتقل شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>صندوق بین‌المللی پول اخیراً اعلام کرد که جنگ در خاورمیانه اقتصاد جهانی را با شوک تازه‌ای روبه‌رو کرده و حتی با فرض محدود ماندن درگیری، رشد جهانی در سال ۲۰۲۶ به ۳.۱ درصد کاهش می‌یابد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>سازمان همکاری و توسعه اقتصادی نیز پیش‌بینی کرده رشد جهانی در سال ۲۰۲۶ به ۲.۹ درصد برسد و تورم اقتصادهای گروه ۲۰ به ۴ درصد افزایش یابد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8150656.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8150656.html</a>",
+      "media": [],
+      "posted_at": "2026-05-16T10:26:00+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "f9d3dcd3a65e",
+      "confirmations": []
+    },
+    {
+      "post_id": "iranintltv/IranintlTV/337444",
+      "channel_username": "iranintltv",
+      "channel_title": "Iran International ایران اینترنشنال",
+      "plain_text": "بنا بر گزارش کانال۱۲ اسرائیل، رییس‌جمهور آمریکا قرار است ظرف ۲۴ ساعت آینده نشستی ویژه با مشاورانش برگزار کند تا تصمیم نهایی درباره جمهوری اسلامی را اتخاذ کند. گفت‌وگو با منشه امیر، کارشناس امور خاورمیانه @iranintltv",
+      "body_html": "بنا بر گزارش کانال۱۲ اسرائیل، رییس‌جمهور آمریکا قرار است ظرف ۲۴ ساعت آینده نشستی ویژه با مشاورانش برگزار کند تا تصمیم نهایی درباره جمهوری اسلامی را اتخاذ کند.<br><br>گفت‌وگو با منشه امیر، کارشناس امور خاورمیانه<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337444",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qISAAbeyHk1uU__pK2mSPhSXIooQ567638YSBrT1Y7Aevcggox6jGuVCkwrpJzeXOXly4r0ogh90gaYDBI_u-F95wpJeZPbjYjRCQs-_rdZ9vD81EX_75E8CwbBN5A-ZPC6JFxLNrRIOtAxy7kKnUB5euRl7v6A2cRIcTHsT19wY14tDO2V6yzMjJkFTkXlwdM3IX6vZdUeWpDv-dFmxdSBzpWwXBAuVBRYYHKECTbCVH7cBuJYbn_vHDLNbm5Z_oI6K0cVUoGpcasoYiwqYXeRkmDNDy3OCG66oFRg7YwkpKz2eozi5J-yyS7OdIib8q6pTKV-F1pF9KzqITcNdeA",
+          "thumbnail_path": "channels/iranintltv/media/1ce027fe5a352e0e9d5bceff.jpg",
+          "duration_label": "4:55",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "posted_at": "2026-05-16T10:27:30+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "fe3371e322ab",
+      "confirmations": []
+    },
+    {
+      "post_id": "bbcpersian/bbcpersian/281208",
+      "channel_username": "bbcpersian",
+      "channel_title": "BBCPersian",
+      "plain_text": "🔻عضو هیئت رئيسه مجلس: تشکیل ستاد ویژه فضای مجازی خلاف قانون است علیرضا سلیمی، عضو هیئت رئيسه مجلس ایران، تشکیل ستاد ویژه فضای مجازی از سوی مسعود پزشکیان را «خلاف قانون برنامه هفتم» و «مغایر با سیاست‌های کلی نظام» خواند. آقای سلیمی گفت: «با توجه به اینکه شورای عالی فضای مجازی و مرکز ملی فضای مجازی نیز هر دو وجود دارند و وظایف آنها کاملاً روشن است، چگونه ممکن است رئیس‌جمهور که خود رئیس شورای عالی فضای مجازی است، اختیارات مربوط به شورا را به ستادی خارج از شورا واگذار کند؟» تشکیل ویژه فضای مجازی پیش از این هم با انتقادهایی همراه بوده است. مصطفی پوردهقان، دبیر دوم کمیسیون صنایع و معادن مجلس، تشکیل این ستاد را اقدامی «تزئینی» خوانده و گفته بود که «این تصمیم‌ها بیشتر جنبه روانی دارد و قرار نیست تغییر مشخصی ایجاد شود.» آقای پزشکیان چند روز پیش از تشکیل ستادی ویژه برای ساماندهی فضای مجازی خبر داد و محمدرضا عارف، معاون اول خود، را به سمت رئیس این ستاد انتخاب کرد. در حکم آقای پزشکیان بر «حکمرانی یکپارچه» در فضای مجازی و پایان دادن به «چندصدایی» و جلوگیری از «موازی‌کاری» میان نهادهای مسئول تأکید شده است. این ستاد در حالی تشکیل شده است که اینترنت در بیش از ۷۰ روز گذشته یعنی از زمان شروع جنگ آمریکا و اسرائیل با ایران عملا قطع است. https://bbc.in/4tEavKe @BBCPersian",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>عضو هیئت رئيسه مجلس: تشکیل ستاد ویژه فضای مجازی خلاف قانون است</b><br><br>علیرضا سلیمی، عضو هیئت رئيسه مجلس ایران، تشکیل ستاد ویژه فضای مجازی از سوی مسعود پزشکیان را «خلاف قانون برنامه هفتم» و «مغایر با سیاست‌های کلی نظام» خواند.<br><br>آقای سلیمی گفت: «با توجه به اینکه شورای عالی فضای مجازی و مرکز ملی فضای مجازی نیز هر دو وجود دارند و وظایف آنها کاملاً روشن است، چگونه ممکن است رئیس‌جمهور که خود رئیس شورای عالی فضای مجازی است، اختیارات مربوط به شورا را به ستادی خارج از شورا واگذار کند؟»<br><br>تشکیل ویژه فضای مجازی پیش از این هم با انتقادهایی همراه بوده است. مصطفی پوردهقان، دبیر دوم کمیسیون صنایع و معادن مجلس، تشکیل این ستاد را اقدامی «تزئینی» خوانده و گفته بود که «این تصمیم‌ها بیشتر جنبه روانی دارد و قرار نیست تغییر مشخصی ایجاد شود.»<br><br>آقای پزشکیان چند روز پیش از تشکیل ستادی ویژه برای ساماندهی فضای مجازی خبر داد و محمدرضا عارف، معاون اول خود، را به سمت رئیس این ستاد انتخاب کرد.<br><br>در حکم آقای پزشکیان بر «حکمرانی یکپارچه» در فضای مجازی و پایان دادن به «چندصدایی» و جلوگیری از «موازی‌کاری» میان نهادهای مسئول تأکید شده است.<br><br>این ستاد در حالی تشکیل شده است که اینترنت در بیش از ۷۰ روز گذشته یعنی از زمان شروع جنگ آمریکا و اسرائیل با ایران عملا قطع است.<br><br><a href=\"https://bbc.in/4tEavKe\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4tEavKe</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "media": [],
+      "posted_at": "2026-05-16T10:28:52+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "c00cf6d705dd",
+      "confirmations": []
+    },
+    {
+      "post_id": "iranintltv/IranintlTV/337445",
+      "channel_username": "iranintltv",
+      "channel_title": "Iran International ایران اینترنشنال",
+      "plain_text": "مخاطبان ایران اینترنشنال طی روزهای اخیر با ارسال پیام‌هایی درباره سلامت و جان فاطمه سپهری، زندانی سیاسی، ابراز نگرانی کرده و از ایرانیان خواستند در خارج از کشور صدای او باشند. پیام مخاطبان با هوش مصنوعی بازخوانی شده است.",
+      "body_html": "مخاطبان ایران اینترنشنال طی روزهای اخیر با ارسال پیام‌هایی درباره سلامت و جان فاطمه سپهری، زندانی سیاسی، ابراز نگرانی کرده و از ایرانیان خواستند در خارج از کشور صدای او باشند. پیام مخاطبان با هوش مصنوعی بازخوانی شده است.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337445",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/duBM94TktgvVUEqJd203BPpnhvd0k_vtADGy-uftiACoSdw-bD-ZxJLiVHS79AxiDewlMXi_CeQuXoOkUxMxtvOO8Dmi3IJYPS70H8V5WRBmqny1vtXgUxRlbz0Ij7gW4HsZmSd_DvunPzaTqGbEZtCYtonZR_MQqWcE7GNaYysWOmowELiomSzPwlC3rvsZNTvB5_oYRwS_fElUW1UbTE4cFVfQXOQPRLsgRtsLoZpHhDndClLBcZEQyOjrArV4WaodCEO3RK0I9ZMgS4U6WjjycQeHSJkZxEyF29t2isn4dQNSap7wLBVybHQ8-oWyJlbVTCXUClhVmAOiusbHEQ",
+          "thumbnail_path": "channels/iranintltv/media/59603b8d1bf86cb6f51a796e.jpg",
+          "duration_label": "1:06",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "posted_at": "2026-05-16T10:29:41+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "39ea02f9ef81",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsivoa/farsivoa/217883",
+      "channel_username": "farsivoa",
+      "channel_title": "Farsi VOA",
+      "plain_text": "عراق در ماه آوریل تنها ۱۰ میلیون بشکه نفت از مسیر تنگه هرمز صادر کرده است؛ رقمی که به گفته باسم محمد، وزیر نفت جدید عراق، پیش از جنگ ایران به طور معمول حدود ۹۳ میلیون بشکه در ماه بود. وزیر نفت عراق همچنین گفت صادرات نفت خام این کشور از خط لوله کرکوک-جیهان در ماه مارس، پس از توافق بغداد و اقلیم کردستان برای ازسرگیری جریان نفت، دوباره آغاز شده است. به گفته او، عراق اکنون روزانه ۲۰۰ هزار بشکه از بندر جیهان صادر می‌کند و برنامه دارد این رقم را به ۵۰۰ هزار بشکه در روز افزایش دهد. بغداد همچنین قصد دارد با اوپک برای افزایش ظرفیت تولید و صادرات خود رایزنی کند. تنگه هرمز در هفته‌های اخیر، هم‌زمان با جنگ آمریکا و جمهوری اسلامی و افزایش تنش‌های نظامی در خلیج فارس، به یکی از نقاط اصلی بحران انرژی تبدیل شده است. این مسیر، گذرگاه حیاتی صادرات نفت و گاز کشورهای حاشیه خلیج فارس از جمله عراق، قطر، عربستان سعودی، امارات و کویت است. @FarsiVOA",
+      "body_html": "عراق در ماه آوریل تنها ۱۰ میلیون بشکه نفت از مسیر تنگه هرمز صادر کرده است؛ رقمی که به گفته باسم محمد، وزیر نفت جدید عراق، پیش از جنگ ایران به طور معمول حدود ۹۳ میلیون بشکه در ماه بود.<br><br>وزیر نفت عراق همچنین گفت صادرات نفت خام این کشور از خط لوله کرکوک-جیهان در ماه مارس، پس از توافق بغداد و اقلیم کردستان برای ازسرگیری جریان نفت، دوباره آغاز شده است.<br><br>به گفته او، عراق اکنون روزانه ۲۰۰ هزار بشکه از بندر جیهان صادر می‌کند و برنامه دارد این رقم را به ۵۰۰ هزار بشکه در روز افزایش دهد. بغداد همچنین قصد دارد با اوپک برای افزایش ظرفیت تولید و صادرات خود رایزنی کند.<br><br>تنگه هرمز در هفته‌های اخیر، هم‌زمان با جنگ آمریکا و جمهوری اسلامی و افزایش تنش‌های نظامی در خلیج فارس، به یکی از نقاط اصلی بحران انرژی تبدیل شده است.<br><br>این مسیر، گذرگاه حیاتی صادرات نفت و گاز کشورهای حاشیه خلیج فارس از جمله عراق، قطر، عربستان سعودی، امارات و کویت است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/217883",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/GjflqeXDXVG7NfGR2Ebsb6VAFVU0DZlEaWrDRIZf8asLT99dpapRLnWOqUx91mHyhGyz3wLKToVLNtC0QnKPqY0jSXMTw92vhJ-yCZyhtTq99cjSC3NOnPcVVujjJwe4G5uEYoa9-WacRnrtkeR3PkMmglKzJp30PsmR6Ank_CuDXzpS73SPHAJdmlMQSIxvit4HuxZlVXQgFvhPYqAoCPl1ilntxWaES2qL5ZygTmCJF2S5FwWFH23zSCA7w8DfublITs7Zu_PiwxomVfCmqJHLOe9H8MKkeC3Xt-L9kk4NI01XZ-bSOwYDbE8011Ne4yPrDAs3BwuDmC0gdQituw.jpg",
+          "thumbnail_path": "channels/farsivoa/media/01a9e0ea86e34c324c41c979.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T10:30:36+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "671e5852836e",
+      "confirmations": []
+    },
+    {
+      "post_id": "iranintltv/IranintlTV/337446",
+      "channel_username": "iranintltv",
+      "channel_title": "Iran International ایران اینترنشنال",
+      "plain_text": "همزمان با افزایش تنش‌ها میان امارات متحده عربی و جمهوری اسلامی، یک مجری صدا و سیمای جمهوری اسلامی در برنامه‌ای با محور آموزش کار با سلاح، پرچم امارات متحده عربی را به‌عنوان هدف انتخاب کرد و به سوی آن شلیک کرد. این بخش از برنامه در حالی پخش شد که روابط تهران و ابوظبی در هفته‌های اخیر با تنش‌هایی همراه بوده است. صدا و سیمای جمهوری اسلامی جمعه چند برنامه پخش کرد که در آنها مجریان در بخش‌های استودیویی با در دست داشتن تفنگ ظاهر شدند و اعلام کردند در حال یادگیری کار با سلاح‌های سبک هستند و در صورت لزوم به جنگ خواهند پیوست. @iranintltv",
+      "body_html": "همزمان با افزایش تنش‌ها میان امارات متحده عربی و جمهوری اسلامی، یک مجری صدا و سیمای جمهوری اسلامی در برنامه‌ای با محور آموزش کار با سلاح، پرچم امارات متحده عربی را به‌عنوان هدف انتخاب کرد و به سوی آن شلیک کرد.<br><br>این بخش از برنامه در حالی پخش شد که روابط تهران و ابوظبی در هفته‌های اخیر با تنش‌هایی همراه بوده است.<br><br>صدا و سیمای جمهوری اسلامی جمعه چند برنامه پخش کرد که در آنها مجریان در بخش‌های استودیویی با در دست داشتن تفنگ ظاهر شدند و اعلام کردند در حال یادگیری کار با سلاح‌های سبک هستند و در صورت لزوم به جنگ خواهند پیوست. <br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337446",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/teKJLyrxlM1TKZDg8NMFchUuaD5jmFkthUeM1cr6VUvS8T8xU-css-2Vzk9Gv2D0twmEr7fBtp-Sjm_P8uznYEJsY6vIdDIcGy4U_mNW0XY5Nr_vwjQTkIQN8-zy53rObnzhYD8TZq9Xq-1gZVJ6gnjYI0zFOlGsqfnx_GsHh6YszMx3J4rTjFig4zduSChaDY9jRouFbmwpmLRzMNf1J19dh-jdFG3LiamMdKr7Fuwt3rO8dxefAS7_Oz6M_T_L113pLtYUJXcW-ZCBh36TTC2zQxsjtk2kw84og3gP6Nh7wYnsf-HNADN82elj39Ejw8NxxJ__sY8mCYtA_5B-Ig",
+          "thumbnail_path": "channels/iranintltv/media/eedd0b915dfa2575878f7a35.jpg",
+          "duration_label": "1:36",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "posted_at": "2026-05-16T10:33:54+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "6b10b4cd1a9c",
+      "confirmations": []
+    },
+    {
+      "post_id": "iranintltv/IranintlTV/337447",
+      "channel_username": "iranintltv",
+      "channel_title": "Iran International ایران اینترنشنال",
+      "plain_text": "روزنامه معاریو به نقل از منابع آگاه گزارش داد که دولت دونالد ترامپ در روزهای اخیر آمادگی خود را برای دادن «چراغ سبز» به اقدام نظامی در صورت شکست نهایی تلاش‌های دیپلماتیک با جمهوری اسلامی نشان داده است. بر اساس این گزارش، با وجود این رویکرد، هنوز تصمیم نهایی برای آغاز عملیات نظامی اتخاذ نشده است. این منابع افزودند که «پنجره دیپلماتیک به سرعت در حال بسته شدن است» و روزهای آینده می‌تواند در تعیین مسیر تحولات سرنوشت‌ساز باشد. https://iranintl.com/202605162346",
+      "body_html": "روزنامه معاریو به نقل از منابع آگاه گزارش داد که دولت دونالد ترامپ در روزهای اخیر آمادگی خود را برای دادن «چراغ سبز» به اقدام نظامی در صورت شکست نهایی تلاش‌های دیپلماتیک با جمهوری اسلامی نشان داده است.<br><br>بر اساس این گزارش، با وجود این رویکرد، هنوز تصمیم نهایی برای آغاز عملیات نظامی اتخاذ نشده است.<br><br>این منابع افزودند که «پنجره دیپلماتیک به سرعت در حال بسته شدن است» و روزهای آینده می‌تواند در تعیین مسیر تحولات سرنوشت‌ساز باشد.<br><a href=\"https://iranintl.com/202605162346\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605162346</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337447",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/vWTkflQl4fAoCc9Wj6kFKZF6rktZ4rcPtoTdX-a6zH0nZ5HzqouhPGKzX2L_rjgkJ4n6AO1So7xs-phphRRg3VJj8fc8NsQKnTSZ-swgCiaTWKA0eFyEgGu0sr1F_Nctr403-EH9pQVcTzyFBamabtlhBdj1FQSkxltn1pK6K9fdNTd_1la9kuiFm2Rk6xfvNQ76an2Rq1-D4lb-I78BcQaX4Y-jKu7WfbMxMwcaNx-sYBRpv1RmzzQVwX_I0CUFXyiTQYM6-E5Y3-7kMRwD5aR5FQDfV8t_qhPzU7scPVBVMf61qNocyjRc7F-pZflHZC0jjtrEMFhjvMzFTT-5PA.jpg",
+          "thumbnail_path": "channels/iranintltv/media/18e82b8d2874127ea54111e8.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T10:34:19+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "da0f6f3be134",
+      "confirmations": []
+    },
+    {
+      "post_id": "iranintltv/IranintlTV/337448",
+      "channel_username": "iranintltv",
+      "channel_title": "Iran International ایران اینترنشنال",
+      "plain_text": "ایرانیان استرالیا روز شنبه در حمایت از انقلاب ملی علیه جمهوری اسلامی تجمع کرده و با حمل پرچم شیروخورشید ترانه‌های ملی را هم‌خوانی کردند.",
+      "body_html": "ایرانیان استرالیا روز شنبه در حمایت از انقلاب ملی علیه جمهوری اسلامی تجمع کرده و با حمل پرچم شیروخورشید ترانه‌های ملی را هم‌خوانی کردند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337448",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/nX6smsxfLAAaIS-Exm5KnTr0_boOkTDJwxxrCYSSPrd4OnygbD4KmrVvflcrAffkUZIBsiKkH4_HykceHDoiXEGEgrYTZPhFiSFNiB3cE-fD-F-gj6aCsL_9YVvzY9CXeCTbhMV9kDjMAmj3HOHKH2OKrl3m1gUhHzIho8vQSNNzA0124dWm-GBtA4sbJT8B32zLj9WWGfWxMbHMMy74FJ6G7Ww-HZqONOvw964QbAi5S0KQdcRU9kZtC1vnTWoqbEpR_OOsQmOwQJ-BX_QLDmTWjiOC_gTXEhJg5Bmb6mO9hjqScBvU-BSdXNrF1aPBUVMFyJxWB-HWZaOhXxM4Aw",
+          "thumbnail_path": "channels/iranintltv/media/76cea5128ae758d806b8c854.jpg",
+          "duration_label": "0:45",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "posted_at": "2026-05-16T10:35:04+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "63ac2196a88c",
+      "confirmations": []
+    },
+    {
+      "post_id": "iranintltv/IranintlTV/337449",
+      "channel_username": "iranintltv",
+      "channel_title": "Iran International ایران اینترنشنال",
+      "plain_text": "سرخط خبرهای شنبه ۲۶ اردیبهشت @iranintltv",
+      "body_html": "سرخط خبرهای شنبه ۲۶ اردیبهشت<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337449",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/QITGxQVD9zIaYrdhcqJoenfScq5qMPbiLkTbQmGm5yI5_QtFoNaXB4K-dvec7-QQWqXK45xj4heXuMSNqIFo0-diPMm16fzcKONsi2eXycUktoClcGoPIyDlhzJiwnHpUOyDLpFLfBQS3w6NHvx1Xb-yhfqUnCeNZ6vPYzrknrNCxVSKWenyT7FwtZgsJsKPe2VhKk7ladvjC7xCpnUlNAfkC-r2wXdYW2XSaMXKqMYR5qMLYm3XNdFGmOmeYRwp-GQAOwy3MbFJXQqilrBj73X2xRWxhpe0ya3CWPaCZ66zRvikBZHLLrLOZ5Uoh1L-gpUqv5999Gh3FS--r2p7dQ",
+          "thumbnail_path": "channels/iranintltv/media/3fcceb495b63b24d6ee0cfd7.jpg",
+          "duration_label": "1:17",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "posted_at": "2026-05-16T10:35:33+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "8123c27ed5fc",
+      "confirmations": []
+    },
+    {
+      "post_id": "iranintltv/IranintlTV/337450",
+      "channel_username": "iranintltv",
+      "channel_title": "Iran International ایران اینترنشنال",
+      "plain_text": "🔻اریک کانتونا، اسطوره فوتبال فرانسه و یکی از عوامل مستند «کانتونا»، در جریان فوتوکال این فیلم که در بخش «نمایش‌های ویژه» هفتاد و نهمین جشنواره فیلم کن ارائه شد، روز شنبه ۲۶ اردیبهشت مقابل دوربین عکاسان ژست گرفت. 🔹مستند «کانتونا» که در جشنواره فیلم کن رونمایی شد، پرتره‌ای از اریک کانتونا، ستاره فرانسوی دهه ۹۰ منچستریونایتد، ارائه می‌دهد؛ فوتبالیستی جذاب اما تندخو که هم به‌واسطه نبوغ فوتبالی‌اش و هم به دلیل جنجال‌هایش به چهره‌ای اسطوره‌ای بدل شد. 🔹این فیلم به کارگردانی دیوید تری‌هورن و بن نیکلاس، سازندگان مستند «پله»، با ترکیبی از گفت‌وگوهای تازه با کانتونا و روایت‌هایی از الکس فرگوسن، دیوید بکام و گی رو، تلاش می‌کند تصویری کامل از «مرد، اسطوره، افسانه» بسازد. @iranintltvsport",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>اریک کانتونا، اسطوره فوتبال فرانسه و یکی از عوامل مستند «کانتونا»، در جریان فوتوکال این فیلم که در بخش «نمایش‌های ویژه» هفتاد و نهمین جشنواره فیلم کن ارائه شد، روز شنبه ۲۶ اردیبهشت مقابل دوربین عکاسان ژست گرفت.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>مستند «کانتونا» که در جشنواره فیلم کن رونمایی شد، پرتره‌ای از اریک کانتونا، ستاره فرانسوی دهه ۹۰ منچستریونایتد، ارائه می‌دهد؛ فوتبالیستی جذاب اما تندخو که هم به‌واسطه نبوغ فوتبالی‌اش و هم به دلیل جنجال‌هایش به چهره‌ای اسطوره‌ای بدل شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>این فیلم به کارگردانی دیوید تری‌هورن و بن نیکلاس، سازندگان مستند «پله»، با ترکیبی از گفت‌وگوهای تازه با کانتونا و روایت‌هایی از الکس فرگوسن، دیوید بکام و گی رو، تلاش می‌کند تصویری کامل از «مرد، اسطوره، افسانه» بسازد.<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\">@iranintltvsport</a></div>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337450?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/vC-loROK8oCrWwyh_NOrQfKhp14hwMsqaYgdGR1KWuUpEqKjB958b71rdRZATz10MvLkK4LM7QxIYXDzfP03BjxT2J9A8rihTJIoAoxMJlpvC-7GAjn9O_YKPZYZWyrY8WLNTpWHYN-CoXA9h2pIRr2FbPf952-COkb9H6MSbIMKKz0OCU_nRNoQ6GCzpLoePtu7YJXKQH46Zw0Z5Ojc37X3-Nor4Ple39NFJ9MmwzEVGbIbA7d3m4GI1R343lpQL7esdFkMQq4BrrI4ResvTX3yaF8FsPTaU_FQBLIQh6AmLA0TCug4T5X9sUL0YSiOdCcavj3kq10y7nuEH0HfCA.jpg",
+          "thumbnail_path": "channels/iranintltv/media/97fc4e79d6cf8eff4027e4e1.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337451?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/a9leLWSlkhQapwVEug06JrkPGuWwHso4bj4Tj7DTzfhaQHOD_EThIGuDU3REkPx9JqkE04xf01lfFfqtfUNwud922iOfiP0DuwCMySkn9gk8n87_c4y3fF6s4-yFgH3S4zK5x8ba20qFk8B7WzrYaqroS4JIlF6Grcoqsnjp8LBSIYz3_zK0wkT2Epc1EjC7t9ucmgW4yQHaFvghctVTRpFobK7HGfQtq9BJg_RdekLBIuzJtzC2K1YMep4wr3_mpY4vC0EWUXn0NTUR30l9-_8Nh_Tp5nQe2ClMtvINKfVaquzzuKBkHnR7YB-W9F8gX1OrShoCmrxSlvErZsTFhA.jpg",
+          "thumbnail_path": "channels/iranintltv/media/250e54b00ad6d3260d0c5245.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337452?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SqB3yAvo_zDM0fr595iLPqo_cGhd9x26BzWuvFYFznRvAFk2N87uFkgREJDB1WzLYgs0tOxOnGb9UNbZiHYcvZfjYKcwqM-As72Ym5JzR-Wl26R83PPVOtE8tl7_otJw8PzXMjTqSIVcxImtYajEzj1zAW8q5vMtEP1lDwitgPHueMR2PJOd-qwoHGnMFqrK4QWaqsnkZpAR-Z621Z1eyZBmSOmxXzeu8FFahF_5eooNSaHKzlESpHqIOw3A6OVF3Ld-8jfIHNK-Ek-WQ03y7MoSKlsD6JRE-W-IVx7HyRiURwdrUQzh4ki_jEDcOrwCQma4JPkEJwP2ngKrAbihUw.jpg",
+          "thumbnail_path": "channels/iranintltv/media/b1487c7eff5899800ccf8c64.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337453?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/RNqG6yZOZqyOKnma91jp1jSv3YqvpPIg1b8GUTC6_jggOWDLilEqEoDwmhIMb_jVk_oSUjmIMj10464cCLQ_1djFYIqd1pX2GAWNNeYUS3Lh0iSJNpqClsVvKhoc8Ng19oJcimj3nmF8AZWcauspegRXqjvW03QWs8VF9yCSQV5YrWDpclI2vCQ0h5tIIDh4lxjQHwNKvD4MpuZsL9ye_9EGd-cB1fCxsaxxYLe0IWAqpMuWF-0fcB9HCsKQjHFzkeOA2WVWZucBmAWo0pfjrvXjbJr19lfsraA4QvtnZ5BcOYpDMELubMOu3lyy996pnnYcrTRoRYyZoB2EdyQJMg.jpg",
+          "thumbnail_path": "channels/iranintltv/media/0de13562388dad0d8f7f1cc9.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337454?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/AG4dOB8CkGGKJsAasylM0-VCgCdt_4g3GfjT7zliF3IreRYa38uyzofX5sb5l7vcHg7neUDkJzdLuWOqvb2WIg9lXENlFNHbEnnHCYMgAv2nkioZlMOschGtuZO-gtKYqOR5hi97orLM2CCK_NO4PJv0HVuPX0qk3uGe-rA8oOMRkVr20O4LcnlRPDsZZHwogS3jG-FrKCZNbmZhxaizIUHS_b6mFwU8xJ39fyqgeb4YJ609Jr5JVc4NF84aWTK0eyTmC4CMD-DcLEQh5lFp54ngMFjSdJxYOpK30_r5rH-s_DvWM-0nCXVQHZc0KiSLj22oqoO9KFrBu3BkKb3MMg.jpg",
+          "thumbnail_path": "channels/iranintltv/media/7a64dfdf7f2668c890ac8da0.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337455?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ohZ6vaTjLnpSo0bl04HK3aFiIFxmRyPJ5ZVB9epcToaaRvz0fDqNGHgyzwkAt79H71PIEsAWA3QjNhhI3-OmjJiD8Y2wnGc2zCk8nLEWESSPXbwiIsPG4lrknq-c8OYN1f8BBGeOTSqgJxYrpOWLwel2Fb7wiclp8sAgngEUxqtHWq-YnNeaDyPYHbrcFVrHiZT0yR9XIQwJbDsXHZ7BRoF1JsyEc972koQ3fY8SxIj33iQRalC3cAgbvUjDsSYjIDl58cgynFhE9FpQa9VHDSYRe3hM2TCDvzWEHKD9DukkVxX77eNGd3eQOrshTlWIst-tzBtTghztKRhoySo3hw.jpg",
+          "thumbnail_path": "channels/iranintltv/media/a8e606aad09672aae5a5d48e.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337456?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/OjHV7j6CPAefjJw7TSPeK-C2YstZ6zqQsO2wbi7If9ZUfP6T9hle2xXiG71gv3wXXgxL38hWPyEYSpbzaqlOcReOTiL6NW9RQW6gwsLAaO7d99bSnWYK25_deMtIHuWDEH0FniifszDN_TIIQXhBx2Y_JWbwe68djepUaDUCqzxjyRvEy5aWCGGRfcIL9DmQtQSRa33lvW2scuBo9kOz4s7xnK9X94CDA0ckMg4Gu7-auWlQDEsCUMuwo0zmyLoGL1U6y7oMYx8tCZ9MroKlkrIC492ILI5pC88MWeJAVNe9rXuwXE1dGrdfbn_5BbhMGMm7Z_2hLFOyY2RJm_Ulxw.jpg",
+          "thumbnail_path": "channels/iranintltv/media/75e0211ef45395aa03905e7b.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T10:35:34+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "17f0bda0aa9c",
+      "confirmations": []
+    },
+    {
+      "post_id": "radiofarda/radiofarda/157255",
+      "channel_username": "radiofarda",
+      "channel_title": "RadioFarda",
+      "plain_text": "🔸شبکه تلویزیونی سی‌ان‌ان روز شنبه در گزارشی اختصاصی از هک شدن سیستمی در چند ایالت آمریکا خبر داد که میزان سوخت موجود در پمپ‌های بنزین را کنترل می‌کند. 🔸این شبکه به نقل از چند مقام آمریکایی که به نام‌شان اشاره نکرد نوشته است که این ظن وجود دارد که هکرهای ایرانی در نفوذ به این سیستم در آمریکا دست داشته‌اند. 🔸نفوذ سایبری در این سیستم سوخت‌رسانی در پمپ بنزین‌ها تاکنون به آسیب فیزیکی در این ایالت‌ها منجر نشده، اما به نگرانی دامن زده است، چرا که یک هکر با دسترسی به این سیستم می‌تواند به طور مثال نشت سوخت در یک پمپ بنزین را پنهان کند. 🔸از زمان آغاز جنگ در ابتدای اسفندماه ۱۴۰۴، هکرهای مرتبط با حکومت ایران از جمله در چند سایت نفت و گاز آمریکا اخلال ایجاد کرده‌اند و ایمیل‌های شخصی کَش پاتل،‌ مدیر اف‌بی‌آی، را درز داده‌اند. @RadioFarda",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>شبکه تلویزیونی سی‌ان‌ان روز شنبه در گزارشی اختصاصی از هک شدن سیستمی در چند ایالت آمریکا خبر داد که میزان سوخت موجود در پمپ‌های بنزین را کنترل می‌کند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>این شبکه به نقل از چند مقام آمریکایی که به نام‌شان اشاره نکرد نوشته است که این ظن وجود دارد که هکرهای ایرانی در نفوذ به این سیستم در آمریکا دست داشته‌اند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>نفوذ سایبری در این سیستم سوخت‌رسانی در پمپ بنزین‌ها تاکنون به آسیب فیزیکی در این ایالت‌ها منجر نشده، اما به نگرانی دامن زده است، چرا که یک هکر با دسترسی به این سیستم می‌تواند به طور مثال نشت سوخت در یک پمپ بنزین را پنهان کند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>از زمان آغاز جنگ در ابتدای اسفندماه ۱۴۰۴، هکرهای مرتبط با حکومت ایران از جمله در چند سایت نفت و گاز آمریکا اخلال ایجاد کرده‌اند و ایمیل‌های شخصی کَش پاتل،‌ مدیر اف‌بی‌آی، را درز داده‌اند.<br><br><a href=\"https://t.me/RadioFarda\" target=\"_blank\">@RadioFarda</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/radiofarda/157255",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qrmkKakNdsckTn8fnmqQiYMBzObUOp4QsxABRs4G9pCA6bAintHRhWJRTRWfBzJLK1vPcgsGl3ZntT5vpw_7ITNF8IxInaHThWaJkxIvbythsOgH5nsxX7RhNwioLlM0VwanWVMUw0nYmxO9JiXoVDt6dd0sT_RjjpISJOrVIOcteNeko54J8Ys6xpybxhGxU1JVh2Q1Pc_BBlHoif83G1s_OTem3kYq7eps5-7ZWfYHgSmZjzpIwI6mm6BspCuYXUXHgvN1h0G53Tyxz7Eawtluh52QgP7hm-xWvJ5ye1MR8un_W6dY89CdumBkw_ohDjVNNiv4NETSEwzLifeSBQ.jpg",
+          "thumbnail_path": "channels/radiofarda/media/11bf5af51ec1abc44a83b8ae.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T10:42:45+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "690489cb3d96",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsivoa/farsivoa/217884",
+      "channel_username": "farsivoa",
+      "channel_title": "Farsi VOA",
+      "plain_text": "حرکات مخصوص ایلان ماسک حین عکس گرفتن با تیم کوک در پکن؛ ایلان ماسک، مدیرعامل تسلا و اسپیس‌اکس، در سفر اخیر دونالد ترامپ، رئیس جمهوری آمریکا به پکن، به عنوان یکی از چهره‌های کلیدی هیئت همراه حضور داشت. حضور او در کنار سایر مدیران فناوری نظیر تیم کوک، مدیرعامل اپل و جنسن هوانگ، مدیرعامل انویدیا، بر اهمیت مذاکرات پیرامون هوش مصنوعی در این سفر تأکید داشت. این حضور نشان‌دهنده نزدیکی دوباره ماسک به تیم ترامپ، پس از وقفه‌ای در همکاری‌های مستقیم دولتی آن‌ها در سال گذشته است. @FarsiVOA",
+      "body_html": "حرکات مخصوص ایلان ماسک حین عکس گرفتن با تیم کوک در پکن؛<br><br>ایلان ماسک، مدیرعامل تسلا و اسپیس‌اکس، در سفر اخیر دونالد ترامپ، رئیس جمهوری آمریکا به پکن، به عنوان یکی از چهره‌های کلیدی هیئت همراه حضور داشت.<br><br>حضور او در کنار سایر مدیران فناوری نظیر تیم کوک، مدیرعامل اپل و جنسن هوانگ، مدیرعامل انویدیا، بر اهمیت مذاکرات پیرامون هوش مصنوعی در این سفر تأکید داشت.<br><br>این حضور نشان‌دهنده نزدیکی دوباره ماسک به تیم ترامپ، پس از وقفه‌ای در همکاری‌های مستقیم دولتی آن‌ها در سال گذشته است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/217884",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Go-x6VzT_2KhTjT5cPDZBhdaIFnJfdVDcgWeUZZDt2P6GsbNVcv-16PX_W8ECARNaXGkXDPzV_EjxBxA8gkmFuba3ylMraTAiSVJmx3liIZ6qzVoA-jG4TktKWqxozWpHTEMZhmkkYh10qbH0op0PQ3OAC2nna449aAJZSi2Dhzm6GIx6YUq8YxBx8MSEL-lQakHZF1Khbxs8AYmykFqLoAGImF95blR4a6kXgNk2IEcRTBi_R48QXAzTNzIbAEuO9vXaEQ6oKJv4q1zS7Wji45puOj-6n-qqIW5zW1U4z9JQZU9rzGhx1VbeB-9TlmYnJIjAhCAdPw1-aUI2DvJug",
+          "thumbnail_path": "channels/farsivoa/media/2a4751e0228767349a43e650.jpg",
+          "duration_label": "0:15",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "posted_at": "2026-05-16T10:44:32+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "a372c9f8dd42",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsi_iranwire/Farsi_Iranwire/90151",
+      "channel_username": "farsi_iranwire",
+      "channel_title": "Iranwire",
+      "plain_text": "آریا شیخی، فعال سیاسی و رسانه‌ای و مجری برنامه «آکادمی» در استودیو پات، بیش از چهار ماه است که پس از بازداشت در جریان اعتراضات دی‌ماه، در زندان شیبان اهواز نگهداری می‌شود. آقای شیخی پیش‌تر نیز در جریان جنبش «زن، زندگی، آزادی» بازداشت و مدتی را در زندان سپری کرده بود. بیشتر: https://iranwire.com/fa/news-1/152473 @Farsi_Iranwire",
+      "body_html": "آریا شیخی، فعال سیاسی و رسانه‌ای و مجری برنامه «آکادمی» در استودیو پات، بیش از چهار ماه است که پس از بازداشت در جریان اعتراضات دی‌ماه، در زندان شیبان اهواز نگهداری می‌شود.<br>آقای شیخی پیش‌تر نیز در جریان جنبش «زن، زندگی، آزادی» بازداشت و مدتی را در زندان سپری کرده بود.<br>بیشتر: <a href=\"https://iranwire.com/fa/news-1/152473\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152473</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90151",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/oj05ZgHpVGv8r3fFlrRTXrFJVO_kY78h6g5d6Yn3pyaAK-gftpS2q2aNVMCY_YoT-CEo77XGxDaY3MmfvnX9LzC-BJtQf9QqKIt3cMV16HzbhMAxipQD1m_-xgVNU9aVCG-m7kkllxHkmGEVBtHLQxJCFXzECr5uycWrDDx5Ze2fVDHpOjxXdzp81k5zLi51Tt9FjhD31eQN56yEGfVsklq3wk1mg4CJuJhAtHm83kpk_d8GXt4gDzKB--oBU_M6K6TxuMnQdKbVdFaTjZQFKYHYSdwRBkt7RroC-yvDBvtqIXmu7LpW9G-yog2cohUyJPMEwuxs3QnC5FoO7Y39nQ.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/5d9d035bd670b567855bccf3.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T10:54:46+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "a13b244c78df",
+      "confirmations": []
+    },
+    {
+      "post_id": "iranintltv/IranintlTV/337457",
+      "channel_username": "iranintltv",
+      "channel_title": "Iran International ایران اینترنشنال",
+      "plain_text": "ایرانیان نیوزیلند روز شنبه ۲۶ اردیبهشت‌ماه در حمایت از شاهزاده رضا پهلوی و علیه قطع اینترنت و اعدام‌های جمهوری اسلامی در اوکلند تجمع برگزار کردند.",
+      "body_html": "ایرانیان نیوزیلند روز شنبه ۲۶ اردیبهشت‌ماه در حمایت از شاهزاده رضا پهلوی و علیه قطع اینترنت و اعدام‌های جمهوری اسلامی در اوکلند تجمع برگزار کردند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337457",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/REayPvaFYJQ6RpDzglMoi_fdFXTh5cFnN6R287ZR6S79_jnTJEwaBUPNVwXr5AAEVuTqWlrVuruivnDhl6aWOAaxtBSgoEWklK06NzP9BqukGMzcG4IxZdrE48qr9-qN_HZbLuiUkpNmK0EshIOhf6Uk_W8YIeV3rNqwiHoN7nhVDKCKzYW_gTPmLOLez3d372QMABqcuuRrlWz_nIcw_gCo6HXDZGxoksh0TuFQRilTTrSuLWoREXaqwLhchGK0S2yqKlRUm9jR_ucarzVjZzD4oEoNh01UhCygIVwFtLyWNRvH_iV0CxwYoRWLSoBvrKdI_MAhyXKbmCfcIl9cmw",
+          "thumbnail_path": "channels/iranintltv/media/92b67c6322cf1f7122a8c4ad.jpg",
+          "duration_label": "0:28",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "posted_at": "2026-05-16T10:59:41+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "f79221f96853",
+      "confirmations": []
+    },
+    {
+      "post_id": "iranintltv/IranintlTV/337458",
+      "channel_username": "iranintltv",
+      "channel_title": "Iran International ایران اینترنشنال",
+      "plain_text": "عطا حسینیان، روزنامه‌نگار اقتصادی و حوزه انرژی، گفت ایران در حال حاضر در زمینه تولید بنزین با مشکلات جدی مواجه است. او «حملات به پارس جنوبی، محاصره دریایی، روابط مخدوش جمهوری اسلامی با امارات و کمبود منابع مالی» را از جمله عوامل موثر بر تولید و عرضه بنزین در کشور دانست. @iranintltv",
+      "body_html": "عطا حسینیان، روزنامه‌نگار اقتصادی و حوزه انرژی، گفت ایران در حال حاضر در زمینه تولید بنزین با مشکلات جدی مواجه است. او «حملات به پارس جنوبی، محاصره دریایی، روابط مخدوش جمهوری اسلامی با امارات و کمبود منابع مالی» را از جمله عوامل موثر بر تولید و عرضه بنزین در کشور دانست.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337458",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/g1WBIpUUmpiMtE6XM7fbtf0ughhJnq_mmGoJuK2_oh21HkAcUcJQ-utfFHoIU_zzKDOuyhaU1_wqjLfiRcnNUMuSxB7Rg4kn56H_ufvmyD36AlXEGS9kMM2dSKuD9Z1O-D37ZGaFQN1Eid-emR-V4Evbm1sHDy63bp2ty-GA37Fu_5abHWXVF4dzYLBeKeMIaETMfj2U3shtzJ0AicuVFk1Imyezk2C9jbyC7K5UdtnzDGctOsGbUVvlzfBHivRWCadLYcMxUmeIpB6YW01NwaK4nsJu_pK5d-h2RbxumJIaVLn2oyt7JqlnvD0mslVgqSZMh9wF4q3b1f7TpyUlGw",
+          "thumbnail_path": "channels/iranintltv/media/5f7f045a99d3a3e358a3839e.jpg",
+          "duration_label": "5:01",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "posted_at": "2026-05-16T10:59:41+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "efba36f06e7f",
+      "confirmations": []
+    },
+    {
+      "post_id": "hranews/hranews/112968",
+      "channel_username": "hranews",
+      "channel_title": "خبرگزاری هرانا",
+      "plain_text": "خبرگزاری کار ایران در گزارشی نوشت: در روزهایی که #بیکاری فشار بی‌سابقه‌ای بر زندگی کارگران وارد کرده، مراجعه به واحد شمال‌شرق اداره کار تهران بیش از هر چیز روایت انسان‌هایی است که میان امید و ناامیدی سرگردان مانده‌اند. جایی که باید پناهگاه کارگران بیکار باشد، امروز با انباشت پرونده‌ها و تأخیرهای طولانی در رسیدگی مواجه است؛ به‌طوری‌که شکایت‌های ثبت‌شده از اسفندماه سال گذشته همچنان بلاتکلیف باقی مانده‌اند. در میان این انتظارهای طولانی، صدای #کارگران بیش از هر آمار و گزارشی شنیده می‌شود. یکی از آن‌ها با چشمانی خسته می‌گوید: «از کار بیکارم کردند، با هزار امید آمدم تا دست‌کم بیمه بیکاری‌ام برقرار شود و شرمنده صاحب‌خانه نشم… یک ماهه هر بار میام میگن در دست بررسیه.» کارگر دیگری که ۱۵ سال در یک کارخانه کار کرده، با تلخی اضافه می‌کند: «همه جوانی‌م رو اونجا گذاشتم، آخرش گفتن به مشکل خوردیم، نیازی به شما نیست… حالا یک ماهه فقط دارم می‌دوم دنبال بیمه بیکاری، بی‌جواب.» در کنار این روایت‌ها، پرونده‌هایی دیده می‌شود که از اواخر فروردین ثبت شده‌اند اما هنوز در وضعیت «در دست بررسی» باقی مانده‌اند؛ در حالی که بسیاری از این کارگران با اجاره‌خانه عقب‌افتاده، بدهی و بیکاری ناگهانی دست‌وپنجه نرم می‌کنند. ↘️ @hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑",
+      "body_html": "خبرگزاری کار ایران در گزارشی نوشت: در روزهایی که <a href=\"?q=%23%D8%A8%DB%8C%DA%A9%D8%A7%D8%B1%DB%8C\">#بیکاری</a> فشار بی‌سابقه‌ای بر زندگی کارگران وارد کرده، مراجعه به واحد شمال‌شرق اداره کار تهران بیش از هر چیز روایت انسان‌هایی است که میان امید و ناامیدی سرگردان مانده‌اند. جایی که باید پناهگاه کارگران بیکار باشد، امروز با انباشت پرونده‌ها و تأخیرهای طولانی در رسیدگی مواجه است؛ به‌طوری‌که شکایت‌های ثبت‌شده از اسفندماه سال گذشته همچنان بلاتکلیف باقی مانده‌اند.<br><br>در میان این انتظارهای طولانی، صدای <a href=\"?q=%23%DA%A9%D8%A7%D8%B1%DA%AF%D8%B1%D8%A7%D9%86\">#کارگران</a> بیش از هر آمار و گزارشی شنیده می‌شود. یکی از آن‌ها با چشمانی خسته می‌گوید: «از کار بیکارم کردند، با هزار امید آمدم تا دست‌کم بیمه بیکاری‌ام برقرار شود و شرمنده صاحب‌خانه نشم… یک ماهه هر بار میام میگن در دست بررسیه.» کارگر دیگری که ۱۵ سال در یک کارخانه کار کرده، با تلخی اضافه می‌کند: «همه جوانی‌م رو اونجا گذاشتم، آخرش گفتن به مشکل خوردیم، نیازی به شما نیست… حالا یک ماهه فقط دارم می‌دوم دنبال بیمه بیکاری، بی‌جواب.»<br><br>در کنار این روایت‌ها، پرونده‌هایی دیده می‌شود که از اواخر فروردین ثبت شده‌اند اما هنوز در وضعیت «در دست بررسی» باقی مانده‌اند؛ در حالی که بسیاری از این کارگران با اجاره‌خانه عقب‌افتاده، بدهی و بیکاری ناگهانی دست‌وپنجه نرم می‌کنند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28698.png')\"><b>↘️</b></i> <br><a href=\"https://t.me/hranews_bot\" target=\"_blank\">@hranews_bot</a> تماس <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C89.png')\"><b>✉️</b></i> -  <a href=\"https://t.me/Hranews\" target=\"_blank\">@Hranews</a>  کانال هرانا <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8691.png')\"><b>🆑</b></i>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/hranews/112968",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/kXCBGvNf6YhepbMM9D8nr4eKmrFJ-L8SOI6TINuSjUyFC-DboA-rZtqnBXfq96UFfh579d0tHOYmBoKsguz_PWL992uFStuj_rjx3cnl5KEUgGZJ6eEmzhUCZzOeAGh5qlwrPYLOQGBdepCMVxlJFRsCZHWEdgCHgYhaNAXJ3OTdZr1Ebb5ls4yco-zPbIHLUD-Wk9J9Exli1ixeBY92O9py7vdUklzIDsfqcOuAvVYyftMJvJT3ehRvRQrkScOSUd7ShdTA5iEcqHl7tY1oeXrd2mbLnma2NvCqnrH1y12XYRHxLGQ2vEloNEUwIeNW4eGqJoXHHhlOud3WM5O_Fg.jpg",
+          "thumbnail_path": "channels/hranews/media/7f2a140cfe4aed74bfccedef.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1
+        }
+      ],
+      "posted_at": "2026-05-16T10:59:52+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "0d7e472bdc36",
+      "confirmations": []
+    },
+    {
+      "post_id": "bbcpersian/bbcpersian/281209",
+      "channel_username": "bbcpersian",
+      "channel_title": "BBCPersian",
+      "plain_text": "سخنگوی وزارت کشور ایران در نشست خبری روز ۲۶ اردیبهشت گفت: شعارهای تند بعضی در میادین درباره بی‌حجابی،سیاست رسمی نظام و حاکمیت نیست. علی زینی‌وند گفت: «سیاست کلی نظام جلوگیری قاطع از هر شعار، سخنرانی و اقدامی است که باعث اختلال در انسجام کشور شود.» پس از اظهارات چهره‌هایی چون امام جمعه رشت که زنان بی‌حجاب را «همراستا با اسکتبار جهانی» خواند، در یکی از تجمع‌های شبانه از زنان کم‌حجاب حاضر به عنوان «نورچشم» یاد شد. حجاب اجباری از اصولی است که حکومت ایران برای حفظ آن هزینه‌های بسیاری را کرده و زنان در ایران برای رعایت حجاب اجباری تحت فشار‌های بسیاری بوده‌اند. بعد از کشته شدن مهسا امینی در بازداشت گشت ارشاد و شکل گرفتن اعترضات سراسری «زن، زندگی، آزادی» که منجر به کشته شدن بسیاری از معترضان شد، گشت ارشاد دیگر به طور رسمی فعالیتی نداشت. گرچه همچنان گزارش‌هایی از بازداشت زنان به دلیل عدم رعایت حجاب اجباری منتشر شد. حکومت ایران پیش از این هم از زنانی که بدون حجاب اجباری در مراسم حکومتی شرکت می‌کنند، به عنوان نشانه‌ای از «وحدت بین اقشار مختلف مردم برای حفظ نظام» استفاده کرده است. @BBCPersian",
+      "body_html": "سخنگوی وزارت کشور ایران در نشست خبری روز ۲۶ اردیبهشت گفت: شعارهای تند بعضی در میادین درباره بی‌حجابی،سیاست رسمی نظام و حاکمیت نیست. <br><br>علی زینی‌وند گفت: «سیاست کلی نظام جلوگیری قاطع از هر شعار، سخنرانی و اقدامی است که باعث اختلال در انسجام کشور شود.»<br><br>پس از اظهارات چهره‌هایی چون امام جمعه رشت که زنان بی‌حجاب را «همراستا با اسکتبار جهانی» خواند، در یکی از تجمع‌های شبانه از زنان کم‌حجاب حاضر به عنوان «نورچشم» یاد شد.&nbsp;<br><br>حجاب اجباری از اصولی است که حکومت ایران برای حفظ آن هزینه‌های بسیاری را کرده و زنان در ایران برای رعایت حجاب اجباری تحت فشار‌های بسیاری بوده‌اند. <br><br>بعد از کشته شدن مهسا امینی در بازداشت گشت ارشاد و شکل گرفتن اعترضات سراسری «زن، زندگی، آزادی» که منجر به کشته شدن بسیاری از معترضان شد، گشت ارشاد دیگر به طور رسمی فعالیتی نداشت. گرچه همچنان گزارش‌هایی از بازداشت زنان به دلیل عدم رعایت حجاب اجباری منتشر شد. <br><br>حکومت ایران پیش از این هم از زنانی که بدون حجاب اجباری در مراسم حکومتی شرکت می‌کنند، به عنوان نشانه‌ای از «وحدت بین اقشار مختلف مردم برای حفظ نظام» استفاده کرده است. <br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/bbcpersian/281209",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/gVhA7VU_mdXKpSjGgzyy5lIS_6TOVQGRHbY6IFvEBTou51cZZlnp-Vctz92pxlqXmgOVQhXwBxBnyPDgglhhPXNBrPokHsrm9H0Q6pc-A1nG3o68FlUU3xibWBLV6gvHkFN5wURFHB6InLeO9I_5sa0UDGicCXtusoHvez2qkSVyhbFj6HmCoCvWn3FxotjGAQjmYPwasg9_JkpdPNZQeYM691_o5V9CVvVuca72bgxiU_QGF4lW7TsG7FdUekHQwrs2sNb-gP_F-ZTZ8qMra6pXEzNTCtZnkxJzPtrNMRzn1HHx6dMZF2lK4SeyhuX5V_SxCrgEoY2tw4x7g3TQ7Q",
+          "thumbnail_path": "channels/bbcpersian/media/2d88cd7770d69bbb0c2fd42c.jpg",
+          "duration_label": "3:01",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "posted_at": "2026-05-16T11:02:31+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "37fd25e0d00a",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsi_iranwire/Farsi_Iranwire/90152",
+      "channel_username": "farsi_iranwire",
+      "channel_title": "Iranwire",
+      "plain_text": "عباس عراقچی، وزیر خارجه جمهوری اسلامی، در جریان سفر به هند مدعی شد تهران و مسقط در حال رایزنی برای تدوین سازوکاری مشترک جهت مدیریت تنگه هرمز هستند؛ آبراهی راهبردی که در ماه‌های اخیر همزمان با افزایش تنش‌های منطقه‌ای، بار دیگر به کانون اختلافات سیاسی و امنیتی تبدیل شده است. بیشتر: https://iranwire.com/fa/news-1/152474 @Farsi_Iranwire",
+      "body_html": "عباس عراقچی، وزیر خارجه جمهوری اسلامی، در جریان سفر به هند مدعی شد تهران و مسقط در حال رایزنی برای تدوین سازوکاری مشترک جهت مدیریت تنگه هرمز هستند؛ آبراهی راهبردی که در ماه‌های اخیر همزمان با افزایش تنش‌های منطقه‌ای، بار دیگر به کانون اختلافات سیاسی و امنیتی تبدیل شده است.<br>بیشتر: <a href=\"https://iranwire.com/fa/news-1/152474\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152474</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90152",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/aGgqnrgNwhNRjb9mQJ9_wMyp0CS915ypo6ega1PV6IaUDtekSSVQTNOpzZzhi3HrnYlnFvF3GuizovzEoVq1kzoNDYG5ntWXy3G9jqxXpwwMslf7Hr7IK6pL57tAJZ_YNxcbDXpRGymDDa9H3qjMj6SktJjx6GBEX6h2MhjQtdTWBMqdT4LOgeahhhRcdomlYKy9WtKoquEcQTllqmmjc4yTCh-jFsyCidNAONa75fKEZ-iv96m35y18vxeFzLOUdTCFzlgsDr0d5L02ZTpm9KmKMULZuMmk3OOtkQZihIiPpy26YIzjxFqDLy73IGwbwGCMGhtHSTv95izgRxaR_A.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/739970bd384affb8fd0fde0c.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T11:07:36+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "9ae7b3d07211",
+      "confirmations": []
+    },
+    {
+      "post_id": "radiofarda/radiofarda/157256",
+      "channel_username": "radiofarda",
+      "channel_title": "RadioFarda",
+      "plain_text": "🔸ارتش اسرائیل روز شنبه تأیید کرد که عزالدین الحداد، فرمانده شاخه نظامی گروه افراطی حماس، در غزه کشته شده است. 🔸بر اساس بیانیه ارتش، الحداد در یک حمله هوایی که روز جمعه، ۲۵ اردیبهشت، انجام شد کشته شده است. 🔸به نوشته خبرگزاری فرانسه، دو مقام حماس هم تأیید کرده‌اند که این فرمانده حماس در «حمله به یک ساختمان مسکونی و یک وسیله نقلیه» توسط اسرائیل جان خود را از دست داده است. 🔸اسرائیل و آمریکا گروه حماس را تروریستی تلقی می‌کنند. 🔸ارتش اسرائیل عزالدین الحداد را یکی از «برنامه‌ریزان و مجریان» حمله روز هفتم اکتبر سال ۲۰۲۳ به خاک اسرائیل معرفی کرده و می‌گوید که او در نگه داشتن گروگان‌های اسرائیلی پس از این حمله نیز دست داشته است. @RadioFarda",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>ارتش اسرائیل روز شنبه تأیید کرد که عزالدین الحداد، فرمانده شاخه نظامی گروه افراطی حماس، در غزه کشته شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>بر اساس بیانیه ارتش، الحداد در یک حمله هوایی که روز جمعه، ۲۵ اردیبهشت، انجام شد کشته شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>به نوشته خبرگزاری فرانسه، دو مقام حماس هم تأیید کرده‌اند که این فرمانده حماس در «حمله به یک ساختمان مسکونی و یک وسیله نقلیه» توسط اسرائیل جان خود را از دست داده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>اسرائیل و آمریکا گروه حماس را تروریستی تلقی می‌کنند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i>ارتش اسرائیل عزالدین الحداد را یکی از «برنامه‌ریزان و مجریان» حمله روز هفتم اکتبر سال ۲۰۲۳ به خاک اسرائیل معرفی کرده و می‌گوید که او در نگه داشتن گروگان‌های اسرائیلی پس از این حمله نیز دست داشته است.<br><br><a href=\"https://t.me/RadioFarda\" target=\"_blank\">@RadioFarda</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/radiofarda/157256",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ZFEgzZpso6kenxpZUn5g7YMRh1RqQHR8k3IoVDLMugv8WeA5vtWSKfoZ5VnxTInp6qE_6EtHThB_73w3psWJodTgMjGlzLDSpOW6VNAsRbc4RHxhc0TKQLMKZLX84ZiGA5pdM9LdhuwPaw2w15pzMckZI_cGxW4dqTKxO4V3_yCVkhcl16I6VcQEvy_Egz2pQOAfFb0muDXVgDGYM6am2Vn2faN3CIwS3tVroujElVd6GsO6HdurUWiyR5_prmvaQuaHSIUAfCzIVs8eUYU_mauoG7MWexHD_I1XDKkATDLcgM2kIq0_F4MfJykbvA9nS-XHs1PLRf9vkQJUsF2U7g.jpg",
+          "thumbnail_path": "channels/radiofarda/media/8e1ebd02e10638e9539567b0.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T11:08:33+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "24f6109ee6f4",
+      "confirmations": []
+    },
+    {
+      "post_id": "farsivoa/farsivoa/217885",
+      "channel_username": "farsivoa",
+      "channel_title": "Farsi VOA",
+      "plain_text": "رئیس انجمن روانپزشکان ایران می‌گوید کمبود دارو در حوزه روانپزشکی جدی است و نسبت به شرایط پیش از جنگ، به «طور قابل توجهی» تشدید شده است. وحید شریعت به ایلنا گفته است در ماه‌های اخیر، کمبود قابل توجهی در برخی اقلام دارویی مشاهده شده است که برخی از آن‌ها از پیش از آغاز جنگ تشدید یافته و برخی دیگر کاملاً جدید هستند. به گفته او احتمالاً مسئله به اختلال در روند تولید به خاطر نبود مواد اولیه یا نوعی دست نگه داشتن در توزیع، به منظور آماده‌سازی شرایط بازار برای افزایش قیمت مرتبط باشد. حسین‌علی شهریاری رئیس کمیسیون بهداشت و درمان مجلس نیز روز پنج‌شنبه از افزایش قیمت برخی داروها بین ۵۰ تا ۳۰۰ درصد خبر داد و گفت بر اساس برآورد وزارت بهداشت، حدود ۱۵۰ هزار میلیارد تومان منابع نیاز است تا بتوان فشار هزینه‌های دارویی بر مردم را کاهش داد. @FarsiVOA",
+      "body_html": "رئیس انجمن روانپزشکان ایران می‌گوید کمبود دارو در حوزه روانپزشکی جدی است و نسبت به شرایط پیش از جنگ، به «طور قابل توجهی» تشدید شده است.<br><br>وحید شریعت به ایلنا گفته است در ماه‌های اخیر، کمبود قابل توجهی در برخی اقلام دارویی مشاهده شده است که برخی از آن‌ها از پیش از آغاز جنگ تشدید یافته و برخی دیگر کاملاً جدید هستند.<br><br>به گفته او احتمالاً مسئله به اختلال در روند تولید به خاطر نبود مواد اولیه یا نوعی دست نگه داشتن در توزیع، به منظور آماده‌سازی شرایط بازار برای افزایش قیمت مرتبط باشد.<br><br>حسین‌علی شهریاری رئیس کمیسیون بهداشت و درمان مجلس نیز روز پنج‌شنبه از افزایش قیمت برخی داروها بین ۵۰ تا ۳۰۰ درصد خبر داد و گفت بر اساس برآورد وزارت بهداشت، حدود ۱۵۰ هزار میلیارد تومان منابع نیاز است تا بتوان فشار هزینه‌های دارویی بر مردم را کاهش داد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/217885",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/W4dD1OLdvguwIGYKeEQ-btv13PPhmuW5pFerHlh360ch6q1Nx1mDCW4xDDMCnBN2dgKdUXldwis8g2YNkSh20QHQ1d6ZiPnSjkHZtyZTTuO10md_Li38FOzouWOVTzWooeV13dwonyz6bCS5g-91iHN6CJ9g3haGag1K3wfO19jiwe7tiyziXaZpJgiQdFHTCjQMhBGCd80Ox1BomaX1tlbj9sdWffAgBYAWAOCYy6y-STTPCb2fHgqwHxUgldrsbu-K62bVEtTO9Ix4FgMpyLb16jOwpLDcTt6WZmXTrLhT7ka6a1joajdYdrFC5dgBpM0Dkz-nQW9ok9jEoRPaBg.jpg",
+          "thumbnail_path": "channels/farsivoa/media/9979d32e968ec32f37425e5c.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "posted_at": "2026-05-16T11:13:28+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "b5f15533b1fd",
+      "confirmations": []
+    },
+    {
+      "post_id": "iranintltv/IranintlTV/337459",
+      "channel_username": "iranintltv",
+      "channel_title": "Iran International ایران اینترنشنال",
+      "plain_text": "گزارش‌ها حاکی از بحران جدی بهداشت و درمان در زندان فشافویه تهران است. بر اساس روایت زندانیان، شیوع بیماری پوستی گال، تراکم بالای جمعیت و نبود دسترسی به پزشک و دارو، وضعیت زندانیان را بحرانی کرده است. گفت‌وگو با محمد مقیمی، وکیل دادگستری و کارشناس ارشد حقوق بشر @iranintltv",
+      "body_html": "گزارش‌ها حاکی از بحران جدی بهداشت و درمان در زندان فشافویه تهران است. بر اساس روایت زندانیان، شیوع بیماری پوستی گال، تراکم بالای جمعیت و نبود دسترسی به پزشک و دارو، وضعیت زندانیان را بحرانی کرده است.<br><br>گفت‌وگو با محمد مقیمی، وکیل دادگستری و کارشناس ارشد حقوق بشر<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337459",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/TS2Y3_sqGkVsylUQA7zNN1-8XInCCR-h-bt3FkKlVatv2xLYPynarnbrKG7quyPwDlvxUZdxFBW3j4tp8U58rVJiEnmB_6g1t0pg6I0ngIEbmvCzYeUhXKIJkyAaIsd97Xs0qnDOkhq53_oBETzswxGBB1QQvb8HRZ7co0C7-WGfrgyG8HYxupi7n7N2IoQCkIMT0J9VqYHeeYGdchocVPHxO8IuD80-pYoNEJjTTWwYmNg9eCFVSV2Pv_iHNI1SM3Zz1EOc-SjR6yibu4RhLnHEcdW55kwwknR0VfIoIp0sdLbGGqQARxW6z01UDN7NAo31tN9hz3TCrGC_4kKl1g",
+          "thumbnail_path": "channels/iranintltv/media/112d614c74f620d5d148f3cd.jpg",
+          "duration_label": "4:07",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "posted_at": "2026-05-16T11:16:00+00:00",
+      "hot_score": 0,
+      "vote_count": 0,
+      "cluster_id": "e8e24f43478e",
       "confirmations": []
     }
   ],
