@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-16T11:19:52.679Z",
+  "fetched_at": "2026-05-16T14:43:41.150Z",
   "channel": {
     "username": "bbcpersian",
     "title": "BBCPersian",
@@ -10,6 +10,204 @@
     "subscriber_count": "789K"
   },
   "posts": [
+    {
+      "id": "bbcpersian/281223",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>معاون استاندار تهران: ۷۰ درصد مردم در تهران در زمان جنگ از شهر خارج نشدند<br><br>معاون استاندار تهران گفته است که در جریان جنگ اخیر که با حملات آمریکا و اسرائیل در نهم اسفند (بیست و هشتم فوریه) شروع شد، «۷۰ درصد از مردم تهران در محل زندگی خود ماندند» و از شهرها خارج نشدند.<br><br>حسین کاغذلو گفت حضور مردم در شهرها با وجود این که بخشی از جنگ در تعطیلات نوروز بود، اتفاق افتاد.<br><br>او گفته است که در جریان جنگ ۱۲ روزه «تعداد قابل توجهی از مردم، به دلیل حملات دشمنان از شهر خارج شدند.»<br><br><a href=\"https://bbc.in/4wuyApz\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4wuyApz</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻معاون استاندار تهران: ۷۰ درصد مردم در تهران در زمان جنگ از شهر خارج نشدند معاون استاندار تهران گفته است که در جریان جنگ اخیر که با حملات آمریکا و اسرائیل در نهم اسفند (بیست و هشتم فوریه) شروع شد، «۷۰ درصد از مردم تهران در محل زندگی خود ماندند» و از شهرها خارج نشدند. حسین کاغذلو گفت حضور مردم در شهرها با وجود این که بخشی از جنگ در تعطیلات نوروز بود، اتفاق افتاد. او گفته است که در جریان جنگ ۱۲ روزه «تعداد قابل توجهی از مردم، به دلیل حملات دشمنان از شهر خارج شدند.» https://bbc.in/4wuyApz @BBCPersian",
+      "media": [],
+      "reactions": [],
+      "views_label": "2.36K",
+      "posted_at": "2026-05-16T14:34:30+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/281223"
+    },
+    {
+      "id": "bbcpersian/281222",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93BB.png')\"><b>📻</b></i>این هفته در پرگار: سلامت روانی<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>سلامت روانی چیست و عوامل موثر در حفظ آن چه هستند؟ سلامت روانی شاخص‌های شناخته شده‌ی جهانی دارد یا متاثر از محیط فرهنگی و اجتماعی است؟<br><br>میهمان‌ها:<br>نازی اکبری، متخصص در روان درمانی بین فرهنگی<br>رضا کاظم زاده، روانشناس بالینی<br>ارشیا صدیق، متخصص مغز و اعصاب<br><br>این برنامه یک بار دیگر پیش از این پخش شده است.<br><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "📻این هفته در پرگار: سلامت روانی 🔻سلامت روانی چیست و عوامل موثر در حفظ آن چه هستند؟ سلامت روانی شاخص‌های شناخته شده‌ی جهانی دارد یا متاثر از محیط فرهنگی و اجتماعی است؟ میهمان‌ها: نازی اکبری، متخصص در روان درمانی بین فرهنگی رضا کاظم زاده، روانشناس بالینی ارشیا صدیق، متخصص مغز و اعصاب این برنامه یک بار دیگر پیش از این پخش شده است. @BBCPersian",
+      "media": [],
+      "reactions": [],
+      "views_label": "5.66K",
+      "posted_at": "2026-05-16T14:10:04+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/281222"
+    },
+    {
+      "id": "bbcpersian/281221",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>‌</b>حضور مجریان چند شبکه تلویزیون ایران با اسلحه و آموزش استفاده از آن در شبکه افق واکنش‌برانگیز شده است.<br><br>در یکی از این برنامه‌ها، حسین حسینی باز و بسته کردن اسلحه کلاشینکف را آموزش داد. مجری برنامه با هدف گرفتن پرچم امارات متحده در استودیو، به آن&nbsp;شلیک کرد.<br><br>بعضی از مجریان هم مثل مبینا نصیری در شبکه سه تلویزیون اعلام آمادگی کرد&nbsp;«در صورت نیاز، خودش و همه زنان به عنوان جان‌فدا به جنگ می‌پیوندند.». در ماه گذشته، انتشار رژه زنان مسلح در خودروهای حامل دوشکا نیز خبرساز شده بود.<br><br>گروهی از کاربران، این برنامه‌ها را به شرایط جنگی نامعلوم و بعضی به ایجاد ترس بین مردم برای شروع اعتراضات ربط دادند.&nbsp; بعضی دیگر نیز به مجری تلویزیون لیبی اشاره کردند که در سال ۲۰۱۱ چند روز پیش از سقوط حکومت قذافی مخالفان را با اسلحه تهدید کرده بود.<br><br>از آغاز جنگ و تجمعات شبانه حامیان حکومت تصاویری از مردم با اسلحه منتشر شده است. تصاویری هم از کودکان مسلح با لباس نظامی در تجمع‌های شبانه حامیان حکومت منتشر شده است عملی که خلاف قوانین حقوق بشر است.<br><br>@‌‌BBCPersian",
+      "plain_text": "🔻‌حضور مجریان چند شبکه تلویزیون ایران با اسلحه و آموزش استفاده از آن در شبکه افق واکنش‌برانگیز شده است. در یکی از این برنامه‌ها، حسین حسینی باز و بسته کردن اسلحه کلاشینکف را آموزش داد. مجری برنامه با هدف گرفتن پرچم امارات متحده در استودیو، به آن شلیک کرد. بعضی از مجریان هم مثل مبینا نصیری در شبکه سه تلویزیون اعلام آمادگی کرد «در صورت نیاز، خودش و همه زنان به عنوان جان‌فدا به جنگ می‌پیوندند.». در ماه گذشته، انتشار رژه زنان مسلح در خودروهای حامل دوشکا نیز خبرساز شده بود. گروهی از کاربران، این برنامه‌ها را به شرایط جنگی نامعلوم و بعضی به ایجاد ترس بین مردم برای شروع اعتراضات ربط دادند. بعضی دیگر نیز به مجری تلویزیون لیبی اشاره کردند که در سال ۲۰۱۱ چند روز پیش از سقوط حکومت قذافی مخالفان را با اسلحه تهدید کرده بود. از آغاز جنگ و تجمعات شبانه حامیان حکومت تصاویری از مردم با اسلحه منتشر شده است. تصاویری هم از کودکان مسلح با لباس نظامی در تجمع‌های شبانه حامیان حکومت منتشر شده است عملی که خلاف قوانین حقوق بشر است. @‌‌BBCPersian",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/bbcpersian/281221",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/R25zH_O3XfS_0cDSawlgfwOoit1vRKWIme4QLPb3a_XzHSq2kx7dTSls7gEq-rm7QBYxQKDck6mh1HbhV4m4G5ThfK5OdG1XhFk1L5F6Uc2jzeNcxwSL9AqkhKcqeiCioJSqyaXOCSJA6G2AOSLnqPDdhOGAGqkw2S3rtnI_FUGV6vUXaIhbB1kd9AMHFIxlTlCppKkG-tunPDD35Y7e6oU1mwpXunM4u2Xf87udhnHqaJzIGCJzZ3GoF4xj5tCftGLYwKldKBW9dp3UwMy0G0kPiOmXzJ0Q-LX_hmVUzaE-ub9FkzPeb8YfLUaw7cSQDZ_9f7t0UaEtlGjSiYAVIQ",
+          "thumbnail_path": "channels/bbcpersian/media/4f3ef6cc4b316435ed9eac6d.jpg",
+          "duration_label": "1:37",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "6.81K",
+      "posted_at": "2026-05-16T14:04:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/281221"
+    },
+    {
+      "id": "bbcpersian/281220",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>هشدار مقام‌های ایران به آمریکا و کشورهای منطقه درباره احتمال آغاز مجدد جنگ<br><br>برخی از مقام‌های جمهوری اسلامی ایران امروز درباره احتمال آغاز مجدد جنگ، به آمریکا و کشورهای منطقه هشدار دادند.<br><br>محمد مخبر، مشاور رهبر جمهوری اسلامی ایران با اشاره به حملات متقابل ایران به برخی از کشورهای منطقه در جریان جنگ اخیر گفته است «پاسخ جمهوری اسلامی به سنگرهای استیجاری سنتکام (فرماندهی مرکزی آمریکا) در جنگ اخیر تمام‌عیار نبود اما قطعا این خویشتنداری همیشگی نیست.»<br><br>آقای مخبر گفته است «ایران سال‌ها به چشم دوست و برادر به آنها نگاه کرد ولی آنها با پیش‌فروش استقلال خود، حتی خاک و خانه‌هایشان را در اختیار دشمنان فلسطین و ایران قرار دادند.»<br><br>نورنیوز، رسانه نزدیک به دبیرخانه شورای عالی امنیت ملی ایران هم به نقل از «یک مقام ارشد نظامی» که نامش آورده نشد، هشدار داده است که در صورت حمله مجدد به ایران «اهدافی که در جریان جنگ ۴۰ روزه، بنا بر ملاحظاتی مورد اصابت قرار نگرفتند، این‌بار در اولویت عملیاتی قرار گرفته‌اند.»<br><br><a href=\"https://bbc.in/4uytDuB\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4uytDuB</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻هشدار مقام‌های ایران به آمریکا و کشورهای منطقه درباره احتمال آغاز مجدد جنگ برخی از مقام‌های جمهوری اسلامی ایران امروز درباره احتمال آغاز مجدد جنگ، به آمریکا و کشورهای منطقه هشدار دادند. محمد مخبر، مشاور رهبر جمهوری اسلامی ایران با اشاره به حملات متقابل ایران به برخی از کشورهای منطقه در جریان جنگ اخیر گفته است «پاسخ جمهوری اسلامی به سنگرهای استیجاری سنتکام (فرماندهی مرکزی آمریکا) در جنگ اخیر تمام‌عیار نبود اما قطعا این خویشتنداری همیشگی نیست.» آقای مخبر گفته است «ایران سال‌ها به چشم دوست و برادر به آنها نگاه کرد ولی آنها با پیش‌فروش استقلال خود، حتی خاک و خانه‌هایشان را در اختیار دشمنان فلسطین و ایران قرار دادند.» نورنیوز، رسانه نزدیک به دبیرخانه شورای عالی امنیت ملی ایران هم به نقل از «یک مقام ارشد نظامی» که نامش آورده نشد، هشدار داده است که در صورت حمله مجدد به ایران «اهدافی که در جریان جنگ ۴۰ روزه، بنا بر ملاحظاتی مورد اصابت قرار نگرفتند، این‌بار در اولویت عملیاتی قرار گرفته‌اند.» https://bbc.in/4uytDuB @BBCPersian",
+      "media": [],
+      "reactions": [],
+      "views_label": "6.75K",
+      "posted_at": "2026-05-16T14:00:59+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/281220"
+    },
+    {
+      "id": "bbcpersian/281219",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i> سرخط خبرها، شنبه ۲۶ اردیبهشت ۱۴۰۵<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "⭕️ سرخط خبرها، شنبه ۲۶ اردیبهشت ۱۴۰۵ @BBCPersian",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/bbcpersian/281219",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/nBub-_Bw3WW5DzvwGIyEO2Q5kyCWJJGxF9w2BbyGipRrvBN8JAnyxRgBW-FB9i-T4WvPAu77EMCALQbkdr4K5gNY0lTN4pNUXzsPFdpD45zaj0PHmu4XSL-DPSBvAwtdUkqKoWoVttOVlPr0lRpUEcVw98PsvpMZwX7E1ultwOnpRFJOsfqXaSbOxxdtDcTf3HLooDE2PIllEeuF30v7SRblwpoRTDzBU7xqJUhsxvXgUaMkoShrPnKNpbI7sRR1uipi_WmOVxiv0e6JNGU1lxGKfY2_o1QDY790UNVohav-ShO7Gb6TlmXiePvg45c3pvUdI9a06x-LxYxn0pn8sQ",
+          "thumbnail_path": "channels/bbcpersian/media/bdf2a3778fceea1b2940e77b.jpg",
+          "duration_label": "1:02",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "8.39K",
+      "posted_at": "2026-05-16T13:43:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/281219"
+    },
+    {
+      "id": "bbcpersian/281218",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "هزاران مامور پلیس در لندن مستقر شده‌اند تا دو راهپیمایی بزرگ با گرایش‌های مخالف هم را مدیریت کنند؛ تظاهرات طرفداران فلسطینیان و راهپیمایی‌ای که تامی رابینسون، فعال راست افراطی ضد اسلام سازماندهی کرده است.<br><br>قرار است مقامات منطقه حائلی را برای جدا کردن راهپیمایی‌های این دو گروه ایجاد کنند؛ همچنین از دوربین‌های تشخیص چهره برای ردیابی مظنونان استفاده خواهد شد و دادستان‌ها به پلیس توصیه کرده‌اند که شعارها را زیر نظر داشته باشند تا در صورت نقض قوانین مربوط به جرایم مبتنی بر نفرت‌پراکنی، مداخله کند.<br><br>پرهام قبادی، خبرنگار بی‌بی‌سی از محل تظاهرات توضیحات بیشتری می‌دهد.<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "هزاران مامور پلیس در لندن مستقر شده‌اند تا دو راهپیمایی بزرگ با گرایش‌های مخالف هم را مدیریت کنند؛ تظاهرات طرفداران فلسطینیان و راهپیمایی‌ای که تامی رابینسون، فعال راست افراطی ضد اسلام سازماندهی کرده است. قرار است مقامات منطقه حائلی را برای جدا کردن راهپیمایی‌های این دو گروه ایجاد کنند؛ همچنین از دوربین‌های تشخیص چهره برای ردیابی مظنونان استفاده خواهد شد و دادستان‌ها به پلیس توصیه کرده‌اند که شعارها را زیر نظر داشته باشند تا در صورت نقض قوانین مربوط به جرایم مبتنی بر نفرت‌پراکنی، مداخله کند. پرهام قبادی، خبرنگار بی‌بی‌سی از محل تظاهرات توضیحات بیشتری می‌دهد. @BBCPersian",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/bbcpersian/281218",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SdUw6j3l1W92tYNG05BfWYmw25Xkr5e6opRbXVyUjmdj2WK6bvR-nZEaS0H6t4uJPWYZLJX-oXUkJq2iY8_GaD-yj8mJk7TLFm2T3EseSf14g13_P0kGPHsPrXr8deKGI69mT4wWy5vUQNnwAyZ0B308wazY24O5xI8kPO5tCnnNE6BQz_7YraHpW9awL18tzR0_WaS3689E9ypHR-saeAIa6qSQmryPFXDj1rhwUYBSu8KzIkTwJjqznhD7NvuLcsuisTTb_2fz0vTSzVKBEtYlWeWlfjKh724b_3w8thybOBAGCHLHkLk04pq4NdUno-42A8lVzUGloScoJ5glMg",
+          "thumbnail_path": "channels/bbcpersian/media/79bd0595a7226294b8168cf3.jpg",
+          "duration_label": "2:21",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "9.32K",
+      "posted_at": "2026-05-16T13:37:44+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/281218"
+    },
+    {
+      "id": "bbcpersian/281217",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>استقرار هزاران مامور پلیس در لندن برای مدیریت دو تظاهرات بزرگ با گرایش‌های مخالف</b><br><br>هزاران مامور پلیس در لندن مستقر شده‌اند تا دو راهپیمایی بزرگ با گرایش‌های مخالف هم را مدیریت کنند؛ تظاهرات طرفداران فلسطینیان و راهپیمایی‌ای که تامی رابینسون، فعال راست افراطی ضد اسلام سازماندهی کرده است.<br><br>پلیس لندن می‌گوید که امروز با یکی از مهم‌ترین عملیات‌‌های خود در سال‌های اخیر روبرو است.<br><br>قرار است مقامات منطقه حائلی را برای جدا کردن راهپیمایی‌های این دو گروه ایجاد کنند؛ همچنین از دوربین‌های تشخیص چهره برای ردیابی مظنونان استفاده خواهد شد و دادستان‌ها به پلیس توصیه کرده‌اند که شعارها را زیر نظر داشته باشند تا در صورت نقض قوانین مربوط به جرایم مبتنی بر نفرت‌پراکنی، مداخله کند.<br><br>پیش از این رویدادها، ورود یازده سخنران برجسته راست افراطی به بریتانیا ممنوع شده است.<br><br>دولت اعلام کرده است که از ورود یازده «آشوبگر راست افراطی» خارجی به کشور برای شرکت در تجمعی که توسط تامی رابینسون، فعال ضد اسلام، سازماندهی شده بود، جلوگیری شده است.<br><br><a href=\"https://bbc.in/4nuSJrc\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4nuSJrc</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔺استقرار هزاران مامور پلیس در لندن برای مدیریت دو تظاهرات بزرگ با گرایش‌های مخالف هزاران مامور پلیس در لندن مستقر شده‌اند تا دو راهپیمایی بزرگ با گرایش‌های مخالف هم را مدیریت کنند؛ تظاهرات طرفداران فلسطینیان و راهپیمایی‌ای که تامی رابینسون، فعال راست افراطی ضد اسلام سازماندهی کرده است. پلیس لندن می‌گوید که امروز با یکی از مهم‌ترین عملیات‌‌های خود در سال‌های اخیر روبرو است. قرار است مقامات منطقه حائلی را برای جدا کردن راهپیمایی‌های این دو گروه ایجاد کنند؛ همچنین از دوربین‌های تشخیص چهره برای ردیابی مظنونان استفاده خواهد شد و دادستان‌ها به پلیس توصیه کرده‌اند که شعارها را زیر نظر داشته باشند تا در صورت نقض قوانین مربوط به جرایم مبتنی بر نفرت‌پراکنی، مداخله کند. پیش از این رویدادها، ورود یازده سخنران برجسته راست افراطی به بریتانیا ممنوع شده است. دولت اعلام کرده است که از ورود یازده «آشوبگر راست افراطی» خارجی به کشور برای شرکت در تجمعی که توسط تامی رابینسون، فعال ضد اسلام، سازماندهی شده بود، جلوگیری شده است. https://bbc.in/4nuSJrc @BBCPersian",
+      "media": [],
+      "reactions": [],
+      "views_label": "13.3K",
+      "posted_at": "2026-05-16T13:01:20+00:00",
+      "edited": true,
+      "permalink": "https://t.me/bbcpersian/281217"
+    },
+    {
+      "id": "bbcpersian/281215",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>ایرنا: وزیر کشور پاکستان در یک سفر از پیش اعلام نشده در تهران است</b><br><br>خبرگزاری رسمی ایرنا گزارش داده است که وزیر کشور پاکستان «در یک سفر از پیش اعلام نشده» در تهران است.<br><br>ایرنا از قول منابع خود خبر داده است که محسن نقوی ساعاتی پیش وارد تهران شده و قرار است با برخی از مقام‌های جمهوری اسلامی ایران دیدار کند.<br><br>پاکستان میانجی آتش‌بس کنونی بین ایران و آمریکاست و یک بار هم میزبان مقام‌های ارشد ایرانی و آمریکایی برای مذاکرات صلح شده که تاکنون بی‌نتیجه مانده است.<br><br>وزیر کشور پاکستان یک ماه پیش همراه عاصم منیر، فرمانده ارتش این کشور به ایران سفر کرده بود.<br><br>پاکستان یک روز پیش اعلام کرده بود که روند بازگرداندن بیست ملوان ایرانی و یازده پاکستانی که پس از توقیف کشتی آنان توسط آمریکا در آب‌های سنگاپور بودند در جریان است و وعده داده بود که همه آنها از تایلند به اسلام‌آباد منتقل می‌شوند.<br><br><a href=\"https://bbc.in/4nzZJmQ\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4nzZJmQ</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻ایرنا: وزیر کشور پاکستان در یک سفر از پیش اعلام نشده در تهران است خبرگزاری رسمی ایرنا گزارش داده است که وزیر کشور پاکستان «در یک سفر از پیش اعلام نشده» در تهران است. ایرنا از قول منابع خود خبر داده است که محسن نقوی ساعاتی پیش وارد تهران شده و قرار است با برخی از مقام‌های جمهوری اسلامی ایران دیدار کند. پاکستان میانجی آتش‌بس کنونی بین ایران و آمریکاست و یک بار هم میزبان مقام‌های ارشد ایرانی و آمریکایی برای مذاکرات صلح شده که تاکنون بی‌نتیجه مانده است. وزیر کشور پاکستان یک ماه پیش همراه عاصم منیر، فرمانده ارتش این کشور به ایران سفر کرده بود. پاکستان یک روز پیش اعلام کرده بود که روند بازگرداندن بیست ملوان ایرانی و یازده پاکستانی که پس از توقیف کشتی آنان توسط آمریکا در آب‌های سنگاپور بودند در جریان است و وعده داده بود که همه آنها از تایلند به اسلام‌آباد منتقل می‌شوند. https://bbc.in/4nzZJmQ @BBCPersian",
+      "media": [],
+      "reactions": [],
+      "views_label": "16.6K",
+      "posted_at": "2026-05-16T12:25:45+00:00",
+      "edited": true,
+      "permalink": "https://t.me/bbcpersian/281215"
+    },
+    {
+      "id": "bbcpersian/281214",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>نت‌بلاکس: قطع اینترنت ایران وارد هفته دوازدهم شد<br><br>نت‌بلاکس که وضعیت اینترنت در جهان را بررسی می کند، می‌گوید قطعی اینترنت در ایران اکنون وارد دوازدهمین هفته خود شده و به هفتاد و هشتمین روز رسیده است.<br><br>قطع اینرنت ایران که برای چهارمین بار به صورت گسترده ادامه دارد از زمان حمله آمریکا و اسرائیل به ایران در نهم اسفند (۲۸ فوریه) آغاز شده و تاکنون ادامه دارد. تماس تلفنی با ایران هم در همین مدت محدود و با اختلال همراه شده است.<br><br>نت‌بلاکس می گوید «این قطع اینترنت، که کشوری ۹۰ میلیونی را برای مدتی بی‌سابقه تا حد زیادی از دسترسی آنلاین محروم کرده، همچنان در مقیاسی گسترده به فرسایش حقوق بشر، اقتصاد و آزادی‌های اساسی ادامه می‌دهد.»<br><br>ایران هرگونه استفاده از اینترنت ماهواره‌ای همچون استارلینک را هم ممنوع کرده و کاربران آن را تحت تعقیب قرار می‌دهد.<br><br><a href=\"https://bbc.in/496jyMz\" target=\"_blank\" rel=\"noopener\">https://bbc.in/496jyMz</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔺نت‌بلاکس: قطع اینترنت ایران وارد هفته دوازدهم شد نت‌بلاکس که وضعیت اینترنت در جهان را بررسی می کند، می‌گوید قطعی اینترنت در ایران اکنون وارد دوازدهمین هفته خود شده و به هفتاد و هشتمین روز رسیده است. قطع اینرنت ایران که برای چهارمین بار به صورت گسترده ادامه دارد از زمان حمله آمریکا و اسرائیل به ایران در نهم اسفند (۲۸ فوریه) آغاز شده و تاکنون ادامه دارد. تماس تلفنی با ایران هم در همین مدت محدود و با اختلال همراه شده است. نت‌بلاکس می گوید «این قطع اینترنت، که کشوری ۹۰ میلیونی را برای مدتی بی‌سابقه تا حد زیادی از دسترسی آنلاین محروم کرده، همچنان در مقیاسی گسترده به فرسایش حقوق بشر، اقتصاد و آزادی‌های اساسی ادامه می‌دهد.» ایران هرگونه استفاده از اینترنت ماهواره‌ای همچون استارلینک را هم ممنوع کرده و کاربران آن را تحت تعقیب قرار می‌دهد. https://bbc.in/496jyMz @BBCPersian",
+      "media": [],
+      "reactions": [],
+      "views_label": "17.2K",
+      "posted_at": "2026-05-16T12:11:08+00:00",
+      "edited": true,
+      "permalink": "https://t.me/bbcpersian/281214"
+    },
+    {
+      "id": "bbcpersian/281210",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>حماس و ارتش اسرائیل تأیید کرده‌اند که عزالدین حداد، فرمانده گردان‌های قسام، شاخه نظامی این گروه، شامگاه جمعه در حمله‌ اسرائیل در شهر غزه کشته شده است.</b><br><br>اسرائیل او را یکی از طراحان حملات هفتم اکتبر ۲۰۲۳ خوانده است.<br><br>مراسم تشییع عزالدین حداد امروز در شهر غزه برگزار شد.<br><br>اعضای خانواده‌ آقای حداد هم در حمله هوایی شبانه اسرائیل کشته شدند.<br><br>سازمان‌های امدادی در غزه اعلام کردند که در این حملات دست‌کم هفت نفر کشته و ده‌ها نفر هم زخمی شده‌اند.<br><br>اگرچه از ماه اکتبر آتش‌بس در این منطقه برقرار بوده، اما دولت اسرائیل می‌گوید همچنان اختیار هدف قرار دادن اعضای حماس را دارد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B7.png')\"><b>📷</b></i> Getty Images<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a></div>",
+      "plain_text": "🔻حماس و ارتش اسرائیل تأیید کرده‌اند که عزالدین حداد، فرمانده گردان‌های قسام، شاخه نظامی این گروه، شامگاه جمعه در حمله‌ اسرائیل در شهر غزه کشته شده است. اسرائیل او را یکی از طراحان حملات هفتم اکتبر ۲۰۲۳ خوانده است. مراسم تشییع عزالدین حداد امروز در شهر غزه برگزار شد. اعضای خانواده‌ آقای حداد هم در حمله هوایی شبانه اسرائیل کشته شدند. سازمان‌های امدادی در غزه اعلام کردند که در این حملات دست‌کم هفت نفر کشته و ده‌ها نفر هم زخمی شده‌اند. اگرچه از ماه اکتبر آتش‌بس در این منطقه برقرار بوده، اما دولت اسرائیل می‌گوید همچنان اختیار هدف قرار دادن اعضای حماس را دارد. 📷 Getty Images @BBCPersian",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281210?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/jsblRgSE3dFHoeWyyHrq2VdBDn0HoKbvlZgpDal52KTRbSBlFg2gEzIODX1BPVjwPeFxOZ9A7viwo9ipoQ7hi1f168kCml-gxzZzcKUIo1zZCElp6v--lENVn2Ft_APi7-mUE8GtuyD9ckaMgBsCQf3Ut_pda4Xj6tyMKVV9H7gxmeMbi4aT6rGk218SJCnBPGzr0KpYalInd5GvSprfLKCxMXSyrd2PYtKmrCz83GoedY7UHLiS2VoNgoiHotuN9eJpvJU788Yq1ZPDuTobhuX-1X5J71Ca5NNuFsZRzD6MrkmtKsFGXHya9AfSiHontEAnZ-m4LFSnVKRKY8NN2g.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/75a0b0a17e69034b6b56bfce.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281211?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/o3BuOvUPhhwoZIC0NT_qg-YCtJABMm6zE-vtMerfB-j2BAxCS7zMng6diGjCMwJvIz21BsFgiCg220IPQI_NEy8_mqyu34q7-HkZJjRrFed7R9062H32HlFpM-yDhx1V45dX8UsVuqezSzDi9gtDgK_LQg0cdesRORnWJ191AP4pIaBLZFFT0q84jriO8oOvqWmtcUeG3eMbIAgo8OMOIOliO_aM0FBlhziVd1vFNG2fENI-qjnbqcfo8gnBapEBVUK2tSfmbUaFSUxbSQ03iOtRH49hRZgxK2vcHXHvWWC7hsOztuSlsnBqSafPEjXcT9V2T6tTX5q6X1xZZgYfZw.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/5c7ab0261f042463b9b25a6d.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281212?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/HJl2g8b4a7wkonCvlhgY0iUSkPeEpu1klImljZXa79ULbIFoEBwVp9oRTi_grcEcQrrewp329S8o4hQmP3SdDQTG9uZjczktkShODY2fcyeRIvf99BJRLdBkPXcQVRa5G63mgJGt4bV0_2Hp59WYkXacbspAaVOuGaxO3ZLzE4QeplZzVk0i9ZEnK1um7ptGBgsV2vXkyTW1FpjQ9gtI0nbdPHhIt0bmlyZIodo28wNh6ZKgXBWaLYXsuS78v9Hji--P8p_GcdSjuVQNik8hIP7GvE1-KtO7lglh7yC1IOwfmvL-9i9Ku_TZCBaAwwkn4XUVOL_ZbGp-U53zlrPj4w.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/472a63794fb2f3e624325918.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "18.8K",
+      "posted_at": "2026-05-16T11:46:17+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/281210"
+    },
     {
       "id": "bbcpersian/281209",
       "author_name": "BBCPersian",
@@ -29,7 +227,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "3.97K",
+      "views_label": "21K",
       "posted_at": "2026-05-16T11:02:31+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/281209"
@@ -43,7 +241,7 @@
       "plain_text": "🔻عضو هیئت رئيسه مجلس: تشکیل ستاد ویژه فضای مجازی خلاف قانون است علیرضا سلیمی، عضو هیئت رئيسه مجلس ایران، تشکیل ستاد ویژه فضای مجازی از سوی مسعود پزشکیان را «خلاف قانون برنامه هفتم» و «مغایر با سیاست‌های کلی نظام» خواند. آقای سلیمی گفت: «با توجه به اینکه شورای عالی فضای مجازی و مرکز ملی فضای مجازی نیز هر دو وجود دارند و وظایف آنها کاملاً روشن است، چگونه ممکن است رئیس‌جمهور که خود رئیس شورای عالی فضای مجازی است، اختیارات مربوط به شورا را به ستادی خارج از شورا واگذار کند؟» تشکیل ویژه فضای مجازی پیش از این هم با انتقادهایی همراه بوده است. مصطفی پوردهقان، دبیر دوم کمیسیون صنایع و معادن مجلس، تشکیل این ستاد را اقدامی «تزئینی» خوانده و گفته بود که «این تصمیم‌ها بیشتر جنبه روانی دارد و قرار نیست تغییر مشخصی ایجاد شود.» آقای پزشکیان چند روز پیش از تشکیل ستادی ویژه برای ساماندهی فضای مجازی خبر داد و محمدرضا عارف، معاون اول خود، را به سمت رئیس این ستاد انتخاب کرد. در حکم آقای پزشکیان بر «حکمرانی یکپارچه» در فضای مجازی و پایان دادن به «چندصدایی» و جلوگیری از «موازی‌کاری» میان نهادهای مسئول تأکید شده است. این ستاد در حالی تشکیل شده است که اینترنت در بیش از ۷۰ روز گذشته یعنی از زمان شروع جنگ آمریکا و اسرائیل با ایران عملا قطع است. https://bbc.in/4tEavKe @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "8.68K",
+      "views_label": "21.5K",
       "posted_at": "2026-05-16T10:28:52+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/281208"
@@ -67,7 +265,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.57K",
+      "views_label": "20.9K",
       "posted_at": "2026-05-16T10:18:52+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/281207"
@@ -81,7 +279,7 @@
       "plain_text": "🔻بنابر گزارش‌ها وزارت دادگستری آمریکا در نظر دارد در روزهای آینده علیه رائول کاسترو، رهبر سابق کوبا، اعلام جرم کند. این پرونده به سرنگونی دو هواپیما با پدافند هوایی کوبا در سال ۱۹۹۶ مربوط می‌شود که در جریان آن چهار نفر کشته شدند. این هواپیماها متعلق به گروه…",
       "media": [],
       "reactions": [],
-      "views_label": "9.98K",
+      "views_label": "19.9K",
       "posted_at": "2026-05-16T10:10:55+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/281206"
@@ -105,7 +303,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "9.75K",
+      "views_label": "19.9K",
       "posted_at": "2026-05-16T10:10:44+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/281205"
@@ -119,7 +317,7 @@
       "plain_text": "🔻اسرائیل از موج تازه حملات علیه مواضع حزب‌الله خبر داد ارتش اسرائیل می‌گوید که موج تازه‌ای از حملات هوایی را علیه مواضع حزب‌الله در جنوب لبنان آغاز کرده است. ارتش اسرائیل پیش‌تر به ساکنان چندین منطقه در جنوب لبنان دستور تخلیه داده بود. این حملات جدید یک روز پس از آن انجام شد که نمایندگان اسرائیل و لبنان در نشستی در واشنگتن، آتش‌بس شکننده جاری را برای ۴۵ روز دیگر تمدید کردند. پیش‌تر، مقام‌های لبنانی اسرائیل را متهم کردند که عمداً مراکز درمانی را هدف قرار داده است. وزارت بهداشت لبنان اعلام کرد که اسرائیل یک مرکز امدادرسانی را هدف حمله قرار داده که در نتیجه آن شش نفر، از جمله سه امدادگر، کشته شدند. اما اسرائیل هدف قرار دادن نیروهای امدادی و پزشکی را رد کرد. https://bbc.in/4uQiCnV @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "12.8K",
+      "views_label": "21.6K",
       "posted_at": "2026-05-16T09:38:04+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/281204"
@@ -143,7 +341,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "16K",
+      "views_label": "24.1K",
       "posted_at": "2026-05-16T09:07:23+00:00",
       "edited": true,
       "permalink": "https://t.me/bbcpersian/281203"
@@ -157,7 +355,7 @@
       "plain_text": "🔻وزیر نفت عراق: در ماه قبل ۱۰ میلیون بشکه نفت از طریق تنگه هرمز صادر کردیم وزیر جدید نفت عراق امروز اعلام کرد که این کشور در ماه آوریل ۱۰ میلیون بشکه نفت از طریق تنگه هرمز صادر کرده است. باسم محمد که در یک نشست خبری صحبت می‌کرد، همچنین گفت که عراق قصد دارد برای افزایش ظرفیت تولید و صادرات نفت خود با اوپک همکاری و رایزنی کند. به گفته آقای محمد، بغداد در تلاش است تا ظرفیت تولید نفت عراق را به روزانه ۵ میلیون بشکه برساند. @BBCPersian",
       "media": [],
       "reactions": [],
-      "views_label": "17.6K",
+      "views_label": "24.2K",
       "posted_at": "2026-05-16T08:24:10+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/281202"
@@ -2142,106 +2340,6 @@
       "posted_at": "2026-05-14T11:16:57+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/281024"
-    },
-    {
-      "id": "bbcpersian/281023",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/D3dNHXXoN5OIdJ9u88--pQIZsKagdVkuGdQ2-gBCCk5vwc1UXvdYZcundjyPxO6qlFhiodM8bqC_KC8g4Tb_Geyph6Z5VNmOfAzk5tHGFoALlGCd2Gp4VKjzAuvHZE__EdO1yl0rBxKAQAkxHTvK9C3zGjWGSAN8RJW3jhkupT1zkQv_RNm2ehdhjLAc7lLbTN-8g1U6eo7Lhnl8ihz5OYolFHKUNdHx85CbQ0gcnBDsGeDfKjLwAQOk23hKeTRkc6KlF5fq4DAKTwPYp-bo5KqCjQwn4d1dtu_enfdG2D2Jwfo7fvIPH50F-2FeqrvECajnUCyT6RGBmBQrlKXzGw.jpg",
-      "author_photo_path": "channels/bbcpersian/media/663d89043b6f4d498c245bbf.jpg",
-      "body_html": "‌<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>به گزارش شبکه خبری آرتی، کرملین اعلام کرد که ولادیمیر پوتین، رئیس‌جمهور روسیه، به‌زودی به چین سفر خواهد کرد.<br><br>این خبر در حالی اعلام شده است که دونالد ترامپ،‌ رئیس جمهور آمریکا در حال دیدار از چین است.<br><br>هنوز تاریخی برای سفر آقای پوتین اعلام نشده، اما دیمیتری پسکوف، سخنگوی کرملین، گفته است که تمام مقدمات این سفر تکمیل شده است.<br><br>آخرین سفر آقای پوتین به چین در سپتامبر ۲۰۲۵ بود، زمانی که او در رژه بزرگ نظامی پکن و یک نشست سران شرکت کرد.<br><br>رسانه‌های روسی پیش‌تر گزارش داده بودند که این سفر ممکن است حتی در هفته آینده انجام شود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B7.png')\"><b>📷</b></i> Reuters<br><a href=\"https://bbc.in/43byntG\" target=\"_blank\" rel=\"noopener\">https://bbc.in/43byntG</a><br><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "‌🔻به گزارش شبکه خبری آرتی، کرملین اعلام کرد که ولادیمیر پوتین، رئیس‌جمهور روسیه، به‌زودی به چین سفر خواهد کرد. این خبر در حالی اعلام شده است که دونالد ترامپ،‌ رئیس جمهور آمریکا در حال دیدار از چین است. هنوز تاریخی برای سفر آقای پوتین اعلام نشده، اما دیمیتری پسکوف، سخنگوی کرملین، گفته است که تمام مقدمات این سفر تکمیل شده است. آخرین سفر آقای پوتین به چین در سپتامبر ۲۰۲۵ بود، زمانی که او در رژه بزرگ نظامی پکن و یک نشست سران شرکت کرد. رسانه‌های روسی پیش‌تر گزارش داده بودند که این سفر ممکن است حتی در هفته آینده انجام شود. 📷 Reuters https://bbc.in/43byntG @BBCPersian",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/281023",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/PtrSsjNJf7N-ClYhyUkQt4TJELneGodo0B2X_al51wjunX-HJ8MxP9Pk_Ofux2dW1CG-PyuaPPVL0cczQQlLXUf8lx5siyCMfgQu77uJyyNIuhgOcQFFUz_illNyuU0YgvhSKA8_I9ptrSjNa6B2ga2KeoUVD_4492xvdi3XcxSO0zIvdtUWpEojdXte1tPYHmMmPg_nNQJbzwC9-HlEWq1bpBUGUix4iqeqe7ArsWAQt0hmyq1to-XNvW7Y81tSnVUOV5Wu9fyGIIrWpr4PyG30yHrXHX8DVjjG8k2TyLEhJBkcQdreDFr5FLZtPb4J9SSKct7OiEReWZFX53f4xA.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/20e58b3314c224adafcd38f4.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "19.6K",
-      "posted_at": "2026-05-14T11:08:45+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/281023"
-    },
-    {
-      "id": "bbcpersian/281022",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/D3dNHXXoN5OIdJ9u88--pQIZsKagdVkuGdQ2-gBCCk5vwc1UXvdYZcundjyPxO6qlFhiodM8bqC_KC8g4Tb_Geyph6Z5VNmOfAzk5tHGFoALlGCd2Gp4VKjzAuvHZE__EdO1yl0rBxKAQAkxHTvK9C3zGjWGSAN8RJW3jhkupT1zkQv_RNm2ehdhjLAc7lLbTN-8g1U6eo7Lhnl8ihz5OYolFHKUNdHx85CbQ0gcnBDsGeDfKjLwAQOk23hKeTRkc6KlF5fq4DAKTwPYp-bo5KqCjQwn4d1dtu_enfdG2D2Jwfo7fvIPH50F-2FeqrvECajnUCyT6RGBmBQrlKXzGw.jpg",
-      "author_photo_path": "channels/bbcpersian/media/663d89043b6f4d498c245bbf.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>عراقچی: امارات در حملات به ایران «شریک فعال» بوده است</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>عباس عراقچی، وزیر خارجه ایران که برای شرکت در نشست وزرای خارجه بریکس در دهلی به سر می‌برد، می‌گوید که در سخنرانی خود در بریکس نام امارات متحده عربی را ذکر نکرده است، اما امارات متحده عربی را «شریک فعال» آمریکا و اسرائیل در حمله به ایران توصیف کرد و گفت که این کشور مستقیما در جنگ آمریکا و اسرائیل با ایران «دخیل» بوده است.<br><br>او ساعاتی پس از ایراد سخنرانی خود در نشست بریکس در کانال تلگرام خود نوشت: «من در سخنرانی‌ خود نام امارات متحده عربی را ذکر نکردم، به خاطر حفظ وحدت و ترجیح دادم به آن اشاره نکنم. اما در واقع باید بگویم که امارات مستقیماً در اقدام تجاوزکارانه علیه کشور من دخیل بود. زمانی که این تجاوز آغاز شد، آنها حتی از محکوم کردن آن خودداری کردند. آنها اجازه دادند از سرزمین‌شان برای شلیک توپخانه و تجهیزات علیه ما استفاده شود.»<br><br>او به خبر روز گذشته درباره سفر بنیامین نتانیاهو در زمان جنگ به امارات و ابوظبی اشاره کرد. رسانه‌های بین‌المللی این خبر را به نقل از دفتر نخست وزیر اسرائیل منتشر کردند اما وزارت خارجه امارات در بیانیه‌ای رسمی آن را تکذیب کرد.<br><br>آقای عراقچی در تلگرامش نوشت: «همین دیروز فاش شد که نتانیاهو در زمان جنگ به امارات و ابوظبی سفر کرده بود. همچنین آشکار شد که آنها در این حملات مشارکت داشته‌اند و شاید حتی مستقیماً علیه ما اقدام کرده باشند. بنابراین امارات شریک فعال این تجاوز است و هیچ تردیدی در این باره وجود ندارد.»<br><br>خبرگزاری فرانسه گزارش داد که آقای عراقچی، امارات را متهم کرد که مانع موضعگیری واحد از سوی کشورهای بریکس در محکوم کردن جنگ آمریکا و اسرائیل با ایران شده است.<br><br>به نظر می‌رسد اختلاف‌نظرها درباره جنگ ایران، تلاش‌ها برای صدور بیانیه مشترک در نشست دهلی را سخت کرده است.<br><br>در بیانیه وزارت خارجه امارات که روز چهارشنبه منتشر شد،‌ آماده بود: «امارات متحده عربی گزارش‌های منتشرشده درباره سفر نخست‌وزير اسرائيل يا استقبال از يک هيات نظامی اسرائيلی را تکذيب می‌کند.»<br><br><a href=\"https://bbc.in/4daHQrk\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4daHQrk</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "🔻عراقچی: امارات در حملات به ایران «شریک فعال» بوده است 🔻عباس عراقچی، وزیر خارجه ایران که برای شرکت در نشست وزرای خارجه بریکس در دهلی به سر می‌برد، می‌گوید که در سخنرانی خود در بریکس نام امارات متحده عربی را ذکر نکرده است، اما امارات متحده عربی را «شریک فعال» آمریکا و اسرائیل در حمله به ایران توصیف کرد و گفت که این کشور مستقیما در جنگ آمریکا و اسرائیل با ایران «دخیل» بوده است. او ساعاتی پس از ایراد سخنرانی خود در نشست بریکس در کانال تلگرام خود نوشت: «من در سخنرانی‌ خود نام امارات متحده عربی را ذکر نکردم، به خاطر حفظ وحدت و ترجیح دادم به آن اشاره نکنم. اما در واقع باید بگویم که امارات مستقیماً در اقدام تجاوزکارانه علیه کشور من دخیل بود. زمانی که این تجاوز آغاز شد، آنها حتی از محکوم کردن آن خودداری کردند. آنها اجازه دادند از سرزمین‌شان برای شلیک توپخانه و تجهیزات علیه ما استفاده شود.» او به خبر روز گذشته درباره سفر بنیامین نتانیاهو در زمان جنگ به امارات و ابوظبی اشاره کرد. رسانه‌های بین‌المللی این خبر را به نقل از دفتر نخست وزیر اسرائیل منتشر کردند اما وزارت خارجه امارات در بیانیه‌ای رسمی آن را تکذیب کرد. آقای عراقچی در تلگرامش نوشت: «همین دیروز فاش شد که نتانیاهو در زمان جنگ به امارات و ابوظبی سفر کرده بود. همچنین آشکار شد که آنها در این حملات مشارکت داشته‌اند و شاید حتی مستقیماً علیه ما اقدام کرده باشند. بنابراین امارات شریک فعال این تجاوز است و هیچ تردیدی در این باره وجود ندارد.» خبرگزاری فرانسه گزارش داد که آقای عراقچی، امارات را متهم کرد که مانع موضعگیری واحد از سوی کشورهای بریکس در محکوم کردن جنگ آمریکا و اسرائیل با ایران شده است. به نظر می‌رسد اختلاف‌نظرها درباره جنگ ایران، تلاش‌ها برای صدور بیانیه مشترک در نشست دهلی را سخت کرده است. در بیانیه وزارت خارجه امارات که روز چهارشنبه منتشر شد،‌ آماده بود: «امارات متحده عربی گزارش‌های منتشرشده درباره سفر نخست‌وزير اسرائيل يا استقبال از يک هيات نظامی اسرائيلی را تکذيب می‌کند.» https://bbc.in/4daHQrk @BBCPersian",
-      "media": [],
-      "reactions": [],
-      "views_label": "18.9K",
-      "posted_at": "2026-05-14T11:04:50+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/281022"
-    },
-    {
-      "id": "bbcpersian/281021",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/D3dNHXXoN5OIdJ9u88--pQIZsKagdVkuGdQ2-gBCCk5vwc1UXvdYZcundjyPxO6qlFhiodM8bqC_KC8g4Tb_Geyph6Z5VNmOfAzk5tHGFoALlGCd2Gp4VKjzAuvHZE__EdO1yl0rBxKAQAkxHTvK9C3zGjWGSAN8RJW3jhkupT1zkQv_RNm2ehdhjLAc7lLbTN-8g1U6eo7Lhnl8ihz5OYolFHKUNdHx85CbQ0gcnBDsGeDfKjLwAQOk23hKeTRkc6KlF5fq4DAKTwPYp-bo5KqCjQwn4d1dtu_enfdG2D2Jwfo7fvIPH50F-2FeqrvECajnUCyT6RGBmBQrlKXzGw.jpg",
-      "author_photo_path": "channels/bbcpersian/media/663d89043b6f4d498c245bbf.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93BD.png')\"><b>📽</b></i>بالاخره کار حکومت‌های ایران و آمریکا به جنگ رو در رو و موشک و بمب و کشتار  کشید. بعدش هم  به مذاکره رو در رو . دستکم تا این لحظه. ولی دیپلماسی مردمی که نه در جنگ  دخالتی دارند و نه در صلح  چی هست؟ آنها می‌توانند کاری بکنند؟ <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>روزگاری آقای نادری که از آن نادره‌های دوران هست ، برای حل این بست بوجود آمده بین این طرف‌های جنگ، یک دیپلماسی خیلی خلاق را پیشنهاد کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>با دیپلماسی شکست ناپذیر آقای نادری آشنا بشید. <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93BA.png')\"><b>📺</b></i>برنامه این هفته آپارات <br>«دیپلماسی شکست ناپذیر آقای نادری» <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EAC.png')\"><b>🎬</b></i>کار مشترک بهتاش صناعی ها و مریم مقدم <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>ساعات پخش <br>جمعه ۹:۰۰ شب<br>شنبه ۶:۳۰ صبح<br>شنبه ۱۱:۰۰ صبح<br>دو‌شنبه۲:۰۰ بامداد<br>سه‌شنبه ۱۱:۰۰ صبح<br>تکرار جمعه ۱۱:۰۰ صبح<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>از برنامه آپارات همیشه فیلم متفاوت ببینید.<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "📽بالاخره کار حکومت‌های ایران و آمریکا به جنگ رو در رو و موشک و بمب و کشتار کشید. بعدش هم به مذاکره رو در رو . دستکم تا این لحظه. ولی دیپلماسی مردمی که نه در جنگ دخالتی دارند و نه در صلح چی هست؟ آنها می‌توانند کاری بکنند؟ 🔹روزگاری آقای نادری که از آن نادره‌های دوران هست ، برای حل این بست بوجود آمده بین این طرف‌های جنگ، یک دیپلماسی خیلی خلاق را پیشنهاد کرد. 🔹با دیپلماسی شکست ناپذیر آقای نادری آشنا بشید. 📺برنامه این هفته آپارات «دیپلماسی شکست ناپذیر آقای نادری» 🎬کار مشترک بهتاش صناعی ها و مریم مقدم 🔹ساعات پخش جمعه ۹:۰۰ شب شنبه ۶:۳۰ صبح شنبه ۱۱:۰۰ صبح دو‌شنبه۲:۰۰ بامداد سه‌شنبه ۱۱:۰۰ صبح تکرار جمعه ۱۱:۰۰ صبح 🔻از برنامه آپارات همیشه فیلم متفاوت ببینید. @BBCPersian",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/bbcpersian/281021",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/EiPDrYOQVLefCsfDy5TBliXgYZ0gIN-X9fcvJmPgxPCOe_goyF4q1vjPtyPJ6s1Mz3BVzQK492xbu5Z1H5LwrfDGPIJmvKBYPO9wxIYdtyA24iA4PPi-DkCCKSsOGuf49p3zV5OBd-KXa-nPUwEvVGq8_t_ThsLY4kWZsDXISLb8ohfrBHHexkoODNm1jSa2VbeHnCviWe5JnjslAaKNYyPCtUIyzixOvIkto9qqavROwGvW_QBiVnqPBJLKQxZzgY6n8Kp17R6ZMzswZoEm_q9a9LHyxVUm5Wlxwb6-DBtNTyFJzvgQ1DronTB4Mm0L2fFJ1J-IpJD2Gem3gi0VPQ",
-          "thumbnail_path": "channels/bbcpersian/media/0ae5cea601c2014b1a51add9.jpg",
-          "duration_label": "0:55",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "18.4K",
-      "posted_at": "2026-05-14T11:04:45+00:00",
-      "edited": true,
-      "permalink": "https://t.me/bbcpersian/281021"
-    },
-    {
-      "id": "bbcpersian/281020",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/D3dNHXXoN5OIdJ9u88--pQIZsKagdVkuGdQ2-gBCCk5vwc1UXvdYZcundjyPxO6qlFhiodM8bqC_KC8g4Tb_Geyph6Z5VNmOfAzk5tHGFoALlGCd2Gp4VKjzAuvHZE__EdO1yl0rBxKAQAkxHTvK9C3zGjWGSAN8RJW3jhkupT1zkQv_RNm2ehdhjLAc7lLbTN-8g1U6eo7Lhnl8ihz5OYolFHKUNdHx85CbQ0gcnBDsGeDfKjLwAQOk23hKeTRkc6KlF5fq4DAKTwPYp-bo5KqCjQwn4d1dtu_enfdG2D2Jwfo7fvIPH50F-2FeqrvECajnUCyT6RGBmBQrlKXzGw.jpg",
-      "author_photo_path": "channels/bbcpersian/media/663d89043b6f4d498c245bbf.jpg",
-      "body_html": "‌<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>کاخ سفید اعلام کرد که دونالد ترامپ و شی جین‌پینگ، در پکن توافق کردند که ایران هرگز نباید به سلاح هسته‌ای دست پیدا کند و تنگه هرمز باید باز بماند.<br><br>آمریکا این گفت‌وگوی دو ساعته را «خوب» توصیف کرده و می‌گوید که دو رهبر در حال تلاش برای تقویت همکاری‌های اقتصادی هستند.<br><br>در بیانیه کاخ سفید، رئیس‌جمهور شی همچنین «علاقه‌مندی خود را» برای خرید بیشتر نفت آمریکا ابراز کرد تا وابستگی چین به تنگه هرمز را کاهش دهد.<br><br>همچنین گفته شد که مدیران برخی از بزرگ‌ترین شرکت‌های آمریکایی هم در بخشی از این دیدار حضور داشتند.<br><br>آن‌ها همچنین درباره اهمیت پایان دادن به ورود مواد اولیه برای ساخت ماده مخدر فنتانیل به آمریکا هم صحبت کردند.<br><br><a href=\"https://bbc.in/4uHk6Rf\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4uHk6Rf</a><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B7.png')\"><b>📷</b></i>Reuters<br><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "‌🔻کاخ سفید اعلام کرد که دونالد ترامپ و شی جین‌پینگ، در پکن توافق کردند که ایران هرگز نباید به سلاح هسته‌ای دست پیدا کند و تنگه هرمز باید باز بماند. آمریکا این گفت‌وگوی دو ساعته را «خوب» توصیف کرده و می‌گوید که دو رهبر در حال تلاش برای تقویت همکاری‌های اقتصادی هستند. در بیانیه کاخ سفید، رئیس‌جمهور شی همچنین «علاقه‌مندی خود را» برای خرید بیشتر نفت آمریکا ابراز کرد تا وابستگی چین به تنگه هرمز را کاهش دهد. همچنین گفته شد که مدیران برخی از بزرگ‌ترین شرکت‌های آمریکایی هم در بخشی از این دیدار حضور داشتند. آن‌ها همچنین درباره اهمیت پایان دادن به ورود مواد اولیه برای ساخت ماده مخدر فنتانیل به آمریکا هم صحبت کردند. https://bbc.in/4uHk6Rf 📷Reuters @BBCPersian",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/281020",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/p6eRRr7jTvBGKezXQg1Ea_F2Pwc_Aoog0oHVmsRdXv9w8Is-ChEGeA2rRA6HnKUskgSX_G0ZNh-76hY2izhY6SodstVT608YRhqvPfDXi7n8XZGIrDJr-vX8ArTEVFadX2XzHiTsoNBox6M-iemQj5JvARFb42_45KwaJbYdGKagBT-sFRlEtGgswRYDGydcCNJhj4bSbvz2vYj-PyRCBOYqQWLUTQuleWa541aS27wXsR19rl1-yZZzv-PTXIeOnHuwWGHXYBgNPB5R6hujYv327J1nM5OdVYy7scW7NA_1QW4qUtdsbWeQlmYB-fLrXaYhUff5W3d4aZ3oMrrxDA.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/2bb1246a585edde375dbff4e.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "21.5K",
-      "posted_at": "2026-05-14T10:40:26+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/281020"
-    },
-    {
-      "id": "bbcpersian/281019",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/D3dNHXXoN5OIdJ9u88--pQIZsKagdVkuGdQ2-gBCCk5vwc1UXvdYZcundjyPxO6qlFhiodM8bqC_KC8g4Tb_Geyph6Z5VNmOfAzk5tHGFoALlGCd2Gp4VKjzAuvHZE__EdO1yl0rBxKAQAkxHTvK9C3zGjWGSAN8RJW3jhkupT1zkQv_RNm2ehdhjLAc7lLbTN-8g1U6eo7Lhnl8ihz5OYolFHKUNdHx85CbQ0gcnBDsGeDfKjLwAQOk23hKeTRkc6KlF5fq4DAKTwPYp-bo5KqCjQwn4d1dtu_enfdG2D2Jwfo7fvIPH50F-2FeqrvECajnUCyT6RGBmBQrlKXzGw.jpg",
-      "author_photo_path": "channels/bbcpersian/media/663d89043b6f4d498c245bbf.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>مرکز تجارت دریایی بریتانیا: یک کشتی در نزدیکی امارات تصرف شده و به سمت ایران در حرکت است<br><br>یک کشتی در نزدیکی سواحل امارات متحده عربی و حوالی تنگه هرمز «به تصرف افراد ناشناس درآمده و اکنون در حال حرکت به سمت آب‌های سرزمینی ایران است.»<br><br>مرکز تجارت دریایی بریتانیا روز پنج‌شنبه با اعلام این خبر گفت که این کشتی در فاصله حدود ۷۰ کیلومتری شمال‌شرقی فجیره به «تصرف افراد ناشناس درآمده است.»<br><br>تنگه هرمز، به عنوان حیاتی‌ترین گذرگاه انرژی جهان، یک محور مهم اختلافات ایران و آمریکاست.<br><br>پس از جنگ آمریکا و اسرائیل علیه ایران، تهرن این تنگه را مسدود کرد و آمریکا هم از ۱۳ آوریل (۲۴ فروردین) یک محاصره دریایی را بر تمام بنادر و سواحل جنوبی ایران اجرا کرده است، به‌طوری که هیچ کشتی اجازه حرکت از مبدا و به مقصد بنادر ایرانی را ندارد.<br><br>حدود ۲۰ درصد از نفت و گاز طبیعی مایع جهان از این آبراه حیاتی منتقل می‌شود که مسدود شدن آن باعث افزایش شدید قیمت‌ها در سطح جهان شده است.<br><a href=\"https://bbc.in/4fkRCIA\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4fkRCIA</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "🔻مرکز تجارت دریایی بریتانیا: یک کشتی در نزدیکی امارات تصرف شده و به سمت ایران در حرکت است یک کشتی در نزدیکی سواحل امارات متحده عربی و حوالی تنگه هرمز «به تصرف افراد ناشناس درآمده و اکنون در حال حرکت به سمت آب‌های سرزمینی ایران است.» مرکز تجارت دریایی بریتانیا روز پنج‌شنبه با اعلام این خبر گفت که این کشتی در فاصله حدود ۷۰ کیلومتری شمال‌شرقی فجیره به «تصرف افراد ناشناس درآمده است.» تنگه هرمز، به عنوان حیاتی‌ترین گذرگاه انرژی جهان، یک محور مهم اختلافات ایران و آمریکاست. پس از جنگ آمریکا و اسرائیل علیه ایران، تهرن این تنگه را مسدود کرد و آمریکا هم از ۱۳ آوریل (۲۴ فروردین) یک محاصره دریایی را بر تمام بنادر و سواحل جنوبی ایران اجرا کرده است، به‌طوری که هیچ کشتی اجازه حرکت از مبدا و به مقصد بنادر ایرانی را ندارد. حدود ۲۰ درصد از نفت و گاز طبیعی مایع جهان از این آبراه حیاتی منتقل می‌شود که مسدود شدن آن باعث افزایش شدید قیمت‌ها در سطح جهان شده است. https://bbc.in/4fkRCIA @BBCPersian",
-      "media": [],
-      "reactions": [],
-      "views_label": "26.1K",
-      "posted_at": "2026-05-14T08:31:43+00:00",
-      "edited": true,
-      "permalink": "https://t.me/bbcpersian/281019"
     }
   ]
 }

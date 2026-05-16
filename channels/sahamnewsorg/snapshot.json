@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-16T11:19:55.856Z",
+  "fetched_at": "2026-05-16T14:43:45.207Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
@@ -11,6 +11,200 @@
   },
   "posts": [
     {
+      "id": "sahamnewsorg/141818",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>شلیک با اسلحه به پرچم امارات !در برنامه زنده صداوسیما! @Sahamnewsorg",
+      "plain_text": "✅شلیک با اسلحه به پرچم امارات !در برنامه زنده صداوسیما! @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/141818?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/kzoT2v47BlJW2hTjqxRk4dmWgvPYEwIVCrKhU1L0AxeN7S3sAe5L2rIwCeUF2SuvLBH7aHBMEH4lIDU_dC_xvKBitLLLPgt3ddMWYxYCbj8JnpYNwr0XZMdKajfjPudz0LgutQ0tXh9P9_Q9PrJPtvi7pFAxX0qn-rPuCzUCeq2YLIEsP5-EZkeKu5uJPmfBrtBmvgvz69T6nuFA3XwidZuifO_BUT8WYuD1RQydOpVh_dc9sWN5wur6jXfvkROhw6VWlbvZIgJxyEiC2MwiRpG9mN9VYnKAL5nkaIWmX1pbOIgGLWHGd8N9_DbY8Rx1VqAjb4zJlPyodnW1C0uOTw.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/447a6ad68c6f80723de6a032.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7167381974249
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/141819?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Ha-NESEDzE9FT9bICMDOK-lgUz9KzeMjpkHPvhWLt0DiInxjCStBFwZlj0Ed6mqBvk0tBB0CUrhd3InV7lxPDt0fkn5RMK-iW9QSOqsfGW8HhXqRjnw4rJn6oUFjGFV5Wv1FosX4XMXx48UzfpzexTLdBMq5T4ur2RzUU_HbEvkzr82KILo7f8SD8jWPwrCReVWcPI_JVv20HcsgdwTRY7x-_cTzPB6IBuRXB8WGbKxJMIraNT8DVq79yULfCTF8Bu82dm54TO3DCazS9Do3WfHuS-x8YaRxHg7BWqHAxF6x1LpbQFY7MyN7iL0d0xEcj_6_0BiT94fFfxLdWGQA_A.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/b12b24201461b888f42ea1bd.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7817371937639
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/141820?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/QVqkcgjQi8_twDQ6cy897oPa7tTfutrABsGJQdfVBo6wVDqm0PEU-2aCmmgSRJ-yvj9c2XCduzM7uumW99FGk5Q21aqb-424XIUWw6LaYKNIP53Y5h1auvLOE6hZRyGGgKOzQdszjKkZg-vaF5CziUp0UjgC3onHpq9hNpd41ayRYZYq5ZtqXxv7Ea8NfdlJ4rH99JMqIzqvoa-bVwp0uIRGTS69_RL69FxBi6axaU2lQlbV4TBNEeN3wqVkGZdMpArLJNNM7iu2KxWdJ17Tqjr2rkcBvIK5RDXDtAbvFPn-6EFSA9m_55xmb4h56-atk2fdV6-kZIXBaW1dfbp06w.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/4e18e00cf7e2a3d2cd25b6a1.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7391304347826
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.36K",
+      "posted_at": "2026-05-16T14:37:21+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/141818"
+    },
+    {
+      "id": "sahamnewsorg/141817",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>شلیک </b>با اسلحه به پرچم امارات !<b>در برنامه زنده صداوسیما!<br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅شلیک با اسلحه به پرچم امارات !در برنامه زنده صداوسیما! @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/sahamnewsorg/141817",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/RJNqLQ5B8BK7iGqFJD9Ud7lPKYzUD5cxxbcYL21gbHlB0ttS93apHGkWVxxkiKpGd0NfH0HGcky4WwZU0yw7AA1Qut0EMNK-bGTjGDpqzpI16vo6eQs3igd1-umAVIG7lJdLIB9MIQvbirrlF85aj44kC1g_hEwZePkQy3MVdjQhEpGxExQI-3ECm_Nw3g5Vaxrd6Bun-xY8s9nUTFis7VkYgglBQCzFasGSeUsu_5RscknrpIQMRw6jS8Gw5nqC_GaEINpyM78BUPUf4tvKUsoT35HeXzVv8C2DMHXahk8A4tn6b0TbAj0Q33097-NLE3EHNaJUn8Gdnz-qL3EHJA",
+          "thumbnail_path": "channels/sahamnewsorg/media/dfbc660de5c2eefcf98c910e.jpg",
+          "duration_label": "1:19",
+          "aspect_ratio": 1.7877094972067038
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.3K",
+      "posted_at": "2026-05-16T14:31:05+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141817"
+    },
+    {
+      "id": "sahamnewsorg/141816",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>کانال ۱۲ اسرائیل مدعی شد : ترامپ بزودی با اعضای کابینه خود جلسه اضطراری برای پایان دادن به اوضاع ایران برگزار میکند.<br>حمله و تقابل سوم قریب الوقوع و بسیار نزدیک است <br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅کانال ۱۲ اسرائیل مدعی شد : ترامپ بزودی با اعضای کابینه خود جلسه اضطراری برای پایان دادن به اوضاع ایران برگزار میکند. حمله و تقابل سوم قریب الوقوع و بسیار نزدیک است @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "4.03K",
+      "posted_at": "2026-05-16T14:18:40+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/141816"
+    },
+    {
+      "id": "sahamnewsorg/141815",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>جسی واترز؛ مجری فاکس نیوز: <br>شواهد نشون میده که ترامپ در حال آماده‌شدن برای دور جدیدی از حملات نظامی به ایرانه.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅جسی واترز؛ مجری فاکس نیوز: شواهد نشون میده که ترامپ در حال آماده‌شدن برای دور جدیدی از حملات نظامی به ایرانه. @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "4.25K",
+      "posted_at": "2026-05-16T14:17:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/141815"
+    },
+    {
+      "id": "sahamnewsorg/141814",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>وزیر کشور پاکستان در سفری ازپیش اعلام نشده وارد تهران شد!<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅وزیر کشور پاکستان در سفری ازپیش اعلام نشده وارد تهران شد! @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "4.22K",
+      "posted_at": "2026-05-16T14:16:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/141814"
+    },
+    {
+      "id": "sahamnewsorg/141813",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>به دستور ممدانی شهردار نیویورک، ۴۰۰ موتور سیکلت این شهر که رانندگان آن ها از کلاه ایمنی استفاده نمی‌کردند منهدم شدند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>به گفته وی، این کار در راستای تقویت فرهنگ استفاده از کلاه ایمنی انجام شده است.<br><br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅به دستور ممدانی شهردار نیویورک، ۴۰۰ موتور سیکلت این شهر که رانندگان آن ها از کلاه ایمنی استفاده نمی‌کردند منهدم شدند. 🔹به گفته وی، این کار در راستای تقویت فرهنگ استفاده از کلاه ایمنی انجام شده است. @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/sahamnewsorg/141813",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/av7VVJJ8yVkUMqh3OMImKmR7MSybv32d9H7ibJ-w8Lov26CivwAvYbsHaVRnUS4xMMI2mF5hJiQC80T2fYliwlhorGo1_O-fnrxciI4eYYJ1X4vWOOUXAx7RiRKCmt51QESAaaxuaIAyFMpjDvU5C3qOR6JqMV1Md3u_aoH5FniivwUssaH5Zi00e_q6aW_y3BRhMvdhU6nW3mIrFxSfL3_eqooo-zeWbzXhqNU9pEHNcVMF7qZFWUYz6Ip9w-jJlqmIw4-JspmQCi6SSI7HVVmJdceQ6zcZ17rI6veWK6wQskKPigNaJlmNgVkgrraauYLpNK0zk638Tcp3MJU6zA",
+          "thumbnail_path": "channels/sahamnewsorg/media/b3857adde64d02b4fb520674.jpg",
+          "duration_label": "0:18",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "7.26K",
+      "posted_at": "2026-05-16T13:40:28+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141813"
+    },
+    {
+      "id": "sahamnewsorg/141812",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>تعدادی از رسانه های آمریکایی دارن به نقل از مقامات دولتی این کشور که اسمشون برده نشده میگن قراره تا چند روز دیگه آمریکا دوباره به ایران حمله کنه.  روشن نیست که اینا جنگ روانیست یا تلاشی دوباره برای حل مسئله با زور نظامی.سیاوش اردلان<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅تعدادی از رسانه های آمریکایی دارن به نقل از مقامات دولتی این کشور که اسمشون برده نشده میگن قراره تا چند روز دیگه آمریکا دوباره به ایران حمله کنه. روشن نیست که اینا جنگ روانیست یا تلاشی دوباره برای حل مسئله با زور نظامی.سیاوش اردلان @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "7.85K",
+      "posted_at": "2026-05-16T13:32:26+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/141812"
+    },
+    {
+      "id": "sahamnewsorg/141811",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>۲۰ حمله تروریستی در کانادا و اروپا برای توقف جنگ با ایران؛ متهم عراقی در آمریکا محاکمه می‌شود<br><br>یک شهروند عراقی به اتهام طراحی و اجرای ۲۰ حمله تروریستی در کانادا و اروپا علیه منافع آمریکا و اسرائیل توسط اف‌بی‌آی بازداشت و پس از انتقال به آمریکا در دادگاه فدرال منهتن حاضر شد. بنابر اسناد وزارت دادگستری آمریکا، این فرد عضو کتائب حزب‌الله بوده و پیش‌تر با قاسم سلیمانی همکاری نزدیک داشته است.<br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅۲۰ حمله تروریستی در کانادا و اروپا برای توقف جنگ با ایران؛ متهم عراقی در آمریکا محاکمه می‌شود یک شهروند عراقی به اتهام طراحی و اجرای ۲۰ حمله تروریستی در کانادا و اروپا علیه منافع آمریکا و اسرائیل توسط اف‌بی‌آی بازداشت و پس از انتقال به آمریکا در دادگاه فدرال منهتن حاضر شد. بنابر اسناد وزارت دادگستری آمریکا، این فرد عضو کتائب حزب‌الله بوده و پیش‌تر با قاسم سلیمانی همکاری نزدیک داشته است. @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/141811",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/TQk6mQ_uW72siytUazPqB7cOydFem1QPwGMozkZtEH9M1lzA34fjnQ3QYXCFbHcV2oDY0KnT6h_QOTuCRS_oDcnpe0ffk3r6-E6NII2sxq2TH1u9H3Rmx1OUiyh5HkCqHVdK80CDPnfAsB4rZzQXOrwXBhrJFcuBsYFd7wrtTckPFv5x5oAesg3Z4Ovkk91guujMTiYnF5UUTKlSYdSaTJ-wXhEeVveNTngNZA0mBj-XO8HKU9rA_p6613XCLEpEfmumUAPqPH-hbGh1WQovlisX2mhcRXMT-eo2g-5jOj1StXp4iTCAIKlexsWL9IVdieBzhuodMepZ1kvADb3Hkg.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/f04b35e25ed475a7dde549ea.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "7.88K",
+      "posted_at": "2026-05-16T13:31:12+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141811"
+    },
+    {
+      "id": "sahamnewsorg/141810",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>ابطحی: اگر ‌مجتبي خامنه‌ای انتخاب نمی‌شد جنگ داخلی قطعی بو‌د<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98B3.png')\"><b>😳</b></i><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>پ ن: با اين تفسير اگر هر زمان مجتبي كشته يا فوت شود كشور گرفتار جنگ داخلي ميان نيروهاي مسلح خود حاكميت مي شود.<br>مردم ايران </b>هر موقع <b>اعتراض مدني كردند توسط خامنه اي و اراذل حكومت به بدترين صورت قتل عام و سركوب شدند<br><br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅ابطحی: اگر ‌مجتبي خامنه‌ای انتخاب نمی‌شد جنگ داخلی قطعی بو‌د😳 🔻پ ن: با اين تفسير اگر هر زمان مجتبي كشته يا فوت شود كشور گرفتار جنگ داخلي ميان نيروهاي مسلح خود حاكميت مي شود. مردم ايران هر موقع اعتراض مدني كردند توسط خامنه اي و اراذل حكومت به بدترين صورت قتل عام و سركوب شدند @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/sahamnewsorg/141810",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/d91pSvEKJgODmA08wnwQ5HG_KUIXsCbcMWFhbtDaG3ZvFv4yyEiYT6qhhcBn9mW8tGblR92c_yY8eTW4Ki7q8sgHQ7WTcBDvyMQXhYXPnVbztra2LYnyDYdCm69YH6BZUpgcfB4c_rUrbKimVR9a5D6fth0p-yoLNXNlJO71WMqg1NGP8hxBGofGLyi4nT3UgRPQPKVoIQQ5AMNVnubJFFYmvS-XXq7-lIrEfEL7OqeEnbW2ZJrJD1olqdqtUczIh7CbVJQO1LfvaT-Fb7cM1ubH_lTE9Lu9XXtLpu73F3lBsj60IVJ9gg51ER7r_KC4z6jDZWnp9oG6ovCsfrfE3w",
+          "thumbnail_path": "channels/sahamnewsorg/media/b115b74378fb8917bd3c9de9.jpg",
+          "duration_label": "0:26",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "10.4K",
+      "posted_at": "2026-05-16T12:55:56+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141810"
+    },
+    {
       "id": "sahamnewsorg/141809",
       "author_name": "سهام نیوز",
       "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
@@ -19,7 +213,7 @@
       "plain_text": "✅رييس و اعضاي كميسيون امنيت مجلس چيزي از سياسيت و مذاكره نمي فهمند ✍️محمد مهاجري یکی از نمایندگان قم گفته:مجلس که باید در راس امور باشد در 80روز گذشته تعطیل بوده و به همین دلیل پیامهای اعتراضی فراوانی به او رسیده است. 🔸به این نماینده محترم متصف به ویژگیهای پایداریچی ها عرض می‌کنم اگر می‌خواهد واقعا بداند مردم چقدر از تعطیلی مجلس و اظهارنظرهای امثال او و مصوبات مجلس نگرانند، یک روز در میدان بهارستان و روبروی مجلس بایستد و از 100 رهگذر بپرسد که چقدر دلشان برای سخنان او و همقطارانش ومصوباتی مثل \"طرح صیانت\" و \"عفاف وحجاب\" تنگ شده؟ اگر واقعا و خداوکیلی 5نفر از ان 100نفر دلشان تنگ شده بود ،این نماینده خواستار تشکیل جلسات شود و نمایندگان همفکرش را به درافشانی فرا بخواند. خود او می داند که از بین ان 100نفر حتی یک نفر هم با او همنظر نخواهد بود. ضمنا پیامهایی را که به او رسیده و از تعطیلی مجلس نگران شده اند با ذکر نام فرستنده منتشر کند تا شفاف سازی شود! 🔸در روزها و هفته های اخیر بعضی نمایندگان از جمله رئیس و سخنگو و اعضای کمیسیون‌امنیت ملی در مصاحبه های خود حرفهایی در باره جنگ و... زده اند که نشان می‌دهد واقعا چیزی از سیاست و جنگ و امنیت و مذاکره نمی‌دانند و فقط برای کشور هزینه می‌تراشند. محتوای بیشتر اظهارنظرها این است که \"من هم هستم\"! 🔸 مهم اینکه چندنماینده عضو این کمیسیون که منافع ملی را درک می‌کنند کاملا سکوت کرده یا بسیار کم سخن گفته اند. اکثریت نمایندگان هم از هزینه افزایی برای کشور خودداری کرده اند که دم شان گرم. 🔸و بالاخره اینکه قبول کنیم مردم ، حال نمی کنند با مااصولگراها . @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "9.31K",
+      "views_label": "16.8K",
       "posted_at": "2026-05-16T08:37:39+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141809"
@@ -43,7 +237,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "10.8K",
+      "views_label": "17.1K",
       "posted_at": "2026-05-16T08:01:16+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141808"
@@ -67,7 +261,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "12.8K",
+      "views_label": "18.2K",
       "posted_at": "2026-05-16T07:01:01+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141807"
@@ -91,7 +285,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "13.5K",
+      "views_label": "18.4K",
       "posted_at": "2026-05-16T06:40:48+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141806"
@@ -105,7 +299,7 @@
       "plain_text": "✅ادعای آمریکا: دستگیری محمدباقر الساعدی، رهبر حزب‌الله عراق و انتقال او به ایالات متحده 🔸وزارت دادگستری آمریکا مدعی شد: الساعدی به دلیل فعالیت‌هایش با گردان‌های حزب‌الله عراق و سپاه پاسداران ایران با شش اتهام روبه‌رو است. الساعدی متهم است که دیگران را به حمله به منافع آمریکا و اسرائیل هدایت کرده است. @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "20.9K",
+      "views_label": "23.1K",
       "posted_at": "2026-05-15T22:13:01+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/141805"
@@ -119,7 +313,7 @@
       "plain_text": "✅ایلان ماسک: اینستاگرام برای دختران است. هر وقت که آقایان اینستاگرام‌شان را برایم می‌فرستند، می‌پرسم درحال تغییر جنسیت هستید؟ @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "21K",
+      "views_label": "23.1K",
       "posted_at": "2026-05-15T21:52:53+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/141804"
@@ -133,7 +327,7 @@
       "plain_text": "✅ادعای نیویورک‌تایمز: دو مقام خاورمیانه‌ای ادعا کردند که آمریکا و اسرائیل در حال آماده‌سازی گسترده برای احتمال ازسرگیری حملات علیه ایران هستند؛ آماده‌سازی‌ای که بزرگ‌ترین سطح از زمان آتش‌بس محسوب می‌ شود؛ این حمله ممکن است از هفته آینده آغاز شود. @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "21.1K",
+      "views_label": "23.1K",
       "posted_at": "2026-05-15T21:40:01+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/141803"
@@ -157,7 +351,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.7K",
+      "views_label": "22.7K",
       "posted_at": "2026-05-15T21:34:49+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141802"
@@ -181,7 +375,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "20.8K",
+      "views_label": "22.6K",
       "posted_at": "2026-05-15T21:24:01+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141801"
