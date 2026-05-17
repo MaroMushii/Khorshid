@@ -1,20 +1,292 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-16T22:33:27.165Z",
+  "fetched_at": "2026-05-17T07:46:04.963Z",
   "channel": {
     "username": "sahamnewsorg",
     "title": "سهام نیوز",
     "description_html": "پایگاه خبری سهام نیوز <br><a href=\"http://www.sahamnews.org/\" target=\"_blank\" rel=\"noopener\">www.sahamnews.org</a><br>info@sahamnews.org<br><a href=\"http://www.fb.com/sahamnews.org\" target=\"_blank\" rel=\"noopener\">www.fb.com/sahamnews.org</a><br><a href=\"http://www.instagram.com/sahamnewsorg\" target=\"_blank\" rel=\"noopener\">www.instagram.com/sahamnewsorg</a>",
-    "photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
-    "photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+    "photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+    "photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
     "subscriber_count": "217K"
   },
   "posts": [
     {
+      "id": "sahamnewsorg/141849",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>ونزوئلا اعلام کرد که الکس صائب را که از نزدیکان رئیس جمهور سابق نیکولاس مادورو بود و رابط حزب الله و سپاه پاسداران در کاراکاس محسوب می‌شود، به ایالات متحده تحویل داده است.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅ونزوئلا اعلام کرد که الکس صائب را که از نزدیکان رئیس جمهور سابق نیکولاس مادورو بود و رابط حزب الله و سپاه پاسداران در کاراکاس محسوب می‌شود، به ایالات متحده تحویل داده است. @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/141849",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/brKnoH8fgkBuPh6E8JvLaCmrW7S1642ulQTG1ZK-FvBq4Fvd90UUg9HlJ-EnD9id20sMfXze0606_pLvnWbJBEDLk9T8CLjCA4KCRJ-rdMVwfsb05nwLeOqhBA95822TeDzxVttx42O2rCvqcknxcCZrDmIKCQdkMkfmmBKt0TRIL8keO8HtGqUOLfWPdKccS9tkI3M5TiVx4SL4KuE0_K-vuutvrsqwzgHNKZyEEERwlrgEobQdu8L8zmm08QCSfKmjiB3j_8vYLkV0busidRYMp5mkRwiyEBuo_2-Jx0iIGraLbZvjsMjmHJBb7cJnKng-r2J0oMEkMzpXnI017w.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/87bd8a386f7662b1ff46e78b.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.288244766505636
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.18K",
+      "posted_at": "2026-05-17T07:30:07+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141849"
+    },
+    {
+      "id": "sahamnewsorg/141848",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>معاون وزیر خارجه روسیه:<br>آمریکا و اسرائیل ممکن است در روزهای آینده، اگر نه در ساعت‌های آینده حملات نظامی علیه ایران را از سر بگیرند.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅معاون وزیر خارجه روسیه: آمریکا و اسرائیل ممکن است در روزهای آینده، اگر نه در ساعت‌های آینده حملات نظامی علیه ایران را از سر بگیرند. @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "3.31K",
+      "posted_at": "2026-05-17T07:20:30+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/141848"
+    },
+    {
+      "id": "sahamnewsorg/141847",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>کیهان: احتمال بروز جنگ اسرائیل و امریکا علیه ایران در زمانی نه چندان دور وجود دارد؛ آن هم جنگ فرسایشی /دشمن شانسی در آن ندارد<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅کیهان: احتمال بروز جنگ اسرائیل و امریکا علیه ایران در زمانی نه چندان دور وجود دارد؛ آن هم جنگ فرسایشی /دشمن شانسی در آن ندارد @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "3.47K",
+      "posted_at": "2026-05-17T07:18:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/141847"
+    },
+    {
+      "id": "sahamnewsorg/141846",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>عربستان: شعارهای سیاسی در مراسم حج ممنوع است<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>وزارت کشور عربستان سعودی بر ممنوعیت برافراشتن پرچم‌های سیاسی و مذهبی و سردادن هرگونه شعار در تمامی اشکال آن در داخل شهر مکه مکرمه، مدینه منوره و مکان‌های مقدس از جمله مسجدالحرام و مسجدالنبی و صحن‌ها و راه‌های منتهی به آن‌ها تاکید کرد.<br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅عربستان: شعارهای سیاسی در مراسم حج ممنوع است 🔹وزارت کشور عربستان سعودی بر ممنوعیت برافراشتن پرچم‌های سیاسی و مذهبی و سردادن هرگونه شعار در تمامی اشکال آن در داخل شهر مکه مکرمه، مدینه منوره و مکان‌های مقدس از جمله مسجدالحرام و مسجدالنبی و صحن‌ها و راه‌های منتهی به آن‌ها تاکید کرد. @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/141846",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/a37xi0qZK1bNT9av1e7HewuYiagGfOgKr5hmhtQ438VJuPaxbSs0UX1IrJ_KFpgDO8vQPwJ18a0DRQZjxyYMfWwWFpe6NFvU6_hVOWKIwySWoXaLktdAxr9vkZ8BwVcTTm6dQDME0jp48UbcOSQ4PeB6A8bGYlkme1SqfnS6dPCRroCq_a80fxe8Ujq0VFmNXF-JF1IzvY-f0EFEH-9UkaEJ-Fdao5l0BuiUx7BbHjphDU1jihjZAHwlPBWcva9ijbTN2lJ0MSgna7pPoQDtHLMVWSgRlU79UQXBOEVHCvYu-xFUUzYX4W8EAtgOYy9_Rzw1xzcZVTEjopPD37aQcQ.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/d2feea743907cef158835830.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.6227180527383367
+        }
+      ],
+      "reactions": [],
+      "views_label": "3.98K",
+      "posted_at": "2026-05-17T07:14:19+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141846"
+    },
+    {
+      "id": "sahamnewsorg/141845",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>سی‌ان‌ان: ایران به کابل‌های اینترنتی تنگه هرمز چشم دوخته است<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>ایران که در جریان جنگ با کنترل تنگه هرمز بر بازار انرژی فشار وارد کرد، اکنون به سراغ شریان پنهان دیگری از اقتصاد جهانی رفته است: کابل‌های زیردریایی که اینترنت و تراکنش‌های مالی میان اروپا، آسیا و خلیج فارس را منتقل می‌کنند. مقامات ایرانی پیشنهاد داده‌اند شرکت‌هایی مانند گوگل، مایکروسافت، متا و آمازون برای عبور کابل‌های خود از این مسیر «عوارض» پرداخت کنند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>تحلیلگران می‌گویند چندین کابل بین‌قاره‌ای از این تنگه عبور می‌کنند و دو کابل مهم، Falcon و GBI، حتی از آب‌های سرزمینی ایران می‌گذرند. هرچند این مسیرها کمتر از ۱٪ از پهنای باند بین‌المللی جهان را تشکیل می‌دهند، اما هرگونه اختلال می‌تواند ارتباطات بانکی، زیرساخت‌های ابری و تجارت دیجیتال میان اروپا و آسیا را مختل کند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>به گفته کارشناسان، تهران با برجسته کردن این اهرم جدید تلاش می‌کند نشان دهد علاوه بر انرژی، بر یکی از حساس‌ترین زیرساخت‌های اقتصاد دیجیتال جهان نیز نفوذ بالقوه دارد.<br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅سی‌ان‌ان: ایران به کابل‌های اینترنتی تنگه هرمز چشم دوخته است 🔹ایران که در جریان جنگ با کنترل تنگه هرمز بر بازار انرژی فشار وارد کرد، اکنون به سراغ شریان پنهان دیگری از اقتصاد جهانی رفته است: کابل‌های زیردریایی که اینترنت و تراکنش‌های مالی میان اروپا، آسیا و خلیج فارس را منتقل می‌کنند. مقامات ایرانی پیشنهاد داده‌اند شرکت‌هایی مانند گوگل، مایکروسافت، متا و آمازون برای عبور کابل‌های خود از این مسیر «عوارض» پرداخت کنند. 🔹تحلیلگران می‌گویند چندین کابل بین‌قاره‌ای از این تنگه عبور می‌کنند و دو کابل مهم، Falcon و GBI، حتی از آب‌های سرزمینی ایران می‌گذرند. هرچند این مسیرها کمتر از ۱٪ از پهنای باند بین‌المللی جهان را تشکیل می‌دهند، اما هرگونه اختلال می‌تواند ارتباطات بانکی، زیرساخت‌های ابری و تجارت دیجیتال میان اروپا و آسیا را مختل کند. 🔹به گفته کارشناسان، تهران با برجسته کردن این اهرم جدید تلاش می‌کند نشان دهد علاوه بر انرژی، بر یکی از حساس‌ترین زیرساخت‌های اقتصاد دیجیتال جهان نیز نفوذ بالقوه دارد. @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/141845",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/W1-C6E8OVHC4_LH-QbN9-Z8y_Pk6-TnXZfBDPcQcctVZHmgSWxTm6uSUBRKOEekcGEnJ40-7_GguaKXF2StGB-ba3KshwLtqrnnh9y3DZZaMkP7APb3k9BZuzljelzP3pSnPkR2C0QRtyn4M8YE9gkhT4qx4v4GKqPqVbs4dsrg-NGqSn_Q0SJBy0BU4J9HAyaWU-US0sEoDkeI3QZUda2TRWT_VQO56P7XknYGUbIxFrLdAiBJSlU-TBYFE_xgLLIjMEDLPX_03agN2dW56CcIEGNxOArmhzggk4uLJo6ZN7UJ1FVI3bJT6rWza8hA00EnwwG38MAGMd8tXEz-6-g.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/9d23e27e702d08283036f8d7.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "4.39K",
+      "posted_at": "2026-05-17T07:08:41+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141845"
+    },
+    {
+      "id": "sahamnewsorg/141844",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>دیلی میل: نخست وزیر انگلیس استعفا می‌دهد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>دیلی میل گزارش داد استارمر نخست وزیر انگلیس در بحبوحه شورش فزاینده در حزبش، به نزدیکانش اطلاع داده است که قصد استعفا دارد.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>بیش از ۹۰ نماینده مجلس از حزب کارگر در روزهای اخیر خواستار استعفای او شده‌اند.<br><br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅دیلی میل: نخست وزیر انگلیس استعفا می‌دهد 🔹دیلی میل گزارش داد استارمر نخست وزیر انگلیس در بحبوحه شورش فزاینده در حزبش، به نزدیکانش اطلاع داده است که قصد استعفا دارد. 🔹بیش از ۹۰ نماینده مجلس از حزب کارگر در روزهای اخیر خواستار استعفای او شده‌اند. @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/141844",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/b1y166J1LzV7QXSqeQQnp8WU2nGK6iD1iEWykkt1jvwjuce6uOWCTt0U7tuc1MTZg2cf_r9n5BJZ-KN4Nl-DECusn-dYU9Dczee8KDPgHCRq1vU73gIx2rcimRA0xfvJM_kRODGv-XUP8UuqJ8CBxFZgSAAR53FB317ItF6zTuudc1Xl3lEImJyyvmsRHckjgbSbhr3XWIAefypJFg5ncx2SArB8dKdftJrwnGLP4mLamZm89hvswuZAtf9YFtCjMzDDMZJwYv9YshuyBnkxyt0mEIj9uS0lmsleLighKH7glKGFMHBTHMotVEefnbjIEwGTAHIfWhCqvFDsWtzpYg.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/993f98fec1e81f20812d727d.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "4.34K",
+      "posted_at": "2026-05-17T07:05:01+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141844"
+    },
+    {
+      "id": "sahamnewsorg/141843",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>فعالیت غیرمعمول امروز هواپیماهای باری برای سوخت رسانی به جنگنده‌ ها در منطقه خاورمیانه!<br><br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅فعالیت غیرمعمول امروز هواپیماهای باری برای سوخت رسانی به جنگنده‌ ها در منطقه خاورمیانه! @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/sahamnewsorg/141843",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/M1h-5vWlYAqqLtoDwDgCVhsvtY0XXmQCfYJ0SANPKl-dmS8dZVl1UasYgnqGYv5TjUVPH8prQn1oZ_M86pm8PZpRx0Abtn0MgLOvsfP97u3Cihdf5odVBHiLhPsWzcieAykwG3hSZZ7NmTKLZZ5lLDP3_Bj0uny621jqpnXwRj-gFcRZtXGAXiTfWaP2rf8yHduJU4oIweSvbCiDeou-JzxPvlGIzFhm6G66_TahTamHXuVrp475lDtUZlQCRqoQ44w2tVeZoDr84ghnz-LugIotIBNwLWwTUCfcpUMap8qBrnhnYSKr0vJoopnFPpGzMrze_Vhcj-3zsi2dHhdOHg",
+          "thumbnail_path": "channels/sahamnewsorg/media/74c6aa346697193c8a08490e.jpg",
+          "duration_label": "0:36",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "5.17K",
+      "posted_at": "2026-05-17T06:55:29+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141843"
+    },
+    {
+      "id": "sahamnewsorg/141842",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>بارش برف بهاری در روستای قزلسوری چالدران/آذربایجان غربی <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹️</b></i> بارش ناگهانی برف در روستای قزلسوری چالدران، چهره‌ای زمستانی به این منطقه بخشید و دمای هوا را به‌طور محسوسی کاهش داد.<br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅بارش برف بهاری در روستای قزلسوری چالدران/آذربایجان غربی 🔹️ بارش ناگهانی برف در روستای قزلسوری چالدران، چهره‌ای زمستانی به این منطقه بخشید و دمای هوا را به‌طور محسوسی کاهش داد. @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/sahamnewsorg/141842",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ZShvc4apc3UHsuvXW1RwmRS2AkbwsXRF7y7y5d30_CnWt7Mem8XImuortH5009uttbDu-AlyxpqqkRJsxNwLlXiKVWlrX0lKO10YjdfY0mO-mOZ9xYpDzR5ii6RdYYYHNyDZqbMs0K9wuR7aNB7SBlMDWrIrww7qIIWlCuXxsxejuA5go0VuAPyyJOeJwLz2KW49a3z1-9IWdNqaBtG_Bn48mggHS90KDLVOCKvEZBJ2KhyfKypvhCbydpxgdu6c9Bs-bxcTekgQEk7ppQPaCeDcF0QSIvJ8BSAidcF23aJrg9TYfhUC4M9WXIM6IGj3c4mNWZgqyti4LPfgZqWQMA",
+          "thumbnail_path": "channels/sahamnewsorg/media/79895ac25bf36bc59da932d8.jpg",
+          "duration_label": "0:08",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "5.79K",
+      "posted_at": "2026-05-17T06:45:50+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141842"
+    },
+    {
+      "id": "sahamnewsorg/141841",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>تابلویی در ساحل تنگه هرمز نصب شده که روی آن نوشته شده «ورود سربازان و سگ‌های آمریکایی ممنوع!<br><br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅تابلویی در ساحل تنگه هرمز نصب شده که روی آن نوشته شده «ورود سربازان و سگ‌های آمریکایی ممنوع! @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/141841",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/BZsgLng1TgG2vH-1ZCRZyZO9yZQKpgT6B03LmSBgP6WGfIbaWU0AU5F3Bfrmv3wHNpTFbfNC1UbEKGamtq9aB7-QzdkVaGT6PPEWMHU8_T-3SbfpXDlc-yi32yzp8EL32qlRH22Dbscf9JlZJS8tz90bzICmDABVGq_E7ilTiosCDLkAXPn7fNxfcKeDbYzSa2K8ph1BnKQcSgzHPbiT6frkW71FHDVAdkuS1cm30EoZk2OqjTm9uf4oUeXyrjZw-tIzvlxw2NXydR6uCGAVxZ2cnr_vk3Py0yHYN3sS0kgWfyWYeDo85N_cwn8u5P-QKbysnByl9K5ZYlghxXofdQ.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/216dab174a592619be5bff05.jpg",
+          "duration_label": null,
+          "aspect_ratio": 1.5355086372360844
+        }
+      ],
+      "reactions": [],
+      "views_label": "6.53K",
+      "posted_at": "2026-05-17T06:35:01+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141841"
+    },
+    {
+      "id": "sahamnewsorg/141840",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>برادر خسرو علیکردی بازداشت شد  صابرین نیوز از بازداشت «جواد علیکردی» به‌دلیل همراهی با جریانات معاند و  برهم‌زدن نظم عمومی خبر داد.  صابرین مدعی شد جواد علیکردی باوجود انتشار فیلم مداربسته از محل کار و نمایش لحظۀ فوت برادرش، به شایعه‌سازی دربارۀ نحوه مرگ…",
+      "plain_text": "✅برادر خسرو علیکردی بازداشت شد صابرین نیوز از بازداشت «جواد علیکردی» به‌دلیل همراهی با جریانات معاند و برهم‌زدن نظم عمومی خبر داد. صابرین مدعی شد جواد علیکردی باوجود انتشار فیلم مداربسته از محل کار و نمایش لحظۀ فوت برادرش، به شایعه‌سازی دربارۀ نحوه مرگ…",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/sahamnewsorg/141840",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/S0JwbZ2ybeJNQq5JR56bDGaE6Ye4hUgCMwqi07Q5Xw6Sve_dq2ruteGKftCx_fKf1mwEMrH1EY8jLgVkGXoY-_-OcDAGDTyU3IuqZsGIhAiRHXqEZdj8IQPlpXSLm2kaIcV8G1yG5ZFL4SgW7c87ob_HqyU5OAhrhl6-T83rn5FCx08I00fxa2eLziMSAHZt1rbpfzKG38gGCMbqyYT_omXPrCObNUqsAPK_ayB2ndgJbB2-Mo0cTb3y408bIIsYW04SQ1tZ1Zt3LHRJE2fh5KiyUkHrLG_XQPIqBeJJbIonLE3EaaYT3F86_US-JTJ-leJiaYfEC4CXvZtNC2fkLg.jpg",
+          "thumbnail_path": "channels/sahamnewsorg/media/161fd34d1754d2a7fc3843e8.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.9097744360902323
+        }
+      ],
+      "reactions": [],
+      "views_label": "7.22K",
+      "posted_at": "2026-05-17T06:25:26+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141840"
+    },
+    {
+      "id": "sahamnewsorg/141839",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>بریکس حاضر نشد جنایت اسرائیل و آمریکا علیه ایران را محکوم کند</b><br><br>روزنامه جمهوری اسلامی نوشت: دولت سیزدهم عضویت ایران در بریکس را با تبلیغات گسترده به عنوان یک دستاورد مهم معرفی کرد. اکنون مشخص شده این بزرگنمایی‌ها با واقعیت عملکرد بریکس فاصله دارد.  <br><br>در اجلاس هند، این سازمان حاضر نشد تجاوز آمریکا و اسرائیل علیه ایران را در بیانیه پایانی محکوم کند.  <br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅بریکس حاضر نشد جنایت اسرائیل و آمریکا علیه ایران را محکوم کند روزنامه جمهوری اسلامی نوشت: دولت سیزدهم عضویت ایران در بریکس را با تبلیغات گسترده به عنوان یک دستاورد مهم معرفی کرد. اکنون مشخص شده این بزرگنمایی‌ها با واقعیت عملکرد بریکس فاصله دارد. در اجلاس هند، این سازمان حاضر نشد تجاوز آمریکا و اسرائیل علیه ایران را در بیانیه پایانی محکوم کند. @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "7.45K",
+      "posted_at": "2026-05-17T06:20:27+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/141839"
+    },
+    {
+      "id": "sahamnewsorg/141838",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
+      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>تورم نقطه به نقطه خوراكي ها بيش از ١١٥ درصد است<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>داده‌های مرکز آمار از تورم فروردین ۱۴۰۵ از ثبت رکوردهای کم‌سابقه حکایت دارد و عدد ۷۳.۵ درصد را به عنوان تورم نقطه به نقطه در ابتدای سال نشان می‌دهد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>تورم نقطه‌به‌نقطه در گروه «خوراکی‌ها و آشامیدنی‌ها» از این هم بیشتر شده و از مرز ۱۱۵ درصد فراتر رفته است؛ یعنی هزینه غذا بیش از دو برابر شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>دولت طرح کالابرگ را اجرا می‌کند اما با این روند تورم و افزایش قیمت‌ها، عملا بخشی از ارزش این کالابرگ‌ها پیشاپیش از بین رفته است.<br><br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
+      "plain_text": "✅تورم نقطه به نقطه خوراكي ها بيش از ١١٥ درصد است 🔹داده‌های مرکز آمار از تورم فروردین ۱۴۰۵ از ثبت رکوردهای کم‌سابقه حکایت دارد و عدد ۷۳.۵ درصد را به عنوان تورم نقطه به نقطه در ابتدای سال نشان می‌دهد. 🔹تورم نقطه‌به‌نقطه در گروه «خوراکی‌ها و آشامیدنی‌ها» از این هم بیشتر شده و از مرز ۱۱۵ درصد فراتر رفته است؛ یعنی هزینه غذا بیش از دو برابر شده است. 🔹دولت طرح کالابرگ را اجرا می‌کند اما با این روند تورم و افزایش قیمت‌ها، عملا بخشی از ارزش این کالابرگ‌ها پیشاپیش از بین رفته است. @Sahamnewsorg",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/sahamnewsorg/141838",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Xs2jY8Q_IaUseHK61pCpjZpnZmChuBUMrAFMouyWUgVZTBDN_z3kTpdceSD8B4DnIRmivjjgpwEiox52z6N_VObL7Hg8AuYBYUFONz6Fjxjw_6xkcgfYSG1Jhse3bGxFlCDjCaJr2yEIgVtSt_Ind4l0-OhWhyrlt0WhjjPus8frMbClFY97_T12xghCKpPUn06_9sG7R8a4B2caTv5dImDI4bFJxJckXx7KnWG4fLFMRTnc3mt8G9FjhJPODovrMAX12hdhJCnVpYN49ge65RX2PFMDTT0TBz4GFu1j45ovClO-3WcshXCt9ZE_YydQe3CgOOuotyao4Zzaxkdkww",
+          "thumbnail_path": "channels/sahamnewsorg/media/fe1b2f05d1a2b741bfad5bdd.jpg",
+          "duration_label": "1:28",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "16.1K",
+      "posted_at": "2026-05-16T23:11:01+00:00",
+      "edited": true,
+      "permalink": "https://t.me/sahamnewsorg/141838"
+    },
+    {
+      "id": "sahamnewsorg/141837",
+      "author_name": "سهام نیوز",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>شبکه13 اسرائیل: تدارکات در اسرائیل برای ازسرگیری جنگ علیه ایران به بالاترین سطح انجام شده است. اسرائیل برای ازسرگیری حملات به اهداف باقی‌مانده در ایران آماده می‌شود.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
+      "plain_text": "✅شبکه13 اسرائیل: تدارکات در اسرائیل برای ازسرگیری جنگ علیه ایران به بالاترین سطح انجام شده است. اسرائیل برای ازسرگیری حملات به اهداف باقی‌مانده در ایران آماده می‌شود. @Sahamnewsorg",
+      "media": [],
+      "reactions": [],
+      "views_label": "15.6K",
+      "posted_at": "2026-05-16T23:03:00+00:00",
+      "edited": false,
+      "permalink": "https://t.me/sahamnewsorg/141837"
+    },
+    {
       "id": "sahamnewsorg/141836",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>چینی‌ها گزارش می‌دهند که ترامپ حتی به یک تکه از غذاهایی که در شام خوشامدگویی سرو شده بود، دست نزد.<br>او غذاهایی را خورد که توسط سرآشپزهای کاخ سفید تهیه شده بود.<br>علاوه بر این، او در تمام طول سفرش به هیچ غذایی که توسط طرف چینی تهیه شده بود، دست نزد.<br>گفته می‌شود که این کار برای جلوگیری از احتمال ورود هرگونه میکرو و نانوفناوری به غذا انجام شده است.<br>حتی کارکنانی که به ترامپ خدمت می‌کردند، با محافظان سرویس مخفی جایگزین شدند.<br>در نگاه اول، این یک ضیافت بزرگ قرن بود، پر از سلامتی و خنده؛ اما در پشت صحنه، یک نبرد خاموش هوش و ذکاوت در حال وقوع بود.<br><br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
       "plain_text": "✅چینی‌ها گزارش می‌دهند که ترامپ حتی به یک تکه از غذاهایی که در شام خوشامدگویی سرو شده بود، دست نزد. او غذاهایی را خورد که توسط سرآشپزهای کاخ سفید تهیه شده بود. علاوه بر این، او در تمام طول سفرش به هیچ غذایی که توسط طرف چینی تهیه شده بود، دست نزد. گفته می‌شود که این کار برای جلوگیری از احتمال ورود هرگونه میکرو و نانوفناوری به غذا انجام شده است. حتی کارکنانی که به ترامپ خدمت می‌کردند، با محافظان سرویس مخفی جایگزین شدند. در نگاه اول، این یک ضیافت بزرگ قرن بود، پر از سلامتی و خنده؛ اما در پشت صحنه، یک نبرد خاموش هوش و ذکاوت در حال وقوع بود. @Sahamnewsorg",
       "media": [
@@ -29,7 +301,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.69K",
+      "views_label": "17.2K",
       "posted_at": "2026-05-16T22:18:36+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141836"
@@ -37,8 +309,8 @@
     {
       "id": "sahamnewsorg/141835",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>رفيعي: <b>به ‌آقا </b>اطمينان داده بودند اتفاقي رخ نمي دهد و حمله اي نخواهد شد<br><br> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>پ ن: برخلاف گفته هاي اين سخنران شخص خود آقاي خامنه اي معتقد بوده كه امريكا و اسرائيل بعد از جنگ ١٢ روزه ديگر جرات حمله به ايران ندارند و جنگي ديگر رخ نخواهد داد<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
       "plain_text": "✅رفيعي: به ‌آقا اطمينان داده بودند اتفاقي رخ نمي دهد و حمله اي نخواهد شد 🔻پ ن: برخلاف گفته هاي اين سخنران شخص خود آقاي خامنه اي معتقد بوده كه امريكا و اسرائيل بعد از جنگ ١٢ روزه ديگر جرات حمله به ايران ندارند و جنگي ديگر رخ نخواهد داد @Sahamnewsorg",
       "media": [
@@ -53,7 +325,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "4.3K",
+      "views_label": "17.4K",
       "posted_at": "2026-05-16T21:44:31+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141835"
@@ -61,13 +333,13 @@
     {
       "id": "sahamnewsorg/141834",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
       "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>رسول جلیلی، عضو شورای عالی فضای مجازی<br><br>اینستاگرام مثل اف۳۵، اف۲۲ و ای۱۰ آمریکا است، مثل آن اژدری است که به ناو دنا شلیک شد!<br><br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
       "plain_text": "✅رسول جلیلی، عضو شورای عالی فضای مجازی اینستاگرام مثل اف۳۵، اف۲۲ و ای۱۰ آمریکا است، مثل آن اژدری است که به ناو دنا شلیک شد! @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "5.94K",
+      "views_label": "17.7K",
       "posted_at": "2026-05-16T21:21:54+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/141834"
@@ -75,8 +347,8 @@
     {
       "id": "sahamnewsorg/141833",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>کانال عبری کان: انفجار در بیت شمش در داخل شرکت تومر رخ داده است که در زمینه توسعه موشک‌های دفاعی و تهاجمی فعالیت می‌کند/ میزان<br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
       "plain_text": "✅کانال عبری کان: انفجار در بیت شمش در داخل شرکت تومر رخ داده است که در زمینه توسعه موشک‌های دفاعی و تهاجمی فعالیت می‌کند/ میزان @Sahamnewsorg",
       "media": [
@@ -91,7 +363,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "6.26K",
+      "views_label": "17.8K",
       "posted_at": "2026-05-16T21:17:48+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141833"
@@ -99,8 +371,8 @@
     {
       "id": "sahamnewsorg/141832",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i><b>ترامپ با اشاره به ایران: من آرامش قبل از طوفان بودم<br><br></b><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\"><b>@Sahamnewsorg</b></a>",
       "plain_text": "✅ترامپ با اشاره به ایران: من آرامش قبل از طوفان بودم @Sahamnewsorg",
       "media": [
@@ -115,7 +387,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "11.1K",
+      "views_label": "19.8K",
       "posted_at": "2026-05-16T20:13:15+00:00",
       "edited": true,
       "permalink": "https://t.me/sahamnewsorg/141832"
@@ -123,13 +395,13 @@
     {
       "id": "sahamnewsorg/141831",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>دستور توقیف اموال ۱۲۹ شهروند در استان آذربایجان غربی صادر شد!!  رئیس‌ کل دادگستری آذربایجان غربی از صدور دستور توقیف اموال ۱۲۹ شهروند در این استان به دلیل آنچه “اقدامات ضدامنیتی” و همکاری با “کشورهای متخاصم” عنوان کرده، خبر داد.   <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>پ ن: در يك استان اين حجم…",
       "plain_text": "✅دستور توقیف اموال ۱۲۹ شهروند در استان آذربایجان غربی صادر شد!! رئیس‌ کل دادگستری آذربایجان غربی از صدور دستور توقیف اموال ۱۲۹ شهروند در این استان به دلیل آنچه “اقدامات ضدامنیتی” و همکاری با “کشورهای متخاصم” عنوان کرده، خبر داد. 🔻پ ن: در يك استان اين حجم…",
       "media": [],
       "reactions": [],
-      "views_label": "11.6K",
+      "views_label": "19.6K",
       "posted_at": "2026-05-16T20:02:28+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/141831"
@@ -137,13 +409,13 @@
     {
       "id": "sahamnewsorg/141830",
       "author_name": "سهام نیوز",
-      "author_photo_url": "https://cdn1.telesco.pe/file/HdyMlYDOSWQDvjnVqB-NnILMwnblNiTycvWgZ-b0L1ppfVPMhyUOr1nJKtcA6oZFQTjqGinYCrJzyzL7yEV4XkLLBC-SJJbZys4iWbOBAhsB6ztxoGwqB-kB_Pv6gi3X-LwmlW8aXcbMkX4BVH3xauhrLiMBZ6mZhYl66nsAPSwXsC64zlrodpWhov3Xs40EnRLTF6jXD0hhAlwP5ONY6z19ciM9MrIV3uxy5i0hLb5hd0TF0BuGB8em4XsKq7REKBiKEKH8qdEypBN1FjvArzD0HfOcWg55aqZPo5kR-1nrnHB2a7aSQJ8Hxtxi_ItassEkmw_wERwtolpyhZl5qQ.jpg",
-      "author_photo_path": "channels/sahamnewsorg/media/9eeae31ed1bc01133b711a12.jpg",
+      "author_photo_url": "https://cdn1.telesco.pe/file/I6QENpXnHzDKDP9XiXqQqP0VhtR2iGNEci7gKx9f32HMubO8p2lFbvpa2JYlbIhIsqO4f70c-Pn65Np0a_w1vIQsVcJy8VTgOwNT-TaBB3chMGbYlsZFhQ3rLebKudu_VmKb04x9yzKKhSO5g8ou13rNqP2ynJdFOFNCOCjkDuWIUmQcYqQG277yVtu3QdJcR6tkiS8UQFCEKjzWIHGcAXMyXfHj_P8824_nWpu385pvZylrLHOSuQmNO-yk75PeO77eYPl3AkMKEA5N7Kc2OSthHAOeaf8G96kaDwrJV8wflqcg_NmBzW9CSZucFqhbnmlBEjlM5lUtb5yHKH3shw.jpg",
+      "author_photo_path": "channels/sahamnewsorg/media/e59a8c4b91f7b90d4e2516b7.jpg",
       "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>سناریوهای حمله احتمالی آمریکا و بازیابی توان نظامی در ایران <br></b><br>روزنامه نیویورک‌تایمز  گزارش داد آمریکا و اسرائیل وارد مرحله فشرده آماده‌سازی نظامی برای احتمال ازسرگیری حملات به ایران شده‌اند.<br><br>بر اساس این گزارش، سناریوهای مورد بررسی شامل حملات هوایی گسترده به اهداف نظامی و زیرساختی، عملیات ویژه برای دسترسی به مواد هسته‌ای در تأسیسات اصفهان و نیز احتمال حمله برای تصرف جزیره خارک است.<br><br>به نوشته نیویورک‌تایمز، آمریکا در حال حاضر حدود ۵ هزار نیروی تفنگدار دریایی، ۲ هزار نیروی لشکر ۸۲ هوابرد، دو ناوگروه هواپیمابر، ده‌ها ناوشکن و صدها جنگنده در منطقه مستقر کرده است.<br><br>این گزارش همچنین به ارزیابی‌های اطلاعاتی آمریکا اشاره می‌کند که بر اساس آن ایران پس از جنگ اخیر، همچنان به ۳۰ مورد از ۳۳ پایگاه اصلی موشکی خود دسترسی عملیاتی دارد، حدود ۷۰ درصد پرتابگرهای متحرک و موشک‌های بالستیک خود را حفظ کرده و ۹۰ درصد پناهگاه‌های زیرزمینی‌اش همچنان فعال هستند.<br><br><a href=\"https://t.me/Sahamnewsorg\" target=\"_blank\">@Sahamnewsorg</a>",
       "plain_text": "✅سناریوهای حمله احتمالی آمریکا و بازیابی توان نظامی در ایران روزنامه نیویورک‌تایمز گزارش داد آمریکا و اسرائیل وارد مرحله فشرده آماده‌سازی نظامی برای احتمال ازسرگیری حملات به ایران شده‌اند. بر اساس این گزارش، سناریوهای مورد بررسی شامل حملات هوایی گسترده به اهداف نظامی و زیرساختی، عملیات ویژه برای دسترسی به مواد هسته‌ای در تأسیسات اصفهان و نیز احتمال حمله برای تصرف جزیره خارک است. به نوشته نیویورک‌تایمز، آمریکا در حال حاضر حدود ۵ هزار نیروی تفنگدار دریایی، ۲ هزار نیروی لشکر ۸۲ هوابرد، دو ناوگروه هواپیمابر، ده‌ها ناوشکن و صدها جنگنده در منطقه مستقر کرده است. این گزارش همچنین به ارزیابی‌های اطلاعاتی آمریکا اشاره می‌کند که بر اساس آن ایران پس از جنگ اخیر، همچنان به ۳۰ مورد از ۳۳ پایگاه اصلی موشکی خود دسترسی عملیاتی دارد، حدود ۷۰ درصد پرتابگرهای متحرک و موشک‌های بالستیک خود را حفظ کرده و ۹۰ درصد پناهگاه‌های زیرزمینی‌اش همچنان فعال هستند. @Sahamnewsorg",
       "media": [],
       "reactions": [],
-      "views_label": "16.3K",
+      "views_label": "21.6K",
       "posted_at": "2026-05-16T18:40:22+00:00",
       "edited": false,
       "permalink": "https://t.me/sahamnewsorg/141830"

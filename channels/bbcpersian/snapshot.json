@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-16T22:33:23.922Z",
+  "fetched_at": "2026-05-17T07:46:01.303Z",
   "channel": {
     "username": "bbcpersian",
     "title": "BBCPersian",
@@ -10,6 +10,271 @@
     "subscriber_count": "789K"
   },
   "posts": [
+    {
+      "id": "bbcpersian/281279",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>بخش مانیتورینگ بی‌بی‌سی<br><br>پارلمان عراق بار دیگر بحث بازگرداندن خدمت سربازی اجباری را از سر گرفته است. خدمت اجباری از سال ۱۹۳۵ تا ۲۰۰۳ یکی از ارکان اصلی ساختار حکومت عراق به شمار می‌رفت، اما پس از حمله آمریکا به عراق، انحلال ارتش و جایگزینی آن با نظام داوطلبانه، لغو شد.<br><br>حامیان این طرح می‌گویند بازگرداندن خدمت اجباری می‌تواند به تقویت هویت ملی، افزایش آمادگی نظامی و ایجاد فرصت برای جوانان بیکار کمک کند.<br><br>در مقابل، مخالفان معتقدند این طرح بار مالی سنگینی بر دوش دولت خواهد گذاشت و با ماهیت جنگ‌های مدرن که بیش از نیروهای انبوه بر فناوری‌های پیشرفته تکیه دارند، هم‌خوانی ندارد. این بحث هم‌زمان با مناقشه گسترده‌تر درباره نقش و ساختار نهادهای امنیتی عراق مطرح شده است؛ از جمله گروه‌های مسلح هم‌سو با ایران که در جنگ اخیر آمریکا و اسرائیل با ایران نقش داشتند.<br> <br>ادامه مطلب را از لینک زیر بخوانید.<br><br><a href=\"https://bbc.in/4tBMlQn\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4tBMlQn</a><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B8.png')\"><b>📸</b></i>GettyImages/ Reuters/ Anadolu via Getty Images/ AFP via Getty Images<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a></div>",
+      "plain_text": "🔻بخش مانیتورینگ بی‌بی‌سی پارلمان عراق بار دیگر بحث بازگرداندن خدمت سربازی اجباری را از سر گرفته است. خدمت اجباری از سال ۱۹۳۵ تا ۲۰۰۳ یکی از ارکان اصلی ساختار حکومت عراق به شمار می‌رفت، اما پس از حمله آمریکا به عراق، انحلال ارتش و جایگزینی آن با نظام داوطلبانه، لغو شد. حامیان این طرح می‌گویند بازگرداندن خدمت اجباری می‌تواند به تقویت هویت ملی، افزایش آمادگی نظامی و ایجاد فرصت برای جوانان بیکار کمک کند. در مقابل، مخالفان معتقدند این طرح بار مالی سنگینی بر دوش دولت خواهد گذاشت و با ماهیت جنگ‌های مدرن که بیش از نیروهای انبوه بر فناوری‌های پیشرفته تکیه دارند، هم‌خوانی ندارد. این بحث هم‌زمان با مناقشه گسترده‌تر درباره نقش و ساختار نهادهای امنیتی عراق مطرح شده است؛ از جمله گروه‌های مسلح هم‌سو با ایران که در جنگ اخیر آمریکا و اسرائیل با ایران نقش داشتند. ادامه مطلب را از لینک زیر بخوانید. https://bbc.in/4tBMlQn 📸GettyImages/ Reuters/ Anadolu via Getty Images/ AFP via Getty Images @BBCPersian",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281279?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/p8kHEoA-Ly-M-Draqicw2qR5x3GzPWAAZa8YFqyVOohnC4nup5yr5w3M8yRtDh-kUbNk9rvX3UmJBk5G48QEYR2HU88sjOjJe-RZbFlNS4XnhYYbX80ubL3WSFBI25DZ3YpRCdJw1Enn1fUtwtur3dZpKQ94sFwlD3DjFCgnPrbcWemQInFjmfuFRzM_vCqx6Lc4XVNkPOQ2DZGzvSdtCV3PClPoCK8B72rZrA-GWGiUvJUM64OT-OcpZ2Rb6Jnj_Kkw6pAE2YjeXnTRN9GfOgX23haTvC5KT4OILxp7lHYYmu4Sa9NA6r3lp86sXVKGne2gtaenSrNcypXA8vl0cQ.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/0092f036e30eee5f174cae37.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281280?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ZROL4JRjyM25fZANQQLclwjlvQDl1UxE4YuMUfpmh5zqDLFShueADwhxuPlBSsP8xyOBCIZ7NoX8_9aREdtI-E986NYcnVc2MGF-VACI1RXLxTbfEshMsuZ5oguYJcDvQReey7-U0byelgiaHmD_bVuPHIC2hADcEqAsg3VL1ViUsn0KDHUtPzxb_EZW-9YVqvEVpROCQkKrtntWT_U-MCfMCksx6SkqVHlIM2CGJPfc5Dz3nzS2zFEK3KdfOMTebkUm3Nd6VMMNrp69XzdUdgGzVfdcI_gGwxz9yyvpLHg9jQkSmivRNMiGIzs4Hrc-xhp2V-Ar2JrUPLiMdhnMkQ.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/469a1b7af8cf10e8ace706c9.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281281?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/KbUSSEYwdA7jxwxIBHEM-UnwlmJXdpNMiDhXZvb5QiXZ7Un5SKU2TI7HVZRbsqfne06Lmr0vBbb20bwsuStICP49fKqJVMm2H1rtMpWNgBoyq6XoojHrTS9FFp0Zz_lfWzdO-0CGbZ-XA-zBkJohFFy68FD4FpeJmo5B_hDG4hQcYoqx9NmMVjGk4xi7y15z1typYlZpogr7AlSnZl2kmDaBQ5HV6tfB9ITdgeoq6OHCnqOY1TVTQUXDfdBGRIBJEct6l7QS_hZDMlHk9RynP6WgYaX144Wx4288Zy9nSAsLF6KeRT3o1Ut4aELoRRhn2fU7Dm5UmzRwaYhDxFwRCg.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/c930a841626795cc07b85971.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281282?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/WKTRDTX9weYJVzGih7pvOfC7yztvQE3d2NGjyIZu3B3Fxti2vUdr5Aj2Nd2NHB4Im80voe_qOoe66nWAawRYLP9wvT1sMC0NVLkxAQhncVI-FOBuSV9IgkaWn2W1fxYiFD0D0La3Q45T4TE4LgoF8uDK-MwobJweYdtGkM3SHIUryLmfd7tTJ7yYwM87sq2lX_uXOreBRMn3D5FKXZfpm2LJ42P5gzbHkfAEBdxVmwTdoc7JA6PngOptqVKHjUvIQoYLGKpNUOMDvEDFzks9PpFML1arfTFVgGAop4yw8DV6cNJG02Ni8gz0Pqy0K31SczNZUCnxopWHo69KIBeEMQ.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/a6f6eba8f7a8610f8e90f86f.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281283?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/XDUeo4csCkorXXd-NHNb73yy_rVwAnpiUoqFN1qpfCEXs1ToI44rZUE6s1OX1Z1WHY_karO7F5zxm0yZnQorHhAkoHECzmvPwcSNlD87bSQ9ydCrqL0WvOOrhlNsYdA-Fh6EizKlWfQRKBs6SWTyr2kxA_oOwXA9msyNuVfOBEw6TqBclsCj_ZqDQcMktG_9x6bZCQQAuWuf1MDHfHfitKh3GAnDr9kJ6zWJEuoplyID5Ybl9DQIAZx5ZRi6UktXL5wsTeNMUlSkk9Yo9PdRRxrAQDpPGI_7NL89jt_AEIceJCajm3bSyA0PDVfoHxMk9MvD3Mh1A6PMWffGkzCzUg.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/4dcf0692c497582f119dda87.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281284?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/d6EiPSmdkkJq7Hh7Cy8GYZUgI8wEYM6REbY6nGYHMi_H5pr3k2nIXD-zp-fu4JeAokD1AwjH3YZQ6feSdls6zgymjtLwOAgq-8H0EJ9RK8vbiZ_kJS6Lowh9pBYTaGTfFoCWIHdqst9bMMlsztVnCIkMXLkDeiqj9I2kvp36riqQluzaiMmGS-RrpRhNTmEYwT5kmh47g1XB9TflACXZqvSFxR_mb1oUnnVWhZa3boCEw-WR-Uemac4iYYzCGKx-53Hyo1ewEuMPBt5B8neWdCkwf3QtPhIGr_M_s2yed80u1ym1vmmak-uVVJaZqkJDAfEdciCDFUUp1kLQ_T-9Ew.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/0b76ce03a805de5b64389296.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281285?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/YP7KTptBI-E-zHYv6SL733dIzlWKLZrGfibh_UEM-nzev1DJ4t7GejLB8ZJWJ8qdUZlJdUeqy1-Vm530QeFy-NoKvDPRM6GHfZFRFFcv0ZeH12Ilj_r3YtvUSpwzBDx9hbBzlGPmOl6r9AsEESFZPz-qYfq4PKFic48-96PKsD_YqbDTD1U-AdvyqXvB2Q9z36VWKlkRzkbJBZSmNmvHgDGDdhWk8S9SVWQhZ3VM2f7IRMhrldVahBtjuHEaMuPtYXGMitzgFHsiB8VaYXFFaBUy3_mzLjJwl9NT9nwH-pfC4-Bz-bT_pdK9kovnu4ZCcQ7PSBjrq-A2mtAIYZjPSg.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/30efa3df265dffb67f105baf.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "6.38K",
+      "posted_at": "2026-05-17T07:00:45+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/281279"
+    },
+    {
+      "id": "bbcpersian/281278",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>‌سازمان بهداشت جهانی شیوع بیماری ابولا در استان ایتوری در شرق جمهوری دموکراتیک کنگو را «وضعیت اضطراری بهداشت عمومی با نگرانی بین‌المللی» اعلام کرده است.<br><br>این سازمان گفته است&nbsp;که با وجود حدود ۲۴۶ مورد مشکوک و ۸۰ مورد مرگ گزارش‌شده، این شیوع هنوز شرایط لازم برای این که به‌عنوان وضعیت اضطراری همه‌گیری (پاندمی) اعلام شود را ندارد.<br><br>تدروس آدهانوم گبریسوس، مدیرکل سازمان بهداشت جهانی، هشدار داد که در حال حاضر «ابهام‌های قابل‌توجهی درباره تعداد واقعی مبتلایان و گستره جغرافیایی شیوع» وجود دارد.<br><br>به گفته این سازمان، سویه فعلی ابولا ناشی از ویروس «بوندیبوگیو» است که برای آن هنوز هیچ دارو یا واکسن تاییدشده‌ای وجود ندارد.<br><br>این سازمان اعلام کرد تاکنون هشت مورد تایید آزمایشگاهی ثبت شده و موارد مشکوک و مرگ‌ومیرهایی هم در سه منطقه، از جمله شهر بونیا (مرکز استان ایتوری) و شهرهای مونگوالو و راموارا گزارش شده است.<br><br>سازمان بهداشت جهانی همچنین گفته است که&nbsp; این ویروس از مرزهای این کشور فراتر رفته و دو مورد تاییدشده نیز در کشور همسایه، اوگاندا، گزارش شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B8.png')\"><b>📸</b></i>ISSOUF SANOGO/AFP via Getty Images<br><a href=\"https://bbc.in/4uTN14Q\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4uTN14Q</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻‌سازمان بهداشت جهانی شیوع بیماری ابولا در استان ایتوری در شرق جمهوری دموکراتیک کنگو را «وضعیت اضطراری بهداشت عمومی با نگرانی بین‌المللی» اعلام کرده است. این سازمان گفته است که با وجود حدود ۲۴۶ مورد مشکوک و ۸۰ مورد مرگ گزارش‌شده، این شیوع هنوز شرایط لازم برای این که به‌عنوان وضعیت اضطراری همه‌گیری (پاندمی) اعلام شود را ندارد. تدروس آدهانوم گبریسوس، مدیرکل سازمان بهداشت جهانی، هشدار داد که در حال حاضر «ابهام‌های قابل‌توجهی درباره تعداد واقعی مبتلایان و گستره جغرافیایی شیوع» وجود دارد. به گفته این سازمان، سویه فعلی ابولا ناشی از ویروس «بوندیبوگیو» است که برای آن هنوز هیچ دارو یا واکسن تاییدشده‌ای وجود ندارد. این سازمان اعلام کرد تاکنون هشت مورد تایید آزمایشگاهی ثبت شده و موارد مشکوک و مرگ‌ومیرهایی هم در سه منطقه، از جمله شهر بونیا (مرکز استان ایتوری) و شهرهای مونگوالو و راموارا گزارش شده است. سازمان بهداشت جهانی همچنین گفته است که این ویروس از مرزهای این کشور فراتر رفته و دو مورد تاییدشده نیز در کشور همسایه، اوگاندا، گزارش شده است. 📸ISSOUF SANOGO/AFP via Getty Images https://bbc.in/4uTN14Q @BBCPersian",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281278",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Ifw75ZzpI97hMCDAO8Rm-fgvvUqVg-8PvQXeVKm6sISQjg3geXac4w5MvPNbcDJmLhkbCPuhDeKKxtrY5Zxi9ocSw4FyhQ36d8701oCzpUXOjzE-jxXdQOEkGxcMI-TefDsIQqdATdmtumi5EW_v2lXdjkNhvsUrlC5mTkEu0hE6GppdvKh5pqDZb_PuIdKr7j9Tvv8pMvqPsQO0yMpNHeYQLKCCXrr1r6l2sZHGTcwYX--sLJAMdZkxn9JWCJpBrpmFMN6QPYeVtedM-I7xLBF4bWxMKt3Dy87sjS0V3M61r1rsMATjNXzyewmf5l6g58hPpJh6ai99Irb-9E4n6Q.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/6ca41a4c8f0fe806de20af45.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "9.19K",
+      "posted_at": "2026-05-17T06:28:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/281278"
+    },
+    {
+      "id": "bbcpersian/281270",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F968A.png')\"><b>🖊️</b></i>نسرین حاطوم،<br>خبرنگار بی‌بی‌سی عربی در امور خلیج فارس<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>کمتر از دو ساعت پس از تایید رسمی دفتر نخست‌وزیر اسرائیل مبنی بر سفر او به امارات متحده عربی و دیدار با محمد بن زاید، رئیس این کشور در جریان جنگ ایران، وزارت امور خارجه امارات این سفر را تکذیب و استقبال از هرگونه هیئت نظامی اسرائیلی در خاک خود را رد کرد.<br><br>در این بیانیه آمده است: «بر این اساس، هرگونه ادعا درباره دیدارها یا ترتیبات اعلام‌نشده، تا زمانی که از سوی نهادهای رسمی ذی‌صلاح در امارات صادر نشده باشد، هیچ پایه و اساسی ندارد.»<br><br>وزارت امور خارجه امارات از رسانه‌ها خواست که «دقیق باشند و اطلاعات غیرمستند را منتشر نکنند یا از آن برای ایجاد برداشت‌های سیاسی استفاده نکنند.»<br><br>بیانیه امارات پس از آن منتشر شد که دفتر نخست‌وزیر اسرائیل در شبکه ایکس نوشت بنیامین نتانیاهو در جریان جنگ آمریکا و اسرائیل با ایران - عملیاتی که اسرائیل آن را «غرش شیر» نامید- سفری محرمانه به امارات داشته است.<br><br>ادامه این مطلب را از لینک زیر بخوانید.<br><br><a href=\"https://bbc.in/3Pkg5U1\" target=\"_blank\" rel=\"noopener\">https://bbc.in/3Pkg5U1</a><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B8.png')\"><b>📸</b></i>Getty/ Reuters<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a></div>",
+      "plain_text": "🖊️نسرین حاطوم، خبرنگار بی‌بی‌سی عربی در امور خلیج فارس 🔻کمتر از دو ساعت پس از تایید رسمی دفتر نخست‌وزیر اسرائیل مبنی بر سفر او به امارات متحده عربی و دیدار با محمد بن زاید، رئیس این کشور در جریان جنگ ایران، وزارت امور خارجه امارات این سفر را تکذیب و استقبال از هرگونه هیئت نظامی اسرائیلی در خاک خود را رد کرد. در این بیانیه آمده است: «بر این اساس، هرگونه ادعا درباره دیدارها یا ترتیبات اعلام‌نشده، تا زمانی که از سوی نهادهای رسمی ذی‌صلاح در امارات صادر نشده باشد، هیچ پایه و اساسی ندارد.» وزارت امور خارجه امارات از رسانه‌ها خواست که «دقیق باشند و اطلاعات غیرمستند را منتشر نکنند یا از آن برای ایجاد برداشت‌های سیاسی استفاده نکنند.» بیانیه امارات پس از آن منتشر شد که دفتر نخست‌وزیر اسرائیل در شبکه ایکس نوشت بنیامین نتانیاهو در جریان جنگ آمریکا و اسرائیل با ایران - عملیاتی که اسرائیل آن را «غرش شیر» نامید- سفری محرمانه به امارات داشته است. ادامه این مطلب را از لینک زیر بخوانید. https://bbc.in/3Pkg5U1 📸Getty/ Reuters @BBCPersian",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281270?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/ZkE1txJAE4BmJr7BFcszO-rW3NKLSBuXHFOQVa_a7P8YEfGbQeEcYeZwzwtWqpwVuNMrKfRKy85cBkig9-fR6MGT327Psna2RuvulR_-6tKyEANVoxXLQw6pTTjKKau-otM9FF0BGZ5fGhzVq45B4Xwfb9uhxUBl3VbUO0YvvV8fXcfAARafnCqU4ZjQZj2g1TqwmEk5wRUem8cigczk1r2fMPI16kst7wlb94eoim2wYFM7GLIH1eW888N_mQhYe60c8lqvMjyZO4Bx333W_FG2oedtTE71ZzTP5e1t3m4I8A6eOcS6iSlwOr7n12tBV3uQA_wNZrkK_pc2FMU14w.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/edef45ab6494b8e98a30611b.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281271?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/VGRno9jhUsl3iqfL4tp2jZ0ASWScuV5l12gSuywbNwIB-hk8jKE7hNw8egxJ8i7Ny8bbWv7m814rrbg7frQNiSpwY_gspZDB22q4fi1VcSZKN22Ulph4AE6vJiqbDr3C2xvPn9T3QW0TUQVigzqm9JUn870K3yBg5kGjvDX5GFu5XlFvPR1Z9gkpfjG6rKxuPiB9bmG4JzJvUrbYyPcuiVUGnkIiFgJvrUvxt5ogAY7XXm718SBmzgykkj3c6j8qs1nkPQH6A0CebuF0CJxFtU_cl5H_5MGDz5I1catUDC4O6kdi3knjj7tZG7411ZlrzOdR6tFpEn3snXgYMiKMfA.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/bccddf1badb7b983360f7219.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281272?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Ha0Sba6sFygXOPOa72w0pr8JzC2wJZUIwNVn0PTVwpWacSEv2Y9l0wy8F8y3cCTUeca7k15aHDSe1EAGnAgHq8UgkLAjgjav7TeRmc9QX6m40e791z-I1XuI3A2Aapa5gXBn8-86xodH-UbtxOpscPO1abOrbVO8119w--VWXLZK-7EHIk-V5yZz7TN-Tv6yJslftdkrpnomw56ZNG6IlQWC8EFlC0UYUeGip-bUO4YRyqe8fLt9xwEZ5iR-gY1eI0137YpJRon0WVLof8ztYdDp2VVuyLwzrX1p-9OxPtIuWimI59bGc5ohs4w3XuxGx8fjoNxHmuqaEFMj6i-4pA.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/3f918c98233227bc3ac758e8.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281273?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/E7NRLbQBul-HvNkNwp2hsBmkSmRpvbT7jblqLKRS6RNSOeA-WnDUGVeKE4mmzqC3eDoTu45nVyb0rsXPTsizbfPo8gKkyHp8B0Qnzgi7M95LJfMKURJU2Fi4QbS7g-CZqQe25o5uq8P7uGHJCfr0KR-YcWfrXnujxSiFvt6w1SDI2rxmqEW1azz93K-YNyh-4nSf9iJjHtsbaKbebtQdSFNnqFqcZ3BtVepGV7ofYwHJUa5Tx0OEgQBGS3AcnpYbzSBuMfHmoxd4EPDIb78W8N_oJlpWvm4acOmthqeNJ_dU1jCHFqkqPX8xK3L4TVyeLYoQd-ugzZBRvVUDLFKohQ.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/3762758ccd81d5edd10a256d.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281274?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Ee2JacTv9_lmY-SDlLdW0LbyVWg-ZNxtO1V_Zwwi3bFERkko4lRy9zaH06RS5iW1AUkUobvv-Kh41sqAjxL-a7m93KYw2Ccq3LhCYmqiO2UudZPz2lFlDeK4lnD2OwlIn_ZjUGoz_khourAL6jVHqqkyrCPLoPcbR-S9KXnMRJpJJV8BrWhQCuElDB2wKgKD52GOvDMHJc5XU_Jy9i60nH96R7xx4KLQFfn6-msPSsUgUiUk6-tKQ6FhtI3wxG6LO-mJY7Sqpp5GhTXmOFgeAMlWiqlqiLSuHpU8Mwhbgs6qIFkBqCXbLQ7Q2mZnuQGuVIORTEXRz8zkrY9uB_O-mA.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/1f88fbaa48e3e27b1477bf2e.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281275?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Tr-yZ2lGl1NOiTk-YutnCIP1cgUgXgLPd5sdYBxfbYI5mluaSdmsF6uhkdT2Y6FzFB4zd-oH_nRG1tfneaxbq3IIBcgs-fGFERqRmdMgHpm-Jb3c0JumCb8zRQNdRYlbcy74D2MJaTJ8WtvB1RhKxbDVlvoVWnlspTRKljTFqc9ufUi3dpypXguQaApHvWHPJNiUzGFJI53F0yuzDRlh3qbfWRYDRMwt2GGY30rJoNb13uasfJQ8JH_yTUCunMQ0QKytH1F3I1P-F97jiUzfE8fe88IqbHHhAPLE15nAq1gsQPKQ-2bbZOhv0o2n4lwZGWd2LoSNcsQdeIZSDzonow.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/90447aec461b9602453b75ea.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281276?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/HETsWqjenOhsmNvVdimUaMYlTio6bvOMdnWwolEExaGmktYYj1YnRD50lL4xwZGdNS1y0EQUMZ7x1sNZQ-tLcmfNeDDWw_3NxgAum7EcZs46L8CNhToVedBGUncDOXPqx3kALWraOZVpSkQkpiHW68pbFAy4TrSrRIqCUGtBCoKo5Z3u7LniTge0JPdRKob4awBfvxn5fqVDdoHJTanqHU-px6u3mZ3Vc4imQ5MlhMVkZj0dIGj7q61Mxwz_8f39yLeiYgfIlFh_Wu09spL9DYVAeJARFxArmoYNMFeHNZ0XA_3HuayfK1Yzw6UYY0vubueOyN3tmGg_-c3WEMNqlA.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/ac23e12715b4e7ecc645c475.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        },
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281277?single",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/sc7F6hu6ip0nYlj02yghXqse3dLvhWvUDP23goB7IcZjRsYhb16ewxTStc55V4-pnr-hxdV1T5M8jCLoxZlOn4I-dDe6Jdz0VHBIrputyiG9GLXaXGlc09fM9IEzVDtVrckQUay_uQtpjwMm4aFDIK7MjQF5-hueXQpfR9vrGgvXggjuJAzUYl206w92L8xxvhhNyCSr3s9auUr3cf6EbOcDfLcMfOxvpdyBy3dSOfZBEdAJ01CKXy_jXFybbDJuK2pmthgHaPkNJQxSA0qZIoh5oUVBLqeGHcCfhV_pPo8J2YHAYCHQwjddI2__Kq1Kik2GfataXBpo4IxaQqHG6g.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/52cd93cdb4caa549f7bc872e.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "11.8K",
+      "posted_at": "2026-05-17T05:52:48+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/281270"
+    },
+    {
+      "id": "bbcpersian/281269",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>وزارت دفاع آمریکا تایید کرده است که ناو هواپیمابر یواس‌اس جرالد فورد که پیش از آغاز جنگ با ایران به خاورمیانه اعزام شده بود، پس از ۳۲۶ روز مأموریت،شنبه به ایالات متحده بازگشته است.<br><br>این طولانی‌ترین مأموریت یک گروه رزمی ناو هواپیمابر آمریکا از زمان جنگ ویتنام تاکنون بوده است.<br><br>پیت هگست، وزیر دفاع آمریکا، در نورفک در ایالت ویرجینیا برای استقبال از بزرگ‌ترین ناو هواپیمابر جهان حضور داشت.<br><br>به گفته ارتش آمریکا، این ناو در جریان ماموریت خود در عملیات‌های آمریکا در منطقه کارائیب مشارکت داشت؛ جایی که نیروهای آمریکایی به قایق‌های مظنون به قاچاق مواد مخدر حمله کرده، نفتکش‌های تحریم‌شده را توقیف و نیکلاس مادورو، رهبر ونزوئلا، را بازداشت کردند.<br><br>در طول این ماموریت طولانی، در ۱۲ مارس یک آتش‌سوزی در بخش رخت‌شویی ناوایجاد شد که دو ملوان را زخمی کرد و به حدود ۱۰۰ تخت خواب آسیب جدی رساند. گزارش‌هایی نیز از مشکلات گسترده سیستم فاضلاب و سرویس‌های بهداشتی این ناو در زمان حضور در دریا منتشر شده بود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B8.png')\"><b>📸</b></i>Anadolu via Getty Images<br><a href=\"https://bbc.in/4eSjrrK\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4eSjrrK</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻وزارت دفاع آمریکا تایید کرده است که ناو هواپیمابر یواس‌اس جرالد فورد که پیش از آغاز جنگ با ایران به خاورمیانه اعزام شده بود، پس از ۳۲۶ روز مأموریت،شنبه به ایالات متحده بازگشته است. این طولانی‌ترین مأموریت یک گروه رزمی ناو هواپیمابر آمریکا از زمان جنگ ویتنام تاکنون بوده است. پیت هگست، وزیر دفاع آمریکا، در نورفک در ایالت ویرجینیا برای استقبال از بزرگ‌ترین ناو هواپیمابر جهان حضور داشت. به گفته ارتش آمریکا، این ناو در جریان ماموریت خود در عملیات‌های آمریکا در منطقه کارائیب مشارکت داشت؛ جایی که نیروهای آمریکایی به قایق‌های مظنون به قاچاق مواد مخدر حمله کرده، نفتکش‌های تحریم‌شده را توقیف و نیکلاس مادورو، رهبر ونزوئلا، را بازداشت کردند. در طول این ماموریت طولانی، در ۱۲ مارس یک آتش‌سوزی در بخش رخت‌شویی ناوایجاد شد که دو ملوان را زخمی کرد و به حدود ۱۰۰ تخت خواب آسیب جدی رساند. گزارش‌هایی نیز از مشکلات گسترده سیستم فاضلاب و سرویس‌های بهداشتی این ناو در زمان حضور در دریا منتشر شده بود. 📸Anadolu via Getty Images https://bbc.in/4eSjrrK @BBCPersian",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281269",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Iyd-VZmQouHRNqhX3u-lgNnld-qRHmWSEUsYG-d3RezxdCK_Wn7NqeboYW0bOmt_JJBvOCwmLYhxTN0M9lQdxQoO1ZktTWLibyhmlLO9Zua5L4V_VBAyGNDWEJ3Fps-yWprPJPb2gdnU2O1pHyWGh0V0I97Gx3PY93cP_i2933jo2nOmodzshzmgdnCHXnC1nUrmUbHntUsgAK2dTOh3LOOyXLARdpQpULBMlwGpujMayhFcSJxm603Pkb0m3rfegCnZpveobi9dRMCQfonpeNip26gDz4TnHJgQ8IJnC2Fom7lTHnhNBo_deLfJpg-NM1SrmRwk31ReifxuodjI2w.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/81688fe2410ae7a439fc1809.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "14.8K",
+      "posted_at": "2026-05-17T05:21:35+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/281269"
+    },
+    {
+      "id": "bbcpersian/281268",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "‌<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>کمیسیونی که از سوی سازمان جهانی بهداشت تشکیل شده، خواستار آن است که تغییرات اقلیمی به‌عنوان یک وضعیت اضطراری بین‌المللی در حوزه سلامت عمومی اعلام شود.<br><br>این بالاترین سطح هشدار بهداشتی است.<br><br>این هیئت مشورتی مستقل می‌گوید که چنین اقدامی می‌تواند به بسیج یک واکنش بین‌المللی در مقیاسی که لازم است کمک کند.<br><br>این هیئت تأکید می‌کند که تغییرات اقلیمی تهدیدی مربوط به آینده نیست، بلکه بحرانی فوری و رو‌به‌رشد است.<br><br>این کمیسیون تاکید کرده است که یارانه‌های سوخت‌های فسیلی باید به‌تدریج حذف شوند و از سازمان جهانی بهداشت می‌خواهد که فوراً اقدام کند.<br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B7.png')\"><b>📷</b></i>NurPhoto via Getty<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "‌🔻کمیسیونی که از سوی سازمان جهانی بهداشت تشکیل شده، خواستار آن است که تغییرات اقلیمی به‌عنوان یک وضعیت اضطراری بین‌المللی در حوزه سلامت عمومی اعلام شود. این بالاترین سطح هشدار بهداشتی است. این هیئت مشورتی مستقل می‌گوید که چنین اقدامی می‌تواند به بسیج یک واکنش بین‌المللی در مقیاسی که لازم است کمک کند. این هیئت تأکید می‌کند که تغییرات اقلیمی تهدیدی مربوط به آینده نیست، بلکه بحرانی فوری و رو‌به‌رشد است. این کمیسیون تاکید کرده است که یارانه‌های سوخت‌های فسیلی باید به‌تدریج حذف شوند و از سازمان جهانی بهداشت می‌خواهد که فوراً اقدام کند. 📷NurPhoto via Getty @BBCPersian",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/bbcpersian/281268",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/iVCG5134-FROC4hCpxCw6gBXgyrGD0jpWjeusPUM7ngMIvbMux7oZ3EIdPO2_tR63INIaYegt_7rz01-kvAW_aL2F90MC8rMkEmJReN_hDxP59p8uOmZ_HDj_5-Y2dsxsjK-D2W-dNbXTv21Nr0e0Px7oR0kdKjxC5RVciImK2COJjWpEvOdvF0AEwS6S7NVL0azkHCC_faCiVg4ZI86OxwGr2FZQgQVNfBPImM0FXAikfaDu2-hlR_f1XyxqumcYe1giJZbT5d0pJyDMA8AnofiMMKbZeJ2F3q6uKNb1jiR3M1Q4X_sh4NHhPcBv3vXLp6Z3dSwUGySAKPnXNAYHA.jpg",
+          "thumbnail_path": "channels/bbcpersian/media/7b584825f9ee22ae9be270a0.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "16.3K",
+      "posted_at": "2026-05-17T04:41:56+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/281268"
+    },
+    {
+      "id": "bbcpersian/281267",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>حملات گسترده اسرائیل به جنوب لبنان به‌رغم تمدید آتش‌بس<br></b><br>اسرائیل با وجود تمدید آتش‌بس با لبنان، موج گسترده‌ای از حملات هوایی را علیه جنوب آن کشور آغاز کرد.<br><br>اسرائیل می‌گوید که اهداف مرتبط با حزب‌الله را هدف قرار می‌دهد، اما پیش از حملات هشدار تخلیه‌ای برای ساکنان ۹ روستا صادر شده بود.<br><br>ادامه بمباران‌ها تردیدها درباره دوام آتش‌بس را در میان ده‌ها هزار لبنانی افزایش داده است که از خانه‌های خود در جنوب گریخته‌اند.<br><br>خبرگزاری رسمی لبنان، گزارش داد که روز شنبه بیش از دهها روستا هدف حمله قرار گرفتند؛ از جمله منطقه‌ای در بیش از ۵۰ کیلومتری مرز.<br><br>این خبرگزاری همچنین از موج تازه خروج ساکنان به سمت شهر جنوبی صیدا و پایتخت، بیروت، خبر داد.<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻حملات گسترده اسرائیل به جنوب لبنان به‌رغم تمدید آتش‌بس اسرائیل با وجود تمدید آتش‌بس با لبنان، موج گسترده‌ای از حملات هوایی را علیه جنوب آن کشور آغاز کرد. اسرائیل می‌گوید که اهداف مرتبط با حزب‌الله را هدف قرار می‌دهد، اما پیش از حملات هشدار تخلیه‌ای برای ساکنان ۹ روستا صادر شده بود. ادامه بمباران‌ها تردیدها درباره دوام آتش‌بس را در میان ده‌ها هزار لبنانی افزایش داده است که از خانه‌های خود در جنوب گریخته‌اند. خبرگزاری رسمی لبنان، گزارش داد که روز شنبه بیش از دهها روستا هدف حمله قرار گرفتند؛ از جمله منطقه‌ای در بیش از ۵۰ کیلومتری مرز. این خبرگزاری همچنین از موج تازه خروج ساکنان به سمت شهر جنوبی صیدا و پایتخت، بیروت، خبر داد. @BBCPersian",
+      "media": [],
+      "reactions": [],
+      "views_label": "19.5K",
+      "posted_at": "2026-05-17T03:53:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/281267"
+    },
+    {
+      "id": "bbcpersian/281266",
+      "author_name": "BBCPersian",
+      "author_photo_url": "https://cdn4.telesco.pe/file/VKn5vDNDdQYpQE-WVuf-AnxwRulTmjoLBK6Nt7DaRzMbl8IzbFvU-TL_CNZ-ciqm9tCx3vuXRw8W4mxYcgjpTRD9_JOJMMX_Wj3TwfdXb5OB1NVMeY3dJTKCpvxTYy0WibN8mh6nPpCFb0Sw8Inzd5ijEPcjW23v6Z07gvWCLLLrAPp0p-aKXB9qChi4NYw1qjDOY8fNSbDWUwQWNs-DoJmP7pfoH8B1ctKX4RHyp54MXdjYiy86SwnpyWWEI_4qkTBgTfAXmSVC1h6al3fu0CLW9R6lZWmSAqwyXZyqeLv0J4n-YyPBkCKzm8VA_pGQdmuFBO5j4E9GlNW3J6NkCw.jpg",
+      "author_photo_path": "channels/bbcpersian/media/978a1777588669c74fb00a6e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>فیفا: گفت‌وگوهای با فدراسیون فوتبال ایران مثبت و سازنده بود<br></b><br>ماتیاس گرافستروم، دبیرکل فیفا، به خبرگزاری رویترز گفت که دیدار «سازنده و مثبتی» با مهدی تاج، رئیس فدراسیون فوتبال ایران داشت و نسبت به حضور ایران در جام جهانی امسال ابراز اطمینان کرده است.<br><br>ایران قرار است هر سه مسابقه مرحله گروهی خود را در آمریکا برگزار کند، اما پس از حملات آمریکا و اسرائیل به ایران در اواخر فوریه، ابهام‌هایی درباره حضور تیم ملی ایران در رقابت‌های ۱۱ ژوئن تا ۱۹ ژوئیه به وجود آمده بود.<br><br>گرافستروم در جریان سفرش به استانبول گفت: «نشست بسیار خوب و سازنده‌ای با فدراسیون فوتبال ایران داشتیم. ما از نزدیک با هم همکاری می‌کنیم و مشتاقانه منتظر استقبال از آن‌ها در جام جهانی فیفا هستیم.»<br><br>او از ارائه جزئیات درباره وضعیت ویزای بازیکنان ایران خودداری کرد، اما گفت که آنها فرصت داشتند درباره برخی مسائل اجرایی گفت‌وگو کنند و تبادل‌نظر مثبتی داشته باشند.<br><br>پس از آن‌که مهدی تاج اوایل این ماه به دلیل ارتباط با سپاه پاسداران اجازه ورود به کانادا برای شرکت در کنگره فیفا در ونکوور را نیافت، پرسش‌های بیشتری درباره وضعیت ایران مطرح شد.<br><br>آمریکا و کانادا، که همراه با مکزیک میزبان مشترک جام جهانی هستند، سپاه پاسداران را «سازمانی تروریستی» می‌دانند و می‌گویند که افراد مرتبط با این نهاد را نخواهند پذیرفت.<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
+      "plain_text": "🔻فیفا: گفت‌وگوهای با فدراسیون فوتبال ایران مثبت و سازنده بود ماتیاس گرافستروم، دبیرکل فیفا، به خبرگزاری رویترز گفت که دیدار «سازنده و مثبتی» با مهدی تاج، رئیس فدراسیون فوتبال ایران داشت و نسبت به حضور ایران در جام جهانی امسال ابراز اطمینان کرده است. ایران قرار است هر سه مسابقه مرحله گروهی خود را در آمریکا برگزار کند، اما پس از حملات آمریکا و اسرائیل به ایران در اواخر فوریه، ابهام‌هایی درباره حضور تیم ملی ایران در رقابت‌های ۱۱ ژوئن تا ۱۹ ژوئیه به وجود آمده بود. گرافستروم در جریان سفرش به استانبول گفت: «نشست بسیار خوب و سازنده‌ای با فدراسیون فوتبال ایران داشتیم. ما از نزدیک با هم همکاری می‌کنیم و مشتاقانه منتظر استقبال از آن‌ها در جام جهانی فیفا هستیم.» او از ارائه جزئیات درباره وضعیت ویزای بازیکنان ایران خودداری کرد، اما گفت که آنها فرصت داشتند درباره برخی مسائل اجرایی گفت‌وگو کنند و تبادل‌نظر مثبتی داشته باشند. پس از آن‌که مهدی تاج اوایل این ماه به دلیل ارتباط با سپاه پاسداران اجازه ورود به کانادا برای شرکت در کنگره فیفا در ونکوور را نیافت، پرسش‌های بیشتری درباره وضعیت ایران مطرح شد. آمریکا و کانادا، که همراه با مکزیک میزبان مشترک جام جهانی هستند، سپاه پاسداران را «سازمانی تروریستی» می‌دانند و می‌گویند که افراد مرتبط با این نهاد را نخواهند پذیرفت. @BBCPersian",
+      "media": [],
+      "reactions": [],
+      "views_label": "20K",
+      "posted_at": "2026-05-17T03:36:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/bbcpersian/281266"
+    },
     {
       "id": "bbcpersian/281241",
       "author_name": "BBCPersian",
@@ -2119,197 +2384,6 @@
       "posted_at": "2026-05-14T19:47:27+00:00",
       "edited": false,
       "permalink": "https://t.me/bbcpersian/281056"
-    },
-    {
-      "id": "bbcpersian/281055",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/D3dNHXXoN5OIdJ9u88--pQIZsKagdVkuGdQ2-gBCCk5vwc1UXvdYZcundjyPxO6qlFhiodM8bqC_KC8g4Tb_Geyph6Z5VNmOfAzk5tHGFoALlGCd2Gp4VKjzAuvHZE__EdO1yl0rBxKAQAkxHTvK9C3zGjWGSAN8RJW3jhkupT1zkQv_RNm2ehdhjLAc7lLbTN-8g1U6eo7Lhnl8ihz5OYolFHKUNdHx85CbQ0gcnBDsGeDfKjLwAQOk23hKeTRkc6KlF5fq4DAKTwPYp-bo5KqCjQwn4d1dtu_enfdG2D2Jwfo7fvIPH50F-2FeqrvECajnUCyT6RGBmBQrlKXzGw.jpg",
-      "author_photo_path": "channels/bbcpersian/media/663d89043b6f4d498c245bbf.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>آخرین خبرهای مهم روز پنجشنبه ۲۴ اردیبهشت ۱۴۰۵<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "🔻آخرین خبرهای مهم روز پنجشنبه ۲۴ اردیبهشت ۱۴۰۵ @BBCPersian",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/bbcpersian/281055",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/AXUfRqjkztIRGR7YuXLvFevdBxBvaDxyGOOoBMfN1gLKq_RiRfI4sm3QBTAeFoyhjuSvbxCwRKUsw-vpx_FBLoE8aHnab1ABR3-Pk3vnvBQf4qlO0Q7M_jZimglxK8zETKfO1GuG4_9b0sfukSBv1XaVLX0aM2pF6rp5BkwLg1rvzlOS2q-R4HOqer4vEi5W_U-ynSFRGw7BFXrukB5EhCkgFvJEB-mXq41u5hNMLYhK8APf--B4nDeH7tLCTGPBXFcBN_cyc0Zqox85nHf3u7B-adpxHtBFBoTF2Vblne7ONECuHfkGTf0ztzI4h6ZBQxLfnYvP_vU16tzI4UwkXw",
-          "thumbnail_path": "channels/bbcpersian/media/fc7e52e911eff7899333a7cd.jpg",
-          "duration_label": "1:07",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "19.3K",
-      "posted_at": "2026-05-14T19:37:19+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/281055"
-    },
-    {
-      "id": "bbcpersian/281054",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/D3dNHXXoN5OIdJ9u88--pQIZsKagdVkuGdQ2-gBCCk5vwc1UXvdYZcundjyPxO6qlFhiodM8bqC_KC8g4Tb_Geyph6Z5VNmOfAzk5tHGFoALlGCd2Gp4VKjzAuvHZE__EdO1yl0rBxKAQAkxHTvK9C3zGjWGSAN8RJW3jhkupT1zkQv_RNm2ehdhjLAc7lLbTN-8g1U6eo7Lhnl8ihz5OYolFHKUNdHx85CbQ0gcnBDsGeDfKjLwAQOk23hKeTRkc6KlF5fq4DAKTwPYp-bo5KqCjQwn4d1dtu_enfdG2D2Jwfo7fvIPH50F-2FeqrvECajnUCyT6RGBmBQrlKXzGw.jpg",
-      "author_photo_path": "channels/bbcpersian/media/663d89043b6f4d498c245bbf.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>مادری که در سال گذشته دخترش را به دلیل یک عارضه قلبی از دست داده بود موفق شد پس از مرگ او دستانش را دوباره بگیرد. <br><br>جرجی وقتی ۱۷ سال داشت فرم اهدای عضو را پر کرده بود و یک سال پیش، پس از مرگ او اعضای بدنش به فردی که هر چهار دست و پای خود را از دست داده بود پیوند داده شد و حالا مادر جرجی دستان دخترش را در جان فردی که او نجات داده است می‌تواند دوباره ببیند و لمس کند.<br><br> فردی که جرجی اعضای بدنش را به او اهدا کرده بود می‌گوید که حالا و پس از پیوند عضو استقلال عمل زیادی دارد و می‌تواند خیلی از کارها را انجام دهد.<br><br> برای مادر جرجی در دست گرفتن دستان دخترش پس از از دست دادن او تجربه‌ای بی‌نظیر و خارق‌العاده است.<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "🔻مادری که در سال گذشته دخترش را به دلیل یک عارضه قلبی از دست داده بود موفق شد پس از مرگ او دستانش را دوباره بگیرد. جرجی وقتی ۱۷ سال داشت فرم اهدای عضو را پر کرده بود و یک سال پیش، پس از مرگ او اعضای بدنش به فردی که هر چهار دست و پای خود را از دست داده بود پیوند داده شد و حالا مادر جرجی دستان دخترش را در جان فردی که او نجات داده است می‌تواند دوباره ببیند و لمس کند. فردی که جرجی اعضای بدنش را به او اهدا کرده بود می‌گوید که حالا و پس از پیوند عضو استقلال عمل زیادی دارد و می‌تواند خیلی از کارها را انجام دهد. برای مادر جرجی در دست گرفتن دستان دخترش پس از از دست دادن او تجربه‌ای بی‌نظیر و خارق‌العاده است. @BBCPersian",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/bbcpersian/281054",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qk_QaMWDG2_F4bJsWq1j5O4urzgwqJ3Doh2-Nwwq3E22bsROhRdx23KLT5lWXfpikQaxtf8Pv8eE8OXNDu7Lovmzz0e9EX5AthejAHz8scRWE8mkegseX-EsirAV8DiIS5thctTBYOqF8Vn2pHIWPpP8BsHsi-q8Pw4t_tdty74khx4zub_XGtZ2kn6cm4H8uDA2rl7oeQolcqjPqD8mz6mEaEdK2hSnfi3iJ9WC-8dJgl0nyAbxR9mb2XgT5kJeTmsVPemE8jUC7TSS77_IAOK77tp5q6gtW48AexN-8c5sep_HWtTyq4ZDv4iJumXSeHiKegXjertLMjd4IBvybg",
-          "thumbnail_path": "channels/bbcpersian/media/1bee3aec9c1976e8290e9a09.jpg",
-          "duration_label": "1:19",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "21.9K",
-      "posted_at": "2026-05-14T19:13:15+00:00",
-      "edited": true,
-      "permalink": "https://t.me/bbcpersian/281054"
-    },
-    {
-      "id": "bbcpersian/281046",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/D3dNHXXoN5OIdJ9u88--pQIZsKagdVkuGdQ2-gBCCk5vwc1UXvdYZcundjyPxO6qlFhiodM8bqC_KC8g4Tb_Geyph6Z5VNmOfAzk5tHGFoALlGCd2Gp4VKjzAuvHZE__EdO1yl0rBxKAQAkxHTvK9C3zGjWGSAN8RJW3jhkupT1zkQv_RNm2ehdhjLAc7lLbTN-8g1U6eo7Lhnl8ihz5OYolFHKUNdHx85CbQ0gcnBDsGeDfKjLwAQOk23hKeTRkc6KlF5fq4DAKTwPYp-bo5KqCjQwn4d1dtu_enfdG2D2Jwfo7fvIPH50F-2FeqrvECajnUCyT6RGBmBQrlKXzGw.jpg",
-      "author_photo_path": "channels/bbcpersian/media/663d89043b6f4d498c245bbf.jpg",
-      "body_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">‌<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F968A.png')\"><b>🖊</b></i>وایر دیویس، خبرنگار امور خاورمیانه<br>در,گزارش از عصاعصه، کرانه غربی<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>محمد عصاعصه تازه پس از خاکسپاری حسین، پدر ۸۰ ساله‌اش، به خانه بازگشته بود که چند کودک دوان‌دوان وارد خانه شدند و فریاد زدند: «شهرک‌نشین‌ها دارند قبر را می‌کنند.»<br><br>در روستای کوچک عصاعصه، نزدیک جنین در کرانه غربی، روستایی که خانواده نام خود را از آن گرفته است، حسین پیش از مرگش به دلایل طبیعی، چهره‌ای شناخته‌شده و بسیار محترم بود.<br><br>طبق شعائر اسلامی، این مرد سالخورده، که پیش‌تر تاجر دام بود و ۱۰ فرزند داشت، در قبری ساده در گورستانی روی تپه‌ای کوچک، در سوی دیگر روستا و دور از خانه، به خاک سپرده شد.<br><br>محمد می‌گوید برای اطمینان از این‌ که مشکلی در روند خاکسپاری پیش نیاید، پیشاپیش از یک پایگاه نظامی اسرائیل در نزدیکی محل، برای برگزاری مراسم خاکسپاری اجازه گرفته بود.<br><br>اما کمتر از نیم ساعت بعد، محمد و برادرانش بار دیگر به ورودی گورستان بازگشتند و با صحنه‌ای هولناک روبه‌رو شدند.<br><br>متن کامل خبر در لینک زیر:<br><a href=\"https://bbc.in/4tFB41J\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4tFB41J</a><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B7.png')\"><b>📷</b></i>BBC Images/ Getty Images/ AFP via Getty Images<br><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a></div>",
-      "plain_text": "‌🖊وایر دیویس، خبرنگار امور خاورمیانه در,گزارش از عصاعصه، کرانه غربی 🔻محمد عصاعصه تازه پس از خاکسپاری حسین، پدر ۸۰ ساله‌اش، به خانه بازگشته بود که چند کودک دوان‌دوان وارد خانه شدند و فریاد زدند: «شهرک‌نشین‌ها دارند قبر را می‌کنند.» در روستای کوچک عصاعصه، نزدیک جنین در کرانه غربی، روستایی که خانواده نام خود را از آن گرفته است، حسین پیش از مرگش به دلایل طبیعی، چهره‌ای شناخته‌شده و بسیار محترم بود. طبق شعائر اسلامی، این مرد سالخورده، که پیش‌تر تاجر دام بود و ۱۰ فرزند داشت، در قبری ساده در گورستانی روی تپه‌ای کوچک، در سوی دیگر روستا و دور از خانه، به خاک سپرده شد. محمد می‌گوید برای اطمینان از این‌ که مشکلی در روند خاکسپاری پیش نیاید، پیشاپیش از یک پایگاه نظامی اسرائیل در نزدیکی محل، برای برگزاری مراسم خاکسپاری اجازه گرفته بود. اما کمتر از نیم ساعت بعد، محمد و برادرانش بار دیگر به ورودی گورستان بازگشتند و با صحنه‌ای هولناک روبه‌رو شدند. متن کامل خبر در لینک زیر: https://bbc.in/4tFB41J 📷BBC Images/ Getty Images/ AFP via Getty Images @BBCPersian",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/281046?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/I8QGWR1p3hHy_eXRNOpsy9yeN4rTYTmOxqRzZMEP-f6kQFB-0JERsCujtK65geAcrthCnI7dEFNZgYiRmOPLnacJVknftyLoo75r12t0o7gYlRWhQJKy8ylpjcXRxNwhyAhEJN4rUgZmgUnlelIoNGkF_8q4c8LEZUU3FSSztiAg_0EavQan9PXv8jIO3xdLI4KhIo7S50JYVPE8snjtVyluwSWKK0_cIf-doMbcElZ6YW6wA2PI0cqVUtogBgnot-0Wz8tnu-Hfls_xOsgP61T8rbmOMYyVWOaQRhVSk3Y-0BEbwpEMawnRJsjoMqPb9TjFvdZn3uWwt3euoCghdA.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/2f711ce35da1ef919980b26c.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/281047?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/JBKpuu-6IPr6biXgrbiym_vZA1je7Qmq-j7a-efEVl81Z7oEtoxng3012j7sukBnE7Y440s2oceAGnOYqlXyA0KC2sm4jLee1l2_fu5xgJOmPgPC6I7OBiUTAt9KfwcSMZR8BUHjG3f892U-bukHW2Y-F7eD1kraresC0AyO0dPmq6teAkcG0XsGlctYzs-YE4BUP6sXHzYuM-25e7iuBGFq2_lhO0Tt6t486uW5SxtiQKwPUucUiett8hkes-tpxi8fDwQbFgFUGZMEuogWBgnAHBLGNiSOGSxF148Q_1rBPFqV9k4PZuW5Sf8bMB_pDgTzbWnJ99dEIzs_BekY9w.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/94a612c5cc37193abe7e93cb.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/281048?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/l7WodUSnpwN0g3vJRNdTgwoD9n4gGhvrCFKup2bVjBgQXT-v3M-m2BZaPt9r9gBMih79SeQe2hNvO77EsuiTMZ5KeIY_tVE_YeMWVdj-loVk9FXlLVcfIf-pf5h9WY9QtFU7TAXtiOSWw_MA0uXOy86MH8M-ZPdIh2mbjZ8e8CFnp0pfTaqGc2K56-Z8ZOA59VYux03RboQKqQsfHT0UoNbSGYzkNkwfDaemadE5mpS8IXFZoLGQaEwBkVg4lnJdeihwSx9Qcsor3K6uD5CkZvEba8v9uROZD6g7QP31mwxgBXPtB3xN-xa2zoi5e_gN2mHyn_5Sx3Bg5HKHjvIgGQ.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/323cddbc1ec3797a0ef09904.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/281049?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/DJ9DDS22uCG7mlv_ZS8sv6F56_41gLJUAPTOO1rn_mScsxVUq3cWSDmUwTCDP4OZJXAqIvP4OWaz3lUCU8W0axNf7OSmBWAZjNoZALmH9ArPrYdg_bZ2GPoLIu9LNXfRL5dLeDoN5qbL9whsNqdvoQxRqMMmLhPzZ-gHq_10ApP5oCFgNavYfrCdK4DIhgWq1b90sUansYu0YZiv9zQ-u4XAoBZWHxpESlVsFJT7PyKMYBgBaxgaLB-gShj-DKnLiMfTRL-jBOahXcMNMpTYxQVUQccPkqa430GziQi3ahv40eO4lDm0Q1j_y-XtoYusgNDoUvUJBdNGTAljsq8Ccw.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/9397c139b14daea8b49f1cbf.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/281050?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/nY5_c32tJ6ZUdJn4HpdPu4-G5txP49jcLRzhYrygE0KtW-0S3uzT7VvjwvA11NAlCSjGlMmCb8Kd_nQndtbXLZg6bGArXKMI058-Vv_Q9oGYXvfgLNp56ivi8mpIBEEWf5mHEihMZQ8k4NbjI2PUREPgU9q0Rgc-4YWjVJaIvRu6olZ7hVuyinX-Z4uOF5jFSRXZ7-9hY3x2hiWQvBxiFmobWms5eZCUb9x8uVOPxk22cetOewfgGpF8O_z7dOoHxcjUL-ou-TpGkRo5vV8yxVHEuN3hgI3nTN5MluxLI3p_GOJZc4_jBvamnBybu8Z3YUzw0IyWBYS-gpyCs-d-_Q.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/d5120f7c763e3b3d8b04275e.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/281051?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/nSH7CLEtvv9_gf4XU5X8pi9SBPIyzGvvkk2rUKt45rD4QbtPbmLlpL9FOjjcHDNKQ8rSgz2_YHOts5agvNdxLdqDWGiUeBKhQ6ZwNwWH23js7ekjjdyjUGIoZRGy7iGnlXHMx9tZ08qhZo20LGJD6er71R1pJtAeuaJ3qUa_5VdXFxjKNzNf7gS_tvben2AD6kwzJJmTbYOYtLarj6hi-I3rEaUSIi3_KYm__9yr0WM5-v9c-F6n-sgZrwjMq3q0Wi3gLWi_QM9JhiZtlTqjp4zx7xlm309xeRrzo2bVBXkMvNYoiD8nL5JbmQLKyPoN1ZM2vTv97fcePD2RigFy8A.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/64fa6b9980e16f5d5c0ec7c0.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/281052?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ZS-GkC29sFlKiKHvwZyo-P-P5fIePdMUqo-oFAWFfz4gcuaVVD0xoYgBH-h3F58YNsDsi1yVGsS-A0AmUIYhhk-eRpev4NQcCuahOsFW93f2_uUF_-_8WkKlcUXlar8OzjOpC0NPtWNK1e2l1Wmxlja3nOoizoW6aX66BGff4Ofey7r8I5wUSC2_K6bjpirjBF1I2OW5gKl6MgfF3SayIu7wdTlhmu6AC6WoBSvdAm3h-SyRW6MGkr28aMxxNKLFqQPvV_iq9q-7fOMq_RIaXY79J_mNtWj_9OSAqVePEPfaeXsm5VqsswA_PIuzk77VgJlY-N5xe0VvkzKZ-kwAtg.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/4b0ccb5f62bae1b4cb88f9e6.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        },
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/bbcpersian/281053?single",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/WqJHu8pFrakRTptrqPaEWiMLU1eQlbmeGeBgMSYpJ39cfUYqfuWp0mtdj0L5IFTMHM6orwWFBhlX7BvpEhHO3MtJe_GwTTH1uH-TgeJGSDEVBdzkCAjtq16ikw6jUypMHxWmbIUDDvCiUEdDmkvhXAyrrNkWma6yE7NkY4dOuogfyhMgtMCBNtYGbuNhEvqntFxKA2Vlbf4UpWCPcMRPY-D-CrXLPmEs7r0ZApzJ5ljGV4f1N9YANCl_fTQxe4Fys2olTfIU3vdEfJj1AZfmVWBcwgEcOh_V--g1j_a9HFrKt89RioAj094VBoeyg3hzh5GEZ44MVzpNpjBRkyU0IQ.jpg",
-          "thumbnail_path": "channels/bbcpersian/media/608a6c28383ff2340bbe589f.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "22.1K",
-      "posted_at": "2026-05-14T18:50:58+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/281046"
-    },
-    {
-      "id": "bbcpersian/281045",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/D3dNHXXoN5OIdJ9u88--pQIZsKagdVkuGdQ2-gBCCk5vwc1UXvdYZcundjyPxO6qlFhiodM8bqC_KC8g4Tb_Geyph6Z5VNmOfAzk5tHGFoALlGCd2Gp4VKjzAuvHZE__EdO1yl0rBxKAQAkxHTvK9C3zGjWGSAN8RJW3jhkupT1zkQv_RNm2ehdhjLAc7lLbTN-8g1U6eo7Lhnl8ihz5OYolFHKUNdHx85CbQ0gcnBDsGeDfKjLwAQOk23hKeTRkc6KlF5fq4DAKTwPYp-bo5KqCjQwn4d1dtu_enfdG2D2Jwfo7fvIPH50F-2FeqrvECajnUCyT6RGBmBQrlKXzGw.jpg",
-      "author_photo_path": "channels/bbcpersian/media/663d89043b6f4d498c245bbf.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>سومین دور مذاکرات لبنان و اسرائیل در واشنگتن آغاز شد</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>نمایندگان دولت‌های اسرائیل و لبنان سومین دور از مذاکرات خود را درواشنگتن آغاز کرده‌اند. این مذاکرات در حالی آغاز شده که آتش‌بس لبنان چند روز دیگر به پایان می‌رسد.<br><br>اسرائیل امروز هم در جنوب لبنان به حملات خود به چندین هدف که می‌گوید متعلق به حزب‌الله است، ادامه داد و چندین اسرائیلی هم با یک پهپاد انفجاری حزب‌الله مجروح شدند.<br><br>گروه حزب‌الله که تحت حمایت ایران است، در مذاکرات واشنگتن شرکت ندارد و آن را رد کرده است.<br><br>در حالی که دولت لبنان از اسرائیل خواسته است به حملات خود به خاک لبنان پایان دهد، اسرائیل خواهان خلع سلاح حزب‌الله است.<br><br>در دوره آتش‌بس، صدها نفر از مردم لبنان در حملات روزانه اسرائیل کشته شده‌اند و حزب‌الله هم به راکت‌پراکنی به داخل اسرائیل ادامه داده است.<br><a href=\"https://bbc.in/3PHiUyz\" target=\"_blank\" rel=\"noopener\">https://bbc.in/3PHiUyz</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "🔻سومین دور مذاکرات لبنان و اسرائیل در واشنگتن آغاز شد 🔻نمایندگان دولت‌های اسرائیل و لبنان سومین دور از مذاکرات خود را درواشنگتن آغاز کرده‌اند. این مذاکرات در حالی آغاز شده که آتش‌بس لبنان چند روز دیگر به پایان می‌رسد. اسرائیل امروز هم در جنوب لبنان به حملات خود به چندین هدف که می‌گوید متعلق به حزب‌الله است، ادامه داد و چندین اسرائیلی هم با یک پهپاد انفجاری حزب‌الله مجروح شدند. گروه حزب‌الله که تحت حمایت ایران است، در مذاکرات واشنگتن شرکت ندارد و آن را رد کرده است. در حالی که دولت لبنان از اسرائیل خواسته است به حملات خود به خاک لبنان پایان دهد، اسرائیل خواهان خلع سلاح حزب‌الله است. در دوره آتش‌بس، صدها نفر از مردم لبنان در حملات روزانه اسرائیل کشته شده‌اند و حزب‌الله هم به راکت‌پراکنی به داخل اسرائیل ادامه داده است. https://bbc.in/3PHiUyz @BBCPersian",
-      "media": [],
-      "reactions": [],
-      "views_label": "21.4K",
-      "posted_at": "2026-05-14T18:34:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/281045"
-    },
-    {
-      "id": "bbcpersian/281044",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/D3dNHXXoN5OIdJ9u88--pQIZsKagdVkuGdQ2-gBCCk5vwc1UXvdYZcundjyPxO6qlFhiodM8bqC_KC8g4Tb_Geyph6Z5VNmOfAzk5tHGFoALlGCd2Gp4VKjzAuvHZE__EdO1yl0rBxKAQAkxHTvK9C3zGjWGSAN8RJW3jhkupT1zkQv_RNm2ehdhjLAc7lLbTN-8g1U6eo7Lhnl8ihz5OYolFHKUNdHx85CbQ0gcnBDsGeDfKjLwAQOk23hKeTRkc6KlF5fq4DAKTwPYp-bo5KqCjQwn4d1dtu_enfdG2D2Jwfo7fvIPH50F-2FeqrvECajnUCyT6RGBmBQrlKXzGw.jpg",
-      "author_photo_path": "channels/bbcpersian/media/663d89043b6f4d498c245bbf.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>پادکست جام جهان‌نما پنجشنبه ۲۴ اردیبهشت ۱۴۰۵<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>در این برنامه می‌شنوید:<br>دیدار دو ساعته ترامپ و شی در پکن... کاخ سفید می‌گوید آمریکا و چین بر سر باز شدن تنگه هرمز توافق دارند<br>همزمان در ایران گزارش‌ها از عبور بیشتر کشتی‌های چینی از تنگه هرمز حکایت دارد خبرگزاری فارس نوشته تهران به درخواست پکن این مجوز را صادر کرده نزدیکتر شدن آمریکا و چین، معادله جنگ را به نفع کدام‌ طرف تغییر می‌دهد؟<br>نشست وزیران خارجه بریکس در هند زیر سایه تنش میان اعضا... عراقچی در حاشیه این نشست، امارات را متهم کرد که مستقیم در اقدام تجاوزکارانه علیه ایران دست داشته<br>و... تکذیب سفر نتانیاهو به امارات در میانه جنگ ایران از سوی ابوظبی.... تهران با وجود این، هشدار داد دشمنی با ایران قماری احمقانه است<br> <br>این برنامه رادیویی را می‌توانید هر شب ساعت ۲۰ به وقت ایران، روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۹۴۶۵ کیلوهرتز بشنوید.<br>تکرار برنامه را هم می‌توانید ساعت ۲۱:۳۰ روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۵۳۹۵ کیلوهرتز گوش کنید.<br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "🔻پادکست جام جهان‌نما پنجشنبه ۲۴ اردیبهشت ۱۴۰۵ 🔻در این برنامه می‌شنوید: دیدار دو ساعته ترامپ و شی در پکن... کاخ سفید می‌گوید آمریکا و چین بر سر باز شدن تنگه هرمز توافق دارند همزمان در ایران گزارش‌ها از عبور بیشتر کشتی‌های چینی از تنگه هرمز حکایت دارد خبرگزاری فارس نوشته تهران به درخواست پکن این مجوز را صادر کرده نزدیکتر شدن آمریکا و چین، معادله جنگ را به نفع کدام‌ طرف تغییر می‌دهد؟ نشست وزیران خارجه بریکس در هند زیر سایه تنش میان اعضا... عراقچی در حاشیه این نشست، امارات را متهم کرد که مستقیم در اقدام تجاوزکارانه علیه ایران دست داشته و... تکذیب سفر نتانیاهو به امارات در میانه جنگ ایران از سوی ابوظبی.... تهران با وجود این، هشدار داد دشمنی با ایران قماری احمقانه است این برنامه رادیویی را می‌توانید هر شب ساعت ۲۰ به وقت ایران، روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۹۴۶۵ کیلوهرتز بشنوید. تکرار برنامه را هم می‌توانید ساعت ۲۱:۳۰ روی موج متوسط ۷۰۲ کیلوهرتز و موج کوتاه ۵۳۹۵ کیلوهرتز گوش کنید. @BBCPersian",
-      "media": [],
-      "reactions": [],
-      "views_label": "23.3K",
-      "posted_at": "2026-05-14T17:53:47+00:00",
-      "edited": true,
-      "permalink": "https://t.me/bbcpersian/281044"
-    },
-    {
-      "id": "bbcpersian/281043",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/D3dNHXXoN5OIdJ9u88--pQIZsKagdVkuGdQ2-gBCCk5vwc1UXvdYZcundjyPxO6qlFhiodM8bqC_KC8g4Tb_Geyph6Z5VNmOfAzk5tHGFoALlGCd2Gp4VKjzAuvHZE__EdO1yl0rBxKAQAkxHTvK9C3zGjWGSAN8RJW3jhkupT1zkQv_RNm2ehdhjLAc7lLbTN-8g1U6eo7Lhnl8ihz5OYolFHKUNdHx85CbQ0gcnBDsGeDfKjLwAQOk23hKeTRkc6KlF5fq4DAKTwPYp-bo5KqCjQwn4d1dtu_enfdG2D2Jwfo7fvIPH50F-2FeqrvECajnUCyT6RGBmBQrlKXzGw.jpg",
-      "author_photo_path": "channels/bbcpersian/media/663d89043b6f4d498c245bbf.jpg",
-      "body_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>تدابیر تازه هند برای مقابله با اختلال در عرضه سوخت از خاورمیانه</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>مقامات دهلی‌نو، پایتخت هند، اقداماتی را برای صرفه‌جویی در مصرف سوخت اعلام کرده‌اند.<br><br>این تدابیر در پی درخواست نارندرا مودی، نخست‌وزیر هند برای کاهش مصرف انرژی جهت مقابله با اختلال در عرضه سوخت از خاورمیانه در نظر گرفته شده است.<br><br>بر اساس این اقدامات که قرار است به مدت سه ماه اجرا شود، کارکنان ادارات دولتی دو روز در هفته «از خانه» کار خواهند کرد. سفرهای رسمی کاهش می‌یابد و استفاده از وسایل نقلیه شخصی هم کمتر خواهد شد.<br><br>همچنین در چارچوب این اقدامات، تمام رویدادهای عمومی و رسمی بزرگ لغو شده است و دولت هم خرید خودروهای جدید بنزینی، دیزلی و گاز طبیعی را به مدت شش ماه متوقف خواهد کرد.<br><br>نخست‌وزیر هند روز یکشنبه گفت که کشورش باید ارز کمتری را برای واردات سوخت هزینه کند.<br><br><a href=\"https://bbc.in/4nraZ4K\" target=\"_blank\" rel=\"noopener\">https://bbc.in/4nraZ4K</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "🔻تدابیر تازه هند برای مقابله با اختلال در عرضه سوخت از خاورمیانه 🔻مقامات دهلی‌نو، پایتخت هند، اقداماتی را برای صرفه‌جویی در مصرف سوخت اعلام کرده‌اند. این تدابیر در پی درخواست نارندرا مودی، نخست‌وزیر هند برای کاهش مصرف انرژی جهت مقابله با اختلال در عرضه سوخت از خاورمیانه در نظر گرفته شده است. بر اساس این اقدامات که قرار است به مدت سه ماه اجرا شود، کارکنان ادارات دولتی دو روز در هفته «از خانه» کار خواهند کرد. سفرهای رسمی کاهش می‌یابد و استفاده از وسایل نقلیه شخصی هم کمتر خواهد شد. همچنین در چارچوب این اقدامات، تمام رویدادهای عمومی و رسمی بزرگ لغو شده است و دولت هم خرید خودروهای جدید بنزینی، دیزلی و گاز طبیعی را به مدت شش ماه متوقف خواهد کرد. نخست‌وزیر هند روز یکشنبه گفت که کشورش باید ارز کمتری را برای واردات سوخت هزینه کند. https://bbc.in/4nraZ4K @BBCPersian",
-      "media": [],
-      "reactions": [],
-      "views_label": "22.7K",
-      "posted_at": "2026-05-14T17:47:30+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/281043"
-    },
-    {
-      "id": "bbcpersian/281042",
-      "author_name": "BBCPersian",
-      "author_photo_url": "https://cdn4.telesco.pe/file/D3dNHXXoN5OIdJ9u88--pQIZsKagdVkuGdQ2-gBCCk5vwc1UXvdYZcundjyPxO6qlFhiodM8bqC_KC8g4Tb_Geyph6Z5VNmOfAzk5tHGFoALlGCd2Gp4VKjzAuvHZE__EdO1yl0rBxKAQAkxHTvK9C3zGjWGSAN8RJW3jhkupT1zkQv_RNm2ehdhjLAc7lLbTN-8g1U6eo7Lhnl8ihz5OYolFHKUNdHx85CbQ0gcnBDsGeDfKjLwAQOk23hKeTRkc6KlF5fq4DAKTwPYp-bo5KqCjQwn4d1dtu_enfdG2D2Jwfo7fvIPH50F-2FeqrvECajnUCyT6RGBmBQrlKXzGw.jpg",
-      "author_photo_path": "channels/bbcpersian/media/663d89043b6f4d498c245bbf.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>دیدار عراقچی و لاوروف در حاشیه اجلاس وزرای خارجه بریکس</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>وزارت خارجه روسیه اعلام کرد که سرگئی لاوروف، وزیر خارجه آن کشور، در حاشیه نشست وزرای خارجه کشورهای بریکس در دهلی نو، با همتای ایرانی خود عباس عراقچی دیدار و گفت‌وگو کرده است.<br><br>بنابر این گزارش، طرفین «به طور عمیق و محرمانه» درباره روند مذاکرات با هدف حل و فصل جنگ خاورمیانه تبادل نظر کردند.<br><br>وزارت خارجه روسیه می‌گوید که آقای لاوروف در این دیدار بر اهمیت حفظ آتش‌بس و صلح شکننده و همچنین جلوگیری از اختلال در تلاش‌های سیاسی و دیپلماتیک برای دستیابی به توافق جامع ایران و آمریکا تاکید کرد.<br><br>بر اساس این گزارش، سرگئی لاوروف در این دیدار بار دیگر آمادگی روسیه را برای ارائه تسهیلات به طرفین جهت یافتن و اجرای راه‌حل‌های قابل قبول دوجانبه اعلام کرد.<br><br>وزارت خارجه روسیه می‌گوید که دو طرف همچنین در مورد مسائل جاری همکاری‌های دوجانبه بحث و گفت‌وگو کرده و تعهد متقابل خود را برای تقویت مستمر مشارکت جامع راهبردی بین دو کشور، تایید کردند.<br><br><a href=\"https://bbc.in/43cQEqw\" target=\"_blank\" rel=\"noopener\">https://bbc.in/43cQEqw</a><br><a href=\"https://t.me/BBCPersian\" target=\"_blank\">@BBCPersian</a>",
-      "plain_text": "🔻دیدار عراقچی و لاوروف در حاشیه اجلاس وزرای خارجه بریکس 🔻وزارت خارجه روسیه اعلام کرد که سرگئی لاوروف، وزیر خارجه آن کشور، در حاشیه نشست وزرای خارجه کشورهای بریکس در دهلی نو، با همتای ایرانی خود عباس عراقچی دیدار و گفت‌وگو کرده است. بنابر این گزارش، طرفین «به طور عمیق و محرمانه» درباره روند مذاکرات با هدف حل و فصل جنگ خاورمیانه تبادل نظر کردند. وزارت خارجه روسیه می‌گوید که آقای لاوروف در این دیدار بر اهمیت حفظ آتش‌بس و صلح شکننده و همچنین جلوگیری از اختلال در تلاش‌های سیاسی و دیپلماتیک برای دستیابی به توافق جامع ایران و آمریکا تاکید کرد. بر اساس این گزارش، سرگئی لاوروف در این دیدار بار دیگر آمادگی روسیه را برای ارائه تسهیلات به طرفین جهت یافتن و اجرای راه‌حل‌های قابل قبول دوجانبه اعلام کرد. وزارت خارجه روسیه می‌گوید که دو طرف همچنین در مورد مسائل جاری همکاری‌های دوجانبه بحث و گفت‌وگو کرده و تعهد متقابل خود را برای تقویت مستمر مشارکت جامع راهبردی بین دو کشور، تایید کردند. https://bbc.in/43cQEqw @BBCPersian",
-      "media": [],
-      "reactions": [],
-      "views_label": "19.8K",
-      "posted_at": "2026-05-14T17:17:42+00:00",
-      "edited": false,
-      "permalink": "https://t.me/bbcpersian/281042"
     }
   ]
 }
