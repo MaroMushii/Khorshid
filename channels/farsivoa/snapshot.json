@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-17T15:41:53.143Z",
+  "fetched_at": "2026-05-17T19:48:55.059Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -11,6 +11,370 @@
   },
   "posts": [
     {
+      "id": "farsivoa/218000",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>فروپاشی قدرت خرید در ایران؛ گرانی، بیکاری کمبود دارو و مسکن و سقوط طبقه متوسط<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "⚡️فروپاشی قدرت خرید در ایران؛ گرانی، بیکاری کمبود دارو و مسکن و سقوط طبقه متوسط @FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/218000",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/gl4vZa1W27uFiHYQ5aRr4ruhVgKthjQAWYx4EnLp-V93_6kuwLs-z71X1nX4rqhq3RNgS7v5FZnoBgrY4kq4Oa0ysToOrCG3I0g6l9kTPeCkBTfUtrVULcFR5QgB6YqmJcoArSN9wEGCyf3dCz1HkJNIqtChqG2sZzRD4IvRNET1tlIJ1LM2re5LdGa0TJHRb0y-ZyvgakwyWNJoAWXK3KLZ2jaO5x_sgUpEWt6vBtu0kPHinTrweM8wBslvkBsE_zdBFqqq5t5KbxDpDvqR9S1ukBgFRsKLWLM2KUR__lOfJND6_Pk1vxikHJ0GyRgEM09ULVkJJkFOMC6L_LRNww",
+          "thumbnail_path": "channels/farsivoa/media/c0db9447d97f9eb5a4b043b2.jpg",
+          "duration_label": "5:28",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "245",
+      "posted_at": "2026-05-17T19:44:06+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218000"
+    },
+    {
+      "id": "farsivoa/217999",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>محسن سازگارا در برنامه تفسیر خبر: اسرائیل مترصد آغاز دوباره جنگ با جمهوری اسلامی است<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "⚡️محسن سازگارا در برنامه تفسیر خبر: اسرائیل مترصد آغاز دوباره جنگ با جمهوری اسلامی است @FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/217999",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/jYfO-PQSw5Srzy0aCHdD5mrWxPfhN1VM0opMFwsZb65ZBT18d5SzZSXJPD5vPtKmORCdGi-bTCf-YEKfVz4f7EjPlqGVj7k-rBD1-ot5WhPeAakV1dQoQI7tW6dDXFYHy8i9rG9HdULg74wUdjL9-ujpX6X9PJWHmHk8uHISFbTZDmcXD-VG60OLN-aETPf3rWuWyGKgeD087pD5xs1TnuPh-PCsOby8r6y-PMPULBGdcpIUbGGn_zIu-fZwKZhp1YO9Ixk8QWNO5oieRiIL2xadkqHJhor9kKqD2zw86_BhEhwvT3AVS9kJ3_pX5uV39vkBRJmdOdd3e5eMPZe4Mw",
+          "thumbnail_path": "channels/farsivoa/media/192bf7503c4f884fba364813.jpg",
+          "duration_label": "2:43",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "420",
+      "posted_at": "2026-05-17T19:40:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/217999"
+    },
+    {
+      "id": "farsivoa/217998",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>پرزیدنت ترامپ خطاب بە جمهوری اسلامی: اگر زود دست بە کار نشوید چیزی از شما باقی نمی‌ماند<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "⚡️پرزیدنت ترامپ خطاب بە جمهوری اسلامی: اگر زود دست بە کار نشوید چیزی از شما باقی نمی‌ماند @FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/217998",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/fCv_crHCpEH7TJLhXAZqcfGXWLB4E17gsolnTvt1mqzwh5zORI9Yk6cWKTK-cwA2yoYOB0ytLAMB__SY7sJePCvQcPf9x3km_Jo5x04B4SbMwXVTziTnjijN67VbpszUJ1oeHHbbih0JRQgTmb-AC85npWCMA8QVBiU-LgKV9THbnS4KODXrcame6BY272_EgBMvuTbtAn5Cgx5e9hXC_bCy-pQLNKOI9xp8mWiNuRBYUo6c_H_H5A9QYMNn5NbtLTdfWvQaiZSw3tE_2jAlZe2mq13x2iKNxkv_brxtF6J5lgc-4tCo9qNw5vbBlgo9UAn1YUueAHZKhpgeRIogqg",
+          "thumbnail_path": "channels/farsivoa/media/c7720b1e95a803e4382010e0.jpg",
+          "duration_label": "6:17",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "620",
+      "posted_at": "2026-05-17T19:36:04+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/217998"
+    },
+    {
+      "id": "farsivoa/217997",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>دامون محمدی در برنامه تفسیر خبر: شرایط جنگی توجیه کننده بسیاری از معضلات حکومت ایران است<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "⚡️دامون محمدی در برنامه تفسیر خبر: شرایط جنگی توجیه کننده بسیاری از معضلات حکومت ایران است @FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/217997",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/jo0QnLXb0VwAeTtyOatgoDza5YwmGpltTAOgU_VZXIzAU2FTjLtMDzKBGh00SJqpDg8iSznsLjMC-oTmd2UXRzPfSuTdgI45qX9NIDQHx2aJ8clghuEtTPdFLleUiFF60p7j0Vv2BS8XRFxtZSKqTetYsgdA1fE4TebWIQHY7thJbZZUc7PBMKRGQroG_rHSgyyvSJyToLBymuVUt5KbpKC-i0LZrEyRwz2hVPBEGpKeK0IsvzdPLSqd6qoaR7qX8zj5UntDhpw4v36WlLmupL8q5oQzDnR6kGyZM6xeQ82RC0HS2Y6VDlX2zguRxm8pVUdycrQTKr0y8_N_f3k6DQ",
+          "thumbnail_path": "channels/farsivoa/media/5b092ab78c68344d12900b9c.jpg",
+          "duration_label": "1:55",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "697",
+      "posted_at": "2026-05-17T19:32:55+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/217997"
+    },
+    {
+      "id": "farsivoa/217996",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>در برنامه تفسیر خبر امروز، مهدی آقازمانی با کارشناسان مهمان، درباره حملە پهپادی بە نیروگاە اتمی ابوظبی، ادامە حملات بە اقلیم کردستان عراق، تلاش برای باجگیری و اختلال در اینترنت جهانی از طریق کابلهایی کە از زیر آبهای خلیج فارس میگذرد و ادامە محاصرە دریایی بنادر جنوبی گفتگو می‌کند <br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "⚡️در برنامه تفسیر خبر امروز، مهدی آقازمانی با کارشناسان مهمان، درباره حملە پهپادی بە نیروگاە اتمی ابوظبی، ادامە حملات بە اقلیم کردستان عراق، تلاش برای باجگیری و اختلال در اینترنت جهانی از طریق کابلهایی کە از زیر آبهای خلیج فارس میگذرد و ادامە محاصرە دریایی بنادر جنوبی گفتگو می‌کند @FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/217996",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/VqfNgmUy6LHcA4b4CX-tWZN0q9b3XyTgoIs-6YaTO8BR8MUv0vN6kdmbI4h4AG_ARmpcct93KOteozXzSKZsQ0qL5QhJZtgSSo61ESnNcGGKaXISXWWFUDT40FWsQKUGkvIcfq-n_tdkPvxCRwRDFLb2eDmDOwcWJqxpPlSJTfEogdmPRgqYsw6lA8VCLy_mQTtllzev87-KCJVUdZqDebeYlvNTKOQJpb8A3oL2tjPPlBbsJEGMlHpSTJvjBS_QO8Y16RyZa0PCT10UcO_UA7XCTYNAOaWH7q0sx6m3yp5VhLoF5SY9RCwrWu-mXj4EwT7_8lMzuQQVW4CIFv1odw",
+          "thumbnail_path": "channels/farsivoa/media/75e74da931df2275be4b82b0.jpg",
+          "duration_label": "0:37",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.4K",
+      "posted_at": "2026-05-17T18:57:00+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/217996"
+    },
+    {
+      "id": "farsivoa/217995",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "همزمان با قطع گسترده اینترنت و تشدید فضای امنیتی در ایران، رادان، فرمانده کل نیروی انتظامی جمهوری اسلامی، مدعی شد از آغاز جنگ تاکنون شش هزار و پانصد نفر را بازداشت کرده‌اند. رادان همچنین درباره روند بازداشت معترضان دی ماه ۱۴۰۴ گفت: «رهایشان نکردیم و همچنان داریم دستگیر می‌کنیم.»<br><br>در ادامه بازداشت و سرکوب شهروندان، قوه قضاییه صدور و اجرای احکام سنگین مانند اعدام را برای معترضان دی و زندانیان سیاسی سرعت بخشیده است.<br><br>پیشتر محسنی‌اژه‌ای از عواملش در قوه قضائیه خواست برخورد با معترضان را شدت بخشند و به صدور و اجرای احکام اعدام مخالفان جمهوری اسلامی سرعت بدهند.",
+      "plain_text": "همزمان با قطع گسترده اینترنت و تشدید فضای امنیتی در ایران، رادان، فرمانده کل نیروی انتظامی جمهوری اسلامی، مدعی شد از آغاز جنگ تاکنون شش هزار و پانصد نفر را بازداشت کرده‌اند. رادان همچنین درباره روند بازداشت معترضان دی ماه ۱۴۰۴ گفت: «رهایشان نکردیم و همچنان داریم دستگیر می‌کنیم.» در ادامه بازداشت و سرکوب شهروندان، قوه قضاییه صدور و اجرای احکام سنگین مانند اعدام را برای معترضان دی و زندانیان سیاسی سرعت بخشیده است. پیشتر محسنی‌اژه‌ای از عواملش در قوه قضائیه خواست برخورد با معترضان را شدت بخشند و به صدور و اجرای احکام اعدام مخالفان جمهوری اسلامی سرعت بدهند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/217995",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SW1gHGApADz5uCXSWZO_u9cPmaKa_i6vblkSMDz2oPdtlwig8G--WQoEr1AjXXZ8sN2a-PiVOmKeqtivrmQniHGbPLMrz5b6y98s38gpKWmaxu56sEeWyHUo43h16xVPRKug2YbU4AlewnSEMuyQaR3_Yqy5YKIJdNY3bcYzYWv2nfN_ibGW6akTk7KvN2vG3l8IoyeL9zqQuOMy8NRL1bJRwVA-3kBfwf8w_1qd7Eo6vm1DgN00TfKVC5BDCEg2urf1D5YzEutdmeCFzQxEatBPFsXJT6D1cxc4H9hxw5_lAVmGRuErJaeY63ImmALcwI6iT1SEKsIfgLBEh0YDpQ",
+          "thumbnail_path": "channels/farsivoa/media/10c0f47199634486858a59eb.jpg",
+          "duration_label": "0:29",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.96K",
+      "posted_at": "2026-05-17T18:18:39+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/217995"
+    },
+    {
+      "id": "farsivoa/217994",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "بعضی نیروهای کُرد با یادآوری اعدام قاضی محمد در دوران پهلوی و نقدهایی به منشور جرج‌تاون هنوز از حضورعبدالله مهتدی در این ائتلاف دلخور‌اند. دبیر کل حزب کومله کردستان ایران درعمق میدان به این نقدها پاسخ می‌‌دهد",
+      "plain_text": "بعضی نیروهای کُرد با یادآوری اعدام قاضی محمد در دوران پهلوی و نقدهایی به منشور جرج‌تاون هنوز از حضورعبدالله مهتدی در این ائتلاف دلخور‌اند. دبیر کل حزب کومله کردستان ایران درعمق میدان به این نقدها پاسخ می‌‌دهد",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/217994",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/GObRAPl7Coyl1H0rCyBO_B1YEeu7UsWAw5a5RPESeDRp5qHp9tXLRJ5uEhkBfGggJU130kEFHBhXlARoQcBgAvSn1Ad3bjJRo9meUf9coN4Owdah96v4cPc7HT1L4q4Qmaco2SPLGBnBuBSeYQSQpfMZsnUwf6ocZStThSfEUCtYTyJKOg6cu2nE5PQLKx12N6TbUQOsttindb6YQPEYSWzBMYtEEMVn_9bx59BGXEEeV6N2XIarGGPZq77ETdNzpV-GOKeQXsC9DaOyQuDBTOXz1yVpjTJQCqRkpHHhX0sagiyKA11kixHOE_l38r0-CWxYxD3IgHvE_dcb7ee5hA",
+          "thumbnail_path": "channels/farsivoa/media/c5c981116b364b4b19c82272.jpg",
+          "duration_label": "2:26",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.2K",
+      "posted_at": "2026-05-17T17:55:57+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/217994"
+    },
+    {
+      "id": "farsivoa/217993",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>دونالد ترامپ، رئیس جمهوری آمریکا روز یکشنبه، ۲۷ اردیبهشت در شبکه اجتماعی تروت سوشال نوشت: «زمان برای [رژیم] ایران، به سرعت در حال سپری شدن است و بهتر است هر چه سریع‌تر اقدام کنند.»<br>او افزود که در غیر این‌صورت «چیزی از آنها باقی نخواهد ماند.»",
+      "plain_text": "⚡️دونالد ترامپ، رئیس جمهوری آمریکا روز یکشنبه، ۲۷ اردیبهشت در شبکه اجتماعی تروت سوشال نوشت: «زمان برای [رژیم] ایران، به سرعت در حال سپری شدن است و بهتر است هر چه سریع‌تر اقدام کنند.» او افزود که در غیر این‌صورت «چیزی از آنها باقی نخواهد ماند.»",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/217993",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/CQUcaD0af4Bo7mN-ZirI9GWk0gvYHuz5E62n-dG1QSj4XDf6l9G5s_6us4J3XRQpcaIk1TNQAVGsmccsGgm_XLn-B8Ldj21uERW--qDA_kLvMWmA0gXrlpVnMN9aS_vlC5E9Co-xeTY0ybZCNFfImCrTJ4AkhR3ShzJNxbEX75T6S7jwIl1Xr4XkG0ZzuHUKqeyCnaTd-2RHusewmN32qIhfbR9s_DPEp8g41fu-yWPFMqDrvh034Q4rU4CnCLwlAIB4c81eQKTXE0k-2tkYu3vgGcJY9Ohrp37lAHeYSuaJOxQH_sh6944Q21Z-qRLn9vX2uDjEIJ5lDpz11QU-bQ.jpg",
+          "thumbnail_path": "channels/farsivoa/media/eb999db8297d0611f651d04f.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.65K",
+      "posted_at": "2026-05-17T17:09:17+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/217993"
+    },
+    {
+      "id": "farsivoa/217992",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "بغداد در نقطه عطف سیاسی؛ حذف گروه‌های نزدیک به جمهوری اسلامی از کابینه و تشدید اختلافات شیعە",
+      "plain_text": "بغداد در نقطه عطف سیاسی؛ حذف گروه‌های نزدیک به جمهوری اسلامی از کابینه و تشدید اختلافات شیعە",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/217992",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Uc2-aBJi2oItnXa0FkeS0jWHtAFk9aph6PjeV890dqrvEgg7e6cysSFsBJUY3DwlvAvPiEklliLOIyoeYCnYkOVsQ4Nin1Ah07vlU8aUx6jhjZCgcnZPiVE5ohn-qlyBcGbMkoN901UpbWxhVsTnSyJ9AWc4mXW-bq9Q2T1ufJS4Qw2-h8PUbEQ4Sh0cV3_xyihWy3LzqwKM_UgMNHCi4boIQC4jh6sXFpmah9kYBgqQTNhzMtVDrfdeCC3hbo6OcVgjpJZwzCNvWW5mz6CknAjyboDgSe3ycteWlywpVxEG7lzCJs7_O0MOCtEyRkCaNaO3Ro-Rg_oqPYFcflGbjg",
+          "thumbnail_path": "channels/farsivoa/media/a0221a9d3fe991636d1fd4d4.jpg",
+          "duration_label": "4:29",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.59K",
+      "posted_at": "2026-05-17T16:49:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/217992"
+    },
+    {
+      "id": "farsivoa/217991",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "در گفت‌وگو با حسن هاشمیان از صدای آمریکا به همزمانی آغاز به‌کار دولت جدید عراق با تشدید فشار نظامی، اقتصادی، و قضایی آمریکا بر گروه‌های وابسته به جمهوری اسلامی پرداختیم و بررسی کردیم این تحولات چه پیامدهایی برای آینده نفوذ رژیم ایران و موازنه امنیتی در عراق خواهد داشت.",
+      "plain_text": "در گفت‌وگو با حسن هاشمیان از صدای آمریکا به همزمانی آغاز به‌کار دولت جدید عراق با تشدید فشار نظامی، اقتصادی، و قضایی آمریکا بر گروه‌های وابسته به جمهوری اسلامی پرداختیم و بررسی کردیم این تحولات چه پیامدهایی برای آینده نفوذ رژیم ایران و موازنه امنیتی در عراق خواهد داشت.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/217991",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/f3yTIXkfURDkTZqBHhyjIa6TdM4xpLQsyKMnSzhuYL9FmZWGyMpXAWGvKXqlOotVEKBn-Bz4emM1tr9MszcOt5pAb8fWMQHKXg4vnSBUlvjBEmDsbpnPQqO3T1w0nxxKzHThmgig6_p56ogiYCjIOt0A1Uq1ocvVVYJwZvYvaLibEi7aasZKsbHDVX5I2QeACjIC1eMjl5zT9gaxlX-CfZXK4d_HIfDJ9JLR_Qqo0IHmLlRn7QfMDKxbyBFqkQZGiINsvMuVJaXXQ-FRzvyKYSoSfGzxbWcdgwQ9gdH8zW8tscl6GHAuo8T78W0fTDmzjhgNR2MB6WXruApMEIheCA",
+          "thumbnail_path": "channels/farsivoa/media/c5b2b23a1893932b884109be.jpg",
+          "duration_label": "9:44",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.52K",
+      "posted_at": "2026-05-17T16:45:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/217991"
+    },
+    {
+      "id": "farsivoa/217990",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "سازمان‌های حقوق بشری گزارش داده‌اند که وکلای تسخیری قوه قضائیه در سرعت بخشیدن به صدور احکام اعدام برای معترضان، به رژیم ایران کمک می‌کنند.",
+      "plain_text": "سازمان‌های حقوق بشری گزارش داده‌اند که وکلای تسخیری قوه قضائیه در سرعت بخشیدن به صدور احکام اعدام برای معترضان، به رژیم ایران کمک می‌کنند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/217990",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/FUgSnjcL5-sZ1EgZaZtSPQ4UCrIBcRfg97uWr1kHPG_7tWXlcOt1Cq4afCCr2lisouAWtm8gNdUislAfpyoBRFTfuuup12OCnSoPksm1hD8Wl3841lkbipNQvNOrg3GZa7IuHGXeQUQs_l0fRt3WG9fvKqCF5Gv92YCNsq5ZU2jVmtY4nB4SsRd4MYyOoVWWONC0ZKyVrldxKkcDRt5clsTIYnUDjw0SIFkU0A3h7BmxklkHmVnhs0fiRvDraHiw0ZOJPEytMfpFvBH0ktj3Pnmby5w6sCimckRZr9q-kvX0e5kSFJldBX1K0MEUOerGSHl9loz-ga2xsfTW37cmrA",
+          "thumbnail_path": "channels/farsivoa/media/07c4497867637d060c4f823e.jpg",
+          "duration_label": "3:15",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.3K",
+      "posted_at": "2026-05-17T16:43:12+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/217990"
+    },
+    {
+      "id": "farsivoa/217989",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "نوآم بتان، نماینده اسرائیل در یوروویژن ۲۰۲۶، بعد از بازگشت به اسرائیل، در فرودگاه با استقبال هوادارانش روبرو شد. او در مسابقات آواز یوروویژن که شامگاه شنبه، ۲۶ اردیبهشت، برگزار شد، با ترانه‌‌ای که ترکیبی از عبری، فرانسوی و انگلیسی است رتبه دوم را بدست آورد.<br><br>دارا، خواننده بلغار مقام اول را کسب کرد. دور بعدی این مسابقات به میزبانی بلغارستان برگزار خواهد شد.",
+      "plain_text": "نوآم بتان، نماینده اسرائیل در یوروویژن ۲۰۲۶، بعد از بازگشت به اسرائیل، در فرودگاه با استقبال هوادارانش روبرو شد. او در مسابقات آواز یوروویژن که شامگاه شنبه، ۲۶ اردیبهشت، برگزار شد، با ترانه‌‌ای که ترکیبی از عبری، فرانسوی و انگلیسی است رتبه دوم را بدست آورد. دارا، خواننده بلغار مقام اول را کسب کرد. دور بعدی این مسابقات به میزبانی بلغارستان برگزار خواهد شد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/217989",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/DQ59dlKt09Vf0KQ6-QmCDbQt6g-V41exzVQT2Rdacs0AFt-v6MnW1rmMIGHTKktYW-T3WSI1Xoq0WioWQ1_GJGHUZtCTCFedfyRylc0Vu5fhIC1jjo1E5r-xNFIXAuK2pScInpNmJnuWP7KOcBRXksXEmQPd4QC8XhNxLiv5HOKp0ZX4Lk13PvAvHsvj4tcxfGnGWu188Nh10G98Mvaayz5dAflQnKHj_eC50tiXwOoY0JGsd-MIDFkOqgHrZvL6Okx3zz_SsFCppFJHhk3KVYOJ94G-qwuI4J0bWya1TPBaQCYX2y7DspzUPHoUIPvcjpaRliqnVyEEQ8WQ5r-fvQ",
+          "thumbnail_path": "channels/farsivoa/media/8ff365ff336bf911659bb99d.jpg",
+          "duration_label": "1:15",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.34K",
+      "posted_at": "2026-05-17T16:21:26+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/217989"
+    },
+    {
+      "id": "farsivoa/217988",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>نتانیاهو: اورشلیم را با تمرکز بر زیرساخت‌های عمرانی و میراث تاریخی توسعه می‌دهیم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>بنیامین نتانیاهو، نخست‌وزیر اسرائیل، اعلام کرد دولت این کشور در نشست ویژه‌ای در اورشلیم مجموعه‌ای از طرح‌های جدید عمرانی، تاریخی، و فناوری را برای توسعه این شهر تصویب کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/netanyahu-jerusalem-development-program/8150901.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/netanyahu-jerusalem-development-program/8150901.html/?nocach=1</a>",
+      "plain_text": "🔺نتانیاهو: اورشلیم را با تمرکز بر زیرساخت‌های عمرانی و میراث تاریخی توسعه می‌دهیم ▪️بنیامین نتانیاهو، نخست‌وزیر اسرائیل، اعلام کرد دولت این کشور در نشست ویژه‌ای در اورشلیم مجموعه‌ای از طرح‌های جدید عمرانی، تاریخی، و فناوری را برای توسعه این شهر تصویب کرده است. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/netanyahu-jerusalem-development-program/8150901.html/?nocach=1",
+      "media": [],
+      "reactions": [],
+      "views_label": "2.14K",
+      "posted_at": "2026-05-17T16:20:38+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/217988"
+    },
+    {
+      "id": "farsivoa/217987",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>سناتور گراهام: هنوز اهداف بیشتری برای حمله در ایران وجود دارد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>لیندزی گراهام، سناتور جمهوری‌خواه ایالت کارولینای جنوبی، روز یکشنبه ۲۷ اردیبهشت خواستار افزایش فشار نظامی آمریکا بر رژیم ایران شد و گفت هنوز اهداف بیشتری برای حمله وجود دارد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/lindsey-graham-nbc-interview-iran-hormuz-strait-status-quo/8150911.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/lindsey-graham-nbc-interview-iran-hormuz-strait-status-quo/8150911.html/?nocach=1</a>",
+      "plain_text": "🔺سناتور گراهام: هنوز اهداف بیشتری برای حمله در ایران وجود دارد ▪️لیندزی گراهام، سناتور جمهوری‌خواه ایالت کارولینای جنوبی، روز یکشنبه ۲۷ اردیبهشت خواستار افزایش فشار نظامی آمریکا بر رژیم ایران شد و گفت هنوز اهداف بیشتری برای حمله وجود دارد. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/lindsey-graham-nbc-interview-iran-hormuz-strait-status-quo/8150911.html/?nocach=1",
+      "media": [],
+      "reactions": [],
+      "views_label": "2K",
+      "posted_at": "2026-05-17T16:16:51+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/217987"
+    },
+    {
+      "id": "farsivoa/217986",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "عبدالله مهتدی، دبیر کل حزب کومله کردستان ایران درعمق میدان: این کُردها بودند که موج بزرگی از فعالان سیاسی و روزنامه‌نگاران خارج از کشور را با بودجه و امکانات محدود خود از دست جمهوری اسلامی نجات دادند",
+      "plain_text": "عبدالله مهتدی، دبیر کل حزب کومله کردستان ایران درعمق میدان: این کُردها بودند که موج بزرگی از فعالان سیاسی و روزنامه‌نگاران خارج از کشور را با بودجه و امکانات محدود خود از دست جمهوری اسلامی نجات دادند",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/217986",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/EHjsQNNEGyo2bJaZstXaJ3sej6MPoaU5E1nqNWRHpnEY4sC5hFrQfP4ZOulIdUgOiAjI8ep2raS4ZkaaLuJWHTNH3EtEirxw7SW03ipVKeShXZnDPEm0BJWXgIw5dphUddOiMYgUQdkjvCLMwO-duKDo8Ieu_062Mk-pjeSEyL88bxAnpffSJaMtYyBdIsKtPP3cSXSsU6zQINIMVqIb75VDODDWDFv5lZ6aSEOcoSiRwNsNgIspxR2Y9QhHmNDmxNnrp1eoGWjDDK1E2Tp0OJaApYDN5G7bRCQoX0DXuILPSXfbZfjX9Q2Op2_WSMkgOXeQoM7w7852vlylp7id7w",
+          "thumbnail_path": "channels/farsivoa/media/66655c5cc917b44ff5a67b7a.jpg",
+          "duration_label": "1:27",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.94K",
+      "posted_at": "2026-05-17T16:11:01+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/217986"
+    },
+    {
+      "id": "farsivoa/217985",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
+      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
+      "body_html": "جاری شدن سیلاب و آب‌گرفتگی معابر در بجنورد - ۲۷ اردیبهشت ۱۴۰۵",
+      "plain_text": "جاری شدن سیلاب و آب‌گرفتگی معابر در بجنورد - ۲۷ اردیبهشت ۱۴۰۵",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/217985",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/YcXglp-gdkIztoFxlghlqMPVHuIBQ2rF9FpCiY6Qqg1_mxfL-BLpSJJZRkvCkugUE-Ij2hiTDwswnv1eyjoRk_bUq8epN_sBl8_4lWCRVT6nST6tPGBcelctqFhrzClhGvs0EKJzJcSZE5gV9DVvB_6MciV30C7XAhJ1AHqQYAHn0K9oWwN5DSVxWQLWu48pbJmh0UvjWCPk5Bojx6F8iz72of0sN7Qk8BT1k4E0ejQFza2bBpYHSFWlnaLmFwEiZMIuEEQTN_KKe_r8LDxiiO4ZW0YLT36luZmkPC_lJCSr3z9Iz4glbFfPGvqZk1Ko419tCM0Fy2oNG5PMEoE3Ug",
+          "thumbnail_path": "channels/farsivoa/media/058535ca543f9414a353d3cd.jpg",
+          "duration_label": "0:26",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.98K",
+      "posted_at": "2026-05-17T16:05:31+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/217985"
+    },
+    {
       "id": "farsivoa/217984",
       "author_name": "Farsi VOA",
       "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
@@ -19,7 +383,7 @@
       "plain_text": "🔺دیدگاه | فوتبال ایران یک ماه تا جام جهانی؛ ماکتی از رفتار و توهم حکومت ▪️مهدی تاج، رئیس فدراسیون فوتبال، ۱۰ دی ۱۴۰۴: «در جام جهانی ۲۰۲۶ از گروه‌مان صعود می‌کنیم.» ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/government-behavior-iran-national-football-team-2026-fifa-world-cup-mehdi-taj/8150881.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "499",
+      "views_label": "2.33K",
       "posted_at": "2026-05-17T15:20:22+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/217984"
@@ -33,7 +397,7 @@
       "plain_text": "🔺کشته شدن یک فرمانده سازمان تروریستی حماس در حمله ارتش اسرائیل ▪️ارتش دفاعی اسرائیل روز یکشنبه ۲۷ اردیبهشت با انتشار پیامی در حساب کاربری خود در شبکه اجتماعی ایکس اعلام کرد که نیروهای ارتش اسرائیل روز شنبه «بها‌ء بارود، از فرماندهان ستاد عملیات شاخه نظامی سازمان تروریستی حماس» را کشتند. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/hamas-israel-kills-commander/8150897.html/?nocach=1",
       "media": [],
       "reactions": [],
-      "views_label": "623",
+      "views_label": "2.19K",
       "posted_at": "2026-05-17T15:15:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/217983"
@@ -57,7 +421,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "774",
+      "views_label": "2.14K",
       "posted_at": "2026-05-17T15:06:04+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/217982"
@@ -81,7 +445,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "743",
+      "views_label": "2.18K",
       "posted_at": "2026-05-17T15:05:40+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/217981"
@@ -1807,340 +2171,6 @@
       "posted_at": "2026-05-16T12:11:50+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/217888"
-    },
-    {
-      "id": "farsivoa/217887",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "اعتراض گسترده شهروندان ژاپنی علیه ساخت مسجد در شهر فوجیساوا؛<br><br>صدها نفر از شهروندان ژاپنی در شهر ساحلی فوجیساوا، در جنوب توکیو، در اعتراض به پروژه ساخت اولین مسجد بزرگ این شهر دست به تجمع زدند.<br><br>معترضان نگران تغییر بافت فرهنگی محله و تأثیر آن بر هویت سنتی منطقه هستند. آن‌ها معتقدند مقیاس این مسجد بزرگ‌تر از زیارتگاه‌های شینتو در نزدیکی آن است.<br><br>علاوه بر مسائل فرهنگی، نگرانی‌هایی درباره ترافیک، سر و صدا و عدم آشنایی با آداب مذهبی جدید مطرح شده است.<br><br>شهرداری فوجیساوا اعلام کرده که این پروژه تمامی استانداردهای قانونی و شهرسازی را رعایت کرده و مجوزهای لازم را دارد، بنابراین روند ساخت از نظر قانونی مانعی ندارد. شهروندان به تجمعات گسترده در مسیر تردد مقامات شهرداری در این شهر ادامه دادند.<br><br>شهر فوجیساوا به دلیل قرار گرفتن بین کلانشهر توکیو و مناظر طبیعی و آرام از موقعیت خاصی برخوردار است.<br><br>این تنش‌ها در حالی رخ می‌دهد که جمعیت مسلمانان ژاپن در سال‌های اخیر رشد چشمگیری داشته و به بیش از ۴۰۰ هزار نفر رسیده است، موضوعی که بحث‌های گسترده‌ای را درباره نحوه همزیستی و تنوع فرهنگی در این کشور برانگیخته است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "اعتراض گسترده شهروندان ژاپنی علیه ساخت مسجد در شهر فوجیساوا؛ صدها نفر از شهروندان ژاپنی در شهر ساحلی فوجیساوا، در جنوب توکیو، در اعتراض به پروژه ساخت اولین مسجد بزرگ این شهر دست به تجمع زدند. معترضان نگران تغییر بافت فرهنگی محله و تأثیر آن بر هویت سنتی منطقه هستند. آن‌ها معتقدند مقیاس این مسجد بزرگ‌تر از زیارتگاه‌های شینتو در نزدیکی آن است. علاوه بر مسائل فرهنگی، نگرانی‌هایی درباره ترافیک، سر و صدا و عدم آشنایی با آداب مذهبی جدید مطرح شده است. شهرداری فوجیساوا اعلام کرده که این پروژه تمامی استانداردهای قانونی و شهرسازی را رعایت کرده و مجوزهای لازم را دارد، بنابراین روند ساخت از نظر قانونی مانعی ندارد. شهروندان به تجمعات گسترده در مسیر تردد مقامات شهرداری در این شهر ادامه دادند. شهر فوجیساوا به دلیل قرار گرفتن بین کلانشهر توکیو و مناظر طبیعی و آرام از موقعیت خاصی برخوردار است. این تنش‌ها در حالی رخ می‌دهد که جمعیت مسلمانان ژاپن در سال‌های اخیر رشد چشمگیری داشته و به بیش از ۴۰۰ هزار نفر رسیده است، موضوعی که بحث‌های گسترده‌ای را درباره نحوه همزیستی و تنوع فرهنگی در این کشور برانگیخته است. @FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/217887",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Nn9q3JN0jZlYY6fXtZJlnkGxTikenYNs0gpDkTkDriTgloffQpWZy4sRvW_zqE_K0PVUQls-Vdfn0XgYXGOV_3wtY_YmUCzd4oP8rp0eMvaASQEnGk47MrR9pgBCoYlcy41AHJ136lFnoJdX2nZC8oU8cpwQRHBbPlrd68mdIu8-j6d8L8lDN_aW2HvZhvoMC1CE0R26lLpeU44enE0NcL-w9mE5jXmuAQgk6SkDDWV0uFz-FDZ-HUdbVTJ-SNKMrB5DhSK-G_4aoKjWlTH3mPr2x-N5Ig6axtGbVNjNo3Vncm8hk3NRJ4dYXX3DPetPQl0h_RVSaRAezkO1n-krzg",
-          "thumbnail_path": "channels/farsivoa/media/f08e52568365241b38894086.jpg",
-          "duration_label": "0:18",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.38K",
-      "posted_at": "2026-05-16T11:28:30+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217887"
-    },
-    {
-      "id": "farsivoa/217886",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>وام یک میلیاردی مسکن فقط کفاف خرید ۱۰ متر از یک خانه را می‌دهد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>رئیس گروه مالی بانک مسکن، گفته است در شرایط فعلی، تسهیلات یک میلیارد تومانی خرید مسکن فقط امکان خرید حدود ۱۰ متر خانه را فراهم می‌کند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>میانگین قیمت هر متر واحد مسکونی اکنون بین ۱۰۰ تا ۱۵۰ میلیون تومان برآورد شده است؛ یعنی وام یک میلیارد تومانی، حتی اگر کامل پرداخت شود، فقط بخش کوچکی از قیمت یک آپارتمان معمولی را پوشش می‌دهد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>در بازار اجاره نیز هرچند گزارش مرکز آمار از کاهش سرعت رشد اجاره در فروردین حکایت دارد، فشار بر مستأجران همچنان بالاست. طبق گزارش بازنشرشده از داده‌های مرکز آمار، تورم نقطه‌به‌نقطه اجاره در فروردین ۳۱.۱ درصد و تورم سالانه اجاره ۳۳.۷ درصد بوده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8150657.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8150657.html</a>",
-      "plain_text": "🔺وام یک میلیاردی مسکن فقط کفاف خرید ۱۰ متر از یک خانه را می‌دهد ◾️رئیس گروه مالی بانک مسکن، گفته است در شرایط فعلی، تسهیلات یک میلیارد تومانی خرید مسکن فقط امکان خرید حدود ۱۰ متر خانه را فراهم می‌کند. ◾️میانگین قیمت هر متر واحد مسکونی اکنون بین ۱۰۰ تا ۱۵۰ میلیون تومان برآورد شده است؛ یعنی وام یک میلیارد تومانی، حتی اگر کامل پرداخت شود، فقط بخش کوچکی از قیمت یک آپارتمان معمولی را پوشش می‌دهد. ◾️در بازار اجاره نیز هرچند گزارش مرکز آمار از کاهش سرعت رشد اجاره در فروردین حکایت دارد، فشار بر مستأجران همچنان بالاست. طبق گزارش بازنشرشده از داده‌های مرکز آمار، تورم نقطه‌به‌نقطه اجاره در فروردین ۳۱.۱ درصد و تورم سالانه اجاره ۳۳.۷ درصد بوده است. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150657.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "2.11K",
-      "posted_at": "2026-05-16T11:22:41+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217886"
-    },
-    {
-      "id": "farsivoa/217885",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "رئیس انجمن روانپزشکان ایران می‌گوید کمبود دارو در حوزه روانپزشکی جدی است و نسبت به شرایط پیش از جنگ، به «طور قابل توجهی» تشدید شده است.<br><br>وحید شریعت به ایلنا گفته است در ماه‌های اخیر، کمبود قابل توجهی در برخی اقلام دارویی مشاهده شده است که برخی از آن‌ها از پیش از آغاز جنگ تشدید یافته و برخی دیگر کاملاً جدید هستند.<br><br>به گفته او احتمالاً مسئله به اختلال در روند تولید به خاطر نبود مواد اولیه یا نوعی دست نگه داشتن در توزیع، به منظور آماده‌سازی شرایط بازار برای افزایش قیمت مرتبط باشد.<br><br>حسین‌علی شهریاری رئیس کمیسیون بهداشت و درمان مجلس نیز روز پنج‌شنبه از افزایش قیمت برخی داروها بین ۵۰ تا ۳۰۰ درصد خبر داد و گفت بر اساس برآورد وزارت بهداشت، حدود ۱۵۰ هزار میلیارد تومان منابع نیاز است تا بتوان فشار هزینه‌های دارویی بر مردم را کاهش داد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "رئیس انجمن روانپزشکان ایران می‌گوید کمبود دارو در حوزه روانپزشکی جدی است و نسبت به شرایط پیش از جنگ، به «طور قابل توجهی» تشدید شده است. وحید شریعت به ایلنا گفته است در ماه‌های اخیر، کمبود قابل توجهی در برخی اقلام دارویی مشاهده شده است که برخی از آن‌ها از پیش از آغاز جنگ تشدید یافته و برخی دیگر کاملاً جدید هستند. به گفته او احتمالاً مسئله به اختلال در روند تولید به خاطر نبود مواد اولیه یا نوعی دست نگه داشتن در توزیع، به منظور آماده‌سازی شرایط بازار برای افزایش قیمت مرتبط باشد. حسین‌علی شهریاری رئیس کمیسیون بهداشت و درمان مجلس نیز روز پنج‌شنبه از افزایش قیمت برخی داروها بین ۵۰ تا ۳۰۰ درصد خبر داد و گفت بر اساس برآورد وزارت بهداشت، حدود ۱۵۰ هزار میلیارد تومان منابع نیاز است تا بتوان فشار هزینه‌های دارویی بر مردم را کاهش داد. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217885",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/W4dD1OLdvguwIGYKeEQ-btv13PPhmuW5pFerHlh360ch6q1Nx1mDCW4xDDMCnBN2dgKdUXldwis8g2YNkSh20QHQ1d6ZiPnSjkHZtyZTTuO10md_Li38FOzouWOVTzWooeV13dwonyz6bCS5g-91iHN6CJ9g3haGag1K3wfO19jiwe7tiyziXaZpJgiQdFHTCjQMhBGCd80Ox1BomaX1tlbj9sdWffAgBYAWAOCYy6y-STTPCb2fHgqwHxUgldrsbu-K62bVEtTO9Ix4FgMpyLb16jOwpLDcTt6WZmXTrLhT7ka6a1joajdYdrFC5dgBpM0Dkz-nQW9ok9jEoRPaBg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/9979d32e968ec32f37425e5c.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.08K",
-      "posted_at": "2026-05-16T11:13:28+00:00",
-      "edited": true,
-      "permalink": "https://t.me/farsivoa/217885"
-    },
-    {
-      "id": "farsivoa/217884",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "حرکات مخصوص ایلان ماسک حین عکس گرفتن با تیم کوک در پکن؛<br><br>ایلان ماسک، مدیرعامل تسلا و اسپیس‌اکس، در سفر اخیر دونالد ترامپ، رئیس جمهوری آمریکا به پکن، به عنوان یکی از چهره‌های کلیدی هیئت همراه حضور داشت.<br><br>حضور او در کنار سایر مدیران فناوری نظیر تیم کوک، مدیرعامل اپل و جنسن هوانگ، مدیرعامل انویدیا، بر اهمیت مذاکرات پیرامون هوش مصنوعی در این سفر تأکید داشت.<br><br>این حضور نشان‌دهنده نزدیکی دوباره ماسک به تیم ترامپ، پس از وقفه‌ای در همکاری‌های مستقیم دولتی آن‌ها در سال گذشته است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "حرکات مخصوص ایلان ماسک حین عکس گرفتن با تیم کوک در پکن؛ ایلان ماسک، مدیرعامل تسلا و اسپیس‌اکس، در سفر اخیر دونالد ترامپ، رئیس جمهوری آمریکا به پکن، به عنوان یکی از چهره‌های کلیدی هیئت همراه حضور داشت. حضور او در کنار سایر مدیران فناوری نظیر تیم کوک، مدیرعامل اپل و جنسن هوانگ، مدیرعامل انویدیا، بر اهمیت مذاکرات پیرامون هوش مصنوعی در این سفر تأکید داشت. این حضور نشان‌دهنده نزدیکی دوباره ماسک به تیم ترامپ، پس از وقفه‌ای در همکاری‌های مستقیم دولتی آن‌ها در سال گذشته است. @FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/217884",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Go-x6VzT_2KhTjT5cPDZBhdaIFnJfdVDcgWeUZZDt2P6GsbNVcv-16PX_W8ECARNaXGkXDPzV_EjxBxA8gkmFuba3ylMraTAiSVJmx3liIZ6qzVoA-jG4TktKWqxozWpHTEMZhmkkYh10qbH0op0PQ3OAC2nna449aAJZSi2Dhzm6GIx6YUq8YxBx8MSEL-lQakHZF1Khbxs8AYmykFqLoAGImF95blR4a6kXgNk2IEcRTBi_R48QXAzTNzIbAEuO9vXaEQ6oKJv4q1zS7Wji45puOj-6n-qqIW5zW1U4z9JQZU9rzGhx1VbeB-9TlmYnJIjAhCAdPw1-aUI2DvJug",
-          "thumbnail_path": "channels/farsivoa/media/2a4751e0228767349a43e650.jpg",
-          "duration_label": "0:15",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.26K",
-      "posted_at": "2026-05-16T10:44:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217884"
-    },
-    {
-      "id": "farsivoa/217883",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "عراق در ماه آوریل تنها ۱۰ میلیون بشکه نفت از مسیر تنگه هرمز صادر کرده است؛ رقمی که به گفته باسم محمد، وزیر نفت جدید عراق، پیش از جنگ ایران به طور معمول حدود ۹۳ میلیون بشکه در ماه بود.<br><br>وزیر نفت عراق همچنین گفت صادرات نفت خام این کشور از خط لوله کرکوک-جیهان در ماه مارس، پس از توافق بغداد و اقلیم کردستان برای ازسرگیری جریان نفت، دوباره آغاز شده است.<br><br>به گفته او، عراق اکنون روزانه ۲۰۰ هزار بشکه از بندر جیهان صادر می‌کند و برنامه دارد این رقم را به ۵۰۰ هزار بشکه در روز افزایش دهد. بغداد همچنین قصد دارد با اوپک برای افزایش ظرفیت تولید و صادرات خود رایزنی کند.<br><br>تنگه هرمز در هفته‌های اخیر، هم‌زمان با جنگ آمریکا و جمهوری اسلامی و افزایش تنش‌های نظامی در خلیج فارس، به یکی از نقاط اصلی بحران انرژی تبدیل شده است.<br><br>این مسیر، گذرگاه حیاتی صادرات نفت و گاز کشورهای حاشیه خلیج فارس از جمله عراق، قطر، عربستان سعودی، امارات و کویت است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "عراق در ماه آوریل تنها ۱۰ میلیون بشکه نفت از مسیر تنگه هرمز صادر کرده است؛ رقمی که به گفته باسم محمد، وزیر نفت جدید عراق، پیش از جنگ ایران به طور معمول حدود ۹۳ میلیون بشکه در ماه بود. وزیر نفت عراق همچنین گفت صادرات نفت خام این کشور از خط لوله کرکوک-جیهان در ماه مارس، پس از توافق بغداد و اقلیم کردستان برای ازسرگیری جریان نفت، دوباره آغاز شده است. به گفته او، عراق اکنون روزانه ۲۰۰ هزار بشکه از بندر جیهان صادر می‌کند و برنامه دارد این رقم را به ۵۰۰ هزار بشکه در روز افزایش دهد. بغداد همچنین قصد دارد با اوپک برای افزایش ظرفیت تولید و صادرات خود رایزنی کند. تنگه هرمز در هفته‌های اخیر، هم‌زمان با جنگ آمریکا و جمهوری اسلامی و افزایش تنش‌های نظامی در خلیج فارس، به یکی از نقاط اصلی بحران انرژی تبدیل شده است. این مسیر، گذرگاه حیاتی صادرات نفت و گاز کشورهای حاشیه خلیج فارس از جمله عراق، قطر، عربستان سعودی، امارات و کویت است. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217883",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/GjflqeXDXVG7NfGR2Ebsb6VAFVU0DZlEaWrDRIZf8asLT99dpapRLnWOqUx91mHyhGyz3wLKToVLNtC0QnKPqY0jSXMTw92vhJ-yCZyhtTq99cjSC3NOnPcVVujjJwe4G5uEYoa9-WacRnrtkeR3PkMmglKzJp30PsmR6Ank_CuDXzpS73SPHAJdmlMQSIxvit4HuxZlVXQgFvhPYqAoCPl1ilntxWaES2qL5ZygTmCJF2S5FwWFH23zSCA7w8DfublITs7Zu_PiwxomVfCmqJHLOe9H8MKkeC3Xt-L9kk4NI01XZ-bSOwYDbE8011Ne4yPrDAs3BwuDmC0gdQituw.jpg",
-          "thumbnail_path": "channels/farsivoa/media/01a9e0ea86e34c324c41c979.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.2K",
-      "posted_at": "2026-05-16T10:30:36+00:00",
-      "edited": true,
-      "permalink": "https://t.me/farsivoa/217883"
-    },
-    {
-      "id": "farsivoa/217882",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>بلومبرگ: ادامه جنگ نگرانی از بازگشت تورم جهانی را تشدید کرد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>پیامدهای جنگ در خاورمیانه همچنان در اقتصاد جهانی گسترش می‌یابد و چشم‌انداز رشد، تورم و بازارهای مالی را پیچیده‌تر کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>بر اساس این گزارش، جنگ دیگر فقط یک بحران منطقه‌ای نیست؛ اثر آن از مسیر نفت، هزینه حمل‌ونقل، قیمت کالاها و انتظارات تورمی به اقتصادهای بزرگ و کوچک منتقل شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>صندوق بین‌المللی پول اخیراً اعلام کرد که جنگ در خاورمیانه اقتصاد جهانی را با شوک تازه‌ای روبه‌رو کرده و حتی با فرض محدود ماندن درگیری، رشد جهانی در سال ۲۰۲۶ به ۳.۱ درصد کاهش می‌یابد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>سازمان همکاری و توسعه اقتصادی نیز پیش‌بینی کرده رشد جهانی در سال ۲۰۲۶ به ۲.۹ درصد برسد و تورم اقتصادهای گروه ۲۰ به ۴ درصد افزایش یابد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8150656.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8150656.html</a>",
-      "plain_text": "🔺بلومبرگ: ادامه جنگ نگرانی از بازگشت تورم جهانی را تشدید کرد ◾️پیامدهای جنگ در خاورمیانه همچنان در اقتصاد جهانی گسترش می‌یابد و چشم‌انداز رشد، تورم و بازارهای مالی را پیچیده‌تر کرده است. ◾️بر اساس این گزارش، جنگ دیگر فقط یک بحران منطقه‌ای نیست؛ اثر آن از مسیر نفت، هزینه حمل‌ونقل، قیمت کالاها و انتظارات تورمی به اقتصادهای بزرگ و کوچک منتقل شده است. ◾️صندوق بین‌المللی پول اخیراً اعلام کرد که جنگ در خاورمیانه اقتصاد جهانی را با شوک تازه‌ای روبه‌رو کرده و حتی با فرض محدود ماندن درگیری، رشد جهانی در سال ۲۰۲۶ به ۳.۱ درصد کاهش می‌یابد. ◾️سازمان همکاری و توسعه اقتصادی نیز پیش‌بینی کرده رشد جهانی در سال ۲۰۲۶ به ۲.۹ درصد برسد و تورم اقتصادهای گروه ۲۰ به ۴ درصد افزایش یابد. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150656.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "2.1K",
-      "posted_at": "2026-05-16T10:26:00+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217882"
-    },
-    {
-      "id": "farsivoa/217881",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "تصاویر منتشر شده از سواحل جنوبی ایران، از یک فاجعه زیست‌محیطی گسترده حکایت دارد؛ لجن‌های نفتی و مواد سمی بخش وسیعی از اکوسیستم دریایی این منطقه را آلوده کرده است.<br><br>در حالی که کارشناسان به فرسودگی شدید زیرساخت‌ها اشاره می‌کنند، برخی گزارش‌ها نیز حاکی از احتمال تخلیه عمدی پسماندهای نفتی در آب‌های ساحلی است که ابعاد این فاجعه را پیچیده‌تر می‌کند.<br><br>در همین زمینه مایک والتز، نماینده آمریکا در سازمان ملل متحد، روز جمعه با بازنشر این ویدیو در شبکه ایکس نوشت جمهوری اسلامی «ایران اکنون علاوه بر اهداف غیرنظامی، کمک‌های بشردوستانه و کشتیرانی غیرنظامی، به محیط زیست نیز حمله می‌کند.»<br><br>نشت مواد سمی باعث مرگ دسته‌جمعی هزاران خرچنگ و گونه‌های جانوری دیگر در نوار ساحلی شده است.<br><br>آتش‌سوزی در بخش‌هایی از لکه‌های نفتی، توده‌های عظیم دود سیاه ایجاد کرده که سلامت ساکنان منطقه را تهدید می‌کند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "تصاویر منتشر شده از سواحل جنوبی ایران، از یک فاجعه زیست‌محیطی گسترده حکایت دارد؛ لجن‌های نفتی و مواد سمی بخش وسیعی از اکوسیستم دریایی این منطقه را آلوده کرده است. در حالی که کارشناسان به فرسودگی شدید زیرساخت‌ها اشاره می‌کنند، برخی گزارش‌ها نیز حاکی از احتمال تخلیه عمدی پسماندهای نفتی در آب‌های ساحلی است که ابعاد این فاجعه را پیچیده‌تر می‌کند. در همین زمینه مایک والتز، نماینده آمریکا در سازمان ملل متحد، روز جمعه با بازنشر این ویدیو در شبکه ایکس نوشت جمهوری اسلامی «ایران اکنون علاوه بر اهداف غیرنظامی، کمک‌های بشردوستانه و کشتیرانی غیرنظامی، به محیط زیست نیز حمله می‌کند.» نشت مواد سمی باعث مرگ دسته‌جمعی هزاران خرچنگ و گونه‌های جانوری دیگر در نوار ساحلی شده است. آتش‌سوزی در بخش‌هایی از لکه‌های نفتی، توده‌های عظیم دود سیاه ایجاد کرده که سلامت ساکنان منطقه را تهدید می‌کند. @FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/217881",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/iCql1nTIEHjTkfOAr1sNszk8-hcdXNbdsJyRgdaqT25jq5fGzs8u_JGyCN3xN0DgyBKtRSitKoa2Ucrsw_rmyrxjQR6CZFsbgHvu60ZZDygcNYRBvkhrHlW9DkQS1TqgQZh7DsOX95jMS9n3DoFt1bla7Cqt-nrGnshk95LAy-fsb1akxT_ks3uBXAhm_SJMNzOrFB9vj9wii6BwjNPXJb1NGJRbOfAIg_Qh1apk3iCIY44CcWsHNfRsfHgPnJV9222S6W3g-PV6_z-LEPrWYlKsLp5JQ_yoCOw1KLllaUg4nutZrzjE8cltgA9Uot0Q7pWlNjG2g5NBmPH6No0jeA",
-          "thumbnail_path": "channels/farsivoa/media/d58d61a428c1873b3a5eee64.jpg",
-          "duration_label": "0:24",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.27K",
-      "posted_at": "2026-05-16T10:11:28+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217881"
-    },
-    {
-      "id": "farsivoa/217880",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>آمریکا در تدارک اعلام جرم علیه رائول کاسترو رهبر پیشین کوبا<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>رویترز به نقل از یک مقام وزارت دادگستری آمریکا گزارش داد دولت ترامپ قصد دارد روز چهارشنبه ۲۰ مه، اتهامات کیفری علیه رائول کاسترو، رهبر پیشین کوبا، را در میامی اعلام کند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>به گفته این مقام، پرونده به حادثه سال ۱۹۹۶ بازمی‌گردد؛ زمانی که جنگنده‌های کوبا دو هواپیمای کوچک متعلق به گروه تبعیدیان کوبایی «برادران نجات» را سرنگون کردند و چهار نفر شهروند آمریکایی کشته شدند. رائول کاسترو در آن زمان وزیر دفاع کوبا بود.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>واشنگتن پس از این حادثه، در دوره بیل کلینتون، تحریم‌هایی علیه کوبا اعمال کرد؛ از جمله تعلیق پروازهای چارتر، محدود کردن رفت‌وآمد دیپلمات‌های کوبایی، و تلاش برای تشدید تحریم‌ها در کنگره.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8150655.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8150655.html</a>",
-      "plain_text": "🔺آمریکا در تدارک اعلام جرم علیه رائول کاسترو رهبر پیشین کوبا ◾️رویترز به نقل از یک مقام وزارت دادگستری آمریکا گزارش داد دولت ترامپ قصد دارد روز چهارشنبه ۲۰ مه، اتهامات کیفری علیه رائول کاسترو، رهبر پیشین کوبا، را در میامی اعلام کند. ◾️به گفته این مقام، پرونده به حادثه سال ۱۹۹۶ بازمی‌گردد؛ زمانی که جنگنده‌های کوبا دو هواپیمای کوچک متعلق به گروه تبعیدیان کوبایی «برادران نجات» را سرنگون کردند و چهار نفر شهروند آمریکایی کشته شدند. رائول کاسترو در آن زمان وزیر دفاع کوبا بود. ◾️واشنگتن پس از این حادثه، در دوره بیل کلینتون، تحریم‌هایی علیه کوبا اعمال کرد؛ از جمله تعلیق پروازهای چارتر، محدود کردن رفت‌وآمد دیپلمات‌های کوبایی، و تلاش برای تشدید تحریم‌ها در کنگره. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150655.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "2.45K",
-      "posted_at": "2026-05-16T09:20:24+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217880"
-    },
-    {
-      "id": "farsivoa/217879",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "بلومبرگ گزارش داد شرکت ملی نفت ابوظبی، ادنوک، با وجود اختلال‌های حمل‌ونقل در خلیج فارس، همچنان گاز طبیعی مایع را روی نفتکش‌هایی بارگیری می‌کند که سامانه‌های ردیابی خود را خاموش کرده‌اند.<br><br>بر اساس این گزارش، این کشتی‌ها برای عبور از تنگه هرمز موقعیت خود را پنهان می‌کنند؛ مسیری که از آغاز جنگ و افزایش تهدیدها علیه کشتیرانی، با خطر جدی روبه‌رو شده است.<br><br>ادنوک پیش‌تر اعلام کرده بود به دلیل اختلال در عبور کشتی‌ها از تنگه هرمز، تولید و صادرات ال‌ان‌جی و برخی محصولات صادراتی خود را به‌طور موقت تنظیم کرده است.<br><br>تأسیسات داس آیلند این شرکت در داخل خلیج فارس قرار دارد و صادرات آن برای رسیدن به بازارهای جهانی ناچار به عبور از تنگه هرمز است.<br><br>رویترز نیز اوایل ماه مه گزارش داد دومین نفتکش ال‌ان‌جی تحت مدیریت ادنوک، پس از خاموش کردن سامانه ردیابی خود، از تنگه هرمز عبور کرده است.<br><br>داده‌های رهگیری کشتی‌ها نشان می‌دهد شماری از نفتکش‌ها در هفته‌های اخیر برای کاهش خطر هدف‌گیری یا توقیف، موقعیت خود را پنهان کرده یا الگوهای شناسایی غیرعادی داشته‌اند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "بلومبرگ گزارش داد شرکت ملی نفت ابوظبی، ادنوک، با وجود اختلال‌های حمل‌ونقل در خلیج فارس، همچنان گاز طبیعی مایع را روی نفتکش‌هایی بارگیری می‌کند که سامانه‌های ردیابی خود را خاموش کرده‌اند. بر اساس این گزارش، این کشتی‌ها برای عبور از تنگه هرمز موقعیت خود را پنهان می‌کنند؛ مسیری که از آغاز جنگ و افزایش تهدیدها علیه کشتیرانی، با خطر جدی روبه‌رو شده است. ادنوک پیش‌تر اعلام کرده بود به دلیل اختلال در عبور کشتی‌ها از تنگه هرمز، تولید و صادرات ال‌ان‌جی و برخی محصولات صادراتی خود را به‌طور موقت تنظیم کرده است. تأسیسات داس آیلند این شرکت در داخل خلیج فارس قرار دارد و صادرات آن برای رسیدن به بازارهای جهانی ناچار به عبور از تنگه هرمز است. رویترز نیز اوایل ماه مه گزارش داد دومین نفتکش ال‌ان‌جی تحت مدیریت ادنوک، پس از خاموش کردن سامانه ردیابی خود، از تنگه هرمز عبور کرده است. داده‌های رهگیری کشتی‌ها نشان می‌دهد شماری از نفتکش‌ها در هفته‌های اخیر برای کاهش خطر هدف‌گیری یا توقیف، موقعیت خود را پنهان کرده یا الگوهای شناسایی غیرعادی داشته‌اند. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217879",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ci6coZzrGyKndp2WNyVusZ_7fOFGMzKULGLypD66AQ5rCuAcDth10r__BzaX6GxxeGRiGZUw-geDqfgnC8ixwOWgMK-DwW3dRRgpsM86lA7uJFuaToekNqdTy3rndMODvYw-7p9co6B9rS9HNeldu1KPserimyecLCfHxCXDsPos1iJI1OGjr1C01sB9L91AiAIg5xVg0wJvQuuJQJs5aVrMghVr4f5vaohuZPIGGiRXwREixKbZ806OY3nMOqdTiVK5rCyVucDl2NvOVSO9XDmwE9fQ0JyTYe6r14okhIDlbGUxEie7OlRYg1Q2TueR6RGNSP3uincqkTVcGR8LwQ.jpg",
-          "thumbnail_path": "channels/farsivoa/media/f6b8af65da052a363a151511.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.2K",
-      "posted_at": "2026-05-16T09:13:11+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217879"
-    },
-    {
-      "id": "farsivoa/217878",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>خاموشی اینترنت در ایران وارد هفته دوازدهم شد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>نت‌بلاکس، نهاد ناظر بر اختلالات اینترنت، اعلام کرد خاموشی دیجیتال در ایران وارد هفته دوازدهم و روز هفتادوهشتم شده است<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>این محدودیت بی‌سابقه، کشوری ۹۰ میلیونی را تا حد زیادی از اینترنت جهانی جدا کرده و حقوق بشر، اقتصاد و آزادی‌های بنیادین شهروندان را در مقیاسی گسترده فرسایش می‌دهد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>مقام‌های دولتی مدعی هستند که اینترنت حق عمومی و برابر شهروندان است، اما ساختار دسترسی در عمل به سمت اینترنت گزینشی، لیست سفید و «اینترنت پرو» حرکت کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>همچنین دسترسی به زیرساخت حیاتی اینترنت، به‌جای آنکه برای همه شهروندان و فعالان اقتصادی تضمین شود، به فرآیندی اداری، صنفی و گزینشی تبدیل شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8150654.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8150654.html</a>",
-      "plain_text": "🔺خاموشی اینترنت در ایران وارد هفته دوازدهم شد ◾️نت‌بلاکس، نهاد ناظر بر اختلالات اینترنت، اعلام کرد خاموشی دیجیتال در ایران وارد هفته دوازدهم و روز هفتادوهشتم شده است ◾️این محدودیت بی‌سابقه، کشوری ۹۰ میلیونی را تا حد زیادی از اینترنت جهانی جدا کرده و حقوق بشر، اقتصاد و آزادی‌های بنیادین شهروندان را در مقیاسی گسترده فرسایش می‌دهد. ◾️مقام‌های دولتی مدعی هستند که اینترنت حق عمومی و برابر شهروندان است، اما ساختار دسترسی در عمل به سمت اینترنت گزینشی، لیست سفید و «اینترنت پرو» حرکت کرده است. ◾️همچنین دسترسی به زیرساخت حیاتی اینترنت، به‌جای آنکه برای همه شهروندان و فعالان اقتصادی تضمین شود، به فرآیندی اداری، صنفی و گزینشی تبدیل شده است. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150654.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "1.39K",
-      "posted_at": "2026-05-16T09:07:20+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217878"
-    },
-    {
-      "id": "farsivoa/217877",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "رسانه وابسته به قوه قضائیه جمهوری اسلامی اعلام کرد اموال ۵۱ نفر در استان یزد، با دستور قضایی و به اتهام آنچه «خیانت به وطن» و «همکاری با دشمن» خوانده شده، توقیف شده است.<br><br>بر اساس این گزارش، پرونده این افراد در ارتباط با قانون موسوم به «تشدید مجازات جاسوسی و همکاری با رژیم صهیونیستی علیه امنیت و منافع ملی» در حال رسیدگی است و مقام‌های قضایی مدعی شده‌اند دارایی‌های توقیف‌شده قرار است برای «حفظ حقوق عامه» و بازسازی اماکن آسیب‌دیده از جنگ هزینه شود.<br><br>اموال توقیف‌شده شامل حساب‌های بانکی، دارایی‌های منقول و غیرمنقول، سهام شرکت‌ها و حتی اموال وکالتی عنوان شده است.<br><br>طبق گزارش میزان، از میان این ۵۱ نفر، ۲۰ نفر در داخل کشور حضور دارند و ۳۱ نفر دیگر در خارج از کشور به سر می‌برند.<br><br>این اقدام در ادامه موج تازه‌ای از مصادره و توقیف اموال شهروندان و مخالفان سیاسی صورت می‌گیرد؛ روندی که در عمل به ابزاری برای فشار، ارعاب و مصادره دارایی افراد تحت عنوان‌های سنگینی مانند «خیانت» و «همکاری با دشمن» تبدیل شده است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "رسانه وابسته به قوه قضائیه جمهوری اسلامی اعلام کرد اموال ۵۱ نفر در استان یزد، با دستور قضایی و به اتهام آنچه «خیانت به وطن» و «همکاری با دشمن» خوانده شده، توقیف شده است. بر اساس این گزارش، پرونده این افراد در ارتباط با قانون موسوم به «تشدید مجازات جاسوسی و همکاری با رژیم صهیونیستی علیه امنیت و منافع ملی» در حال رسیدگی است و مقام‌های قضایی مدعی شده‌اند دارایی‌های توقیف‌شده قرار است برای «حفظ حقوق عامه» و بازسازی اماکن آسیب‌دیده از جنگ هزینه شود. اموال توقیف‌شده شامل حساب‌های بانکی، دارایی‌های منقول و غیرمنقول، سهام شرکت‌ها و حتی اموال وکالتی عنوان شده است. طبق گزارش میزان، از میان این ۵۱ نفر، ۲۰ نفر در داخل کشور حضور دارند و ۳۱ نفر دیگر در خارج از کشور به سر می‌برند. این اقدام در ادامه موج تازه‌ای از مصادره و توقیف اموال شهروندان و مخالفان سیاسی صورت می‌گیرد؛ روندی که در عمل به ابزاری برای فشار، ارعاب و مصادره دارایی افراد تحت عنوان‌های سنگینی مانند «خیانت» و «همکاری با دشمن» تبدیل شده است. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217877",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ZedkbZTukivfKEsS0BJ3npQ5mADb8HYP9kI7ceK3Jwy368vVOcpSaUThl40yxYkFn0mxZ-ymzmTjpF6Pn1meF03yEbAS2xJgY17nlIot0_TeoVWjgzMN5sGFry_q_EdzMOa_UW1hBsGJmYr9YemrcOhMtRfJnxaa2HCRv2pMGLh9uQqcwQBfJ4FcQxWyi5IrFM6big7oR2WD-P5YUIOccQTUAbfypT7wst2tDvMVUhqjSwfnfih46581OoTMqUG5vuJvGgWm0-pB1GHdNZpiOLAFyo8g7Jl-kvtWo-sysw4nNPP-k63A3NGuKwU_1GzXSQUYpcBBy8VJz2T69yP7Zg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/777ae236d86db183cf235544.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.5K",
-      "posted_at": "2026-05-16T08:53:47+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217877"
-    },
-    {
-      "id": "farsivoa/217876",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "ارتش اسرائیل اعلام کرد پیش از آغاز حملات هوایی علیه مواضع حزب‌الله در جنوب لبنان، برای ساکنان ۹ روستا هشدار تخلیه صادر کرده است.<br><br>بر اساس این هشدار، ساکنان قعقعیه الصنوبر، کوثریه السیاد، مروانیه، غسانیه، تفاحتا، ارزی، بابلیه، انصار و بیصاریه باید دست‌کم یک کیلومتر از محل سکونت خود فاصله بگیرند.<br><br>سخنگوی ارتش اسرائیل گفت این اقدام در پی نقض توافق آتش‌بس از سوی حزب‌الله انجام می‌شود و ارتش اسرائیل قصد آسیب‌زدن به غیرنظامیان را ندارد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "ارتش اسرائیل اعلام کرد پیش از آغاز حملات هوایی علیه مواضع حزب‌الله در جنوب لبنان، برای ساکنان ۹ روستا هشدار تخلیه صادر کرده است. بر اساس این هشدار، ساکنان قعقعیه الصنوبر، کوثریه السیاد، مروانیه، غسانیه، تفاحتا، ارزی، بابلیه، انصار و بیصاریه باید دست‌کم یک کیلومتر از محل سکونت خود فاصله بگیرند. سخنگوی ارتش اسرائیل گفت این اقدام در پی نقض توافق آتش‌بس از سوی حزب‌الله انجام می‌شود و ارتش اسرائیل قصد آسیب‌زدن به غیرنظامیان را ندارد. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217876",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/hxqBjk4_PKbqU8f-s-L28snTBj6BK6cnwKzZSYgkkynSvcL8rsVDR7YuypZULHwdpyKnqlmMXpC0xnoUDi8u697PVaRp6ROvkaDsW_Gc8Ag43y0VsDOBswyxrzbrLWnIfCQjB5gF_HeBuZsIS52tBhEk31lW89-YL21a2teShCBUIeXU2wO2bze60W5n6u0JIdSqlWvy9oHIoiljfgI5NFNIqEE0teajwT5Gap6xHHCwq3-pvsZkH6iEfp7YQ42i2x9f-f6t7eOP_Sh1jBMIXhj_5kCZxNg86iG1zm_wV8Y1p1jalYKG7TPjVJdLBwZiTngnHjd_X0FKZXIviuhbMg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/737e521560702c811a676dec.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.63K",
-      "posted_at": "2026-05-16T08:29:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217876"
-    },
-    {
-      "id": "farsivoa/217875",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "آمارهای اداره تنظیم بازار انرژی ترکیه از جهش ۸۲ درصدی صادرات گاز ایران به ترکیه در اولین ماه آغاز عملیات نظامی مشترک اسرائیل و آمریکا علیه جمهوری اسلامی خبر داد.<br><br>ایران در ماه مارس بیش از ۸۲۳ میلیون متر مکعب گاز تحویل ترکیه داده و سهمی بالای ۱۳ درصدی در کل واردات گاز ترکیه داشته است. واردات گاز ترکیه از ایران در سه ماهه ابتدایی ۲۰۲۶ نیز بیش از دو برابر شده و به یک میلیارد و ۷۵۶ میلیون متر مکعب اوج گرفته است.<br><br>این در حالی است که ایران با کسری شدید گاز در داخل کشور مواجه است و قرارداد ۲۵ ساله صادرات گاز ایران به ترکیه نیز در هفته‌های پیش رو به اتمام می‌رسد. پیشتر وزیر انرژی ترکیه گفته بود که مذاکراتی برای تمدید این قرارداد در جریان نیست.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "آمارهای اداره تنظیم بازار انرژی ترکیه از جهش ۸۲ درصدی صادرات گاز ایران به ترکیه در اولین ماه آغاز عملیات نظامی مشترک اسرائیل و آمریکا علیه جمهوری اسلامی خبر داد. ایران در ماه مارس بیش از ۸۲۳ میلیون متر مکعب گاز تحویل ترکیه داده و سهمی بالای ۱۳ درصدی در کل واردات گاز ترکیه داشته است. واردات گاز ترکیه از ایران در سه ماهه ابتدایی ۲۰۲۶ نیز بیش از دو برابر شده و به یک میلیارد و ۷۵۶ میلیون متر مکعب اوج گرفته است. این در حالی است که ایران با کسری شدید گاز در داخل کشور مواجه است و قرارداد ۲۵ ساله صادرات گاز ایران به ترکیه نیز در هفته‌های پیش رو به اتمام می‌رسد. پیشتر وزیر انرژی ترکیه گفته بود که مذاکراتی برای تمدید این قرارداد در جریان نیست. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217875",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/pcwQCB4hGIC1RNxYZDNrPaCf8ncJetf5GiSCKUP1oLuJ7-omu7pgd0DuRkzlUBpDH8iKmzrJ1OGnSXxzyrYnytpcRRZ74ZnQEA2D8VzSPvSoTnwwmeXe-fecEFBLobH-V1zgdsxzI0ZE-yjphYajQaHT6zshM08jz1OZ__jinOv10At9oWIZHlC7mkmN8iUXXZps9rfi2UGHCiK4akCYSX75hr3yNtXdrYawDGGDD1s9GbtNscO7wmKv3RDQ1SiUpT86ZhG1CcjPqAOHmVCUpeHY3oUYfbppe0oX0Pw3YX_4cHbCFUUgSiC43EcelNXFucPYF3rndCX0Hsz1UtlFgg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/ba0c606960e186b79548f5bd.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.55K",
-      "posted_at": "2026-05-16T08:25:59+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217875"
-    },
-    {
-      "id": "farsivoa/217874",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "خبرگزاری رویترز از قول یک منبع آگاه گزارش داده که دبیر کل فیفا با مقامات فدراسیون فوتبال ایران در استانبول دیدار خواهد کرد.<br><br>این منبع که نامی از او برده نشده گفته است ماتیاس گرافستروم درباره حضور ایران در جام جهانی به مقامات فدراسیون ایران «اطمینان خاطر» خواهد داد.<br><br>پس از آنکه مهدی تاج، رئیس فدراسیون فوتبال ایران، به دلیل ارتباط با سپاه پاسداران از ورود به کانادا برای شرکت در کنگره فیفا در ونکوور در اوایل ماه جاری منع شد، پرسش‌های بیشتری درباره وضعیت حضور ایران مطرح شد.<br><br>آمریکا و کانادا که همراه با مکزیک میزبان جام جهانی هستند، سپاه پاسداران را «سازمان تروریستی» طبقه‌بندی کرده‌ و گفته‌اند افرادی را که با سپاه ارتباط دارند، نخواهند پذیرفت.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "خبرگزاری رویترز از قول یک منبع آگاه گزارش داده که دبیر کل فیفا با مقامات فدراسیون فوتبال ایران در استانبول دیدار خواهد کرد. این منبع که نامی از او برده نشده گفته است ماتیاس گرافستروم درباره حضور ایران در جام جهانی به مقامات فدراسیون ایران «اطمینان خاطر» خواهد داد. پس از آنکه مهدی تاج، رئیس فدراسیون فوتبال ایران، به دلیل ارتباط با سپاه پاسداران از ورود به کانادا برای شرکت در کنگره فیفا در ونکوور در اوایل ماه جاری منع شد، پرسش‌های بیشتری درباره وضعیت حضور ایران مطرح شد. آمریکا و کانادا که همراه با مکزیک میزبان جام جهانی هستند، سپاه پاسداران را «سازمان تروریستی» طبقه‌بندی کرده‌ و گفته‌اند افرادی را که با سپاه ارتباط دارند، نخواهند پذیرفت. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217874",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/hcm7fcVjsWkU7Nebto_IOtE6bRJtepCKyjP1EByUfKKbXCkH0JK4DLFMx1NHj1tFAOemWLaxKqq53OS5hEY-P6L1547mUn5OI3eWf2K6fe9KqCLNRRE1vevz6YsS-R2ySFrfSd4KVE5vyZTaBDB-leb0EUXtCCFY3IiTn0iwJyTTiH5WzsQPO22Bv5Up3EFudic_1a1YlKk7w9S0zexEMyA1el5bR0z-iFT2KfAu9XxA8EPsH2d7z9OzMP0LhuaWdLTn6xvaZttcSUKDajKW1RB25cZDzmagbeTMwGSD4lWXzs8gvK4qGyHswe_KcL-pfDXKitTYVPgUwM50oLtZyA.jpg",
-          "thumbnail_path": "channels/farsivoa/media/96906d61dfb21ec7a3fafb2a.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.59K",
-      "posted_at": "2026-05-16T08:20:59+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217874"
-    },
-    {
-      "id": "farsivoa/217873",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>نیویورک‌تایمز: آمریکا و اسرائیل آماده شروع حملات به جمهوری اسلامی می‌شوند<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>نیویورک‌تایمز به نقل از دو مقام خاورمیانه‌ای گزارش داد که آمریکا و اسرائیل در حال انجام فشرده‌ترین آماده‌سازی‌ها از زمان آتش‌بس ماه گذشته برای ازسرگیری احتمالی حملات علیه ایران هستند؛ حملاتی که ممکن است از اوایل هفته آینده در دستور کار قرار گیرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>بر اساس این گزارش، یکی از گزینه‌های مورد بررسی آمریکا، اعزام نیروهای ویژه به خاک ایران برای خارج‌کردن مواد هسته‌ای مدفون زیر آوار تأسیسات بمباران‌شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>این گزارش در شرایطی منتشر شده که دونالد ترامپ، رئیس جمهوری آمریکا، به تازگی در گفت‌وگویی با فاکس‌نیوز گفت: «خیلی بیشتر از این صبر نخواهم کرد» و افزود که تهران باید با آمریکا به توافق برسد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8150653.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8150653.html</a>",
-      "plain_text": "🔺نیویورک‌تایمز: آمریکا و اسرائیل آماده شروع حملات به جمهوری اسلامی می‌شوند ◾️نیویورک‌تایمز به نقل از دو مقام خاورمیانه‌ای گزارش داد که آمریکا و اسرائیل در حال انجام فشرده‌ترین آماده‌سازی‌ها از زمان آتش‌بس ماه گذشته برای ازسرگیری احتمالی حملات علیه ایران هستند؛ حملاتی که ممکن است از اوایل هفته آینده در دستور کار قرار گیرد. ◾️بر اساس این گزارش، یکی از گزینه‌های مورد بررسی آمریکا، اعزام نیروهای ویژه به خاک ایران برای خارج‌کردن مواد هسته‌ای مدفون زیر آوار تأسیسات بمباران‌شده است. ◾️این گزارش در شرایطی منتشر شده که دونالد ترامپ، رئیس جمهوری آمریکا، به تازگی در گفت‌وگویی با فاکس‌نیوز گفت: «خیلی بیشتر از این صبر نخواهم کرد» و افزود که تهران باید با آمریکا به توافق برسد. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150653.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "2.15K",
-      "posted_at": "2026-05-16T07:16:44+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217873"
-    },
-    {
-      "id": "farsivoa/217872",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "دونالد ترامپ، رئیس جمهوری آمریکا، اعلام کرد نیروهای آمریکایی و ارتش نیجریه در عملیاتی مشترک، ابوبلال المینوکی، از فرماندهان ارشد داعش را کشته‌اند؛ فردی که ترامپ او را «نفر دوم داعش در سطح جهانی» و «فعال‌ترین تروریست جهان» توصیف کرد.<br><br>ترامپ در پیامی در شبکه اجتماعی تروث‌سوشال گفت این عملیات «به دستور» او و با اجرای نیروهای آمریکایی و نیجریه‌ای انجام شده و هدف آن حذف المینوکی از میدان نبرد بوده است. او نوشت المینوکی تصور می‌کرد می‌تواند در آفریقا پنهان شود، اما منابع اطلاعاتی آمریکا تحرکات او را زیر نظر داشتند.<br><br>ترامپ محل دقیق این عملیات را اعلام نکرد، اما از دولت نیجریه برای همکاری در این مأموریت قدردانی کرد. آسوشیتدپرس نیز به نقل از یک مقام آمریکایی گزارش داد که واشنگتن، المینوکی را چهره‌ای کلیدی در سازمان‌دهی و تأمین مالی داعش می‌دانست و معتقد بود او در طراحی حملات علیه آمریکا و منافع این کشور نقش داشته است.<br><br>بر اساس گزارش رویترز، المینوکی تبعه نیجریه بود و در سال ۲۰۲۳، در فهرست «تروریست‌های جهانی به‌طور ویژه تحریم‌شده» قرار گرفته بود.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "دونالد ترامپ، رئیس جمهوری آمریکا، اعلام کرد نیروهای آمریکایی و ارتش نیجریه در عملیاتی مشترک، ابوبلال المینوکی، از فرماندهان ارشد داعش را کشته‌اند؛ فردی که ترامپ او را «نفر دوم داعش در سطح جهانی» و «فعال‌ترین تروریست جهان» توصیف کرد. ترامپ در پیامی در شبکه اجتماعی تروث‌سوشال گفت این عملیات «به دستور» او و با اجرای نیروهای آمریکایی و نیجریه‌ای انجام شده و هدف آن حذف المینوکی از میدان نبرد بوده است. او نوشت المینوکی تصور می‌کرد می‌تواند در آفریقا پنهان شود، اما منابع اطلاعاتی آمریکا تحرکات او را زیر نظر داشتند. ترامپ محل دقیق این عملیات را اعلام نکرد، اما از دولت نیجریه برای همکاری در این مأموریت قدردانی کرد. آسوشیتدپرس نیز به نقل از یک مقام آمریکایی گزارش داد که واشنگتن، المینوکی را چهره‌ای کلیدی در سازمان‌دهی و تأمین مالی داعش می‌دانست و معتقد بود او در طراحی حملات علیه آمریکا و منافع این کشور نقش داشته است. بر اساس گزارش رویترز، المینوکی تبعه نیجریه بود و در سال ۲۰۲۳، در فهرست «تروریست‌های جهانی به‌طور ویژه تحریم‌شده» قرار گرفته بود. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217872",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/D3oEbsH3xSoQ4uTJAkVtDeTsoFhA-xj4bHfdhO2twuUwVASLU34UAOMj7m4vQ1FtDYsBH5ilZDr5Aan4IAfLM4MaqKWVMCJRiR31nctNr4Ag9-NiWgoOPyXpekzrvNSZSnUFnvWUVWbCmPoFavmrPHj4MsoO6CrOpR2GcAP9OOjl9YxBkuTgDy_x5zSJsdbhuQyQPgjSo5zG2LXHHGX-oQ2dImBrfzbpptdbJ7ghXP9iBTENWTQC0ak7VfVKgVdUuukOli-mYTRjfty0wWClcpXJkBtaILenrXG_vzjA2bQtZAC1c7tZlp0ErYffgNvDqWr2PYZ7OTeSlUy78NcGEg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/0da4a9adc51277db1d258bca.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.26K",
-      "posted_at": "2026-05-16T06:40:53+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217872"
     }
   ]
 }
