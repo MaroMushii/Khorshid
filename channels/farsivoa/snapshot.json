@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-18T12:04:09.027Z",
+  "fetched_at": "2026-05-18T18:23:53.396Z",
   "channel": {
     "username": "farsivoa",
     "title": "Farsi VOA",
@@ -10,6 +10,416 @@
     "subscriber_count": "123K"
   },
   "posts": [
+    {
+      "id": "farsivoa/218080",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>اختصاصی؛ مقام دولت آمریکا درباره ادعای «لغو تحریم‌های رژیم ایران در زمان مذاکرات»: نادرست است<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>دولت ایالات متحده روز دوشنبه ۲۸ اردیبهشت گزارش منتشرشده در رسانه‌های نزدیک به حکومت ایران درباره تعلیق تحریم‌های نفتی تهران در جریان مذاکرات با آمریکا را رد کرد و آن را «نادرست» خواند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/white-house-official-says-iran-sanctions-continue-during-peace-negotiations/8151252.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/white-house-official-says-iran-sanctions-continue-during-peace-negotiations/8151252.html/?nocach=1</a>",
+      "plain_text": "🔺اختصاصی؛ مقام دولت آمریکا درباره ادعای «لغو تحریم‌های رژیم ایران در زمان مذاکرات»: نادرست است ▪️دولت ایالات متحده روز دوشنبه ۲۸ اردیبهشت گزارش منتشرشده در رسانه‌های نزدیک به حکومت ایران درباره تعلیق تحریم‌های نفتی تهران در جریان مذاکرات با آمریکا را رد کرد و آن را «نادرست» خواند. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/white-house-official-says-iran-sanctions-continue-during-peace-negotiations/8151252.html/?nocach=1",
+      "media": [],
+      "reactions": [],
+      "views_label": "813",
+      "posted_at": "2026-05-18T17:54:36+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218080"
+    },
+    {
+      "id": "farsivoa/218079",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "گلایه یک شهروند از گرانی؛ «دیگر برنج هم نمی‌توانیم بخریم.»<br><br>در سایه بی‌ثباتی اقتصادی و فشارهای مداوم، زندگی روزمره بسیاری از مردم به میدان مبارزه‌ای خاموش برای تأمین حداقل‌ها تبدیل شده است.",
+      "plain_text": "گلایه یک شهروند از گرانی؛ «دیگر برنج هم نمی‌توانیم بخریم.» در سایه بی‌ثباتی اقتصادی و فشارهای مداوم، زندگی روزمره بسیاری از مردم به میدان مبارزه‌ای خاموش برای تأمین حداقل‌ها تبدیل شده است.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/218079",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/urI44ZnVzyYnlIXY3gdZEk7Ky4-1rfb8fr4NJb0gta5-6EPUthchYg33VJK1Diolv2dzgR0t2-I3WhfHY5yG-HJWKxF2_TrwzfmYo9g423UO2eEqyX5KRyOYlKmC2YX2muX7fAiV_KPUJ2DrwqKz2E9h_btjjdsK4jp3VdX1Mxm-wXhT9Xei9OZZypDlHwFUouDPMC97vFGlcI1htqJWLgJ-N6i9L8Hvm4mvjbxihSLiAbRsPaW8idulZLCQq3Svy5mbDKxVlMd1u7M-qKN8o2IkMby77FTQ3Emvx152TaViw-TzXgC2Daq7ePa8yVUrAb7Bw5OHAhZ91Y-AXkLCGA",
+          "thumbnail_path": "channels/farsivoa/media/b5709298368214825b3dab03.jpg",
+          "duration_label": "0:25",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "991",
+      "posted_at": "2026-05-18T17:42:08+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218079"
+    },
+    {
+      "id": "farsivoa/218078",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "سازمان عفو بین‌الملل در گزارش سالانه خود در مورد اجرای مجازات در سال ۲۰۲۵، اعلام کرد که در مجموع دو هزار و ۷۰۷ اعدام در سراسر جهان به ثبت رسیده که نشان دهنده افزایش یک هزار و ۵۱۸ اعدام نسبت به سال ۲۰۲۴ است. این رقم البته موارد اعدام در سه کشور چین، کره شمالی و ویتنام که آماری از آنها در دست نیست، در بر نمی‌گیرد.<br><br>بر اساس گزارش عفو بین‌الملل، در سال ۲۰۲۵ در حالی در مجموع ۱۷ کشور از مجازات اعدام استفاده کردند، جمهوری اسلامی به تنهایی دو هزار و ۱۵۹ نفر را اعدام کرده، که حدود ۸۰ درصد از آمار کلی اعدام‌ها در جهان است.<br><br>تعداد اعدام‌ها در ایران توسط جمهوری اسلامی در سال ۲۰۲۴، حدود ۹۷۲ نفر ثبت شده که افزایش آن در سال ۲۰۲۵، موجب جهش چشمگیر تعداد اعدام‌ها در سراسر جهان شده است.<br><br>زارش کامل را در <a href=\"https://ir.voanews.com/a/8151180.html\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">وب‌سایت صدای آمریکا</a> بخوانید.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "سازمان عفو بین‌الملل در گزارش سالانه خود در مورد اجرای مجازات در سال ۲۰۲۵، اعلام کرد که در مجموع دو هزار و ۷۰۷ اعدام در سراسر جهان به ثبت رسیده که نشان دهنده افزایش یک هزار و ۵۱۸ اعدام نسبت به سال ۲۰۲۴ است. این رقم البته موارد اعدام در سه کشور چین، کره شمالی و ویتنام که آماری از آنها در دست نیست، در بر نمی‌گیرد. بر اساس گزارش عفو بین‌الملل، در سال ۲۰۲۵ در حالی در مجموع ۱۷ کشور از مجازات اعدام استفاده کردند، جمهوری اسلامی به تنهایی دو هزار و ۱۵۹ نفر را اعدام کرده، که حدود ۸۰ درصد از آمار کلی اعدام‌ها در جهان است. تعداد اعدام‌ها در ایران توسط جمهوری اسلامی در سال ۲۰۲۴، حدود ۹۷۲ نفر ثبت شده که افزایش آن در سال ۲۰۲۵، موجب جهش چشمگیر تعداد اعدام‌ها در سراسر جهان شده است. زارش کامل را در وب‌سایت صدای آمریکا بخوانید. @FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/218078",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/FFwfM3_Ng2PCkVmYbiZCrHlS5WXoRVZOZW7gfoHAnstvLf0NSMj4FGxVOfXa7RCIKuC6uUzU1APhRtMuD25lrvgrmZUAUZY1myvpMb4JwKGTlZwsL-kiYCF9rgVkHCknGR_wB-1Goer5N8L9xZZ_MrFikEJRz62A9ZrlTjbcIuzQkv8TF7MRu9sObeYjVYoxuCVhm7tizkTjlid_xr9hpb84PdjImIQbiL1cehAtM0glkfWcYB-acqK2ATfdPhi-UMbhotOyd69bBQqVhUdYYZ3UpqTJUI4DUaR_1iOZHa0wouTVapdsKAcxwx6_sdMfk2qVD6iBNMhNQXtkj-CNNA",
+          "thumbnail_path": "channels/farsivoa/media/654fa338e145a15a952c751e.jpg",
+          "duration_label": "0:54",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.06K",
+      "posted_at": "2026-05-18T17:36:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218078"
+    },
+    {
+      "id": "farsivoa/218077",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "گفت‌و‌گو با یاسین اهوازی، کارشناس مسائل خاورمیانه، درباره تشدید اقدامات بی‌ثبات‌کننده رژیم ایران با ادامه حملات به کشورهای منطقه",
+      "plain_text": "گفت‌و‌گو با یاسین اهوازی، کارشناس مسائل خاورمیانه، درباره تشدید اقدامات بی‌ثبات‌کننده رژیم ایران با ادامه حملات به کشورهای منطقه",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/218077",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/H9jfEvhJsuCFwtab_br-IPFpM2XBsSZDybN9yIEQpWmEx2DBpxrNGgkCjKm5xc2AepSaWFmiwVtaYzCTRJqx_NogI69VqXBx-S_GPCmOgXYs_Hk8dBFOdmBpMFS5Otui2MMS2RdA5-7YDvQAaO_Cg7kewXQH-bzWwUsfcsr6bi1HMnlGLlPfBBL8L7jmaPGPBSXJVLUZ0jWbMfVK18WWwBaT2sEJWM13PH8j-C7x8eOoJAdxA3kVA0_MVJ8_STRqbUGfk74KFVt4hNkL5vYcnqw18gmNiqIiUUimybKuo8G3xKhwLrqXvxiwwhi_fgwv565Yta76ipCfk3i_5ffZ_Q",
+          "thumbnail_path": "channels/farsivoa/media/96cef2a85c9e6360c0759a49.jpg",
+          "duration_label": "9:31",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.34K",
+      "posted_at": "2026-05-18T17:08:23+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218077"
+    },
+    {
+      "id": "farsivoa/218076",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "گفت‌و‌گو با آرش حسن‌نیا، روزنامه‌نگار اقتصادی، درباره تشدید بحران‌های معیشتی مردم در پی افزایش روزانه قیمت‌ها در ایران",
+      "plain_text": "گفت‌و‌گو با آرش حسن‌نیا، روزنامه‌نگار اقتصادی، درباره تشدید بحران‌های معیشتی مردم در پی افزایش روزانه قیمت‌ها در ایران",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/218076",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/kG5MxVvdEEG8QWDlGg7kGF7isTJWh_7wdkjCEqR42QuxYZlMGkw5edz3FR7E2NNdiy7Xt_ZFpvojHYObIDNxKspUG206rlPoTz5frECG3A1OeigNQeJgnJYKGz1y4ssK81JO2m8ebLqmB3wbbMwQ_G7tY7Ec0ijYUsTfkAyDZJv1cp4K6HQKBa1bZ-Em32su4sXjFWIUWIEMmy3V-xhCZEd5K5WsiP9ipg6UbBzv30aXr3HsUYrRFybD_CcA_WP7_DLP-tu45-KE8EZoe7EFAQBQlH6MUWzzEXz9giK6VptDhu_3-47Y0EGHwiy14LtU6RTMoRoyk77Wr_a4Xp7urA",
+          "thumbnail_path": "channels/farsivoa/media/65ad4068da0a70d8a203dbe9.jpg",
+          "duration_label": "9:36",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.4K",
+      "posted_at": "2026-05-18T17:00:31+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218076"
+    },
+    {
+      "id": "farsivoa/218075",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "در گفت‌وگو با مهرداد خوانساری، دیپلمات پیشین ایران در سازمان ملل متحد، به هشدار صریح دونالد ترامپ، بررسی گزینه‌های نظامی آمریکا، پایان عملیات «خشم حماسی»، و استراتژی جدید آمریکا و چین بر بازگشایی تنگه هرمز پرداختیم و پرسیدیم جمهوری اسلامی در این مرحله چه گزینه‌ای برای بقا  دارد؟",
+      "plain_text": "در گفت‌وگو با مهرداد خوانساری، دیپلمات پیشین ایران در سازمان ملل متحد، به هشدار صریح دونالد ترامپ، بررسی گزینه‌های نظامی آمریکا، پایان عملیات «خشم حماسی»، و استراتژی جدید آمریکا و چین بر بازگشایی تنگه هرمز پرداختیم و پرسیدیم جمهوری اسلامی در این مرحله چه گزینه‌ای برای بقا دارد؟",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/218075",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Vl0sGJopz8xiXKSQa3Sbm-h5zcbneMCHTwGuy9EvBCqSf_vz0L_ttlytTjk-8PPnJNk5WpiJkWrDTb0ygX4qtmChFYiwpFcWGhRtWw79yGBk_UOATnomhfOFvUvWONFg11YZHRIDew6fZ0uRID7cYoVaEfHign3INdJWk1YrubEYiY5SpuB276B5wFfJBxpWjD0HXC3yn5EfQBTP8yVNhuAX2eZuzcRGL58uql32dhyzp-dgcHhZxSHzf6zO373IJpCYUh9s9NGM7lf4Pyq8DV7bj2vPQOEo4toCqW7P0F8846DWkR7qfJpQJK5b3Rmp-jAxYPwn4r7hnQiclCCCbw",
+          "thumbnail_path": "channels/farsivoa/media/fcfbb4c02c2a6b1420858d28.jpg",
+          "duration_label": "8:54",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.44K",
+      "posted_at": "2026-05-18T16:53:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218075"
+    },
+    {
+      "id": "farsivoa/218074",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>محکومیت گسترده حمله پهپادی به عربستان سعودی از خاک عراق<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>حمله پهپادی به عربستان سعودی از داخل خاک عراق در شامگاه یکشنبه ۲۷ اردبیهشت، با واکنش‌های گسترده منطقه‌ای رو‌به‌رو شده است و چندین کشور ضمن محکوم کردن این حملات، با عربستان سعودی اعلام همبستگی کرده‌اند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/drones-attack-saudi-arabia-iran-proxy/8151209.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/drones-attack-saudi-arabia-iran-proxy/8151209.html/?nocach=1</a>",
+      "plain_text": "🔺محکومیت گسترده حمله پهپادی به عربستان سعودی از خاک عراق ▪️حمله پهپادی به عربستان سعودی از داخل خاک عراق در شامگاه یکشنبه ۲۷ اردبیهشت، با واکنش‌های گسترده منطقه‌ای رو‌به‌رو شده است و چندین کشور ضمن محکوم کردن این حملات، با عربستان سعودی اعلام همبستگی کرده‌اند. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/drones-attack-saudi-arabia-iran-proxy/8151209.html/?nocach=1",
+      "media": [],
+      "reactions": [],
+      "views_label": "1.39K",
+      "posted_at": "2026-05-18T16:49:05+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218074"
+    },
+    {
+      "id": "farsivoa/218072",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "در گفت‌وگو با حسن هاشمیان، همکار صدای آمریکا، به روند خلع سلاح شدن برخی گروه‌های شبه‌نظامی وابسته به رژیم ایران پرداختیم.",
+      "plain_text": "در گفت‌وگو با حسن هاشمیان، همکار صدای آمریکا، به روند خلع سلاح شدن برخی گروه‌های شبه‌نظامی وابسته به رژیم ایران پرداختیم.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/218072",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/NpM4X7FTWcn3rG1SScBAQJny5hvpQOLQNg5eFXlZHgPXc4Tuy3kU05GMIUWAs9wj3WzNDbTWXkFm1c4m1LzYASLj9gqYTDEzARdW1tWDmw0566v59NsMV51Svwt5hVAltuZbSJeMeef4APb72Tx7n03clqoPDv_RcO_1Kdls44sDORXlzPMHCoh-Z1BO-_0ow5QDmyIVG3pc4dY84oQrT6O8P_29F_fidWG37_FQBb28RZOhVLDy-Siu7wT9Hu-ZpZzgXWaaV_sZmg60jhKxDkOFK2N9xfPTMDuiWA9kjY0JRCLY9N_Lr2NGKUrmlpcK-siLy_6Lz1t8fXtfpq4bJA",
+          "thumbnail_path": "channels/farsivoa/media/dec6bc4b063d80d27f932390.jpg",
+          "duration_label": "7:35",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.54K",
+      "posted_at": "2026-05-18T16:19:42+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218072"
+    },
+    {
+      "id": "farsivoa/218071",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>جمهوری اسلامی در مقابل مردم ایران؛ سرکوب و برخورد با مخالفان در دستورکار روزانه قوه قضائیه<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>جمهوری اسلامی که در ماه‌های گذشته و به ویژه پس از اعتراضات دی و عملیات نظامی آمریکا و اسرائیل علیه رژیم، سرکوب را شدت بخشیده است، همه روزه احکام تازه‌ای را علیه مخالفان خود صادر می‌کند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/iran-protests-jale-mohseni-ejei-rules/8150913.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/iran-protests-jale-mohseni-ejei-rules/8150913.html/?nocach=1</a>",
+      "plain_text": "🔺جمهوری اسلامی در مقابل مردم ایران؛ سرکوب و برخورد با مخالفان در دستورکار روزانه قوه قضائیه ▪️جمهوری اسلامی که در ماه‌های گذشته و به ویژه پس از اعتراضات دی و عملیات نظامی آمریکا و اسرائیل علیه رژیم، سرکوب را شدت بخشیده است، همه روزه احکام تازه‌ای را علیه مخالفان خود صادر می‌کند. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/iran-protests-jale-mohseni-ejei-rules/8150913.html/?nocach=1",
+      "media": [],
+      "reactions": [],
+      "views_label": "1.56K",
+      "posted_at": "2026-05-18T16:15:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218071"
+    },
+    {
+      "id": "farsivoa/218070",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>نرگس محمدی از بیمارستان مرخص شد؛ هشدار درباره نیاز به فیزیوتراپی در بیمارستان<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>بنیاد نرگس روز دوشنبه ۲۸ اردیبهشت، از ترخیص نرگس محمدی از بیمارستان پارس تهران خبر داد و اعلام کرد این زندانی سیاسی باید دست‌کم به‌مدت یک ماه هر روز با مراجعه به بیمارستان، تحت فیزیوتراپی قرار بگیرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/narges-mohammadi-jale-hospital-/8151229.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/narges-mohammadi-jale-hospital-/8151229.html/?nocach=1</a>",
+      "plain_text": "🔺نرگس محمدی از بیمارستان مرخص شد؛ هشدار درباره نیاز به فیزیوتراپی در بیمارستان ▪️بنیاد نرگس روز دوشنبه ۲۸ اردیبهشت، از ترخیص نرگس محمدی از بیمارستان پارس تهران خبر داد و اعلام کرد این زندانی سیاسی باید دست‌کم به‌مدت یک ماه هر روز با مراجعه به بیمارستان، تحت فیزیوتراپی قرار بگیرد. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/narges-mohammadi-jale-hospital-/8151229.html/?nocach=1",
+      "media": [],
+      "reactions": [],
+      "views_label": "1.45K",
+      "posted_at": "2026-05-18T16:11:43+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218070"
+    },
+    {
+      "id": "farsivoa/218069",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>دیدگاه | داستان‌سرایان پسامرگ خامنه‌ای؛ هدف مجیزگویی، نتیجه تخریب<br><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E297BE.png')\"><b>◾️</b></i>روند قصه‌گویی افراد از دیدار و بده‌بستان با علی خامنه‌ای، رهبر پیشین جمهوری اسلامی، بعد از مرگ او، همچنان ادامه دارد. گاه شتاب این قصه‌ها که روشن نیست کدام‌شان و چه قدر از هر کدام، برساخته ذهن آدم‌ها است و چند درصدشان به واقع روی داده‌، چنان زیاد می‌شود که ممکن است این روزها بسیاری از آنها از دستمان در رفته باشد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/ali-khamenei-posthumous-miraculous/8150892.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/ali-khamenei-posthumous-miraculous/8150892.html</a>",
+      "plain_text": "🔺دیدگاه | داستان‌سرایان پسامرگ خامنه‌ای؛ هدف مجیزگویی، نتیجه تخریب ◾️روند قصه‌گویی افراد از دیدار و بده‌بستان با علی خامنه‌ای، رهبر پیشین جمهوری اسلامی، بعد از مرگ او، همچنان ادامه دارد. گاه شتاب این قصه‌ها که روشن نیست کدام‌شان و چه قدر از هر کدام، برساخته ذهن آدم‌ها است و چند درصدشان به واقع روی داده‌، چنان زیاد می‌شود که ممکن است این روزها بسیاری از آنها از دستمان در رفته باشد ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/ali-khamenei-posthumous-miraculous/8150892.html",
+      "media": [],
+      "reactions": [],
+      "views_label": "1.35K",
+      "posted_at": "2026-05-18T16:10:49+00:00",
+      "edited": true,
+      "permalink": "https://t.me/farsivoa/218069"
+    },
+    {
+      "id": "farsivoa/218068",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "اگرچه جهان به روزنامه‌نگاری مستقل در ایران احترام می‌گذارد اما روزنامه‌نگاران ایرانی نه فقط از سوی جمهوری اسلامی سرکوب می‌شوند که هدف حملات برخی گروه‌های مخالف حکومت هم هستند. آیا این شرایط توانسته روایتگریِ روزنامه‌نگاران را متوقف کند؟",
+      "plain_text": "اگرچه جهان به روزنامه‌نگاری مستقل در ایران احترام می‌گذارد اما روزنامه‌نگاران ایرانی نه فقط از سوی جمهوری اسلامی سرکوب می‌شوند که هدف حملات برخی گروه‌های مخالف حکومت هم هستند. آیا این شرایط توانسته روایتگریِ روزنامه‌نگاران را متوقف کند؟",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/218068",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/Ptfw2kOp_skDQPbsX_kToOCDHkg5cxVoVtJZ8DYJLNZWB942u9t1vbD0ZannCUgWi_FmysF-r7bK10qDoDRHR6LXELgQp9PPzOL_eNuzDhwzzs8guQlmy3GBmxVyiDyrabtK552pA_b18DaiCO7rzTQvFjSLdnxFST-bbUD2-euBnaBude3rejKS0Wk3Go_92Ph2uXmFYbGXCv40K-dZ1042DZwyVBZh_ROsdp4jlUNnFSwtb7VW5UVSjYJk2p0u-E0jtRUGnUQ2yU173WJFSYBT--sAurkZFJmto5z4ZxFeNOAs0z4rHq4qmgVq6Ah1q8F1hFOto-bXQBp6nh0f-Q",
+          "thumbnail_path": "channels/farsivoa/media/9e6634b2f3d0bf7f468bb1a8.jpg",
+          "duration_label": "1:28",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.6K",
+      "posted_at": "2026-05-18T15:42:12+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218068"
+    },
+    {
+      "id": "farsivoa/218067",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "از نمایش پهپاد صورتی رنگ در تجمع‌های شبانه حکومتی تا پهپاد در عقدنامه ازدواج؛ در ادامه تبلیغات دوران آتش‌بس جمهوری اسلامی و تلاش برای مدیریت محتوا در اوج تنش، یک عروس و داماد حامی حکومت در برنامه صداوسیما اعلام کردند مهریه عروس یک «پهپاد شاهد» تعیین شده است.<br><br>این نوع محتوای تبلیغاتی شامل حضور زنان بی‌حجاب و نمایش تسلیحات جنگی در تجمع‌های شبانه‌ طرفداران حکومت، مجریان مسلح در صداوسیما، معرفی ابزار جنگ به عنوان مهریه و تلاش برای عادی‌سازی خشونت و ترویج فضای امنیتی در ایران واکنش‌های کاربران را در این باره برانگیخته است که چگونه جمهوری اسلامی از فاجعه جنگ برای خود تبلیغات درست می‌کند.",
+      "plain_text": "از نمایش پهپاد صورتی رنگ در تجمع‌های شبانه حکومتی تا پهپاد در عقدنامه ازدواج؛ در ادامه تبلیغات دوران آتش‌بس جمهوری اسلامی و تلاش برای مدیریت محتوا در اوج تنش، یک عروس و داماد حامی حکومت در برنامه صداوسیما اعلام کردند مهریه عروس یک «پهپاد شاهد» تعیین شده است. این نوع محتوای تبلیغاتی شامل حضور زنان بی‌حجاب و نمایش تسلیحات جنگی در تجمع‌های شبانه‌ طرفداران حکومت، مجریان مسلح در صداوسیما، معرفی ابزار جنگ به عنوان مهریه و تلاش برای عادی‌سازی خشونت و ترویج فضای امنیتی در ایران واکنش‌های کاربران را در این باره برانگیخته است که چگونه جمهوری اسلامی از فاجعه جنگ برای خود تبلیغات درست می‌کند.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/218067",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Tbn6qq9V6StyaGKVU1Qn0CMqzouJOixi8kjQong8BoQ6p4NHJI4V9de-GiwzpP1KNpCwQocwQgfDk3bLWkZWZU101aiLUbZduLPcbT2B5wMPjSUFGBwqMFIWAT2QB1S0_Ro9erdwT1axqzD7eFzm8oM3X16JixXWvVTOzgCIx3vSHPG1OCHjtmimy-VhFtClcqNXXNYV_NEcsuLdMEHju7f18fmem-xej2ttbiDjs_nKb_0qdhfqeoyAXaAt_KxUSO6cP2-KpL0FYkocDGHieCVOfyDIFLdGQDfSVI1gGxAXfnmjbrBgt-MpSYdsossxe24poo3Fyox341KyDTGlww",
+          "thumbnail_path": "channels/farsivoa/media/477f0c4043e68ea145659288.jpg",
+          "duration_label": "0:32",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.64K",
+      "posted_at": "2026-05-18T15:38:58+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218067"
+    },
+    {
+      "id": "farsivoa/218066",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "پگاه آهنگرانی با «تمرین‌هایی برای یک انقلاب» برنده جایزه ویژه هیئت داوران گلدن گلوب شد. این جایزه، که برای دومین سال متوالی در کن اهدا می‌شود، از فیلمسازانی تقدیر می‌کند که اثرشان روایتگری استثنایی و سهمی معنادار در سینمای مستند داشته باشد، به‌ویژه آثاری که به مسائل فوری جهانی و اجتماعی می‌پردازند.امسال جایزه «گلدن گلوب» به کارگردان فیلم «گراندزوِل» اهدا شد.",
+      "plain_text": "پگاه آهنگرانی با «تمرین‌هایی برای یک انقلاب» برنده جایزه ویژه هیئت داوران گلدن گلوب شد. این جایزه، که برای دومین سال متوالی در کن اهدا می‌شود، از فیلمسازانی تقدیر می‌کند که اثرشان روایتگری استثنایی و سهمی معنادار در سینمای مستند داشته باشد، به‌ویژه آثاری که به مسائل فوری جهانی و اجتماعی می‌پردازند.امسال جایزه «گلدن گلوب» به کارگردان فیلم «گراندزوِل» اهدا شد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/218066",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/VtKNvX9ruhLMJHaGiqehGMH3OrHN7i6BOutIybBRN_cK97HGfNKvGBVwiAeabmlE2L9NF2fbcwC3AW4LOPc1aJ8zAp7Jb72_kUQCKQ8WdhQpwUkDIXY2wZfBACcwci8WeBzNhQv08PmGhRwTb1olnLsm-aXhn5kvVzXCwVl8zecivxEsiKuGuhW0NHSRWkYKcSWqLv-_SPZQeJ5nHZK-AdGZGx30UeUPtLkbZHYr0GLgxWhcI7OFNDPNlkyBzVspEwlKnrsxmztGrZIVHq4_Pe_KkQo6oYVPI30E8Jau-eGg1nw--NVg3g8KHDMtTMMvuZJ3iuvz9GMoBFocnxpzkQ",
+          "thumbnail_path": "channels/farsivoa/media/9d6621a515edd739f41b1595.jpg",
+          "duration_label": "1:31",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.56K",
+      "posted_at": "2026-05-18T15:34:38+00:00",
+      "edited": true,
+      "permalink": "https://t.me/farsivoa/218066"
+    },
+    {
+      "id": "farsivoa/218065",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "«یواس‌اس دلبرت دی. بلک» هنگام عبور از دریای عرب در حمایت از عملیات دریایی آمریکا علیه حوثی‌های مورد حمایت جمهوری اسلامی ایران در حال انجام ماموریت هستند.<br> <br>سنتکام اعلام کرد تا روز ۲۸ اردیبهشت، نیروهای این فرماندهی مسیر ۸۴ کشتی تجاری را تغییر داده‌اند و چهار هدف را نیز از کار انداخته‌اند.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "«یواس‌اس دلبرت دی. بلک» هنگام عبور از دریای عرب در حمایت از عملیات دریایی آمریکا علیه حوثی‌های مورد حمایت جمهوری اسلامی ایران در حال انجام ماموریت هستند. سنتکام اعلام کرد تا روز ۲۸ اردیبهشت، نیروهای این فرماندهی مسیر ۸۴ کشتی تجاری را تغییر داده‌اند و چهار هدف را نیز از کار انداخته‌اند. @FarsiVOA",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/218065",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/dcNaI6vzKai8AZjhMxyxa0u3CLsXshMHx3EBE7yjOX7Put4Ps9WLXpwGKm4XvVU-FdWJQj4klOHwhGVWNcgAd8uv-Rnj2R3kLvYYcIrb1mnQMFrtAlye9DpPR1_XzZ0geXCGu1h9GD4pWJDB7k72ZkGiZmipGtdW9MZLVlTXxY-PEJlNMhk39U-RINYEsjYa58GL7sDYcNHK3cEpe_uA3HBma-XdESuICLJ99FERzpSaHvWQzhV8ysxbiN7XTsJlI_Cg5einu_c4j5zx89hDKgPlw6MnUTEYAdruGQMxOXdQTnhIFZgsZiOtwcDap7vqEODZh31q2g-iToAwr-FsfA.jpg",
+          "thumbnail_path": "channels/farsivoa/media/d5f4dd7a6d4e83e4f023a798.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.53K",
+      "posted_at": "2026-05-18T15:32:07+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218065"
+    },
+    {
+      "id": "farsivoa/218064",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>انتقاد پرزیدنت ترامپ از رویکرد برخی رسانه‌ها در رابطه با عملیات نظامی علیه رژیم ایران<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>دونالد ترامپ، رئیس جمهوری ایالات متحده، روز دوشنبه ۲۸ اردیبهشت در پیامی در شبکه «تروت سوشال» ضمن تاکید دوباره بر شکست نظامی رژیم ایران، نوشت که رسانه‌های منتقد دولت او حتی در صورت تسلیم کامل جمهوری اسلامی نیز واقعیت را وارونه جلوه خواهند داد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/president-trump-truth-social-criticism-of-media-coverage-of-iran-war/8151224.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/president-trump-truth-social-criticism-of-media-coverage-of-iran-war/8151224.html/?nocach=1</a>",
+      "plain_text": "🔺انتقاد پرزیدنت ترامپ از رویکرد برخی رسانه‌ها در رابطه با عملیات نظامی علیه رژیم ایران ▪️دونالد ترامپ، رئیس جمهوری ایالات متحده، روز دوشنبه ۲۸ اردیبهشت در پیامی در شبکه «تروت سوشال» ضمن تاکید دوباره بر شکست نظامی رژیم ایران، نوشت که رسانه‌های منتقد دولت او حتی در صورت تسلیم کامل جمهوری اسلامی نیز واقعیت را وارونه جلوه خواهند داد. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/president-trump-truth-social-criticism-of-media-coverage-of-iran-war/8151224.html/?nocach=1",
+      "media": [],
+      "reactions": [],
+      "views_label": "1.51K",
+      "posted_at": "2026-05-18T15:27:05+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218064"
+    },
+    {
+      "id": "farsivoa/218063",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "عراق دوباره در کانون تنش؛ حمله پهپادی به عربستان سعودی و بازگشت پرونده پهپادهای عراقی",
+      "plain_text": "عراق دوباره در کانون تنش؛ حمله پهپادی به عربستان سعودی و بازگشت پرونده پهپادهای عراقی",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/218063",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/WPom8oiLXiV7LX4Is5NQtKs1H7DajN-nOQtRhkawpiUjTPszdj7AU4b3a9jo9xD3ElDhhzJ40mrwsCw9SCUVlrl8HhOLrE8W-7qBh3q7R2gmgfT5azy6MiQqJKkb2cr5N5oY8ILcWq0uNwRAKQJvIrBaGed3oeCoT120sPEmmd7z4svAexO7hZfPjtYv_tpf-NwSdI-p0cUgC1XxSbw2KBkHLMi0WceLnWdlxJ8cBI0nokkmdPlUOfHUqrG8Oxo1M9j6QrSsp7JRzwdH8sR7upsBj5apllbdG7ypRFVxP45qCmtYY7LLuvMlBTPDQ0JgJBB03xwMFM3dx7orQwZthg",
+          "thumbnail_path": "channels/farsivoa/media/161198428287a11b497e8fa9.jpg",
+          "duration_label": "4:38",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.51K",
+      "posted_at": "2026-05-18T15:17:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218063"
+    },
+    {
+      "id": "farsivoa/218062",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "نت‌بلاکس اعلام کرد خاموشی اینترنت در ایران وارد روز هشتادم شده و از مرز ۱۸۹۶ ساعت گذشته است. هم‌زمان رسانه‌های داخلی از ممنوعیت تبلیغ و فروش «اینترنت پرو» خبر دادند.<br><br>به گفته نت‌بلاکس، نهاد ناظر بر اختلالات اینترنت، هم‌زمان با قطع دسترسی گسترده کاربران ایرانی به اینترنت جهانی، محتوای حامی جمهوری اسلامی در شبکه‌های اجتماعی افزایش یافته است.<br><br>نت‌بلاکس همچنین نوشت برخی ایرانیانی که برای دریافت دسترسی ویژه یا قرار گرفتن در «فهرست سفید» اقدام کرده‌اند، می‌گویند از آنها خواسته شده برای حفظ این دسترسی، سهمیه‌ای از پست‌های تبلیغاتی روزانه منتشر کنند؛ روندی که به گفته این نهاد، با هوش مصنوعی کنترل می‌شود.<br><br>گزارش کامل را در <a href=\"https://ir.voanews.com/a/8151177.html\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">وب‌سایت صدای آمریکا</a> بخوانید.<br><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
+      "plain_text": "نت‌بلاکس اعلام کرد خاموشی اینترنت در ایران وارد روز هشتادم شده و از مرز ۱۸۹۶ ساعت گذشته است. هم‌زمان رسانه‌های داخلی از ممنوعیت تبلیغ و فروش «اینترنت پرو» خبر دادند. به گفته نت‌بلاکس، نهاد ناظر بر اختلالات اینترنت، هم‌زمان با قطع دسترسی گسترده کاربران ایرانی به اینترنت جهانی، محتوای حامی جمهوری اسلامی در شبکه‌های اجتماعی افزایش یافته است. نت‌بلاکس همچنین نوشت برخی ایرانیانی که برای دریافت دسترسی ویژه یا قرار گرفتن در «فهرست سفید» اقدام کرده‌اند، می‌گویند از آنها خواسته شده برای حفظ این دسترسی، سهمیه‌ای از پست‌های تبلیغاتی روزانه منتشر کنند؛ روندی که به گفته این نهاد، با هوش مصنوعی کنترل می‌شود. گزارش کامل را در وب‌سایت صدای آمریکا بخوانید. @FarsiVOA",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/farsivoa/218062",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/prnadgfMKPn5MHsAuPclswwtMWTHgQtl4ZqxvI-xXzCVz4FRJg0LwrrBO0bm6vGLM0TLfdqfWAviAlLYcrSZDmFzShCNOuPttW17rPFE-QCS3o5dlcypijTMmHdPBruekFj3wR4qnsUWYjDC_tTMNUvv7jRGRuOjf9uQELHgyHOmVGloDXr4YxHSurgYJ5SKIf9B3-en1FIuVmIuIj_ghJCEzHEiC8LQOFjs1ffEHJrWOTZoycd5xMFVOh-u1WR3ETEWwczKKszJe7EEVLeO4fUVQcFMTrzc_w39-uIcaQB5iRZ9JzFDUvsh_1KpdI_p7JhGN8441vvsE2fOFUR5kQ",
+          "thumbnail_path": "channels/farsivoa/media/76b75673a83667ed8447471d.jpg",
+          "duration_label": "0:54",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.7K",
+      "posted_at": "2026-05-18T15:11:42+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218062"
+    },
+    {
+      "id": "farsivoa/218061",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>کشته شدن یک فرمانده جهاد اسلامی در حمله ارتش اسرائیل به بقاع<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>ارتش اسرائیل روز دوشنبه ۲۸ اردیبهشت، از کشته شدن وائل محمود عبدالحلیم، از فرماندهان جهاد اسلامی فلسطینی، در منطقه بقاع لبنان خبر داد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><br><a href=\"https://ir.voanews.com/a/palestinian-islamic-jihad-commander-israel-army-killed/8151197.html/?nocach=1\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/palestinian-islamic-jihad-commander-israel-army-killed/8151197.html/?nocach=1</a>",
+      "plain_text": "🔺کشته شدن یک فرمانده جهاد اسلامی در حمله ارتش اسرائیل به بقاع ▪️ارتش اسرائیل روز دوشنبه ۲۸ اردیبهشت، از کشته شدن وائل محمود عبدالحلیم، از فرماندهان جهاد اسلامی فلسطینی، در منطقه بقاع لبنان خبر داد. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/palestinian-islamic-jihad-commander-israel-army-killed/8151197.html/?nocach=1",
+      "media": [],
+      "reactions": [],
+      "views_label": "1.85K",
+      "posted_at": "2026-05-18T14:50:50+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218061"
+    },
+    {
+      "id": "farsivoa/218060",
+      "author_name": "Farsi VOA",
+      "author_photo_url": "https://cdn1.telesco.pe/file/DgwQz1Hx_Ju9Ub_UbNFHguvdsvSQeTGqzDfVruSa1sob7wXRR1WBu5LhzmyGRmGET-RDvxU7ORUMx25NAqCUfXcYhCtf7kD1YFmW6LyP3YFyyqSWrK9JMshsTg1dzTkyGiO_nO9cF3Vld4oX2mb0qddbQkYbq8MqseIDnqFHC0jIyz0RtinHDcV9FKnr6E03ToN1yT_XKPOGvP0d6GQ609T7_-vJChaDEX6c_SUMWfYq4U7gzSjgduD6shsbii7UD8uaOaCYbjVBgH_6uoWTCvdjP8wvgg8cPfdboVtYJJJIxZWAeMI6P02_GANhVdkUEvwXgOYUSBhH69mZUDVRig.jpg",
+      "author_photo_path": "channels/farsivoa/media/54d37001fc037e078e4b918e.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>سناتور گراهام می‌گوید که رژیم جمهوری اسلامی به رغم ضعف شدید نظامی و اقتصادی «جسورتر و پرخاشگرتر شده‌ است» و آمریکا باید «کار را تمام کند.»<br><br>لیندزی گراهام، سناتور جمهوری‌خواه کنگره آمریکا، روز دوشنبه ۲۸ اردیبهشت، با انتشار پیامی در حساب کاربری خود در شبکه اجتماعی ایکس، گفت: «من کاملاً مطمئنم که دونالد ترامپ، رئیس جمهوری آمریکا، وضعیت [رژیم] ایران را کاملاً درک می‌کند و به تحمل امتناع از مذاکره با حسن‌نیت در کنار تجاوزگری‌های جسورانه [رژیم] ایران در تنگه هرمز و سراسر منطقه ادامه نخواهد داد.»<br><br>این سناتور ارشد ایالت کارولینای جنوبی در ادامه پیام خود نوشته است: «برای من کاملاً واضح است که [رژیم] ایران از نظر نظامی و اقتصادی بسیار ضعیف شده است، اما در عین حال، آنها جسورتر و پرخاشگرتر شده‌اند.»<br><br>او با اشاره به این که در حال حاضر یک «پاسخ کوتاه، اما قاطع» می‌تواند درگیری را «به شیوه‌ای درست از نو آغاز کند»، تاکید کرد: «وقتی صحبت از [رژیم] ایران می‌شود، ضروری است که ما [آمریکا] از موضع قدرت و تسلط مذاکره کنیم.»",
+      "plain_text": "⚡️سناتور گراهام می‌گوید که رژیم جمهوری اسلامی به رغم ضعف شدید نظامی و اقتصادی «جسورتر و پرخاشگرتر شده‌ است» و آمریکا باید «کار را تمام کند.» لیندزی گراهام، سناتور جمهوری‌خواه کنگره آمریکا، روز دوشنبه ۲۸ اردیبهشت، با انتشار پیامی در حساب کاربری خود در شبکه اجتماعی ایکس، گفت: «من کاملاً مطمئنم که دونالد ترامپ، رئیس جمهوری آمریکا، وضعیت [رژیم] ایران را کاملاً درک می‌کند و به تحمل امتناع از مذاکره با حسن‌نیت در کنار تجاوزگری‌های جسورانه [رژیم] ایران در تنگه هرمز و سراسر منطقه ادامه نخواهد داد.» این سناتور ارشد ایالت کارولینای جنوبی در ادامه پیام خود نوشته است: «برای من کاملاً واضح است که [رژیم] ایران از نظر نظامی و اقتصادی بسیار ضعیف شده است، اما در عین حال، آنها جسورتر و پرخاشگرتر شده‌اند.» او با اشاره به این که در حال حاضر یک «پاسخ کوتاه، اما قاطع» می‌تواند درگیری را «به شیوه‌ای درست از نو آغاز کند»، تاکید کرد: «وقتی صحبت از [رژیم] ایران می‌شود، ضروری است که ما [آمریکا] از موضع قدرت و تسلط مذاکره کنیم.»",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/farsivoa/218060",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn1.telesco.pe/file/YM1cVQX6JpuTT4_degbC-S1BkaTzxlDjaiv9mXyKGNl9J3h-SPZe_NiFYbq_8DjXsmsjtbeGj0kQb1j3-WRB5BV_2qwzl6-5nlDEp35wF28Tp_kQ9O6UWXcA8N9uSwyQDhm2ghqNa5Ic6C_Ttw53TxmaAhzvJ-uJn2O-KfmGL9eGshr5t-sUS0NKsuu0LT-acNbNY8kO9l-_OJmIQboMwAaMZzmdqeITVC1AuKETv2RfPN0UnHejalB-GPu6Xdsjr8u0V0quXSVxvUmykxM0kS8YSvj0Va9DYztR4FOgEKoMu7VU36IWzVcgBo6O8w26Urp7uHaw7Xe6pQWQunNMeA.jpg",
+          "thumbnail_path": "channels/farsivoa/media/96f0ba3ea842c0f544b69f82.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "2.06K",
+      "posted_at": "2026-05-18T14:18:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/farsivoa/218060"
+    },
     {
       "id": "farsivoa/218052",
       "author_name": "Farsi VOA",
@@ -1783,406 +2193,6 @@
       "posted_at": "2026-05-17T09:42:16+00:00",
       "edited": false,
       "permalink": "https://t.me/farsivoa/217953"
-    },
-    {
-      "id": "farsivoa/217952",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>خاموشی اینترنت وارد روز ۷۹ شد؛ نت‌بلاکس: مردم ایران به ناظر تبدیل شده‌اند<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>داده‌های شبکه نشان می‌دهد خاموشی اینترنت در ایران همچنان ادامه دارد و وارد روز هفتادونهم، در هفته دوازدهم، شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>به این ترتیب، شهروندان عادی در ایران بیش از ۱۸۷۰ ساعت است که از دسترسی عادی به اینترنت جهانی محروم مانده‌اند؛ وضعیتی که منتقدان آن را نوعی حصر دیجیتال می‌دانند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>به گفته نت‌بلاکس، این اقدام گسترده سانسور دیجیتال، ماهیت مشارکت مدنی در ایران را تغییر داده است. این نهاد می‌گوید کنترل اطلاعات باعث شده افکار عمومی، به جای مشارکت فعال در تحولات کشور، به «ناظرانی» محدود در سرنوشت خود تبدیل شوند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>این هشدار فقط درباره قطع اتصال نیست؛ درباره تغییر جایگاه شهروند در فضای عمومی است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8150869.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8150869.html</a>",
-      "plain_text": "🔺خاموشی اینترنت وارد روز ۷۹ شد؛ نت‌بلاکس: مردم ایران به ناظر تبدیل شده‌اند ▪️داده‌های شبکه نشان می‌دهد خاموشی اینترنت در ایران همچنان ادامه دارد و وارد روز هفتادونهم، در هفته دوازدهم، شده است. ▪️به این ترتیب، شهروندان عادی در ایران بیش از ۱۸۷۰ ساعت است که از دسترسی عادی به اینترنت جهانی محروم مانده‌اند؛ وضعیتی که منتقدان آن را نوعی حصر دیجیتال می‌دانند. ▪️به گفته نت‌بلاکس، این اقدام گسترده سانسور دیجیتال، ماهیت مشارکت مدنی در ایران را تغییر داده است. این نهاد می‌گوید کنترل اطلاعات باعث شده افکار عمومی، به جای مشارکت فعال در تحولات کشور، به «ناظرانی» محدود در سرنوشت خود تبدیل شوند. ▪️این هشدار فقط درباره قطع اتصال نیست؛ درباره تغییر جایگاه شهروند در فضای عمومی است. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150869.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "1.77K",
-      "posted_at": "2026-05-17T09:14:40+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217952"
-    },
-    {
-      "id": "farsivoa/217951",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>اعتراض انجمن داروسازان ایران: بدهی سازمان‌های بیمه چهار برابر شده است<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>یک عضو هیئت مدیره و مدیر روابط عمومی انجمن داروسازان ایران به پرداخت نشدن و انباشت مطالبات داروخانه‌ها از سوی سازمان‌های بیمه اعتراض کرد و خبر داد این مطالبات در ماه‌های گذشته «۴ برابر» شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>او می‌گوید: «تأمین اجتماعی هر ماه ۳ هزار میلیارد تومان (همت) بدهکاری به داروخانه‌های بخش خصوصی دارد و با پرداخت آذر ماه، این سازمان هنوز ۱۵ همت به داروخانه ها بدهکار است.»<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>در شرایطی که بیمه‌ها از پس تامین هزینه‌ها برنمی‌آیند و قیمت‌ها همچنان در حال افزایش است، بسیاری از بیماران با چالش جدی در تأمین داروهای مورد نیاز خود مواجه‌اند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>همچنین در هفته‌های اخیر گزارش‌هایی از کمبود برخی داروها منتشر شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8150868.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8150868.html</a>",
-      "plain_text": "🔺اعتراض انجمن داروسازان ایران: بدهی سازمان‌های بیمه چهار برابر شده است ▪️یک عضو هیئت مدیره و مدیر روابط عمومی انجمن داروسازان ایران به پرداخت نشدن و انباشت مطالبات داروخانه‌ها از سوی سازمان‌های بیمه اعتراض کرد و خبر داد این مطالبات در ماه‌های گذشته «۴ برابر» شده است. ▪️او می‌گوید: «تأمین اجتماعی هر ماه ۳ هزار میلیارد تومان (همت) بدهکاری به داروخانه‌های بخش خصوصی دارد و با پرداخت آذر ماه، این سازمان هنوز ۱۵ همت به داروخانه ها بدهکار است.» ▪️در شرایطی که بیمه‌ها از پس تامین هزینه‌ها برنمی‌آیند و قیمت‌ها همچنان در حال افزایش است، بسیاری از بیماران با چالش جدی در تأمین داروهای مورد نیاز خود مواجه‌اند. ▪️همچنین در هفته‌های اخیر گزارش‌هایی از کمبود برخی داروها منتشر شده است. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150868.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "1.72K",
-      "posted_at": "2026-05-17T08:58:29+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217951"
-    },
-    {
-      "id": "farsivoa/217950",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
-      "body_html": "دادستان استان کرمان از تشکیل ۳۵ پرونده قضایی برای ایرانیان خارج از کشور خبر داد و آنان را به «همکاری با دشمن» متهم کرد. مهدی بخشی گفت که این پرونده‌ها «با هدف پیگیری قضایی و مصادره اموال تشکیل شده است.»<br><br>رئیس کل دادگستری استان آذربایجان غربی نیز روز شنبه ۲۶ اردیبهشت از صدور دستور توقیف اموال ۱۲۹ نفر از مخالفان جمهوری اسلامی در این استان خبر داد.<br><br>همزمان در روز شنبه، مقامات قضائی استان یزد نیز از توقیف اموال ۵۱ تن از اهالی این استان خبر دادند و آنها را به «جاسوسی و همکاری با کشور‌های متخاصم و گروه‌های معاند» متهم کردند.<br><br>همچنین رسانه‌های ایران گزارش داده بودند که از ابتدای جنگ اخیر تا روز جمعه، در پرونده‌های سیاسی دست‌کم «۲۶۲ فقره ملک در سراسر کشور توقیف شده است.»<br><br>اموال توقیف شده «شامل وجوه نقد بانکی، اموال منقول و غیرمنقول، سهام شرکت‌ها و حتی اموال وکالتی» مردم است. این اقدامات جمهوری اسلامی از سوی ناظران، نقض حقوق شهروندی توصیف شده است.<br><br>جمهوری اسلامی در هفته‌های اخیر و همزمان با قطعی سراسری اینترنت، روند سرکوب‌ها و به ویژه اعدام‌ها را سرعت داده است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "دادستان استان کرمان از تشکیل ۳۵ پرونده قضایی برای ایرانیان خارج از کشور خبر داد و آنان را به «همکاری با دشمن» متهم کرد. مهدی بخشی گفت که این پرونده‌ها «با هدف پیگیری قضایی و مصادره اموال تشکیل شده است.» رئیس کل دادگستری استان آذربایجان غربی نیز روز شنبه ۲۶ اردیبهشت از صدور دستور توقیف اموال ۱۲۹ نفر از مخالفان جمهوری اسلامی در این استان خبر داد. همزمان در روز شنبه، مقامات قضائی استان یزد نیز از توقیف اموال ۵۱ تن از اهالی این استان خبر دادند و آنها را به «جاسوسی و همکاری با کشور‌های متخاصم و گروه‌های معاند» متهم کردند. همچنین رسانه‌های ایران گزارش داده بودند که از ابتدای جنگ اخیر تا روز جمعه، در پرونده‌های سیاسی دست‌کم «۲۶۲ فقره ملک در سراسر کشور توقیف شده است.» اموال توقیف شده «شامل وجوه نقد بانکی، اموال منقول و غیرمنقول، سهام شرکت‌ها و حتی اموال وکالتی» مردم است. این اقدامات جمهوری اسلامی از سوی ناظران، نقض حقوق شهروندی توصیف شده است. جمهوری اسلامی در هفته‌های اخیر و همزمان با قطعی سراسری اینترنت، روند سرکوب‌ها و به ویژه اعدام‌ها را سرعت داده است. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217950",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/o-Ppui7OnaTW7UeaVsexiDKKvFoyRYeGPlR87XKhcno-uUQqB3ytQLqexQuLCk27n8KBcKZeIEK3dpSt_bwIABNAnXltv1fxWEYtrHMSJhB6kk28-mGuWTyU9nzwTkyY8I24xs-2rBGZzqDj8Bxxb5BqyUoOJ_qNP-EuO62hzxGyIjIJ6YnKVk4ts5Y65aVhtrVEzgOZQHTwrdb0mFY9LoY1OYbP6gTp_aDg4O9rJ_FtIDYkqNBhbhF8Czq4Vz80nP1FBUJPTbi_SYix_m4HQWYrS-VuIOcPYTLyGc5ZKFMbZBjRBLqPC65I8BbanU44R9DyBXTCAhbvM0IeEHxE6w.jpg",
-          "thumbnail_path": "channels/farsivoa/media/f9f63da41bc47b82dda06a90.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.83K",
-      "posted_at": "2026-05-17T08:28:10+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217950"
-    },
-    {
-      "id": "farsivoa/217949",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
-      "body_html": "خبرگزاری رسمی قطر، قنا، گزارش داد محمد بن عبدالرحمن آل ثانی، نخست‌وزیر و وزیر خارجه قطر، با فیصل بن فرحان، وزیر خارجه عربستان سعودی، تلفنی گفت‌وگو کرد.<br><br>دو طرف در این تماس روابط دوجانبه و راه‌های تقویت آن را بررسی کردند و درباره تحولات منطقه، به‌ویژه موضوعات مرتبط با آتش‌بس میان آمریکا و جمهوری اسلامی و تلاش‌ها برای کاهش تنش گفت‌وگو کردند.<br><br>قنا همچنین نوشت وزیر خارجه قطر بر اهمیت پاسخ مثبت همه طرف‌ها به تلاش‌های میانجی‌گرانه تأکید کرده است؛ تلاش‌هایی که به گفته او می‌تواند راه را برای رسیدگی به ریشه‌های بحران از طریق گفت‌وگو و راه‌های مسالمت‌آمیز باز کند و به توافقی پایدار برای جلوگیری از بازگشت تنش منجر شود.<br><br>قطر و عربستان در هفته‌های گذشته از آتش‌بس میان آمریکا و جمهوری اسلامی حمایت کرده و خواستار کاهش تنش و حل بحران از مسیر گفت‌وگو شده‌اند.<br><br>قطر، که در تماس‌های میانجی‌گرانه با تهران نقش داشته، هم حمله سپاه پاسداران به پایگاه العدید را محکوم کرده و هم بر مخالفت خود با گسترش جنگ تأکید کرده است. <br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "خبرگزاری رسمی قطر، قنا، گزارش داد محمد بن عبدالرحمن آل ثانی، نخست‌وزیر و وزیر خارجه قطر، با فیصل بن فرحان، وزیر خارجه عربستان سعودی، تلفنی گفت‌وگو کرد. دو طرف در این تماس روابط دوجانبه و راه‌های تقویت آن را بررسی کردند و درباره تحولات منطقه، به‌ویژه موضوعات مرتبط با آتش‌بس میان آمریکا و جمهوری اسلامی و تلاش‌ها برای کاهش تنش گفت‌وگو کردند. قنا همچنین نوشت وزیر خارجه قطر بر اهمیت پاسخ مثبت همه طرف‌ها به تلاش‌های میانجی‌گرانه تأکید کرده است؛ تلاش‌هایی که به گفته او می‌تواند راه را برای رسیدگی به ریشه‌های بحران از طریق گفت‌وگو و راه‌های مسالمت‌آمیز باز کند و به توافقی پایدار برای جلوگیری از بازگشت تنش منجر شود. قطر و عربستان در هفته‌های گذشته از آتش‌بس میان آمریکا و جمهوری اسلامی حمایت کرده و خواستار کاهش تنش و حل بحران از مسیر گفت‌وگو شده‌اند. قطر، که در تماس‌های میانجی‌گرانه با تهران نقش داشته، هم حمله سپاه پاسداران به پایگاه العدید را محکوم کرده و هم بر مخالفت خود با گسترش جنگ تأکید کرده است. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217949",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/EAYOn-9UOrIqhLtOTU3j9Bo4zJ79ki1CcJd-OZjV0AvyB_jkprVO-VvircGg0GCWw4y8jdA39Fcpvgtu01UvHTHN88-MkY2Zb3COJC_E-DDNebEog5uKuiQTR9SIje5azMnxRGQ2Dg-n-l6kB1y2sRbeyuU3XkoOR501OxbhjHzixLk6dZubHN4_vXVuChp5BnhE-iwcB1NfIXBxc3hmdbr26dcUdqGJEf8xhcDztSRPbpjFhRjVDFiquoORGHYvLEQndtkWBIJCxcFlxkboBESpW22Wlkm0gY22xet-BotiE9EbI8u5C6saiNLWisPvWytTOQnqexX5nPg8vjZ7Zw.jpg",
-          "thumbnail_path": "channels/farsivoa/media/cc5fa07e3d6626a0e637f4e2.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.96K",
-      "posted_at": "2026-05-17T08:02:41+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217949"
-    },
-    {
-      "id": "farsivoa/217948",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>شلیک راکت و پهپادهای حزب‌الله به نیروهای اسرائیلی در جنوب لبنان<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>ارتش اسرائیل اعلام کرد حزب‌الله از شب گذشته تا صبح یکشنبه چند راکت و پهپاد انفجاری را به سوی نیروهای اسرائیلی مستقر در جنوب لبنان شلیک کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>یکی از پهپادها همچنین باعث فعال شدن آژیر هشدار در شهرک مرزی میسگاو عام در شمال اسرائیل شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>در سمت مقابل، حملات اسرائیل به جنوب لبنان نیز ادامه داشته است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8150867.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8150867.html</a>",
-      "plain_text": "🔺شلیک راکت و پهپادهای حزب‌الله به نیروهای اسرائیلی در جنوب لبنان ▪️ارتش اسرائیل اعلام کرد حزب‌الله از شب گذشته تا صبح یکشنبه چند راکت و پهپاد انفجاری را به سوی نیروهای اسرائیلی مستقر در جنوب لبنان شلیک کرده است. ▪️یکی از پهپادها همچنین باعث فعال شدن آژیر هشدار در شهرک مرزی میسگاو عام در شمال اسرائیل شد. ▪️در سمت مقابل، حملات اسرائیل به جنوب لبنان نیز ادامه داشته است. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150867.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "1.92K",
-      "posted_at": "2026-05-17T07:45:33+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217948"
-    },
-    {
-      "id": "farsivoa/217947",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
-      "body_html": "بری روزن، گروگان پیشین آمریکایی در ایران، نسبت به «افزایش سریع و نگران‌کننده اعدام‌ها در ایران» هشدار داد و آن را «نشان‌دهنده راهبردی حساب‌شده برای سرکوب هرگونه مخالفت» دانست.<br><br>آقای روزن در شبکه اجتماعی ایکس با اشاره به گزارش نهادهای حقوق بشر و رسانه‌ها درباره افزایش اعدام‌ها در ایران افزود: «گروه‌های حقوق بشری تأکید می‌کنند که این افزایش در اعدام‌ها در مقطعی حساس رخ می‌دهد؛ زمانی که ممکن است توجه بین‌المللی در خلال آتش‌بس رو به کاهش باشد.»<br><br>او به گزارش مرکز حقوق بشر در ایران اشاره و تأکید کرد: «این سرکوب بی‌رحمانه، به‌ویژه در زندان‌ها و دادگاه‌ها، در حال تشدید شدن است.»<br><br>جمهوری اسلامی در هفته‌های اخیر و همزمان با قطعی سراسری اینترنت، روند سرکوب‌ها و به ویژه اعدام‌ها را سرعت داده است. از آغاز جنگ با آمریکا و اسرائیل، دستگاه قضایی دستکم ۳۳ تن را به بهانه حضور در اعتراضات، عضویت در گروه‌های مخالف یا «همکاری با دشمن»، اعدام کرده است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "بری روزن، گروگان پیشین آمریکایی در ایران، نسبت به «افزایش سریع و نگران‌کننده اعدام‌ها در ایران» هشدار داد و آن را «نشان‌دهنده راهبردی حساب‌شده برای سرکوب هرگونه مخالفت» دانست. آقای روزن در شبکه اجتماعی ایکس با اشاره به گزارش نهادهای حقوق بشر و رسانه‌ها درباره افزایش اعدام‌ها در ایران افزود: «گروه‌های حقوق بشری تأکید می‌کنند که این افزایش در اعدام‌ها در مقطعی حساس رخ می‌دهد؛ زمانی که ممکن است توجه بین‌المللی در خلال آتش‌بس رو به کاهش باشد.» او به گزارش مرکز حقوق بشر در ایران اشاره و تأکید کرد: «این سرکوب بی‌رحمانه، به‌ویژه در زندان‌ها و دادگاه‌ها، در حال تشدید شدن است.» جمهوری اسلامی در هفته‌های اخیر و همزمان با قطعی سراسری اینترنت، روند سرکوب‌ها و به ویژه اعدام‌ها را سرعت داده است. از آغاز جنگ با آمریکا و اسرائیل، دستگاه قضایی دستکم ۳۳ تن را به بهانه حضور در اعتراضات، عضویت در گروه‌های مخالف یا «همکاری با دشمن»، اعدام کرده است. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217947",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/PhDK5oL_nxwaVw2RlJdrDcg0gyG6cHwMziqCLbMDtPu-o4OLuAYfBflQclmo2gM4O3xj6WdCcIJsEf8UXRNhKAtnEFNxdXT5wPHtGVFroej-ths2xaQWmC_fdQoEm-ibVQuVaGBP6pd9LrkN4AE5I6cngmDOn4YnEM-LnrJdskgmsi7M25wr3GggUZaLvKQMpiau-8anEgznPdWWMzPCq5jijmoXPej5OSfVAaPgA9tDyudWkTcFOSBqP7Du-IMsAkO3-fH7s6h1GCCdAFmHz5KaOABZ8Lf2dDPqHdUZcR7RVnTVIy1NbX9vzCAc-StigKUZssoEGCnrdkY0XvbeiA.jpg",
-          "thumbnail_path": "channels/farsivoa/media/bb561a7254a245bff3d42b17.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.01K",
-      "posted_at": "2026-05-17T07:24:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217947"
-    },
-    {
-      "id": "farsivoa/217946",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>پگاه آهنگرانی در کن: روزهای سخت می‌گذرد و مردم آزادی را جشن می‌گیرند<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>پگاه آهنگرانی، بازیگر و فیلمساز ایرانی، روز شنبه ۲۶ اردیبهشت برای نمایش فیلم تازه خود «تمرین‌هایی برای یک انقلاب» در جشنواره کن حاضر شد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>او پیش از آغاز نمایش، این فیلم را به مادرانی تقدیم کرد که فرزندانشان را در مسیر مبارزه برای آزادی از دست داده‌اند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>او همراه با عوامل فیلم روی صحنه رفت و گفت خوشحال است که از راه این اثر توانسته بخشی از مبارزه مردم برای آزادی و دموکراسی را به تصویر بکشد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8150866.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8150866.html</a>",
-      "plain_text": "🔺پگاه آهنگرانی در کن: روزهای سخت می‌گذرد و مردم آزادی را جشن می‌گیرند ▪️پگاه آهنگرانی، بازیگر و فیلمساز ایرانی، روز شنبه ۲۶ اردیبهشت برای نمایش فیلم تازه خود «تمرین‌هایی برای یک انقلاب» در جشنواره کن حاضر شد. ▪️او پیش از آغاز نمایش، این فیلم را به مادرانی تقدیم کرد که فرزندانشان را در مسیر مبارزه برای آزادی از دست داده‌اند. ▪️او همراه با عوامل فیلم روی صحنه رفت و گفت خوشحال است که از راه این اثر توانسته بخشی از مبارزه مردم برای آزادی و دموکراسی را به تصویر بکشد. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150866.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "2.02K",
-      "posted_at": "2026-05-17T07:15:44+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217946"
-    },
-    {
-      "id": "farsivoa/217945",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
-      "body_html": "جواد علیکردی، شهروند اهل سبزوار و برادر خسرو علیکردی، وکیل دادگستری جان‌باخته، توسط دستگاه قضایی به ۱۰ سال حبس تعزیری محکوم شد.<br><br>جواد علیکردی اخیراً توسط یکی از شعب دادگاه انقلاب مشهد محاکمه و به تحمل ۱۰ سال حبس تعزیری محکوم شده است. این حکم در حالی صادر شده که وی همچنان در زندان وکیل‌آباد مشهد محبوس است و تاکنون اطلاع دقیقی از عناوین اتهامی مندرج در حکم صادر شده در دسترس نیست.<br><br>جواد علیکردی شامگاه ۲۱ آذرماه ۱۴۰۴، پس از انتشار ویدیویی در اعتراض به بازداشت گسترده سوگواران در مراسم هفتم برادرش بازداشت شد.<br><br>او در آن ویدئو اعلام کرده بود که اسناد محرمانه‌ای در این باره مرگ مشکوک برادرش در اختیار دارد.<br><br>خسرو علیکردی، در تاریخ ۱۴ آذر ۱۴۰۴ به طرز مشکوکی در دفتر کار خود جان باخت. نهادهای حکومتی علت مرگ را «ایست قلبی» اعلام کردند، اما خانواده علیکردی با اشاره به شواهدی چون خونریزی غیرعادی، این روایت را رد کرده و خواهان شفاف‌سازی شدند؛ امری که منجر به برخورد امنیتی با اعضای این خانواده و بازداشت جواد علیکردی شد.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "جواد علیکردی، شهروند اهل سبزوار و برادر خسرو علیکردی، وکیل دادگستری جان‌باخته، توسط دستگاه قضایی به ۱۰ سال حبس تعزیری محکوم شد. جواد علیکردی اخیراً توسط یکی از شعب دادگاه انقلاب مشهد محاکمه و به تحمل ۱۰ سال حبس تعزیری محکوم شده است. این حکم در حالی صادر شده که وی همچنان در زندان وکیل‌آباد مشهد محبوس است و تاکنون اطلاع دقیقی از عناوین اتهامی مندرج در حکم صادر شده در دسترس نیست. جواد علیکردی شامگاه ۲۱ آذرماه ۱۴۰۴، پس از انتشار ویدیویی در اعتراض به بازداشت گسترده سوگواران در مراسم هفتم برادرش بازداشت شد. او در آن ویدئو اعلام کرده بود که اسناد محرمانه‌ای در این باره مرگ مشکوک برادرش در اختیار دارد. خسرو علیکردی، در تاریخ ۱۴ آذر ۱۴۰۴ به طرز مشکوکی در دفتر کار خود جان باخت. نهادهای حکومتی علت مرگ را «ایست قلبی» اعلام کردند، اما خانواده علیکردی با اشاره به شواهدی چون خونریزی غیرعادی، این روایت را رد کرده و خواهان شفاف‌سازی شدند؛ امری که منجر به برخورد امنیتی با اعضای این خانواده و بازداشت جواد علیکردی شد. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217945",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/mi_t99IY16kXS4sNHfLaks6lDIlbAnpzBvgD-HV22uJtlc-i6ME0dgGrC8qy1FuEHcfFCUcz7r_ApwEj3l5xyDLBkR8lUynsXAkiID9lRwTb71SRTH9dPo39SImbOZLi6qvSrCt1xqvCV9JQyHoQwef_FRfypv9R0t2XiCTiysAWYH_xxik9HH7ETGBNlsGB_5CXua9jAcIEgMCQMaRCdKli61CeUD3kft6aCmzmomt12DGduuNS6HSJuAlK5cpmyVl9wJBP_4cylu5xEUbnUPfizFU55ktEiJwbQGnmFLy8H4dSZFwDHg-zL4OfjlIZELNpQ3MiuGxs-MJ5K7T6Sw.jpg",
-          "thumbnail_path": "channels/farsivoa/media/e178742d7cdba0b0d0d44129.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.28K",
-      "posted_at": "2026-05-17T06:20:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217945"
-    },
-    {
-      "id": "farsivoa/217944",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>بریتانیا یک سامانه جدید و کم‌هزینه ضدپهپاد در خاورمیانه مستقر کرد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>بریتانیا اعلام کرد که یک سامانه پدافند موشکی جدید و کم‌هزینه ضدپهپاد را برای دفاع از شهروندان و شرکای خود در برابر حملات پهپادی در خاورمیانه مستقر کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>این سامانه که با نام «سامانه پیشرفته سلاح کشتار دقیق» (ای‌پی‌کی‌دبلیواس) معرفی شده، بر روی این جنگنده‌های نیروی هوایی سلطنتی بریتانیا نصب خواهد شد تا آنها بتوانند اهداف را با دقت بالا و با کسری از هزینه موشک‌هایی که تاکنون استفاده می‌شد، منهدم کنند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>این استقرار پس از آن صورت می‌گیرد که دونالد ترامپ، رییس‌جمهور آمریکا بارها از کشورهای عضو ناتو از جمله بریتانیا در ارتباط با جنگ علیه جمهوری اسلامی انتقاد کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8150865.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8150865.html</a>",
-      "plain_text": "🔺بریتانیا یک سامانه جدید و کم‌هزینه ضدپهپاد در خاورمیانه مستقر کرد ▪️بریتانیا اعلام کرد که یک سامانه پدافند موشکی جدید و کم‌هزینه ضدپهپاد را برای دفاع از شهروندان و شرکای خود در برابر حملات پهپادی در خاورمیانه مستقر کرده است. ▪️این سامانه که با نام «سامانه پیشرفته سلاح کشتار دقیق» (ای‌پی‌کی‌دبلیواس) معرفی شده، بر روی این جنگنده‌های نیروی هوایی سلطنتی بریتانیا نصب خواهد شد تا آنها بتوانند اهداف را با دقت بالا و با کسری از هزینه موشک‌هایی که تاکنون استفاده می‌شد، منهدم کنند. ▪️این استقرار پس از آن صورت می‌گیرد که دونالد ترامپ، رییس‌جمهور آمریکا بارها از کشورهای عضو ناتو از جمله بریتانیا در ارتباط با جنگ علیه جمهوری اسلامی انتقاد کرده است. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150865.html",
-      "media": [],
-      "reactions": [],
-      "views_label": "2.23K",
-      "posted_at": "2026-05-17T06:11:34+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217944"
-    },
-    {
-      "id": "farsivoa/217943",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
-      "body_html": "رویترز گزارش داد دولت ترامپ روز شنبه معافیت تحریمی مربوط به خرید نفت دریابرد روسیه را تمدید نکرد؛ معافیتی که پیش‌تر به کشورهایی از جمله هند اجازه می‌داد در شرایط کمبود عرضه جهانی، نفت روسیه را خریداری کنند.<br><br>این معافیت پس از تمدید یک‌ماهه‌ای منقضی شد که هدف آن کاهش فشار بر بازار نفت، پس از بسته‌شدن تنگه هرمز از سوی ایران، اعلام شده بود.<br><br>وزارت خزانه‌داری آمریکا پیش‌تر گفته بود مجوز عمومی خرید نفت روسیه ذخیره‌شده در نفتکش‌ها تمدید نخواهد شد.<br><br>دو سناتور دموکرات نیز از دولت خواسته بودند این معافیت را ادامه ندهد و گفته بودند چنین اقدامی به درآمد روسیه برای جنگ با اوکراین کمک می‌کند.<br><br>رویترز نوشته قیمت بنزین در آمریکا به حدود ۴ دلار و ۵۰ سنت در هر گالن رسیده و نفت از زمان آغاز جنگ ایران، نزدیک یا بالاتر از ۱۰۰ دلار در هر بشکه مانده است. هند بزرگ‌ترین خریدار نفت دریابرد روسیه است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "رویترز گزارش داد دولت ترامپ روز شنبه معافیت تحریمی مربوط به خرید نفت دریابرد روسیه را تمدید نکرد؛ معافیتی که پیش‌تر به کشورهایی از جمله هند اجازه می‌داد در شرایط کمبود عرضه جهانی، نفت روسیه را خریداری کنند. این معافیت پس از تمدید یک‌ماهه‌ای منقضی شد که هدف آن کاهش فشار بر بازار نفت، پس از بسته‌شدن تنگه هرمز از سوی ایران، اعلام شده بود. وزارت خزانه‌داری آمریکا پیش‌تر گفته بود مجوز عمومی خرید نفت روسیه ذخیره‌شده در نفتکش‌ها تمدید نخواهد شد. دو سناتور دموکرات نیز از دولت خواسته بودند این معافیت را ادامه ندهد و گفته بودند چنین اقدامی به درآمد روسیه برای جنگ با اوکراین کمک می‌کند. رویترز نوشته قیمت بنزین در آمریکا به حدود ۴ دلار و ۵۰ سنت در هر گالن رسیده و نفت از زمان آغاز جنگ ایران، نزدیک یا بالاتر از ۱۰۰ دلار در هر بشکه مانده است. هند بزرگ‌ترین خریدار نفت دریابرد روسیه است. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217943",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/F-5K7kYJCqpUKJi9IeLtN72b7vRf1-t5P1RkeFuc5ewMcy7IuoT-GjgbSj1F-tM8SYyvvTb4DQgFNa8Tlev6KcA1o8cj3Yo6BwEf6JcwFQtTgyaG77VzGPjPAZh5GNVvAlWD9TdXuP6dnrHYfwlbalUfHUyHtrjqWAdlWx5rZUHkll7ca2T0U-yHwcgbDxzBl37zccFLG1YaS74cdVlcG8gTYUk-3tChHtn0K3REqjp8ZAVZzhLkNy4R55zzbcuNM67Z6FHdQMLDdxVosBSb1JMF0PKlPzjbomGpXS_lLPWzZBpgFyI1nX5XXF0ct9AxpmlmcnmhtwVf3J8qY5ypZw.jpg",
-          "thumbnail_path": "channels/farsivoa/media/d2119204afb58ec5e52a50cc.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.23K",
-      "posted_at": "2026-05-17T05:50:22+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217943"
-    },
-    {
-      "id": "farsivoa/217942",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
-      "body_html": "الکسی لیخاچف، رئیس شرکت روس‌اتم، اعلام کرد این شرکت تا روشن شدن وضعیت امنیتی پیرامون ایران، نمی‌تواند اعلام کند کارکنان روس را به طور کامل به نیروگاه اتمی بوشهرگرداند.<br><br>او گفت روس‌اتم برنامه‌ریزی برای افزایش تعداد افراد روسی در بوشهر را آغاز کرد، اما هم‌زمان ناچار است «وضعیت نظامی» را در نظر بگیرید.<br><br>لیخاچف به گزارش رسانه‌ها درباره احتمال ازسرگیری جنگ اشاره کرد و گفت تا روشن شدن اوضاع، بازگشت کامل نیروها ممکن نیست.<br><br>با آغاز عملیات آمریکا و اسرائیل علیه جمهوری اسلامی در اسفند سال گذشته، روس‌اتم حضور نیروهای روس در بوشهر را مرحله‌به‌مرحله کاهش داده است. ابتدا ۹۴ نفر، سپس ۱۵۰ نفر، بعد ۱۶۳ نفر، در مرحله بعد ۱۹۸ نفر، و در نهایت ۱۰۸ نفر دیگر از سایت خارج شدند؛ تا جایی که در اواخر فروردین‌ماه تنها ۲۰ نیروی روس برای حفظ ایمنی تجهیزات و اداره حداقلی در نیروگاه باقی ماندند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "الکسی لیخاچف، رئیس شرکت روس‌اتم، اعلام کرد این شرکت تا روشن شدن وضعیت امنیتی پیرامون ایران، نمی‌تواند اعلام کند کارکنان روس را به طور کامل به نیروگاه اتمی بوشهرگرداند. او گفت روس‌اتم برنامه‌ریزی برای افزایش تعداد افراد روسی در بوشهر را آغاز کرد، اما هم‌زمان ناچار است «وضعیت نظامی» را در نظر بگیرید. لیخاچف به گزارش رسانه‌ها درباره احتمال ازسرگیری جنگ اشاره کرد و گفت تا روشن شدن اوضاع، بازگشت کامل نیروها ممکن نیست. با آغاز عملیات آمریکا و اسرائیل علیه جمهوری اسلامی در اسفند سال گذشته، روس‌اتم حضور نیروهای روس در بوشهر را مرحله‌به‌مرحله کاهش داده است. ابتدا ۹۴ نفر، سپس ۱۵۰ نفر، بعد ۱۶۳ نفر، در مرحله بعد ۱۹۸ نفر، و در نهایت ۱۰۸ نفر دیگر از سایت خارج شدند؛ تا جایی که در اواخر فروردین‌ماه تنها ۲۰ نیروی روس برای حفظ ایمنی تجهیزات و اداره حداقلی در نیروگاه باقی ماندند. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217942",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/tq4sxOVh_tb3j8cBy6yIyad5chKC6wMYP2Bi-OccLcbN6TwxRZwWhWP3GxZ3uYSLECvT5vkgE-KS7ae3P62lyHmFgNuAhtA1_wYf7OWNsDHzi43RIH0u0aKHdA9TloXR3UzDwP2BupIzAIh0ypOZ6J6PtEeDKnkrsf4TymJOhyx3cUplfZry5IAJVu4isj-bsRAY4FkD8ESVofoMjbUT5_gRbHpG8YujM18TZf_FiGE5q5Ew_HbulPlx_0K4CaBiD2K4irQl4n5B9DDz_z37BA8t0RlaFJ5SqIEwY1TxlT4AcDOnBYs1wVGOoNsCBPOzLReh1EvNWmZn-OcLFPVfsA.jpg",
-          "thumbnail_path": "channels/farsivoa/media/2f0d713938599425a53139e3.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.32K",
-      "posted_at": "2026-05-17T05:32:41+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217942"
-    },
-    {
-      "id": "farsivoa/217941",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/CxFxLzV5kenCyRDXSZAdfD5AI-6xLmhxLJQK5IcqXP-wbgEYPStnIEmoEzV93VOrLVvOeDBwNj5enFlfa_3qeD5rSgVsev0Hghl4JoOdp7PKKJiZXANYHQtpHFZLbi3W_1JMLUnEPorxSmjaBLADGlhVhJ0-mE41Ca3g9YM-bBciHZpymvP_M843KeMIvoTEDULdLvbICN9KDuj9zj7yEBkDxN7n_mJmvY3XRtdPQxbJto9dgroHKQp3NeemST-Pba8WAOXqY9RBBNVvsQPrncknMtCtdaoHJHxXQkOhikXIvBlbCPp2_wWTx5wln6rgX8N_e31m5urO6WO6WJCBFQ.jpg",
-      "author_photo_path": "channels/farsivoa/media/68e2151f7c94cd6e9d37c816.jpg",
-      "body_html": "نماینده هند در سازمان ملل اعلام کرد هدف قرار دادن کشتی‌های تجاری، به خطر انداختن خدمه غیرنظامی و ایجاد اختلال در آزادی کشتیرانی در تنگه هرمز غیرقابل قبول است.<br><br>پارواتاننی هریش در اجلاس ویژه شورای اجتماعی و اقتصادی سازمان ملل متحد درباره بحران انرژی و کودهای کشاورزی گفته است قوانین بین‌المللی در رابطه با تنگه هرمز باید به‌ طور کامل رعایت شوند.<br><br>او تصریح کرد برای مقابله با این بحران، ترکیبی از اقدامات کوتاه‌مدت و ساختاری، در کنار همکاری‌های بین‌المللی، ضروری است.<br><br>تنگه هرمز محل عبور ۲۰ درصد از نفت مصرفی و ۳۵ درصد از تجارت کودهای کشاورزی جهان است که از ۹ اسفند به خاطر انسداد تنگه هرمز توسط جمهوری اسلامی و حمله به دهها کشتی، مختل شده است.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "نماینده هند در سازمان ملل اعلام کرد هدف قرار دادن کشتی‌های تجاری، به خطر انداختن خدمه غیرنظامی و ایجاد اختلال در آزادی کشتیرانی در تنگه هرمز غیرقابل قبول است. پارواتاننی هریش در اجلاس ویژه شورای اجتماعی و اقتصادی سازمان ملل متحد درباره بحران انرژی و کودهای کشاورزی گفته است قوانین بین‌المللی در رابطه با تنگه هرمز باید به‌ طور کامل رعایت شوند. او تصریح کرد برای مقابله با این بحران، ترکیبی از اقدامات کوتاه‌مدت و ساختاری، در کنار همکاری‌های بین‌المللی، ضروری است. تنگه هرمز محل عبور ۲۰ درصد از نفت مصرفی و ۳۵ درصد از تجارت کودهای کشاورزی جهان است که از ۹ اسفند به خاطر انسداد تنگه هرمز توسط جمهوری اسلامی و حمله به دهها کشتی، مختل شده است. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217941",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/D8uyGN7Okp3VIQMsgUol2qoiL2_LikyM4kMNf_Jtr6bIiCIsfZF6JhROBrsQ7bisyL5F-mBBTZ6_GQ5rH4yMy77SgnOE69oSY1QgIrDyFl2KYCkcXiM4P2BOnUsixFlqUtLUVOT827-jmLRJ-8qBH0eYcONImmbPmWYLKVXE6d_v2ZqnDa0hXccdLwZpYdAunsCDc49trPIVS2sB50N0b1iVRoZpv3oeN67H3GuaAYGVSkVRPh8dDRmQfZf_cRaWQ4e_RXtV78xqK4SXL0TdcH9CwFO35RSY476bttD8GFeyy0Udp9q-FwZCSjVASbGGz3C6aEMLtHhEA-U3RZ3Zvg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/b01306478ea4626635ea71b7.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.46K",
-      "posted_at": "2026-05-17T05:21:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217941"
-    },
-    {
-      "id": "farsivoa/217940",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>مارک لوین، از مفسران مشهور رادیویی آمریکایی و از حامیان برجسته دونالد ترامپ، رئیس‌جمهوری آمریکا، روز شنبه ۲۶ اردیبهشت در شبکه اجتماعی ایکس نوشت: «باید به آزادی مردم ایران کمک کنیم، و ما قادریم که این کار را انجام دهیم.» او گفت: «می‌توانیم این کار را بدون اعزام زمینی نیروهایمان انجام دهیم. بدون یک جنگ ابدی. می‌توانیم این کار را انجام دهیم.»<br><br>آقای لوین در این راستا توضیح داد که می‌توان مردم ایران را آموزش داد و آن‌ها را مسلح کرد. او نوشت: «آن‌ها را آموزش دهیم. مسلح کنیم. از آنها حمایت کنیم. و دیگر هرگز نگران سلاح‌های هسته‌ای رژیم ایران نخواهیم بود. نه تنها این، بلکه خاورمیانه نیز به گونه‌ای که حتی نمی‌توانیم تصور کنیم، به سمت بهتر شدن تغییر خواهد کرد. این رژیم (جمهوری اسلامی) باید نابود شود. اکنون وقتش است.»<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "⚡️مارک لوین، از مفسران مشهور رادیویی آمریکایی و از حامیان برجسته دونالد ترامپ، رئیس‌جمهوری آمریکا، روز شنبه ۲۶ اردیبهشت در شبکه اجتماعی ایکس نوشت: «باید به آزادی مردم ایران کمک کنیم، و ما قادریم که این کار را انجام دهیم.» او گفت: «می‌توانیم این کار را بدون اعزام زمینی نیروهایمان انجام دهیم. بدون یک جنگ ابدی. می‌توانیم این کار را انجام دهیم.» آقای لوین در این راستا توضیح داد که می‌توان مردم ایران را آموزش داد و آن‌ها را مسلح کرد. او نوشت: «آن‌ها را آموزش دهیم. مسلح کنیم. از آنها حمایت کنیم. و دیگر هرگز نگران سلاح‌های هسته‌ای رژیم ایران نخواهیم بود. نه تنها این، بلکه خاورمیانه نیز به گونه‌ای که حتی نمی‌توانیم تصور کنیم، به سمت بهتر شدن تغییر خواهد کرد. این رژیم (جمهوری اسلامی) باید نابود شود. اکنون وقتش است.» @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217940",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/ghefGv2ZHb24m0Mi-a8YZ8SsdWYakxpkXsSzbqLiepGRYvCGlHdQIsrbt-xhKNwqXujZ-VSzKQMhbjGM4iN6frV3j5iNscJ_1Vic-paJvb7ZZ7gJf5Qa6QfqSqyBZeaE-__xGcz352WNbJtG6R5bZIzHoJiJGJvIlayYdIqDyU5Ct7nSapx9TOMIWqxufDH6M-3afAxR6aWNtKzSQaO8tfNkUay1TuFx-EJABavc28hv-rtCmw_-6Y2PU7gZO1JzBtl-B7wib0CVTwgs3eMJuuJyo8WYQV2X1EvT1ebMFE4m_XluEhhiX_oOyTbgZccSnmMmCwOqGLmjhYaLTNEnwA.jpg",
-          "thumbnail_path": "channels/farsivoa/media/310202f752c75f09412c6033.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "3.3K",
-      "posted_at": "2026-05-17T01:26:32+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217940"
-    },
-    {
-      "id": "farsivoa/217939",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>یوروویژن ۲۰۲۶؛ بلغارستان اول شد اسرائيل دوم<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>بلغارستان شامگاه شنبه ۲۶ اردیبهشت در مسابقه آواز یوروویژن در وین به پیروزی رسید. <br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8150864.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8150864.html</a><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "🔺یوروویژن ۲۰۲۶؛ بلغارستان اول شد اسرائيل دوم ▪️بلغارستان شامگاه شنبه ۲۶ اردیبهشت در مسابقه آواز یوروویژن در وین به پیروزی رسید. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150864.html @FarsiVOA",
-      "media": [],
-      "reactions": [],
-      "views_label": "2.91K",
-      "posted_at": "2026-05-17T00:48:25+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217939"
-    },
-    {
-      "id": "farsivoa/217938",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>مواضع قانون‌گذاران کنگره درباره شرایط خاورمیانه و قطع دسترسی مردم به اینترنت از سوی جمهوری اسلامی<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "⚡️مواضع قانون‌گذاران کنگره درباره شرایط خاورمیانه و قطع دسترسی مردم به اینترنت از سوی جمهوری اسلامی @FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/217938",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/h6zxV4T-xvx_TbE5-p3JdSg8WXBrZfJChBSSC47UJO5v0_fisrVRXrumCeHs2uYu6-AITQJ1uLEotzjjWjrcmqONDVEngjcPmjUeb5IGLOTv6NBvkYAXGuVxDdOXubOezJIpJZ1j-4vzV3-80JrLCD1V7vGFTJz07OMqzcStO41-0Ky8In6Jr_HJB-DHfaj6FDsAGXYi5O-HTQDyl4I_JHDBzqcrdXN5AE0TLFXehD9gW8e3TJV87GHg8nTivlmShwMwprp6Wo8OXU9ueaiYpR7NY8sXwk6GQkBOQT-ioOsVQY36VhfDgj4kRztqTH_RMOxX6LVy-rD9-V0fVdH_tA",
-          "thumbnail_path": "channels/farsivoa/media/192301f5c99f3f56b99ffa2a.jpg",
-          "duration_label": "5:03",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.88K",
-      "posted_at": "2026-05-16T23:44:14+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217938"
-    },
-    {
-      "id": "farsivoa/217937",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>دولت ونزوئلا متحد سابق نیکلاس مادورو را برای رسیدگی به پرونده‌های قضائی به آمریکا تحویل داد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>دولت ونزوئلا روز شنبه ۲۶ اردیبهشت اعلام کرد که الکس ساب از نزدیکان نیکلاس مادورو، را برای رسیدگی به پرونده‌های کیفری به ایالات متحده مسترد کرده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8150731.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8150731.html</a><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "🔺دولت ونزوئلا متحد سابق نیکلاس مادورو را برای رسیدگی به پرونده‌های قضائی به آمریکا تحویل داد ▪️دولت ونزوئلا روز شنبه ۲۶ اردیبهشت اعلام کرد که الکس ساب از نزدیکان نیکلاس مادورو، را برای رسیدگی به پرونده‌های کیفری به ایالات متحده مسترد کرده است. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150731.html @FarsiVOA",
-      "media": [],
-      "reactions": [],
-      "views_label": "2.84K",
-      "posted_at": "2026-05-16T23:31:37+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217937"
-    },
-    {
-      "id": "farsivoa/217936",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>روز جهانی همزیستی مسالمت‌آمیز؛ اروپا در هنگامه آزمونی تاریخی<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "⚡️روز جهانی همزیستی مسالمت‌آمیز؛ اروپا در هنگامه آزمونی تاریخی @FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/217936",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/K93N66CouNikZ2Yn9oL456cBCCzpcZk6E7UtcdJ-btu0UQP-1vyky8QpqZZXaJrrfNR8-dh2USZdIx8lgS9I02NINThT3dlQS7tR9AfwETQWXQ4rIapeA0fU_yVRbiyl-MpQG8_wzY4kSNWEMLXYtINP65ujpGTfFfbuI3nJTbnD3QzhAd6HtWk5vrrV0PDFsgI7v4Bboa-y73WTk4aQT-Upl3DVUspNKDXnmLOqDZpLuHLWxFt0oNQSnCSGbTsZMjYwQeRPmyWqGfMZaembW1VaIk2l7uJU48qX1wR94IVXkq3G0E487EivoB4MRrkS2MHr13O7wbDfXboFJ4_4TQ",
-          "thumbnail_path": "channels/farsivoa/media/e8cb4b06e05a6e910797d2ec.jpg",
-          "duration_label": "4:46",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.63K",
-      "posted_at": "2026-05-16T23:27:49+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217936"
-    },
-    {
-      "id": "farsivoa/217935",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>از «به جان اموال مردم افتادن» تا حکومتِ سرکوب در نقش مربی اسلحه در صداوسیما<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "⚡️از «به جان اموال مردم افتادن» تا حکومتِ سرکوب در نقش مربی اسلحه در صداوسیما @FarsiVOA",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/farsivoa/217935",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/f7TTbqPPA-MzAS9KAnNucxMLK3NggkJ2KxciXa_iDbqyiXLSzyVCqxLA18deChoL_kodEjdPQKSvkrtBtfeS5JTpCl41XjbxAEJKVAXsrKAcxRwczEplwfvSZaCGdLFxDA-2JiF7h8c3v7w1w640SwVnLnovsjBsQGgWSlzuqJ78MlKc5QwwYTWpcjanspSkzp9O4nmR9BPpnS_5nTTZjPhI2LKdtvDJIvMy1D_kWNlKTzNmBoLrlzMjEaPo_jEalbrYa2YWHzyaX5JusTeav7ttxDzADK5vGezM9e3640p8TlZ_81_IZFO2_ZfThSaVWk2dB3f1C_KoKoLdL8m91w",
-          "thumbnail_path": "channels/farsivoa/media/0308c481839c106333688d2d.jpg",
-          "duration_label": "6:16",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.5K",
-      "posted_at": "2026-05-16T23:20:13+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217935"
-    },
-    {
-      "id": "farsivoa/217934",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BA.png')\"><b>🔺</b></i>ترامپ با اشاره به «اعتراف به اشتباه» سازمان ملل از ادعاهای «اکتیویستی اقلیمی دموکرات‌ها» انتقاد کرد<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>دونالد ترامپ، رئيس جمهوری آمریکا روز شنبه در پیامی تازه از دموکرات‌ها و سیاست‌های اقلیمی آن‌ها انتقاد کرد.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i> بیشتر بخوانید:<br><a href=\"https://ir.voanews.com/a/8150728.html\" target=\"_blank\" rel=\"noopener\">https://ir.voanews.com/a/8150728.html</a><br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "🔺ترامپ با اشاره به «اعتراف به اشتباه» سازمان ملل از ادعاهای «اکتیویستی اقلیمی دموکرات‌ها» انتقاد کرد ▪️دونالد ترامپ، رئيس جمهوری آمریکا روز شنبه در پیامی تازه از دموکرات‌ها و سیاست‌های اقلیمی آن‌ها انتقاد کرد. ⬇️ بیشتر بخوانید: https://ir.voanews.com/a/8150728.html @FarsiVOA",
-      "media": [],
-      "reactions": [],
-      "views_label": "2.65K",
-      "posted_at": "2026-05-16T23:09:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217934"
-    },
-    {
-      "id": "farsivoa/217933",
-      "author_name": "Farsi VOA",
-      "author_photo_url": "https://cdn1.telesco.pe/file/VY4Ee4dkMM617EyWhPrMADu7dhqDFAb92WtrJHmGfac0Ix7CcCr8d0gwPmLkJ4_vBQWDiXBTAvgDEYk2pmO0IVML_nn2azSItSJTTM8FVcNQdNIWbOPPRh4yy2t25TjYYQ9vmwIt2rQSsKyWK2-s3xtpv_B4wdBxHtjzHoLixkvPuMAD82INhIjWA95nY07vGqGfRvDSPHt2xkhcQmiFchicblNBGr2agxEeob5ZjR9o4Zu6MAtpPYw7LpOsvDLUMapuKpHBCJWgY3l6h8LXp6Nk61qsYhlRVv3xp5-MV4ZFkOfu56EW0d77ANIEFUJYcijK2qF7UNlI0sdo12yEaA.jpg",
-      "author_photo_path": "channels/farsivoa/media/c3ded9877d7f73f62b98289e.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i>ارتش اسرائیل عصر شنبه اعلام کرد که یک سرباز ۲۴ ساله اسرائیلی روز جمعه در حمله پهپادی گروه حزب‌الله در جنوب لبنان کشته شد. تایمز اسرائيل نوشت که علیرغم آتش‌بسی که به‌تازگی تمدید شده است درگیری‌های محدود با این گروه تروریستی تحت حمایت جمهوری اسلامی ادامه دارد. بنیامین نتانیاهو، نخست وزیر اسرائيل روز شنبه گفت «تمام مردم اسرائیل» در سوگ این سرباز هستند و به یادش سر تعظیم فرود می‌آورند.<br><a href=\"https://t.me/FarsiVOA\" target=\"_blank\">@FarsiVOA</a>",
-      "plain_text": "⚡️ارتش اسرائیل عصر شنبه اعلام کرد که یک سرباز ۲۴ ساله اسرائیلی روز جمعه در حمله پهپادی گروه حزب‌الله در جنوب لبنان کشته شد. تایمز اسرائيل نوشت که علیرغم آتش‌بسی که به‌تازگی تمدید شده است درگیری‌های محدود با این گروه تروریستی تحت حمایت جمهوری اسلامی ادامه دارد. بنیامین نتانیاهو، نخست وزیر اسرائيل روز شنبه گفت «تمام مردم اسرائیل» در سوگ این سرباز هستند و به یادش سر تعظیم فرود می‌آورند. @FarsiVOA",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/farsivoa/217933",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn1.telesco.pe/file/HIWH2SkZclnpViSbr7Ufmu60tR-yAW-1ZjqQxet9Cz79OH3lRzIzIoaoFcLY42vhUHdlD6JcZmJDZe1-w4FXBwkTWtR-P8lUi0OS0TVD4pk809Yc8yH6pSiudkiENbIXkEvgq_IU-75P4w-t8SzzhLACwH809gvtKbvmqeN3OhrmB6dxEmBARJhERwZqAY7Kho1Yrc3DD7pqLhWOnt00mIk6AbU0w3o2G-Z-dq37hc8Q0DV4xB-lHUM9h652euA0OXipMIb5WYvTdWL9KfZYDokfyLXSYwSDTOzaPTHgSlUZdivA4RYxRXnlul59T9F_dFzR4F69Ab3naAJyLDUJeg.jpg",
-          "thumbnail_path": "channels/farsivoa/media/b6f87d1fff5214d9939eccdf.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "2.56K",
-      "posted_at": "2026-05-16T23:07:40+00:00",
-      "edited": false,
-      "permalink": "https://t.me/farsivoa/217933"
     }
   ]
 }
