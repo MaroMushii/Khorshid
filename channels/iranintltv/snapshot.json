@@ -1,15 +1,475 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-18T22:12:58.596Z",
+  "fetched_at": "2026-05-19T10:49:21.282Z",
   "channel": {
     "username": "iranintltv",
     "title": "Iran International ایران اینترنشنال",
     "description_html": "رسانه خبری پیشرو برای ایرانیان<br>خبررسانی حرفه‌ای، بی‌پروا و با تکیه بر روایت‌ شهروندان<br><br>ارسال امن گزارش‌ شما:<br><a href=\"https://t.me/intlmedia_bot\" target=\"_blank\">@intlmedia_bot</a><br>وب‌سایت ما:<br><a href=\"http://iranintl.com/\" target=\"_blank\" rel=\"noopener\">iranintl.com</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/W-f7vGlMbqrBWGMx_R5F7BEDWX9RmFA-R_rP6ZVsyqYdibwe7FHxvL4F_Mwrat4IIT0DHLH9fWd60Ub69qNUnBp1U2cwr0eWtivZtbwovqqmBbkV1t7vzahpTIC8QzxTkhPcbPCaiCEGKjE3aFwjkOFDKNRcCFPBJ_vDLMLlf_QQJ0-HRYWU5Q3otjTFUEeXCB_UIx9QsD1hmzKIK0djluHJSKyMQnqaEDNYyTVw_FKO_DBz5fYhDv1dk7j3g13Jav7ib9P1O2bDVUmTL_EFUJq0TzF-Is_f0UpLnBsVeDy4Y-UFeoKvuLYLkVPn32Z1bdqlOXTKWuo5_sT891FObA.jpg",
-    "photo_path": "channels/iranintltv/media/f7b78e29749f37d94c77496d.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+    "photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
     "subscriber_count": "1.32M"
   },
   "posts": [
+    {
+      "id": "IranintlTV/337912",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "رسانه‌های ایران از شنیده شدن صدای انفجار در قشم در ظهر روز سه‌شنبه خبر دادند. خبرگزاری مهر گزارش داد که هنوز هیچ‌یک از نهادهای رسمی درباره علت وقوع این صداها اظهارنظر نکرده‌اند.<br><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "رسانه‌های ایران از شنیده شدن صدای انفجار در قشم در ظهر روز سه‌شنبه خبر دادند. خبرگزاری مهر گزارش داد که هنوز هیچ‌یک از نهادهای رسمی درباره علت وقوع این صداها اظهارنظر نکرده‌اند. @iranintltv",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337912",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/QHjnSsMemT6B2-7h2glfnFNhLc1Ko3cwmDHzn30m9ruSmRA2ur39N37rL3mJCpiUSk30WsuTutue_SL5LjDCzFhndpEWTHBp1PGfrZ0ZXiODBOrM6gr0FJe4lSpcEq-qDV6rli8EhOOmwIo8BhWthY5NG8PXew-YOTJVFPgrBC_qHTi0izcrlfWT4kK9ozABgIczzMUrPeiVGJBKgUOmqfGp1LxQUhBZtwClHHrVxP8Cj6rAzUPXuy48-NRtk0y3TX19jZGxkreyFnBEnL-mZ99qGaAcI2KtuI94jp_kErzhSTaA1EcFyAdGEpyzgaRL-NAh-sCcqGWvzNmgjfONFg.jpg",
+          "thumbnail_path": "channels/iranintltv/media/f754ed7b04f0390e5eccb894.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.14K",
+      "posted_at": "2026-05-19T10:47:21+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337912"
+    },
+    {
+      "id": "IranintlTV/337911",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "سرخط خبرهای سه‌شنبه ۲۹ اردیبهشت<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "سرخط خبرهای سه‌شنبه ۲۹ اردیبهشت @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337911",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/p2D0Rg6MBVqsHRNfr39eqw-zDPLsm4MvZq31HWevfacFxaC4I9VxyrShh6xNAJKqO6ifC57BPyy8uSYVQAG1T9uJfPdw42AZ9pa4dLsovzDzemodLc3tpqr1k05SHr1PJsG5L5f8uEoTDOGMlPSUQafSWHi2xPZ4gAOLF6EQLmV7lUtnD59d-m-By82QZumAb9URzpqUqhg-oTuGS0sB91Rj9Lt0odByVJZKVtLVm94CBR94k64i5FlW7RNEAizNlAzpa9LkInDiuE_0Vc3-yliINIf5SF3_bEYtVCbIWCo3JNy8FeLxZtW2gCH9zh5so338xVQvWA3T0iifFFpWvA",
+          "thumbnail_path": "channels/iranintltv/media/923f12d8215aa36eb1e4ce4e.jpg",
+          "duration_label": "1:24",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "6.51K",
+      "posted_at": "2026-05-19T10:37:59+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337911"
+    },
+    {
+      "id": "IranintlTV/337910",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "الی کوهن، وزیر انرژی و عضو کابینه سیاسی-امنیتی اسرائیل، گفت: «رهبر جمهوری اسلامی پنهان شده و تحت فشار است. محاصره هرمز اقتصاد ایران را به سمت فروپاشی می‌برد و اگر تهران برنامه هسته‌ای را از سر بگیرد، اسرائیل حمله خواهد کرد.»<br><br>او افزود: «اسرائیل اجازه نخواهد داد جمهوری اسلامی به سلاح هسته‌ای نزدیک شود و برای حفظ برتری نظامی خود بیش از ۱۰۰ میلیارد دلار سرمایه‌گذاری خواهد کرد.»<br><a href=\"https://iranintl.com/202605196327\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605196327</a>",
+      "plain_text": "الی کوهن، وزیر انرژی و عضو کابینه سیاسی-امنیتی اسرائیل، گفت: «رهبر جمهوری اسلامی پنهان شده و تحت فشار است. محاصره هرمز اقتصاد ایران را به سمت فروپاشی می‌برد و اگر تهران برنامه هسته‌ای را از سر بگیرد، اسرائیل حمله خواهد کرد.» او افزود: «اسرائیل اجازه نخواهد داد جمهوری اسلامی به سلاح هسته‌ای نزدیک شود و برای حفظ برتری نظامی خود بیش از ۱۰۰ میلیارد دلار سرمایه‌گذاری خواهد کرد.» https://iranintl.com/202605196327",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337910",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/KijH-leSbiJTX-ORxn3-q7R26lg0Vw3NRQcEHQSsvUTsud5Xmu6jTwAGyv9r7C3KCdON4nU9Dzsi3FikMR4NHFVaXpvHMmfo0Z1-RKA8iShl7ogIWCHOJtmyZ80ncpysLQhN6TtFxXQyIvUQdNM0lWwr4RMC7-GSIRUA5ljfPA_miiu0MR2rogDkp3UmjEE4JaiA-DAfNbLf2U_n6VhY0Pm8DJnwxnLa8vGfxJac_sUWfhxqZUV9idsk_eTztvU0NI0smIVPh8rBSCs-z4J0KIBxAd4T43qW2loqCKWWMz8sl8vIymSA4v32_FJQivCTxKIM8mw3t18uhL4i-vpA6Q.jpg",
+          "thumbnail_path": "channels/iranintltv/media/4ff4d1c563549350dc03f5a3.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "10.9K",
+      "posted_at": "2026-05-19T10:28:14+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337910"
+    },
+    {
+      "id": "IranintlTV/337909",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i>روزنامه نیویورک‌پست گزارش داد قیمت بلیت‌های جام جهانی ۲۰۲۶ به‌طور قابل توجهی کاهش یافته است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>بر اساس این گزارش، برگزارکنندگان جام جهانی در ایالات متحده، کانادا و مکزیک با استقبال کمتر از انتظار هواداران روبه‌رو شده‌اند و همین مسئله باعث افت قیمت بلیت‌ها شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>نیویورک‌پست نوشت برخی بلیت‌ها که پیش‌تر با قیمت‌های بسیار بالا عرضه شده بودند، اکنون با کاهش چشمگیر قیمت فروخته می‌شوند. نگرانی درباره هزینه بالای سفر، اقامت و حمل‌ونقل در شهرهای میزبان از جمله دلایل کاهش تقاضا عنوان شده است.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>این گزارش همچنین به نگرانی مقام‌های فیفا درباره تصاویر ورزشگاه‌های نیمه‌خالی اشاره کرده و نوشته است برگزارکنندگان در تلاش‌اند با کاهش قیمت‌ها و طرح‌های تشویقی، فروش بلیت‌ها را افزایش دهند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>جام جهانی ۲۰۲۶ برای نخستین‌بار با حضور ۴۸ تیم برگزار خواهد شد و گستردگی جغرافیایی مسابقات، چالش‌های تازه‌ای برای هواداران ایجاد کرده است.<br><br><a href=\"https://t.me/iranintltvsport\" target=\"_blank\">@iranintltvsport</a>",
+      "plain_text": "🔻روزنامه نیویورک‌پست گزارش داد قیمت بلیت‌های جام جهانی ۲۰۲۶ به‌طور قابل توجهی کاهش یافته است. 🔹بر اساس این گزارش، برگزارکنندگان جام جهانی در ایالات متحده، کانادا و مکزیک با استقبال کمتر از انتظار هواداران روبه‌رو شده‌اند و همین مسئله باعث افت قیمت بلیت‌ها شده است. 🔹نیویورک‌پست نوشت برخی بلیت‌ها که پیش‌تر با قیمت‌های بسیار بالا عرضه شده بودند، اکنون با کاهش چشمگیر قیمت فروخته می‌شوند. نگرانی درباره هزینه بالای سفر، اقامت و حمل‌ونقل در شهرهای میزبان از جمله دلایل کاهش تقاضا عنوان شده است. 🔹این گزارش همچنین به نگرانی مقام‌های فیفا درباره تصاویر ورزشگاه‌های نیمه‌خالی اشاره کرده و نوشته است برگزارکنندگان در تلاش‌اند با کاهش قیمت‌ها و طرح‌های تشویقی، فروش بلیت‌ها را افزایش دهند. 🔹جام جهانی ۲۰۲۶ برای نخستین‌بار با حضور ۴۸ تیم برگزار خواهد شد و گستردگی جغرافیایی مسابقات، چالش‌های تازه‌ای برای هواداران ایجاد کرده است. @iranintltvsport",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337909",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/PGWa7Wk4ZMJwOzsHfWAmjKCKVtNFR1NCBI6NQoPygHJDAd4B_mVNW76gudCOw7QFjQioJNsTyhx7ze5lbduaiZ6va42jlnJydtlHy04BnhXH7nBI0TuC9R_fEfnQGyYq77X7k_D1SCqkQA2lKlN5048QaQk-gccP0eWeJmGU5Qa4YvxOiisXol1QG4at9Gy5MHgSiw5pe0jKNQkg5aJR8ueAlSNoU5YDrfZH0aM018xrjcgxB32IItFOQnlD7LWnJvRIIaLYiQFbYL1c3XyK0w3kDR-gwzuj8kxMGGj5U3syjwavPHDj84eQMryy3ANLedSY1cL5cSa0gZyHDOa6Gg.jpg",
+          "thumbnail_path": "channels/iranintltv/media/7a3ab8cb212183c0702fe8c3.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "10.9K",
+      "posted_at": "2026-05-19T10:25:50+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337909"
+    },
+    {
+      "id": "IranintlTV/337908",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "مهدی پیرصالحی، رییس سازمان غذا و دارو، هشدار داد افزایش قیمت دارو می‌تواند باعث نارضایتی عمومی شود و به همین دلیل بیمه‌ها باید پوشش بیشتری برای بیماران فراهم کنند.<br><br>گفت‌وگو با منصوره حسینی‌یگانه، عضو تحریریه ایران‌اینترنشنال<br><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "مهدی پیرصالحی، رییس سازمان غذا و دارو، هشدار داد افزایش قیمت دارو می‌تواند باعث نارضایتی عمومی شود و به همین دلیل بیمه‌ها باید پوشش بیشتری برای بیماران فراهم کنند. گفت‌وگو با منصوره حسینی‌یگانه، عضو تحریریه ایران‌اینترنشنال @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337908",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/SX4D1p0w_f0dJrY03Oo2EbdpZnfnki558WF6txRCAa3ZoNDe-6OrpJ2oSiBkBtoitQesXhVaoagUbn3xsCIWEMhnRVLvmNxJecLTNp1dds7YsTO-lX9mmkdP0ZS5nVoF47KU5MCDQz8SnKJF4tkCz4RutMPH_-07eUz_JdfNDP-vQFMz-V8JxdZS0tTJPCY8AaVgw-y9-ALnOXrpyC4vv81SLWvJy9hgYPIxEbWQH-uT59CgQk4mTF-MtX0A5Tbd4E212lbepc8XKmcnP_Vz6Pg3UTbceqKWWL_57dHUalkHaK5qyaXhF3AhmZA0dZH6-Z7OL5cIc9UvBQellSPC0Q",
+          "thumbnail_path": "channels/iranintltv/media/64f7dc05807d72c59beaec62.jpg",
+          "duration_label": "4:21",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "13.1K",
+      "posted_at": "2026-05-19T10:16:42+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337908"
+    },
+    {
+      "id": "IranintlTV/337907",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "یکی از اعضای شورای شهر زنجان هنگام تحصن کارگران برای درخواست افزایش حقوق، با خودروی دولتی از روی پای یک پارکبان معترض عبور کرد.<br><br>گفت‌وگو با آیه دریس، عضو تحریریه ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "یکی از اعضای شورای شهر زنجان هنگام تحصن کارگران برای درخواست افزایش حقوق، با خودروی دولتی از روی پای یک پارکبان معترض عبور کرد. گفت‌وگو با آیه دریس، عضو تحریریه ایران‌اینترنشنال @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337907",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/oZA-2krJE8SQmPA_rFr2WHq3HG4r48fpIOU3EMSxOMwUziSnqdF4lYHW68UqAp9_w3XIs9uu40ESOHs7ghlr2wvLblzgfPUZhFNIiW2VdqtccfWnemYQz9GZByEac1PAMqjDH45Imz3D01iICHN9D39NMkytNpoBpV5ZD55yMk3a8kv0d2zrSrVS2FZeISCZ2XW-2XRiXV7Lugwf_xCJxPq3932e2x0F4hyti9_arm3ffm2vi1X2u4yz5VdhiiKGhCR-FyothUmU1iKEoZTu3p9h1TmTeZERrbAJqQrhUWXCj_gVcGLGIKzggWIOdHXrGQHIZIUgzE03i-BjTfFMZw",
+          "thumbnail_path": "channels/iranintltv/media/82956e799e9b608d38a6dc3b.jpg",
+          "duration_label": "4:07",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "13.1K",
+      "posted_at": "2026-05-19T10:16:18+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337907"
+    },
+    {
+      "id": "IranintlTV/337906",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "در ادامه لفاظی‌های تهدیدآمیز مقام‌های حکومت، محمد اکرمی‌نیا، سخنگوی ارتش جمهوری اسلامی، گفت در صورت حمله مجدد دشمن، «با ابزارها و شیوه‌های جدید، جبهه‌های جدیدی را علیه آنها خواهیم گشود».<br><br>او اضافه کرد: «جمهوری اسلامی محاصره‌پذیر و قابل شکست نیست.»<br><a href=\"https://iranintl.com/202605192299\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605192299</a>",
+      "plain_text": "در ادامه لفاظی‌های تهدیدآمیز مقام‌های حکومت، محمد اکرمی‌نیا، سخنگوی ارتش جمهوری اسلامی، گفت در صورت حمله مجدد دشمن، «با ابزارها و شیوه‌های جدید، جبهه‌های جدیدی را علیه آنها خواهیم گشود». او اضافه کرد: «جمهوری اسلامی محاصره‌پذیر و قابل شکست نیست.» https://iranintl.com/202605192299",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337906",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qHzPJSMvG-IJBImROu6F6d74ZsU60oLrQETcQePh9GzWbDph_o9HiNVP4YwQ3iNZcq0M-cDMQ9o7vr5k4frvyEKkVM-NrglXyiKrYYX_IY5SctNUe-1W6gCZwGB6mvVJYqEt91GsukqlYfyKtrA-Qp6UCARqwuKI5-19mToaV14XoTYAajm9wR5TjFGVXCQAGEpqEtBm6F2Se-9QN46BA3kQEmx6PYfIxGNk6PORyNThrkS6HmrJfVcnXF9DTtAMmTpL5aAMH-b-6ORg_iLZ6dmRi4Zf5uT6_9qY1Pgw0M2gHKr7D6cNTdj3VpbQjuikXyR0u3r_EDXAdyFEiQqtfQ.jpg",
+          "thumbnail_path": "channels/iranintltv/media/eaec77519924c8a669a602c4.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "12.1K",
+      "posted_at": "2026-05-19T10:15:52+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337906"
+    },
+    {
+      "id": "IranintlTV/337905",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "شرکت آلکاتل اعلام کرد تعمیر کابل‌های اینترنت زیردریایی در خلیج فارس را به‌دلیل ناامنی و تهدیدهای سپاه پاسداران متوقف کرده‌ است. این شرکت تاکید کرد سپاه از اپراتورهای خارجی خواسته برای نگه‌داری این زیرساخت‌ها به جمهوری اسلامی هزینه حفاظت بپردازند.<br>گفت‌وگو با علی‌حسین قاضی‌زاده، عضو تحریریه ایران‌اینترنشال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "شرکت آلکاتل اعلام کرد تعمیر کابل‌های اینترنت زیردریایی در خلیج فارس را به‌دلیل ناامنی و تهدیدهای سپاه پاسداران متوقف کرده‌ است. این شرکت تاکید کرد سپاه از اپراتورهای خارجی خواسته برای نگه‌داری این زیرساخت‌ها به جمهوری اسلامی هزینه حفاظت بپردازند. گفت‌وگو با علی‌حسین قاضی‌زاده، عضو تحریریه ایران‌اینترنشال @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337905",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/GshNLnkql-up5evtALX7KLAOJ2BT4yB6IL6SUUf7TiFukM--4SCBTQs9yvjKgC_ueEgDuPc8zu_fae3Xh1sJbrKTOW9A4CXk9bHIYoAXGsZCAkjFPeIFzGIFBY3stvatUpbOIA5nzgxkXzbfFjJoAYazBJaSKV7G6YX2PzA6JpEsLG9jFINCJ1gE28W5DhrOgqlOA2hsHbXe5Q_UBeDPYa5QxO4Z7IXblLAER7koihY-ROqmH0g2G436SGVdL0PYyBuZK3aRnfJzhf-cZ-gXQAOkKmf2Gc-kMBduVFTKmOEPLVHyRKHrlYpCzpnBibAba_kDdfq49RcHZUzgM9REzg",
+          "thumbnail_path": "channels/iranintltv/media/a58c41f1a3f505c86b4ee1fc.jpg",
+          "duration_label": "4:50",
+          "aspect_ratio": 1.7777777777777777
+        }
+      ],
+      "reactions": [],
+      "views_label": "12K",
+      "posted_at": "2026-05-19T10:14:38+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337905"
+    },
+    {
+      "id": "IranintlTV/337904",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "ویدیوی ارسال‌شده به ایران‌اینترنشنال، شعارنویسی در حمایت از شاهزاده رضا پهلوی را روی یکی از دیوارهای شهر کیش نشان می‌دهد.",
+      "plain_text": "ویدیوی ارسال‌شده به ایران‌اینترنشنال، شعارنویسی در حمایت از شاهزاده رضا پهلوی را روی یکی از دیوارهای شهر کیش نشان می‌دهد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337904",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/pbg9TsMKjfIXjoUWtVpURjHf48OcpVySQVU_RN3qfBcRbfdAfiZlrE26-XSbyLfNuxmWUNxRVXKBu2Ts03d2b6K4msmcdjh_ot5M9zp2BsbZDhWcwsfqT2WuC_WI8bfE9L1bPr8yMo1o8nmOqug4RSGtpLqtbwAwDcQnUJUAAGy27MaBaTQKmvQ6kp1qjcT2gVDranwS3GuYK0tybLozyhZhPC6m0hYP_Wxu26npDpMr0zMdE89J_CvWqf2iPpLM0vu5toZ4rYGAreJVd6DkOPpBoOM63ZpYB4ANjEOLIdMWAZbgvwkFpq6YjCa2WKCLBXK0xXLO_gRyxbgomCJQjA",
+          "thumbnail_path": "channels/iranintltv/media/e9f17b3b8bef604334b2c4ae.jpg",
+          "duration_label": "0:07",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "16.4K",
+      "posted_at": "2026-05-19T10:01:48+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337904"
+    },
+    {
+      "id": "IranintlTV/337903",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "شرکت آلکاتل اعلام کرده تعمیر کابل‌های اینترنت زیردریایی در خلیج فارس را به‌دلیل شرایط ناامن و تهدیدهای منتسب به سپاه پاسداران متوقف کرده است. این تصمیم در حالی گرفته شده که موضوع تامین امنیت و هزینه حفاظت از زیرساخت‌های ارتباطی همچنان محل اختلاف با اپراتورهای خارجی است و نگرانی‌ها درباره اختلال در شبکه‌های اینترنتی و مالی در صورت آسیب به کابل‌ها افزایش یافته است.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "شرکت آلکاتل اعلام کرده تعمیر کابل‌های اینترنت زیردریایی در خلیج فارس را به‌دلیل شرایط ناامن و تهدیدهای منتسب به سپاه پاسداران متوقف کرده است. این تصمیم در حالی گرفته شده که موضوع تامین امنیت و هزینه حفاظت از زیرساخت‌های ارتباطی همچنان محل اختلاف با اپراتورهای خارجی است و نگرانی‌ها درباره اختلال در شبکه‌های اینترنتی و مالی در صورت آسیب به کابل‌ها افزایش یافته است. @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337903",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/JlrP4rg_IjV2XE2BeEKr9QMjbpdUriBtNIsoh28i7HgnfP33qNxYGjTXCCgJSzpNSqzCS9W6sqAIxM20PcTxmTJk40nPxNlcLK_W78Qe7hnQfzf8sNn0nVmmZg5jjizl70b-L_XeJlLmdk3GnVDXoUUhXrBASSwQRdCHHG4wVHm7oxfaXsizLkRazFf0GYK3Bzi5wB0F6x12RMuRsJ0NOF64ROWEf-Hv-UZXxI5cOp5d36oHEWwN8iU_lTbAVUFZSBxb8x17hpO7c-njD9pGVvX_ZzlYzCrVpRPBFZcA-kyStbamjyWiBPrrsaBsnOl0m5NDX0tyactN-LMSGV_PzQ",
+          "thumbnail_path": "channels/iranintltv/media/2fd1fecda83fabdcf6a76447.jpg",
+          "duration_label": "3:02",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "16.4K",
+      "posted_at": "2026-05-19T10:01:09+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337903"
+    },
+    {
+      "id": "IranintlTV/337902",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "روزنامه اسرائیل هیوم در گزارشی تحلیلی نوشت احتمال ازسرگیری جنگ میان جمهوری اسلامی و آمریکا بالاست. هم‌زمان، دونالد ترامپ، رییس‌جهوری آمریکا، در گفت‌وگو با نیویورک پست گفت پس از دریافت پاسخ اخیر تهران درباره مذاکرات، تمایلی به دادن امتیاز بیشتر به جمهوری اسلامی ندارد.<br>جزییات بیشتر با اشکان صفایی، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "روزنامه اسرائیل هیوم در گزارشی تحلیلی نوشت احتمال ازسرگیری جنگ میان جمهوری اسلامی و آمریکا بالاست. هم‌زمان، دونالد ترامپ، رییس‌جهوری آمریکا، در گفت‌وگو با نیویورک پست گفت پس از دریافت پاسخ اخیر تهران درباره مذاکرات، تمایلی به دادن امتیاز بیشتر به جمهوری اسلامی ندارد. جزییات بیشتر با اشکان صفایی، خبرنگار ایران‌اینترنشنال @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337902",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/TKhYrK3GGu7y9lPV_JyZZzZslUk7yyTgmAF-U_pxmBqzEHbo0JAHelSjojc6UfqPTH7OY2pfv9b0io9dGQJeDxn6IJfQNDfY_cpTECHSXopjaC6urcpH9eOUgZf-QsvjfAcvMx_32Qx7ysGF_IBaU2vlSMvlqRVXvscHZl1ESdjCNQFdgbMh4w85ehBpplFMiQEJkqxESmPy4ABaxB9GPgfIMVTCoqEUtH795aJi7ZyGB4CRyWOsfHnh801S3kkPnCSb5dftHyX4n4bYNRPO2b5CdEpR91E2yJ55PSJCCVdK10oBzR86M7XBLKps7QffanMj2WEUCeWlEYozagdQyg",
+          "thumbnail_path": "channels/iranintltv/media/0b49a49dc791fd400579fe8d.jpg",
+          "duration_label": "4:09",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "19.6K",
+      "posted_at": "2026-05-19T09:52:00+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337902"
+    },
+    {
+      "id": "IranintlTV/337901",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "مستند «تمرین‌هایی برای یک انقلاب» ساخته پگاه آهنگرانی، برنده جایزه ویژه هیات داوران مستند گلدن گلوبز شد. این مستند با استفاده از تصاویر آرشیوی، روایت وقایع پس از انقلاب ۵۷ تا امروز را با زندگی شخصی فیلمساز پیوند می‌دهد.<br>لی‌لی نیکفر، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "مستند «تمرین‌هایی برای یک انقلاب» ساخته پگاه آهنگرانی، برنده جایزه ویژه هیات داوران مستند گلدن گلوبز شد. این مستند با استفاده از تصاویر آرشیوی، روایت وقایع پس از انقلاب ۵۷ تا امروز را با زندگی شخصی فیلمساز پیوند می‌دهد. لی‌لی نیکفر، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337901",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Ksj-tejex2y6135g5cWDtv3l_TxN3f40U12RNMEtuA7g_vvxYx4jbV-Gc8u3LGzc2r1_OIMnv6Cvm26kjrxNZowP5ajOY7np-yABpiMIZXGOV1soKyOyTBI7SEjcRFUtfr1m-zGqXzZVJYC-UUyzgEs66p4xjXH6RRMn0rq05jJUaqX6O0JKcgZCo_edgoeR-7byGUAy4qVawx3XBLyHEp-YCvIgm-yBVchTGOAny2NhVlcogBcvdeb08IJQzLacoRlekRxr0xRNIEB3PbT7p1ZWtxhfe4D9dLGgu0JVesGXi_uWW3vO30SdsV95hyG01nNYEFJoE8GTO_dUjCJ0IQ",
+          "thumbnail_path": "channels/iranintltv/media/dc2a54d65540f8e9dc773255.jpg",
+          "duration_label": "4:32",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "25K",
+      "posted_at": "2026-05-19T09:30:21+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337901"
+    },
+    {
+      "id": "IranintlTV/337900",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i><b>نیویورک‌تایمز: جمهوری اسلامی از فرصت آتش‌بس برای احیای توان موشکی خود استفاده کرد</b><br><br>نیویورک‌تایمز گزارش داد جمهوری اسلامی در دوره آتش‌بس شکننده میان تهران و واشینگتن، بازسازی بخشی از توان موشکی خود را آغاز کرده و هم‌زمان برای احتمال ازسرگیری درگیری‌ها آماده می‌شود.<br><br>بر اساس این گزارش، جمهوری اسلامی از این فرصت برای بازگشایی ده‌ها محل استقرار موشک‌های بالستیک که در جریان حملات هدف قرار گرفته بودند، استفاده کرده است.<br><br>جابه‌جایی پرتابگرهای متحرک موشکی و تطبیق تاکتیک‌های نظامی برای دور تازه احتمالی جنگ نیز از دیگر اقدام‌های تهران عنوان شده است.<br><br>یک مقام نظامی آمریکا به نیویورک‌تایمز گفت بسیاری از موشک‌های بالستیک جمهوری اسلامی در تاسیسات زیرزمینی عمیق در دل کوه‌های گرانیتی نگهداری می‌شدند و آمریکا در حملات خود عمدتا ورودی این مراکز را هدف قرار داده بود.<br><br>به گفته او، فروریختن دهانه این تاسیسات باعث مدفون شدن آن‌ها شد، اما ساختار اصلی سایت‌ها از بین نرفت و اکنون حکومت ایران بخش قابل توجهی از این مراکز را دوباره بازگشایی کرده است.<br><br>این مقام آمریکایی افزود تهران همچنین بسیاری از تسلیحات باقی‌مانده خود را جابه‌جا کرده و در میان مقام‌های جمهوری اسلامی این باور تقویت شده که می‌توانند در برابر آمریکا مقاومت کنند؛ چه از طریق بستن موثر تنگه هرمز، چه با حمله به زیرساخت‌های انرژی کشورهای خلیج فارس و چه با تهدید هواپیماهای آمریکایی.<br><br><b>جمهوری اسلامی در انتظار جنگی کوتاه اما شدید</b><br><br>نیویورک‌تایمز نوشت با وجود&nbsp;<a href=\"https://www.iranintl.com/202605185439\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">ادامه مذاکرات</a>، مقام‌های جمهوری اسلامی خود را برای احتمال ازسرگیری حملات آماده کرده‌اند و هشدار داده‌اند در صورت وقوع جنگ تازه، هزینه سنگینی به همسایگان و اقتصاد جهانی تحمیل خواهند کرد.<br><br>حمیدرضا عزیزی، پژوهشگر مسائل امنیتی ایران در موسسه آلمانی امور بین‌الملل و امنیت، به این روزنامه گفت مقام‌های جمهوری اسلامی در دور نخست جنگ، خود را برای یک درگیری طولانی‌مدت حدود سه ماهه آماده کرده بودند و به همین دلیل استفاده از موشک‌ها را محدود کردند تا بتوانند هفته‌ها حملات را ادامه دهند.<br><br>اما به گفته او، اگر جنگ دوباره آغاز شود، رهبران جمهوری اسلامی انتظار یک نبرد «کوتاه اما بسیار شدید» را دارند؛ جنگی که می‌تواند با حملات هماهنگ به زیرساخت‌های انرژی ایران همراه باشد.<br><br>به نوشته نیویورک‌تایمز، جمهوری اسلامی ممکن است در دور تازه درگیری‌ها روزانه ده‌ها یا حتی صدها موشک شلیک کند تا «محاسبات طرف مقابل را تغییر دهد».<br><br><b>تهدید خلیج فارس و باب‌المندب</b><br><br>این گزارش افزود که کشورهای عربی خلیج فارس در صورت آغاز دوباره جنگ، ممکن است با حملات شدیدتر به زیرساخت‌های انرژی خود روبه‌رو شوند. هدف قرار دادن میادین نفتی، پالایشگاه‌ها و بنادر نفتی، یکی از مهم‌ترین ابزارهای تهران برای وارد آوردن فشار بر اقتصاد جهانی توصیف شده است.<br><br>نیویورک‌تایمز همچنین به افزایش تهدیدهای لفظی علیه امارات متحده عربی اشاره کرد و نوشت برخی مقام‌ها و تحلیلگران نزدیک به جمهوری اسلامی معتقدند امارات با میزبانی پایگاه‌های نظامی آمریکا، در حملات علیه حکومت ایران نقش داشته است.<br><br>مهدی خراطیان، تحلیلگر نزدیک به نهادهای امنیتی جمهوری اسلامی، ماه گذشته گفته بود: «ما حتما باید امارات را به دوران شترسواری برگردانیم و می‌توانیم این کار را بکنیم. اگر لازم باشد، ابوظبی را اشغال خواهیم کرد.»<br><br>این روزنامه همچنین نوشت جمهوری اسلامی ممکن است علاوه بر تنگه هرمز، بر تنگه باب‌المندب نیز فشار وارد کند. آبراهی راهبردی میان دریای سرخ و خلیج عدن که حدود یک‌دهم تجارت جهانی از آن عبور می‌کند و در نزدیکی مناطق تحت کنترل حوثی‌های مورد حمایت جمهوری اسلامی قرار دارد.<br><br>به نوشته نیویورک‌تایمز، اگر تهران احساس کند کنترلش بر تنگه هرمز در خطر است، ممکن است تلاش کند آمریکا را هم‌زمان در دو جبهه دریایی درگیر کند.<br><br>این گزارش در پایان افزود اگرچه حوثی‌ها وعده داده‌اند در صورت وقوع جنگ منطقه‌ای از تهران حمایت کنند، اما در دور قبلی درگیری‌ها واکنش محتاطانه‌ای نشان دادند. موضوعی که تحلیلگران آن را ناشی از نگرانی این گروه درباره کاهش ذخایر نظامی‌اش می‌دانند.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://www.iranintl.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">وب‌سایت ایران اینترنشنال</a><br><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "🔻نیویورک‌تایمز: جمهوری اسلامی از فرصت آتش‌بس برای احیای توان موشکی خود استفاده کرد نیویورک‌تایمز گزارش داد جمهوری اسلامی در دوره آتش‌بس شکننده میان تهران و واشینگتن، بازسازی بخشی از توان موشکی خود را آغاز کرده و هم‌زمان برای احتمال ازسرگیری درگیری‌ها آماده می‌شود. بر اساس این گزارش، جمهوری اسلامی از این فرصت برای بازگشایی ده‌ها محل استقرار موشک‌های بالستیک که در جریان حملات هدف قرار گرفته بودند، استفاده کرده است. جابه‌جایی پرتابگرهای متحرک موشکی و تطبیق تاکتیک‌های نظامی برای دور تازه احتمالی جنگ نیز از دیگر اقدام‌های تهران عنوان شده است. یک مقام نظامی آمریکا به نیویورک‌تایمز گفت بسیاری از موشک‌های بالستیک جمهوری اسلامی در تاسیسات زیرزمینی عمیق در دل کوه‌های گرانیتی نگهداری می‌شدند و آمریکا در حملات خود عمدتا ورودی این مراکز را هدف قرار داده بود. به گفته او، فروریختن دهانه این تاسیسات باعث مدفون شدن آن‌ها شد، اما ساختار اصلی سایت‌ها از بین نرفت و اکنون حکومت ایران بخش قابل توجهی از این مراکز را دوباره بازگشایی کرده است. این مقام آمریکایی افزود تهران همچنین بسیاری از تسلیحات باقی‌مانده خود را جابه‌جا کرده و در میان مقام‌های جمهوری اسلامی این باور تقویت شده که می‌توانند در برابر آمریکا مقاومت کنند؛ چه از طریق بستن موثر تنگه هرمز، چه با حمله به زیرساخت‌های انرژی کشورهای خلیج فارس و چه با تهدید هواپیماهای آمریکایی. جمهوری اسلامی در انتظار جنگی کوتاه اما شدید نیویورک‌تایمز نوشت با وجود ادامه مذاکرات، مقام‌های جمهوری اسلامی خود را برای احتمال ازسرگیری حملات آماده کرده‌اند و هشدار داده‌اند در صورت وقوع جنگ تازه، هزینه سنگینی به همسایگان و اقتصاد جهانی تحمیل خواهند کرد. حمیدرضا عزیزی، پژوهشگر مسائل امنیتی ایران در موسسه آلمانی امور بین‌الملل و امنیت، به این روزنامه گفت مقام‌های جمهوری اسلامی در دور نخست جنگ، خود را برای یک درگیری طولانی‌مدت حدود سه ماهه آماده کرده بودند و به همین دلیل استفاده از موشک‌ها را محدود کردند تا بتوانند هفته‌ها حملات را ادامه دهند. اما به گفته او، اگر جنگ دوباره آغاز شود، رهبران جمهوری اسلامی انتظار یک نبرد «کوتاه اما بسیار شدید» را دارند؛ جنگی که می‌تواند با حملات هماهنگ به زیرساخت‌های انرژی ایران همراه باشد. به نوشته نیویورک‌تایمز، جمهوری اسلامی ممکن است در دور تازه درگیری‌ها روزانه ده‌ها یا حتی صدها موشک شلیک کند تا «محاسبات طرف مقابل را تغییر دهد». تهدید خلیج فارس و باب‌المندب این گزارش افزود که کشورهای عربی خلیج فارس در صورت آغاز دوباره جنگ، ممکن است با حملات شدیدتر به زیرساخت‌های انرژی خود روبه‌رو شوند. هدف قرار دادن میادین نفتی، پالایشگاه‌ها و بنادر نفتی، یکی از مهم‌ترین ابزارهای تهران برای وارد آوردن فشار بر اقتصاد جهانی توصیف شده است. نیویورک‌تایمز همچنین به افزایش تهدیدهای لفظی علیه امارات متحده عربی اشاره کرد و نوشت برخی مقام‌ها و تحلیلگران نزدیک به جمهوری اسلامی معتقدند امارات با میزبانی پایگاه‌های نظامی آمریکا، در حملات علیه حکومت ایران نقش داشته است. مهدی خراطیان، تحلیلگر نزدیک به نهادهای امنیتی جمهوری اسلامی، ماه گذشته گفته بود: «ما حتما باید امارات را به دوران شترسواری برگردانیم و می‌توانیم این کار را بکنیم. اگر لازم باشد، ابوظبی را اشغال خواهیم کرد.» این روزنامه همچنین نوشت جمهوری اسلامی ممکن است علاوه بر تنگه هرمز، بر تنگه باب‌المندب نیز فشار وارد کند. آبراهی راهبردی میان دریای سرخ و خلیج عدن که حدود یک‌دهم تجارت جهانی از آن عبور می‌کند و در نزدیکی مناطق تحت کنترل حوثی‌های مورد حمایت جمهوری اسلامی قرار دارد. به نوشته نیویورک‌تایمز، اگر تهران احساس کند کنترلش بر تنگه هرمز در خطر است، ممکن است تلاش کند آمریکا را هم‌زمان در دو جبهه دریایی درگیر کند. این گزارش در پایان افزود اگرچه حوثی‌ها وعده داده‌اند در صورت وقوع جنگ منطقه‌ای از تهران حمایت کنند، اما در دور قبلی درگیری‌ها واکنش محتاطانه‌ای نشان دادند. موضوعی که تحلیلگران آن را ناشی از نگرانی این گروه درباره کاهش ذخایر نظامی‌اش می‌دانند. 🔗 وب‌سایت ایران اینترنشنال @iranintltv",
+      "media": [],
+      "reactions": [],
+      "views_label": "23K",
+      "posted_at": "2026-05-19T09:29:52+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337900"
+    },
+    {
+      "id": "IranintlTV/337899",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "رسانه‌های ایران گزارش دادند حمید خانی، عضو پیشین سپاه پاسداران، در جریان ماموریت خنثی‌سازی بمب‌های عمل‌نکرده ناشی از حملات مشترک اسرائیل و آمریکا در تهران کشته شده است. بر اساس این گزارش‌ها، او به صورت داوطلبانه در بخش مهندسی قرارگاه خاتم‌الانبیا فعالیت می‌کرده است.<br><br>جزئیات بیشتری درباره زمان دقیق حادثه و نحوه وقوع آن منتشر نشده است.<br><a href=\"https://iranintl.com/202605198404\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605198404</a>",
+      "plain_text": "رسانه‌های ایران گزارش دادند حمید خانی، عضو پیشین سپاه پاسداران، در جریان ماموریت خنثی‌سازی بمب‌های عمل‌نکرده ناشی از حملات مشترک اسرائیل و آمریکا در تهران کشته شده است. بر اساس این گزارش‌ها، او به صورت داوطلبانه در بخش مهندسی قرارگاه خاتم‌الانبیا فعالیت می‌کرده است. جزئیات بیشتری درباره زمان دقیق حادثه و نحوه وقوع آن منتشر نشده است. https://iranintl.com/202605198404",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/IranintlTV/337899",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/JKzP_buZEDSRwqpEINhekl11Zd1bwdPJKYjcHIBpXaoMhPvcH1zniJQybeXw6ekM9NsmIZQFGIsYRo2hAC2b8ujZNCj3vKgKMYecBnF9OQJRWvja9ZgVL8dyLcdGFYb-dk30yaQUjqOSNDRi3TlGF77rs_L7qYKOoZSUiJPuUcCkYNZfbIv_-9jovv622O-9zKFYIhfVsMKE8SWR8puRbRinP-KGP9bPAo-IiCfVDrjEwWJcfLVVeIo9DGbpqThXkaW9B8wuJujnJx1BYukU7-kyF1_pNqDfUr8YqBiBiFVLnx3lhCHK0j98rS_sBADdlu18h456fqbRKboQOH-PDg.jpg",
+          "thumbnail_path": "channels/iranintltv/media/4a2f44f66459588523bf363e.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "19.7K",
+      "posted_at": "2026-05-19T09:28:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337899"
+    },
+    {
+      "id": "IranintlTV/337898",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "پگاه آهنگرانی، بازیگر و مستندساز، پیش از نمایش فیلم «تمرین‌هایی برای یک انقلاب» در جشنواره فیلم کن، گفت این فیلم را به مادرانی تقدیم می‌کند که فرزندانشان را در «راه آزادی» از دست دادند.<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "پگاه آهنگرانی، بازیگر و مستندساز، پیش از نمایش فیلم «تمرین‌هایی برای یک انقلاب» در جشنواره فیلم کن، گفت این فیلم را به مادرانی تقدیم می‌کند که فرزندانشان را در «راه آزادی» از دست دادند. @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337898",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/fPkw9JKGoUXl-r_FZwOgjpTopJnbL0wQOATvJtZEL3yNqUfFjoOAE6Ej-lqCHXJQZq0wUe4aGbgsaleJ7UTVW5XvuSlJHT0PEtZxpoZ5mxqzpPiTKGrbZ7sUkeOIvtEYrRGsSMza499lZbEreSo4ME7meoWyNCv8dHZE-w3Tra2wIj7zxulzu9JSzcVE-5SWXnnRHxJ82wqJcM8L19iiP528vXA4dVKsDrFNeByVZXaigMb8d1UioebXMj1Xxfe496HWQ_PIq1cPeD1mwB1FYI1OgaIbXxkpFid0C21cks4vQycSRedPZ6xnvGJ7g7WLXE9FQnAURWSCYrq6MyyI8g",
+          "thumbnail_path": "channels/iranintltv/media/085d43de1d68c66a9628c9a2.jpg",
+          "duration_label": "0:41",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "19.8K",
+      "posted_at": "2026-05-19T09:26:35+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337898"
+    },
+    {
+      "id": "IranintlTV/337897",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "مدیرکل دفتر بهبود تغذیه وزارت بهداشت با اشاره به ادامه آموزش «تغذیه ارزان‌قیمت» گفت خانواده‌ها با استفاده از جایگزین‌های غذایی تلاش می‌کنند حداقل کالری و پروتئین مورد نیاز خود را تامین کنند. او همچنین گفت حدود ۵ درصد کودکان زیر ۵ سال در ایران دچار کوتاه‌قدی ناشی از سوءتغذیه هستند.<br>گفت‌وگو با بابک خطی، پزشک و متخصص کودکان<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "مدیرکل دفتر بهبود تغذیه وزارت بهداشت با اشاره به ادامه آموزش «تغذیه ارزان‌قیمت» گفت خانواده‌ها با استفاده از جایگزین‌های غذایی تلاش می‌کنند حداقل کالری و پروتئین مورد نیاز خود را تامین کنند. او همچنین گفت حدود ۵ درصد کودکان زیر ۵ سال در ایران دچار کوتاه‌قدی ناشی از سوءتغذیه هستند. گفت‌وگو با بابک خطی، پزشک و متخصص کودکان @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337897",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/eqq5CT-fI5UYFKeiauQimLk92xkmbkK7LJdr8t5J89kFwz97zheML5Oy7xheWh-H9GNmbiBhNA-GPq3mJulXDR9fHhPhJWLmTYKU_LI3kqBgrl3EjU_qw9ENwXssOYcQfpObVWtzh7Y6aHvZb948H1R1vEWC7QLXraIyph3NEnmzdGQuLuNUEGvv5LIdEFPEfGMHS1fvHwvkaIduETdhggUfwZKXM54Ddy3tLlafLrlID1G2sX5MZT2cqcp-gX5GGw9ogbGuuwEJwRsHO2e-Oe-Y9DN4gz44zjonqXHcHUFyTNasJZ9stC6ZmqWNGl2573EnbisgL16yr6xlVuCAKg",
+          "thumbnail_path": "channels/iranintltv/media/99ff42028d4b4ac5c6375d88.jpg",
+          "duration_label": "3:58",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "23K",
+      "posted_at": "2026-05-19T09:16:51+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337897"
+    },
+    {
+      "id": "IranintlTV/337896",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "هاکان فیدان، وزیر خارجه ترکیه، در کنفرانس خبری مشترک با همتای آلمانی‌اش گفت مهم‌ترین موضوع درباره ایران، باز ماندن تنگه هرمز و پس از آن، پرونده هسته‌ای جمهوری اسلامی است. فیدان افزود: «ذخایر اورانیوم غنی‌شده باید از ایران خارج شود.»<br><br>گفت‌وگو با احمد صمدی، خبرنگار ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "هاکان فیدان، وزیر خارجه ترکیه، در کنفرانس خبری مشترک با همتای آلمانی‌اش گفت مهم‌ترین موضوع درباره ایران، باز ماندن تنگه هرمز و پس از آن، پرونده هسته‌ای جمهوری اسلامی است. فیدان افزود: «ذخایر اورانیوم غنی‌شده باید از ایران خارج شود.» گفت‌وگو با احمد صمدی، خبرنگار ایران‌اینترنشنال @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337896",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/E2-sONHJ5NbZI7vt2oB2wQEtTb-7-y6_e7ZqGn47iRODXNqmRpm0SzeuEYrR6RLMivPx4_WvncnDqhBxzmngCtjbPU1e5FAo0AnqA1Fu1el-TpvuYMaCltNaY3yc2ZLK-2Lpz1HsDq1i7aV4wHjyOiscFGfzvhtqtC6HD_HEpIStKc936wcNZ6NjcRGVQlbwR31_3gZaLKHlR0--H5lTzDJ-rAJ53zk0sgIJn9Pggr_dKxLTe6C8kN5Q68aKtoqz9hQ-DSXmJIvtwLD8V9HliGosvBlNECcPbOZcuKt6oUT0QIVKsdtXjch-zW6S4mA_pqkl5POqKZCOFqf5NSsNeA",
+          "thumbnail_path": "channels/iranintltv/media/cf61f4e799e435ddc2ea4f7f.jpg",
+          "duration_label": "4:20",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "25.1K",
+      "posted_at": "2026-05-19T09:08:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337896"
+    },
+    {
+      "id": "IranintlTV/337895",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "ویدیوی ارسال‌شده به ایران‌اینترنشنال، برگزاری مراسم عقد میان حامیان حکومت را در یکی از تجمع‌های حکومتی در تهران نشان می‌دهد.",
+      "plain_text": "ویدیوی ارسال‌شده به ایران‌اینترنشنال، برگزاری مراسم عقد میان حامیان حکومت را در یکی از تجمع‌های حکومتی در تهران نشان می‌دهد.",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337895",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/IXsYvgy_GpXGTJAdqmjHCz83gavH7Jv9J47l5Se3hx2_ih-h5djSZ_FxZ7ntLPbPjd2owO4-ILqFxonsk8JjyjFPYwpSrxXD7nMJ2mgt55FhThDBr0ayAxwsCPZXmjoWWdYB_lt_yCmhicH0xc7waI-I4OnFt4ldIPLhxRGJjG52wqaW7jLUjqrsTcRo5932Esi6-kNvtEEBZO-qnb4ieL18YUOtrxIuuzsvtARoyg01UTej6z7U6J7kfLwDFoVFtUjFPhuqLJslb1wSbxQ9mbsYi490zNuqPpOOB-TIZZpEFyEhTLfW9jtbsIqdVAE5HV3kEN__btATDhnq_xlHVw",
+          "thumbnail_path": "channels/iranintltv/media/352e3aa2a976973dd0b9e4b1.jpg",
+          "duration_label": "0:28",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "25.1K",
+      "posted_at": "2026-05-19T09:04:11+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337895"
+    },
+    {
+      "id": "IranintlTV/337894",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "دونالد ترامپ، رییس‌جمهوری آمریکا، اعلام کرد به‌درخواست امارات متحده عربی، عربستان سعودی و قطر، حمله احتمالی علیه جمهوری اسلامی را برای چند روز به تعویق انداخته تا فرصت بیشتری برای دستیابی به توافق فراهم شود.<br><br>گفت‌وگو با مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
+      "plain_text": "دونالد ترامپ، رییس‌جمهوری آمریکا، اعلام کرد به‌درخواست امارات متحده عربی، عربستان سعودی و قطر، حمله احتمالی علیه جمهوری اسلامی را برای چند روز به تعویق انداخته تا فرصت بیشتری برای دستیابی به توافق فراهم شود. گفت‌وگو با مرتضی کاظمیان، عضو تحریریه ایران‌اینترنشنال @iranintltv",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/IranintlTV/337894",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/uTUbp9pw2MThBKJMpCt2VRY7azZY5J7tRFX-atnfjzxafUSA_HYGj2NTP9wqtqL6uL6GlOFdrxf-lqw12IrOSQPQwcqRNf72THrfDKYnHTy1s7lz8Rluvpwz0GzHrN5-3Cb-j_97I95V7QYoqm6VutxDlWRk0mPgafu80f78M0uvFZHkFtXEqfrHuVXP19hhdw2Db4psfRINADGQokBnwsE_UN0z_pmb0VW65LzObGknHIoQYEghhW-Esem9mCPuKahO46qT9Y8UXE7S3ge9_ffGRF7BYm7d-LWO7QQB_ijw5YmX6rkXoGVuwE-YrBSOzaOEBtrsCZuFo-yG-jmr1g",
+          "thumbnail_path": "channels/iranintltv/media/5a0e412e7d8d3f33616edb9f.jpg",
+          "duration_label": "5:48",
+          "aspect_ratio": 1.7750000000000026
+        }
+      ],
+      "reactions": [],
+      "views_label": "25.2K",
+      "posted_at": "2026-05-19T08:56:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337894"
+    },
+    {
+      "id": "IranintlTV/337893",
+      "author_name": "Iran International ایران اینترنشنال",
+      "author_photo_url": "https://cdn4.telesco.pe/file/CEYu3e-zZ6EvLCT2zN107oLZFWIR-xDMFjlY-sKQqx1NSLrzZfwzEi5UYoLW12E-twjavr-Nqu0eDAF2lcCn7DbuMc8PJQrnK6WrFAjbZzr7qiDQDLgZr2Nbr91MA9Z_dGTwyRnuUhB7ZB3GFGwFv4eKOXWbcvNBGfHe5HSPCx9FJJBEf87TJLx8JcFHop5T2JqUJwwWyxqy-lrqSMMSo-4uLmAx7v9PmrhC4slC4qYuoZfw8JVji0bHpxfjF4uKQaV_4FM9AofvndgrC2R9hZvgni-rPhsiAC-aXJlrFIXnLycwGq4hkioDkK08njFF_Nnke1TgB55j7lsd41SEmA.jpg",
+      "author_photo_path": "channels/iranintltv/media/ca34ba1625ed3d08b300e866.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F97A3.png')\"><b>🗣</b></i><b>روایت شما از بحران اقتصادی و زندگی در آتش‌بس- سه‌شنبه ۲۹ اردیبهشت:</b><br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>یک بسته برنج یک کیلویی، یک بسته بال مرغ، ۶ تا تخم‌مرغ و یه روغن کوچیک گرفتیم شد ۲ میلیون و ۱۰۰ هزار تومن.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>یارانه یک خانواده‌ ۳ نفره ۳ میلیون تومانه، اما یک روغن جامد ۵ کیلویی قیمتش ۳ میلیون و ۴۰۰ هزار تومانه.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>ما از دی ماه نه دانشگاه رفتیم نه خوابگاه ولی هر ماه شهریه خوابگاه رو باید بدیم. پدر من بازنشسته‌است، از کجا بیاریم آخه.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>صنعت گردشگری و هتلداری فرو پاشیده. ۴ ماهه حقوق نگرفتیم.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>برا ۵ تا نان لواش با یه کیسه پلاستیکی ۵۵ هزار تومان پرداختم. گرونی جوریه که اگه بیمار باشی، ناتوان باشی، یا برای یه سالمند بخواهی سفارش آنلاین بدی، مجبور به پرداخت مبلغ زیادی هستی.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>ما بازنشسته‌ها با این حقوق‌های پایین داریم له می‌شیم، حتی نمی‌تونیم به درمان خودمون برسیم.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>من پارسال بعد ازدواجم یه آپارتمان گرفتم با مبلغ ۸۰۰ میلیون رهن و ۱۰ میلیون تومان اجاره. امسال صاحبخانه گفته باید یک میلیارد و ۲۰۰ رهن بدی با ۲۵ میلیون تومان اجاره... کادر درمان هستم و موندم چکار کنم.<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>قطعی برق شهرک‌های صنعتی تهران از ۲۶ اردیبهشت شروع شده. فعلا طبق برنامه مدیریت بار، یک روز در هفته از ساعت ۸ صبح تا ۱۲ شب!<br><br><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>قطعی آب در زاهدان طولانی مدت شده و حتی به ۱۲ ساعت هم می‌رسه. زمان‌های قطعی هم متفاوته، یک‌بار صبح زود یک‌بار ظهر یک‌بار عصر.",
+      "plain_text": "🗣روایت شما از بحران اقتصادی و زندگی در آتش‌بس- سه‌شنبه ۲۹ اردیبهشت: 🔹یک بسته برنج یک کیلویی، یک بسته بال مرغ، ۶ تا تخم‌مرغ و یه روغن کوچیک گرفتیم شد ۲ میلیون و ۱۰۰ هزار تومن. 🔹یارانه یک خانواده‌ ۳ نفره ۳ میلیون تومانه، اما یک روغن جامد ۵ کیلویی قیمتش ۳ میلیون و ۴۰۰ هزار تومانه. 🔹ما از دی ماه نه دانشگاه رفتیم نه خوابگاه ولی هر ماه شهریه خوابگاه رو باید بدیم. پدر من بازنشسته‌است، از کجا بیاریم آخه. 🔹صنعت گردشگری و هتلداری فرو پاشیده. ۴ ماهه حقوق نگرفتیم. 🔹برا ۵ تا نان لواش با یه کیسه پلاستیکی ۵۵ هزار تومان پرداختم. گرونی جوریه که اگه بیمار باشی، ناتوان باشی، یا برای یه سالمند بخواهی سفارش آنلاین بدی، مجبور به پرداخت مبلغ زیادی هستی. 🔹ما بازنشسته‌ها با این حقوق‌های پایین داریم له می‌شیم، حتی نمی‌تونیم به درمان خودمون برسیم. 🔹من پارسال بعد ازدواجم یه آپارتمان گرفتم با مبلغ ۸۰۰ میلیون رهن و ۱۰ میلیون تومان اجاره. امسال صاحبخانه گفته باید یک میلیارد و ۲۰۰ رهن بدی با ۲۵ میلیون تومان اجاره... کادر درمان هستم و موندم چکار کنم. 🔹قطعی برق شهرک‌های صنعتی تهران از ۲۶ اردیبهشت شروع شده. فعلا طبق برنامه مدیریت بار، یک روز در هفته از ساعت ۸ صبح تا ۱۲ شب! 🔹قطعی آب در زاهدان طولانی مدت شده و حتی به ۱۲ ساعت هم می‌رسه. زمان‌های قطعی هم متفاوته، یک‌بار صبح زود یک‌بار ظهر یک‌بار عصر.",
+      "media": [],
+      "reactions": [],
+      "views_label": "25.2K",
+      "posted_at": "2026-05-19T08:56:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/IranintlTV/337893"
+    },
     {
       "id": "IranintlTV/337847",
       "author_name": "Iran International ایران اینترنشنال",
@@ -1859,456 +2319,6 @@
       "posted_at": "2026-05-17T19:13:07+00:00",
       "edited": false,
       "permalink": "https://t.me/IranintlTV/337682"
-    },
-    {
-      "id": "IranintlTV/337681",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "مسعود پزشکیان، رییس دولت در جمهوری اسلامی، دسترسی باکیفیت به خدمات دیجیتال را حق مردم دانست و گفت دولت او برای برقرار ماندن ارتباطات، به‌صورت شبانه‌روزی تلاش می‌کند.<br><br>گفت‌وگو با مهدی صارمی‌فر، روزنامه‌نگار علم و تکنولوژی<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "مسعود پزشکیان، رییس دولت در جمهوری اسلامی، دسترسی باکیفیت به خدمات دیجیتال را حق مردم دانست و گفت دولت او برای برقرار ماندن ارتباطات، به‌صورت شبانه‌روزی تلاش می‌کند. گفت‌وگو با مهدی صارمی‌فر، روزنامه‌نگار علم و تکنولوژی @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337681",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/EQYqFNG-sPtyfjvygCyYOYGLCYUO_fokyjjS7HQPXPBINBQm2vuquWBsl-14y77ey45YZoufKT5ffdi0KiQHbEmJyWB_UHOKFfn23NfPzlnyFEINItmQ7adK3RXDeNL75jzgKHzKch4oZM_x-eMHw4iVdPAymIPMkKthEEzWw5ZRE7AAl9UghxiHYDKtOwVmo9Dm94nXHNIt7mNHLs2czY-h2NR4ySSNHwCu86HSpHncCAVf-qx9TJ9R7zwR-wuc3AKO-g6ojXyHZFrkXaHwLJvhtoyjfbKBc7WfUTC5FgYorhFjBCpanA958sas5KSpHX-ZBWR1rgRuE_xT9HJbhg",
-          "thumbnail_path": "channels/iranintltv/media/c043aab0db8160eda9b67bee.jpg",
-          "duration_label": "4:42",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "21.9K",
-      "posted_at": "2026-05-17T19:08:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337681"
-    },
-    {
-      "id": "IranintlTV/337680",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "محمدرضا عارف، معاون اول پزشکیان، گفت: «تسهیل ازدواج جوانان بخشی از راهبردهای نظام است.»<br>او افزود: «موضوع جوانان، ازدواج و فرزندآوری در برنامه پنج‌ساله دولت لحاظ شده و با توجه به روند خوبی که در کشور حاکم است و پیروزی‌هایی که به دست می‌آوریم، در تلاشیم مشکلات اقتصادی را کاهش دهیم.»<br><a href=\"https://iranintl.com/202605172551\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605172551</a>",
-      "plain_text": "محمدرضا عارف، معاون اول پزشکیان، گفت: «تسهیل ازدواج جوانان بخشی از راهبردهای نظام است.» او افزود: «موضوع جوانان، ازدواج و فرزندآوری در برنامه پنج‌ساله دولت لحاظ شده و با توجه به روند خوبی که در کشور حاکم است و پیروزی‌هایی که به دست می‌آوریم، در تلاشیم مشکلات اقتصادی را کاهش دهیم.» https://iranintl.com/202605172551",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337680",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/mSqzbCZnqo-HoXtbHzHzHHTVwWmUjO0lfCYOO6o88rt5rzGLi7-j8LmP9tTJntXtYvt__aQ3j5Y0D41vIODj4jg6cGsBKmrejznLjM1-m-DWTJiHAbbqlakx5RRvOkGdd2-8B0FN-vhME7vP8Ri5QM1NDUfqLytcQegORb9ELzPDXgQ65Fh44vR3W2bd-SYGy7KiPHxe6nnogGoD2n27ZlfwSJ4gB3SZL5mK6ffZVG5KbJOWhRyLhPAoKDv8Y5RCOcLoH_YJuKPxrYZaN2kfpXScP2IGZzQsJ8ckyDJh9Pxt78j3WObujQxlKo3VoymrhReL5000Qdt_kt79M-x_aA.jpg",
-          "thumbnail_path": "channels/iranintltv/media/a15871430a509ffde19f6445.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "21.9K",
-      "posted_at": "2026-05-17T19:07:42+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337680"
-    },
-    {
-      "id": "IranintlTV/337679",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "روز شنبه ۲۶ اردیبهشت، جمعی از ایرانیان ساکنِ ونکوور کانادا، در حمایت از مردم ایران و شاهزاده رضا پهلوی تجمع برگزار کردند. شرکت‌کنندگان «خواستار تغییر رژیم ایران» و «اقدام فوری» در حمایت از مردم ایران شدند.",
-      "plain_text": "روز شنبه ۲۶ اردیبهشت، جمعی از ایرانیان ساکنِ ونکوور کانادا، در حمایت از مردم ایران و شاهزاده رضا پهلوی تجمع برگزار کردند. شرکت‌کنندگان «خواستار تغییر رژیم ایران» و «اقدام فوری» در حمایت از مردم ایران شدند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337679",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/jkYHzECRQu3qjLft6KfVZmSUFq3yhUnhgpncbWrlQapbwLESYUhOKybNBcpNnc9FPVu0pI8lkZ4DvESIViU8mOufYK7eu61TX_O_p4ShE-AXtFscpAFRU6K2UAHQW1xsyrVA4aX7bOoI_uDmZKq6-3hFoi94JCbXCsxT11D0GAWch2NBVHaz4iuIywdqy8hzfGaf5WLRp5Mnh-WvE8047rPoRxp5CLgGL0cWXzPLjSz5RBl-lfkth4HHNpkN8O7W1C_sw4e85_GoDN0bmci8Pl1saD-ViUhKJt_0Ub1dcJJp9K0TEFXDBEUZyppoq7HdlfRxvp6my2u1_9c1WSSpFg",
-          "thumbnail_path": "channels/iranintltv/media/e3b7ac9bbf7ee02232e73c56.jpg",
-          "duration_label": "1:12",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "20.9K",
-      "posted_at": "2026-05-17T19:05:48+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337679"
-    },
-    {
-      "id": "IranintlTV/337678",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "چشم‌انداز با مهدی مهدوی‌آزاد: اهداف اصلی آمریکا و اسرائیل در حمله دوباره به ایران<br><br>نسخه کامل این قسمت را در یوتیوب ایران‌اینترنشنال تماشا کنید:<br><a href=\"https://youtu.be/6u1N8mDDOMA\" target=\"_blank\" rel=\"noopener\">https://youtu.be/6u1N8mDDOMA</a><br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "چشم‌انداز با مهدی مهدوی‌آزاد: اهداف اصلی آمریکا و اسرائیل در حمله دوباره به ایران نسخه کامل این قسمت را در یوتیوب ایران‌اینترنشنال تماشا کنید: https://youtu.be/6u1N8mDDOMA @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337678",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/jmg5mQCDdGbWIZPzei2kMy1jiqKBIPtyTeT4DGbVKho0fADckw9hCjAjtRnkS1OXC0iqq_OE0RWwWRcoHJhsxrqPzmrj4YmsBjO5Y53tqrclJXGs6ww6zX26SHN_NYoCYz3wCWujIekR1DoyuEC50uXkbfJE5rIHBIYbdp9ZMlWX70pd9Yv9wNKIcoqxdaB16RAlh_3CzlfQV-dWkeVxPvTSDdFXx_RkRek9vSLGrf4q6hCOAKXqRmI8OzEE9QJgoTeAsVdGz5yY03RJQEo_nKZfQ78xzwCoeZRsXYugkX2D1jyV48SvkJ19nrRDjdX7L31snzoapaegSAf9Om2yQA",
-          "thumbnail_path": "channels/iranintltv/media/8f76ff9e5990d06bf94e1408.jpg",
-          "duration_label": "6:41",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "21K",
-      "posted_at": "2026-05-17T18:57:04+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337678"
-    },
-    {
-      "id": "IranintlTV/337677",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "انور قرقاش مشاور دیپلماتیک رییس امارات متحده عربی در شبکه اجتماعی ایکس نوشت: «هدف قرار دادن تروریستی نیروگاه هسته‌ای پاک براکه، چه از سوی عامل اصلی و چه از طریق یکی از عوامل نیابتی آن، یک تشدید تنش خطرناک و صحنه‌ای تاریک است که تمامی قوانین و عرف‌های بین‌المللی را نقض می‌کند، در حالی که بی‌توجهی جنایتکارانه‌ به جان غیرنظامیان در امارات متحده عربی و پیرامون آن است.»<br><br>قرقاش ادامه داد: «این تشدید تنش ممنوع، بار دیگر ماهیت چالش‌هایی را که منطقه در مواجهه با نیروهای شر، هرج‌ومرج و خرابکاری با آنها روبه‌رو است، تایید می‌کند.»<br><br>او افزود: «هیچ‌کس نخواهد توانست بازوی امارات را بپیچاند، و هیچ‌کس موفق نخواهد شد چشم‌انداز، موفقیت و پیام الهام‌بخش آن به مردم منطقه در زمینه امنیت، ثبات، توسعه و شکوفایی را تضعیف کند.»<br><a href=\"https://iranintl.com/202605172450\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605172450</a>",
-      "plain_text": "انور قرقاش مشاور دیپلماتیک رییس امارات متحده عربی در شبکه اجتماعی ایکس نوشت: «هدف قرار دادن تروریستی نیروگاه هسته‌ای پاک براکه، چه از سوی عامل اصلی و چه از طریق یکی از عوامل نیابتی آن، یک تشدید تنش خطرناک و صحنه‌ای تاریک است که تمامی قوانین و عرف‌های بین‌المللی را نقض می‌کند، در حالی که بی‌توجهی جنایتکارانه‌ به جان غیرنظامیان در امارات متحده عربی و پیرامون آن است.» قرقاش ادامه داد: «این تشدید تنش ممنوع، بار دیگر ماهیت چالش‌هایی را که منطقه در مواجهه با نیروهای شر، هرج‌ومرج و خرابکاری با آنها روبه‌رو است، تایید می‌کند.» او افزود: «هیچ‌کس نخواهد توانست بازوی امارات را بپیچاند، و هیچ‌کس موفق نخواهد شد چشم‌انداز، موفقیت و پیام الهام‌بخش آن به مردم منطقه در زمینه امنیت، ثبات، توسعه و شکوفایی را تضعیف کند.» https://iranintl.com/202605172450",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337677",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Ea4Y6JxZRqWuCNkXf2XSvP6na-3rZPzIK42bkQFi9E2G2cha2YDyuhaT1mXzRPyW_HQbJwRdIrsrOWzltoXVBf_LVr6llUorfpJxojvTjJmBt3Wh9EsUSKMNDpcarw2aVypYy7B9QzcuhBaR-qRJ3qBAXI0KHpIvYZa024p31xVSq1qASb0B50mZGrZj9hYcAB_apxGdrltFqKoNitbvTwy3s2sqMFjYT3H9s5gGXNInUGvhwMuVvTA4Snb4BsiQV26TgsJIsn4qjmq5x4DY0PCC0KG8N_X_GwsrZ35dAEwBZQep9BM32T-ncYJLDBOae4TOfYPuIP62XAA7ZTbr-g.jpg",
-          "thumbnail_path": "channels/iranintltv/media/23f0ec9a2ba154c626738ce1.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "23.2K",
-      "posted_at": "2026-05-17T18:52:06+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337677"
-    },
-    {
-      "id": "IranintlTV/337676",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "وزارت خارجه عربستان سعودی حمله پهپادی به نیروگاه هسته‌ای براکه در امارات متحده عربی را محکوم کرد.<br><br>همزمان وزارت خارجه بحرین اعلام کرد که این کشور حمله «تروریستی» به نیروگاه هسته‌ای براکه را به‌شدت محکوم می‌کند و بر همبستگی کشورش با امارات متحده عربی تاکید کرد.<br><a href=\"https://iranintl.com/202605174803\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605174803</a>",
-      "plain_text": "وزارت خارجه عربستان سعودی حمله پهپادی به نیروگاه هسته‌ای براکه در امارات متحده عربی را محکوم کرد. همزمان وزارت خارجه بحرین اعلام کرد که این کشور حمله «تروریستی» به نیروگاه هسته‌ای براکه را به‌شدت محکوم می‌کند و بر همبستگی کشورش با امارات متحده عربی تاکید کرد. https://iranintl.com/202605174803",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337676",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/DHiLm3Vb5B_jtWJVHbZjSha2UogSnxi6f0-p98yB4gXimZKI5XJ4TF3lu9bxdbLO3YlQBQmLDksX87kYnPoQdwGDLYBZs_kX07Z1uBuNBgBhsyQOZgrAEfBXejJJfql6jlmHqkzvHPksZQhY1XtM0NUIG8fg5FKkA2xY1l7bHNgq9pvrR74n-6otcXKZvvA1ZKalI9_kzOvqCNbg2BwJ41n81VB3MqXQpvv8wDbPLe_xcP633-0GEb55oofh6ZMqlLoc7gE_VUjAtLTpny7BJ2F5zdL06weeOHaL680kQTLyj2RTluP4F6leqjiHWpxbE1H5qT5nmOHz9vPh9C1DbQ.jpg",
-          "thumbnail_path": "channels/iranintltv/media/e8c3aa9f82a1d91034f2be0c.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "27.6K",
-      "posted_at": "2026-05-17T18:33:07+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337676"
-    },
-    {
-      "id": "IranintlTV/337675",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')\"><b>🎧</b></i>نسخه صوتی تیتراول با نیوشا صارمی: تماس نتانیاهو و ترامپ درباره ایران؛ تشدید تنش‌ها با حمله پهپادی به امارات<br><a href=\"https://t.me/iranintlTV\" target=\"_blank\">@iranintlTV</a>",
-      "plain_text": "🎧نسخه صوتی تیتراول با نیوشا صارمی: تماس نتانیاهو و ترامپ درباره ایران؛ تشدید تنش‌ها با حمله پهپادی به امارات @iranintlTV",
-      "media": [],
-      "reactions": [],
-      "views_label": "29.8K",
-      "posted_at": "2026-05-17T18:17:01+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337675"
-    },
-    {
-      "id": "IranintlTV/337673",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "مهدی مهدوی‌آزاد در برنامه «چشم‌انداز» گفت: «در شرایط فعلی، کسی در تهران به‌دنبال صلح نیست و ظاهراً صلح و امتیاز دادن و گرفتن را نوعی ضعف و ضدارزش می‌دانند.»<br><br>او افزود: «برنامه هسته‌ای که به‌خاطر آن دو بار کشور وارد جنگ شد، خسارت‌های سنگینی به ایران وارد کرده و بخش بزرگی از تاسیسات و توان مرتبط با آن نابود شده است. با این حال، دوباره بحث‌ها به همان نقطه اول برگشته؛ انگار دوباره به نقطه صفر و مرحله‌ای سخت بازگشته‌ایم.»<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "مهدی مهدوی‌آزاد در برنامه «چشم‌انداز» گفت: «در شرایط فعلی، کسی در تهران به‌دنبال صلح نیست و ظاهراً صلح و امتیاز دادن و گرفتن را نوعی ضعف و ضدارزش می‌دانند.» او افزود: «برنامه هسته‌ای که به‌خاطر آن دو بار کشور وارد جنگ شد، خسارت‌های سنگینی به ایران وارد کرده و بخش بزرگی از تاسیسات و توان مرتبط با آن نابود شده است. با این حال، دوباره بحث‌ها به همان نقطه اول برگشته؛ انگار دوباره به نقطه صفر و مرحله‌ای سخت بازگشته‌ایم.» @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337673",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/BUSH-CQHrdzh_6kFbszjJR1Ra5GlWytJDV6mhJsznR3aXU8LjTrZvW758WLDr4IEDUWgfECb6u-iGyVZLqXTStPPFy5x-bcZbiTr0tbKExbF5r7H_5MeTiVTOhXZgqZ6VdET6EJ3w99xqbeVgtBfNasNQ6yMVdzEtcIZWVrHVd8EuIJhlMdz8mQ7U2FuZDd4i1nbinQG5MRNfLTUJey1O-8KH1nH10DlKCC3Rx4lujIGnoVGr_GahCEx3wj4EbI5RyDsBVIHhIu02pEl76yOsh9kpDpNJtzG-f-evH8idJ_QhiydsRSUCZbzLZEfyL2D4nTsCe7jPFAzI8rNveYBfw",
-          "thumbnail_path": "channels/iranintltv/media/3c63d46f97de9251a57e00ba.jpg",
-          "duration_label": "1:01",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "31K",
-      "posted_at": "2026-05-17T18:10:58+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337673"
-    },
-    {
-      "id": "IranintlTV/337672",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "عبدالله حاجی‌صادقی، نماینده مجتبی خامنه‌ای در سپاه پاسداران، گفت: مذاکرات ما تحت اشراف مسئولان و با تایید «رهبری» پیش می‌رود. او با تاکید بر اینکه «اتحاد مقدس از هر چیزی مهم‌تر است»، افزود نباید اجازه داد این اتحاد آسیب ببیند.<br> <br>حاجی‌صادقی همچنین گفت: «رهبری شجاع، بصیر، حکیم، مسلط و با قدرت فرماندهی داریم که مردم را به زیبایی رهبری می‌کند.»<br><a href=\"https://iranintl.com/202605173538\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605173538</a>",
-      "plain_text": "عبدالله حاجی‌صادقی، نماینده مجتبی خامنه‌ای در سپاه پاسداران، گفت: مذاکرات ما تحت اشراف مسئولان و با تایید «رهبری» پیش می‌رود. او با تاکید بر اینکه «اتحاد مقدس از هر چیزی مهم‌تر است»، افزود نباید اجازه داد این اتحاد آسیب ببیند. حاجی‌صادقی همچنین گفت: «رهبری شجاع، بصیر، حکیم، مسلط و با قدرت فرماندهی داریم که مردم را به زیبایی رهبری می‌کند.» https://iranintl.com/202605173538",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337672",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/o1H9gotiJTDVqO3gJCb_HzrUyyMzb1vg9MHHEW2TN2tDXa-95AU5uXsG8_hga3x4QX8PEJMhftvUnghZPaTi51sST3cq48lPEb61YOsbC-O29cuWNUExEoEXoYOCtSjmA9_38-mfGZN7IPFMT2h6REOGL0pC6Hvmt2iWycjgM6bRu1Sj9SoVgfjXlrbFfYZO5xeAssGxElbWMu4lgfoAfS68kZrR-cA8OmoyytM-Odo3ftl829jQ1UdaE3eJu8t_jRSCAgOm_F7Bv7SP7TJSkL6vlXsYW60yf_iccXcgSjKh9OVCF1IlghAGtOdNEGusPQjmy1ROA1bmkFBo24V2yA.jpg",
-          "thumbnail_path": "channels/iranintltv/media/1d2c2521f34bcfcbb31a7fc4.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "29.9K",
-      "posted_at": "2026-05-17T18:08:19+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337672"
-    },
-    {
-      "id": "IranintlTV/337671",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA7.png')\"><b>🎧</b></i>نسخه صوتی اخبار شبانگاهی | یکشنبه ۲۷ اردیبهشت<br><a href=\"https://t.me/iranintlTV\" target=\"_blank\">@iranintlTV</a>",
-      "plain_text": "🎧نسخه صوتی اخبار شبانگاهی | یکشنبه ۲۷ اردیبهشت @iranintlTV",
-      "media": [],
-      "reactions": [],
-      "views_label": "27.7K",
-      "posted_at": "2026-05-17T18:04:45+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337671"
-    },
-    {
-      "id": "IranintlTV/337670",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "دونالد ترامپ در گفت‌وگو با شبکه ۱۳ اسرائیل پس از تهدید دوباره جمهوری اسلامی گفت: «فکر می‌کنم مقام‌های تهران باید از من بترسند و مراقب باشند.»<br><br>او همچنین در گفت‌وگو با کانال ۱۲ اسرائیل گفت همچنان معتقد است ایران خواهان دستیابی به توافق است و انتظار دارد تهران در روزهای آینده پیشنهاد تازه‌ای ارائه کند.<br>ترامپ از تعیین ضرب‌الاجل برای مذاکرات خودداری کرد، اما هشدار داد در صورت برآورده نشدن خواسته‌های آمریکا درباره برنامه هسته‌ای ایران، اقدام نظامی شدیدتری در پیش خواهد بود.<br><a href=\"https://iranintl.com/202605174881\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605174881</a>",
-      "plain_text": "دونالد ترامپ در گفت‌وگو با شبکه ۱۳ اسرائیل پس از تهدید دوباره جمهوری اسلامی گفت: «فکر می‌کنم مقام‌های تهران باید از من بترسند و مراقب باشند.» او همچنین در گفت‌وگو با کانال ۱۲ اسرائیل گفت همچنان معتقد است ایران خواهان دستیابی به توافق است و انتظار دارد تهران در روزهای آینده پیشنهاد تازه‌ای ارائه کند. ترامپ از تعیین ضرب‌الاجل برای مذاکرات خودداری کرد، اما هشدار داد در صورت برآورده نشدن خواسته‌های آمریکا درباره برنامه هسته‌ای ایران، اقدام نظامی شدیدتری در پیش خواهد بود. https://iranintl.com/202605174881",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337670",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/J3djwVVu1uP4n18bdZh856Wnnd5rDYf9znYY8HuWSEPDlk0AA78lCr3I_uIFj8yt94Fk8c-ElQSIz2Mt9OTFvWt0Ns3XLZfDRoaT6RPZYHf6Fvv7W5Mdc1gjKeCNo0QT136MLA9XG_DXQSXxFW54Y5f7IrAmezuQyP5V_JX65W0irZhYyKrCyzBiJh2g7AoRFoB95WDr6XHKoM_bnLHDLklXxUHsgJMBFNRzfHoDFc_pPydIil4xRfK3wyOH-Kzv9VgHPb0sEa9qMpdg3D1r-0qBFeSnGG8OrYVL8fRfx9r9VKBonQMg6KNdOncMZ3fnbOPmqt5fP3dKu8Wz1hG8mA.jpg",
-          "thumbnail_path": "channels/iranintltv/media/ca673f573a53c35d0c0d41b9.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "29.9K",
-      "posted_at": "2026-05-17T17:58:38+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337670"
-    },
-    {
-      "id": "IranintlTV/337669",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "دونالد ترامپ در گفت‌وگو با شبکه ۱۳ اسرائیل پس از تهدید دوباره جمهوری اسلامی گفت: «فکر می‌کنم مقام‌های تهران باید از من بترسند و مراقب باشند.»<br><br>او همچنین در گفت‌وگو با کانال ۱۲ اسرائیل گفت همچنان معتقد است ایران خواهان دستیابی به توافق است و انتظار دارد تهران در روزهای آینده پیشنهاد تازه‌ای ارائه کند.<br>ترامپ از تعیین ضرب‌الاجل برای مذاکرات خودداری کرد، اما هشدار داد در صورت برآورده نشدن خواسته‌های آمریکا درباره برنامه هسته‌ای ایران، اقدام نظامی شدیدتری در پیش خواهد بود.<br><a href=\"https://iranintl.com/202605174881\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605174881</a>",
-      "plain_text": "دونالد ترامپ در گفت‌وگو با شبکه ۱۳ اسرائیل پس از تهدید دوباره جمهوری اسلامی گفت: «فکر می‌کنم مقام‌های تهران باید از من بترسند و مراقب باشند.» او همچنین در گفت‌وگو با کانال ۱۲ اسرائیل گفت همچنان معتقد است ایران خواهان دستیابی به توافق است و انتظار دارد تهران در روزهای آینده پیشنهاد تازه‌ای ارائه کند. ترامپ از تعیین ضرب‌الاجل برای مذاکرات خودداری کرد، اما هشدار داد در صورت برآورده نشدن خواسته‌های آمریکا درباره برنامه هسته‌ای ایران، اقدام نظامی شدیدتری در پیش خواهد بود. https://iranintl.com/202605174881",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337669",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/ie1CRy08Rdeu11CVYi1Djb-NXZ7mn17Pc3vdGVB8AJ07sDhJw9p-BmGckUEidTq7ulVD7RYMlFH4FnkqmVRAHEBrqFmViClo_2BipxFtfkoJo4UtHvHGmrNc7KlhoZx3NweipwCW8K-I30h7ZR__dnDs2UiKObXrqHFFkZ6ZGiBATKiw-QE6JPiySaokvdf4yc7nn2wt0sN9sA59p2xWxQWjtzdxu-PUubbPWhBs8tBGfy0imkDJNNvGuznmP41_wn05zNTRZTDsTHWtYyNmtZ4p9FXHDXuElgmRhsIAkkvBsErHZAI-ODPXndxJ6yNp8ZqKayfDlo1NhjFPfC0jqA.jpg",
-          "thumbnail_path": "channels/iranintltv/media/2d54e2b8b1370119bba5de21.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "26.7K",
-      "posted_at": "2026-05-17T17:58:37+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337669"
-    },
-    {
-      "id": "IranintlTV/337668",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "دونالد ترامپ در گفت‌وگو با شبکه ۱۳ اسرائیل پس از تهدید دوباره جمهوری اسلامی گفت: «فکر می‌کنم مقام‌های تهران باید از من بترسند و مراقب باشند.»<br><br>او همچنین در گفت‌وگو با کانال ۱۲ اسرائیل گفت همچنان معتقد است ایران خواهان دستیابی به توافق است و انتظار دارد تهران در روزهای آینده پیشنهاد تازه‌ای ارائه کند.<br>ترامپ از تعیین ضرب‌الاجل برای مذاکرات خودداری کرد، اما هشدار داد در صورت برآورده نشدن خواسته‌های آمریکا درباره برنامه هسته‌ای ایران، اقدام نظامی شدیدتری در پیش خواهد بود.<br><a href=\"https://iranintl.com/202605174881\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605174881</a>",
-      "plain_text": "دونالد ترامپ در گفت‌وگو با شبکه ۱۳ اسرائیل پس از تهدید دوباره جمهوری اسلامی گفت: «فکر می‌کنم مقام‌های تهران باید از من بترسند و مراقب باشند.» او همچنین در گفت‌وگو با کانال ۱۲ اسرائیل گفت همچنان معتقد است ایران خواهان دستیابی به توافق است و انتظار دارد تهران در روزهای آینده پیشنهاد تازه‌ای ارائه کند. ترامپ از تعیین ضرب‌الاجل برای مذاکرات خودداری کرد، اما هشدار داد در صورت برآورده نشدن خواسته‌های آمریکا درباره برنامه هسته‌ای ایران، اقدام نظامی شدیدتری در پیش خواهد بود. https://iranintl.com/202605174881",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337668",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/LEVtygitG9KLmSYS81vn9zhluqRQNMlOqSh227YuBWBneQqGLyEW9k5Cm1ApCrcUc8FDC_BTdhY5dY62SU9wt-2olch56a9rQzr8erSI5IipT5SlRpOx7BLsMa4DrYhvSgN8mXcuvg3W3t14kcO3_dLj39JVOlKkqXTYeRv5sw-EG6PM8jolU78PZ2OIcBTYxuHt_Fl6g-4Qp6ex9YcJKe_z3AyXKcmwtYoe1JONJTKFmo6dOJvjLi2Pd23e_Lcxv9CoDVVMkHZEm-SkhuxJTHBk6n3iDY2nyn70a1xzGlkPc1greYilKeuJDADGuqNGcrTqjUhB9a4Q7yE3UkXaig.jpg",
-          "thumbnail_path": "channels/iranintltv/media/d435c694f5aeeb7e73287ba9.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "25.6K",
-      "posted_at": "2026-05-17T17:58:30+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337668"
-    },
-    {
-      "id": "IranintlTV/337667",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "ویدیوی دریافتی نشان می‌دهد روز شنبه ۲۶ اردیبهشت، جمعی از ایرانیان ساکن شهر رجاینا در ساسکاچوانِ کانادا، همراه با اجرای پرفورمنسی علیه اعدام‌های جمهوری اسلامی و قطعی اینترنت در ایران، تجمع اعتراضی برگزار کردند.",
-      "plain_text": "ویدیوی دریافتی نشان می‌دهد روز شنبه ۲۶ اردیبهشت، جمعی از ایرانیان ساکن شهر رجاینا در ساسکاچوانِ کانادا، همراه با اجرای پرفورمنسی علیه اعدام‌های جمهوری اسلامی و قطعی اینترنت در ایران، تجمع اعتراضی برگزار کردند.",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337667",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/KbkCkG2TcRNcZDEMzToMGlzzpGUNujE5GpWloLnW-z8U1dGCva6CefApaWdW158WHMiQl0D79aaCDcyyhORUDteNaT4u-i7w0W75LpeL69FbNo_xpi8cALN8vCvZ2kNhgPGtkpLNMpSaJyPTbWC2IP0oUEvLB50xPGIgx1f_qmBw8i_jrzUQP__gJn9rgPs3CRBY8LfOtysKdB7xzFd--8RHYGTVzfSN2XJ-AyGsvEDvB8ONniAtS7A2X-Cl71Asmgi2jAavtc-zoYpj8rcXpxpE-OvNAG3KEI-tuVkDFR_iP6U-0l9vm9a8rhH2fvi6pPwf39fan5bdhlAKxnoh6Q",
-          "thumbnail_path": "channels/iranintltv/media/cbde9882eee12173ca7a6985.jpg",
-          "duration_label": "0:35",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "27K",
-      "posted_at": "2026-05-17T17:46:41+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337667"
-    },
-    {
-      "id": "IranintlTV/337666",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "قطعی اینترنت در ایران به روز هفتاد و نهم رسیده است و  دشواری‌های فراوانی برای میلیون‌ها ایرانی ایجاد کرده. گزارش‌های مختلفی از این مشکلات برای گروه‌های مختلف، از جمله افراد معلول منتشر  شده است. <br><br>گفت‌وگو با رقیه رضایی، روزنامه‌نگار<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "قطعی اینترنت در ایران به روز هفتاد و نهم رسیده است و دشواری‌های فراوانی برای میلیون‌ها ایرانی ایجاد کرده. گزارش‌های مختلفی از این مشکلات برای گروه‌های مختلف، از جمله افراد معلول منتشر شده است. گفت‌وگو با رقیه رضایی، روزنامه‌نگار @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337666",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/EaKWWlMGznt4LOdf-C49iQ8uBsGpp-A_RLoLa7r833ZSmzZg421WisUyONSxZnU-t2ipFbC65vdpTsmSVU6e_lelrbphRs7aCSou9liZh-EDh8Sfn1p6eN5e0jh-8UAlYiNSLE7WXN2WZCcySLF3LOxWI_RwUFuMP5afcW2OazhkNItPWe16tjI1lZb3x4EbUYNMPZeDUdHz9znW5UaXipJNNq2ex0-vPSQ-zrXsnAB2o30NJ2UhpAfo1dKjvX8hj99CrvXu42nJCp3MN736JsLgwvQeHNxeF6GWOwCUyQHl-CyhQms9nPKGw2YyVScGmHrWHwoLUtiEFcMINtD6Ug",
-          "thumbnail_path": "channels/iranintltv/media/77fded3a09c9cddecbd7b952.jpg",
-          "duration_label": "4:06",
-          "aspect_ratio": 1.7777777777777777
-        }
-      ],
-      "reactions": [],
-      "views_label": "27.3K",
-      "posted_at": "2026-05-17T17:45:21+00:00",
-      "edited": true,
-      "permalink": "https://t.me/IranintlTV/337666"
-    },
-    {
-      "id": "IranintlTV/337665",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "کانال ۱۳ اسرائیل گزارش داد این کشور در آماده‌باش کامل قرار دارد. بنابر طرح‌های تدوین‌شده، اهداف حملات احتمالی شامل زیرساخت‌های حکومتی، تاسیسات انرژی، نیروگاه‌ها و همچنین تلاش برای هدف قرار دادن مقام‌های ارشد ایران خواهد بود.<br><br>گفت‌وگو با فرزین ندیمی، پژوهشگر امور دفاعی و امنیتی<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "کانال ۱۳ اسرائیل گزارش داد این کشور در آماده‌باش کامل قرار دارد. بنابر طرح‌های تدوین‌شده، اهداف حملات احتمالی شامل زیرساخت‌های حکومتی، تاسیسات انرژی، نیروگاه‌ها و همچنین تلاش برای هدف قرار دادن مقام‌های ارشد ایران خواهد بود. گفت‌وگو با فرزین ندیمی، پژوهشگر امور دفاعی و امنیتی @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337665",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/quisN4Aovwq5EpZB79rfsZtd80cXQhchxtyFbJ1cgkPSvnB2lPi0yZP4Eg-4HT885JEm-pWYe0A8DPuGN-Ujoc7j675clofaFrFFljYi24a5nzeypLEeIWvP1f_OnhDLmmEoRJOXMxMxVF_aS1EWs-ZdWhzoNBjgTh8VTZT8X5IMc8Dh9owonrA0GX3NlfEqZnYDbzOII-gSp4Daaukt6eXvqzMV2F1BYiYqz47EwlRrcrvc83BuTSdC2YyIHsEs5gS6ciz4anXig0_61D3yGa3xJiJLL17QcOirU_P9k4fjDynaqHxKSYxkCGkIrD7jv78mcx5oqm1W3M_30cD8xQ",
-          "thumbnail_path": "channels/iranintltv/media/3f4c879e61ee46a3e11195e4.jpg",
-          "duration_label": "9:01",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "27.9K",
-      "posted_at": "2026-05-17T17:44:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337665"
-    },
-    {
-      "id": "IranintlTV/337664",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "ابراهیم رضایی سخنگوی کمیسیون امنیت ملی مجلس، گفت: «آمریکا یا باید شرایط جمهوری اسلامی را بپذیرد و تسلیم دیپلمات‌های ما شود و یا اینکه از موضع قدرت با او مذاکره می‌کنیم و باید تسلیم موشک‌های ما شود.»<br>او افزود: «تاریخ تنگه هرمز را باید به قبل و بعد از کشته‌شدن علی خامنه‌ای تقسیم کرد.»<br><a href=\"https://iranintl.com/202605179775\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605179775</a>",
-      "plain_text": "ابراهیم رضایی سخنگوی کمیسیون امنیت ملی مجلس، گفت: «آمریکا یا باید شرایط جمهوری اسلامی را بپذیرد و تسلیم دیپلمات‌های ما شود و یا اینکه از موضع قدرت با او مذاکره می‌کنیم و باید تسلیم موشک‌های ما شود.» او افزود: «تاریخ تنگه هرمز را باید به قبل و بعد از کشته‌شدن علی خامنه‌ای تقسیم کرد.» https://iranintl.com/202605179775",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337664",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/GxP7-HlmYVJje1DfihccFVSmpju6NjCK1AxdSoWB-EbEIGrpAVcCcYffvUucKv--dSq-4xeLa972fG09gN4dExGR-ihZnBmvPK03XEwEtmOQ23IePsQtlXZfsyjZnryvjjkFwRNlQqjasYyDFYVxUVZ4sD-oi2gGsBbTfVG02Wr8OLvLlywTqQr22qW6jEAZSK3sAYjjQ6Cv4uSGslW39jKYQBXfJNTvAZGmZOQTqvsqif1nZEY3-jX3m3fXBQINBqc1zZFjtnnd2WIrLHXPA7oF_sK1NDj5FfmxPFpOzG2XDGOA2OjsriRobTvIOhsW18i_zuvx55mjb3rngMDZsQ.jpg",
-          "thumbnail_path": "channels/iranintltv/media/9096741a1d00828c9b7af05c.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "32.5K",
-      "posted_at": "2026-05-17T17:24:18+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337664"
-    },
-    {
-      "id": "IranintlTV/337646",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "<b>اسرائیل بیش از یک سال از دو پایگاه مخفی در عراق برای عملیات علیه ایران استفاده کرد</b><br><br>نیویورک‌تایمز در گزارشی تحقیقی فاش کرد که اسرائیل بیش از یک سال در صحرای غربی عراق دو پایگاه مخفی ایجاد و به‌طور متناوب از آن‌ها برای پشتیبانی از عملیات نظامی علیه حکومت ایران استفاده کرده است؛ پایگاه‌هایی که به گفته مقام‌های عراقی و منطقه‌ای، در جنگ ۱۲ روزه نیز نقش داشته‌اند.<br><br>این گزارش همچنین به کشته شدن یک چوپان عراقی اشاره می‌کند که به گفته خانواده‌اش، پس از کشف یکی از این پایگاه‌ها جان خود را از دست داده است.<br><br>به گزارش نیویورک‌تایمز، ماجرا از سوم مارس [۱۲ اسفند] آغاز شد؛ زمانی که عوض الشمری، چوپان ۲۹ ساله اهل منطقه النخیب در غرب عراق، برای خرید مایحتاج روزانه از محل سکونت خود خارج شد اما هرگز بازنگشت.<br><br>سه شاهد از ساکنان بادیه‌نشین منطقه به این روزنامه گفته‌اند که خودروی او هنگام بازگشت توسط یک بالگرد تعقیب شد و هدف شلیک‌های متعدد قرار گرفت تا سرانجام در میان شن‌های بیابان متوقف شد. چند ساعت بعد، خانواده او خودروی سوخته و جسدش را پیدا کردند.<br><br><b>دو پایگاه اسرائیلی در عراق؛ یکی افشا شد، دیگری همچنان در ابهام</b><br>نیویورک‌تایمز به نقل از مقام‌های عراقی گزارش داده که اسرائیل دست‌کم دو پایگاه مخفی در صحرای غربی عراق داشته است. وجود یکی از این پایگاه‌ها پیش‌تر توسط&nbsp;وال‌استریت ژورنال گزارش شده&nbsp;بود، اما مقام‌های عراقی اکنون از وجود پایگاه دومی نیز خبر داده‌اند که تاکنون علنی نشده بود.<br><br>بر اساس این گزارش، پایگاهی که عوض الشمری به آن برخورد کرد، پیش از جنگ اخیر میان آمریکا، اسرائیل و جمهوری اسلامی ایجاد شده بود و در جنگ ۱۲ روزه در خرداد علیه تهران مورد استفاده قرار گرفت.<br><br>یکی از مقام‌های امنیتی منطقه‌ای به نیویورک‌تایمز گفته اسرائیل از اواخر سال ۲۰۲۴ برای ساخت این پایگاه برنامه‌ریزی می‌کرد و در حال شناسایی مناطق دورافتاده برای استفاده در درگیری‌های آینده بود.<br><br><b>تردیدها درباره اطلاع آمریکا از حضور اسرائیل در عراق</b><br>نیویورک‌تایمز می‌نویسد اطلاعات مقام‌های منطقه‌ای نشان می‌دهد دست‌کم یکی از این پایگاه‌ها از ژوئن ۲۰۲۵ [خرداد ۱۴۰۴] یا حتی پیش‌تر برای آمریکا شناخته‌شده بوده است؛ موضوعی که این احتمال را مطرح می‌کند واشینگتن از حضور نیروهای اسرائیلی در خاک عراق اطلاع داشته اما آن را با بغداد در میان نگذاشته باشد.<br><br>مقام‌های منطقه‌ای گفته‌اند ساختار امنیتی عراق و نقش آمریکا در آن، بخشی از محاسبات اسرائیل برای فعالیت مخفیانه در خاک عراق بوده است.<br>دو مقام امنیتی عراق نیز به این روزنامه گفته‌اند که در جریان جنگ‌های اخیر، واشینگتن بغداد را وادار کرده بود برای حفاظت از هواپیماهای آمریکایی، رادارهای خود را خاموش کند؛ اقدامی که وابستگی عراق به آمریکا برای تشخیص تهدیدهای هوایی را افزایش داده بود.<br><br><b>حمله به نیروهای عراقی و شناسایی پایگاه</b><br>بر اساس گزارش، ارتش عراق پیش از کشف پایگاه توسط چوپان، بیش از یک ماه به حضور احتمالی نیروهای اسرائیلی در بیابان مشکوک بود و فعالیت‌ها را از دور زیر نظر داشت.<br><br>ژنرال علی الحمدانی، فرمانده نیروهای فرات غربی عراق، به نیویورک‌تایمز گفته است: «تا امروز، دولت درباره این موضوع سکوت کرده است.»<br>پس از گزارش عوض الشمری، نیروهای شناسایی عراق به منطقه اعزام شدند، اما طبق اعلام مقام‌های عراقی، هدف حمله قرار گرفتند؛ حمله‌ای که در آن یک سرباز کشته، دو نفر زخمی و دو خودرو منهدم شد.<br><br>حمدانی گفته است پس از تماس فرماندهان عراقی با ارتش آمریکا و دریافت این پاسخ که نیروهای حاضر آمریکایی نیستند، مقام‌های عراقی نتیجه گرفتند که با نیروهای اسرائیلی روبه‌رو بوده‌اند. او گفت: «وقتی تایید شد نیروها آمریکایی نیستند، فهمیدیم که اسرائیلی هستند.»<br><br><b>افشای پایگاه دوم و نگرانی درباره حاکمیت عراق</b><br>چهار روز پس از حمله به نیروهای عراقی، پارلمان عراق فرماندهان نظامی را برای ارائه توضیح فراخواند.<br><br>حسن فدعام، یکی از نمایندگان حاضر در جلسه، به نیویورک‌تایمز گفت: «پایگاه النخیب فقط همان پایگاهی است که کشف شد.» یک مقام دیگر عراقی نیز وجود پایگاه دوم اسرائیل در صحرای غربی عراق را تایید کرده، اما محل دقیق آن را فاش نکرده است.<br><br>گزارش نیویورک‌تایمز می‌گوید افشای این پایگاه‌ها پرسش‌های دشواری را برای بغداد ایجاد کرده است؛ از جمله اینکه آیا نیروهای عراقی واقعاً از حضور خارجی در خاک کشور بی‌اطلاع بوده‌اند یا از آن اطلاع داشته اما سکوت کرده‌اند.<br><br>وعد الکدو، نماینده پارلمان عراق که در جلسه محرمانه توجیهی شرکت داشته، به این روزنامه گفته است: «این موضوع نشان‌دهنده بی‌اعتنایی آشکار به حاکمیت عراق، دولت و نیروهای آن و همچنین کرامت مردم عراق است.»<br><br><a href=\"https://www.iranintl.com/fa/202605179416\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i>متن کامل گزارش را اینجا بخوانید</a> <br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "اسرائیل بیش از یک سال از دو پایگاه مخفی در عراق برای عملیات علیه ایران استفاده کرد نیویورک‌تایمز در گزارشی تحقیقی فاش کرد که اسرائیل بیش از یک سال در صحرای غربی عراق دو پایگاه مخفی ایجاد و به‌طور متناوب از آن‌ها برای پشتیبانی از عملیات نظامی علیه حکومت ایران استفاده کرده است؛ پایگاه‌هایی که به گفته مقام‌های عراقی و منطقه‌ای، در جنگ ۱۲ روزه نیز نقش داشته‌اند. این گزارش همچنین به کشته شدن یک چوپان عراقی اشاره می‌کند که به گفته خانواده‌اش، پس از کشف یکی از این پایگاه‌ها جان خود را از دست داده است. به گزارش نیویورک‌تایمز، ماجرا از سوم مارس [۱۲ اسفند] آغاز شد؛ زمانی که عوض الشمری، چوپان ۲۹ ساله اهل منطقه النخیب در غرب عراق، برای خرید مایحتاج روزانه از محل سکونت خود خارج شد اما هرگز بازنگشت. سه شاهد از ساکنان بادیه‌نشین منطقه به این روزنامه گفته‌اند که خودروی او هنگام بازگشت توسط یک بالگرد تعقیب شد و هدف شلیک‌های متعدد قرار گرفت تا سرانجام در میان شن‌های بیابان متوقف شد. چند ساعت بعد، خانواده او خودروی سوخته و جسدش را پیدا کردند. دو پایگاه اسرائیلی در عراق؛ یکی افشا شد، دیگری همچنان در ابهام نیویورک‌تایمز به نقل از مقام‌های عراقی گزارش داده که اسرائیل دست‌کم دو پایگاه مخفی در صحرای غربی عراق داشته است. وجود یکی از این پایگاه‌ها پیش‌تر توسط وال‌استریت ژورنال گزارش شده بود، اما مقام‌های عراقی اکنون از وجود پایگاه دومی نیز خبر داده‌اند که تاکنون علنی نشده بود. بر اساس این گزارش، پایگاهی که عوض الشمری به آن برخورد کرد، پیش از جنگ اخیر میان آمریکا، اسرائیل و جمهوری اسلامی ایجاد شده بود و در جنگ ۱۲ روزه در خرداد علیه تهران مورد استفاده قرار گرفت. یکی از مقام‌های امنیتی منطقه‌ای به نیویورک‌تایمز گفته اسرائیل از اواخر سال ۲۰۲۴ برای ساخت این پایگاه برنامه‌ریزی می‌کرد و در حال شناسایی مناطق دورافتاده برای استفاده در درگیری‌های آینده بود. تردیدها درباره اطلاع آمریکا از حضور اسرائیل در عراق نیویورک‌تایمز می‌نویسد اطلاعات مقام‌های منطقه‌ای نشان می‌دهد دست‌کم یکی از این پایگاه‌ها از ژوئن ۲۰۲۵ [خرداد ۱۴۰۴] یا حتی پیش‌تر برای آمریکا شناخته‌شده بوده است؛ موضوعی که این احتمال را مطرح می‌کند واشینگتن از حضور نیروهای اسرائیلی در خاک عراق اطلاع داشته اما آن را با بغداد در میان نگذاشته باشد. مقام‌های منطقه‌ای گفته‌اند ساختار امنیتی عراق و نقش آمریکا در آن، بخشی از محاسبات اسرائیل برای فعالیت مخفیانه در خاک عراق بوده است. دو مقام امنیتی عراق نیز به این روزنامه گفته‌اند که در جریان جنگ‌های اخیر، واشینگتن بغداد را وادار کرده بود برای حفاظت از هواپیماهای آمریکایی، رادارهای خود را خاموش کند؛ اقدامی که وابستگی عراق به آمریکا برای تشخیص تهدیدهای هوایی را افزایش داده بود. حمله به نیروهای عراقی و شناسایی پایگاه بر اساس گزارش، ارتش عراق پیش از کشف پایگاه توسط چوپان، بیش از یک ماه به حضور احتمالی نیروهای اسرائیلی در بیابان مشکوک بود و فعالیت‌ها را از دور زیر نظر داشت. ژنرال علی الحمدانی، فرمانده نیروهای فرات غربی عراق، به نیویورک‌تایمز گفته است: «تا امروز، دولت درباره این موضوع سکوت کرده است.» پس از گزارش عوض الشمری، نیروهای شناسایی عراق به منطقه اعزام شدند، اما طبق اعلام مقام‌های عراقی، هدف حمله قرار گرفتند؛ حمله‌ای که در آن یک سرباز کشته، دو نفر زخمی و دو خودرو منهدم شد. حمدانی گفته است پس از تماس فرماندهان عراقی با ارتش آمریکا و دریافت این پاسخ که نیروهای حاضر آمریکایی نیستند، مقام‌های عراقی نتیجه گرفتند که با نیروهای اسرائیلی روبه‌رو بوده‌اند. او گفت: «وقتی تایید شد نیروها آمریکایی نیستند، فهمیدیم که اسرائیلی هستند.» افشای پایگاه دوم و نگرانی درباره حاکمیت عراق چهار روز پس از حمله به نیروهای عراقی، پارلمان عراق فرماندهان نظامی را برای ارائه توضیح فراخواند. حسن فدعام، یکی از نمایندگان حاضر در جلسه، به نیویورک‌تایمز گفت: «پایگاه النخیب فقط همان پایگاهی است که کشف شد.» یک مقام دیگر عراقی نیز وجود پایگاه دوم اسرائیل در صحرای غربی عراق را تایید کرده، اما محل دقیق آن را فاش نکرده است. گزارش نیویورک‌تایمز می‌گوید افشای این پایگاه‌ها پرسش‌های دشواری را برای بغداد ایجاد کرده است؛ از جمله اینکه آیا نیروهای عراقی واقعاً از حضور خارجی در خاک کشور بی‌اطلاع بوده‌اند یا از آن اطلاع داشته اما سکوت کرده‌اند. وعد الکدو، نماینده پارلمان عراق که در جلسه محرمانه توجیهی شرکت داشته، به این روزنامه گفته است: «این موضوع نشان‌دهنده بی‌اعتنایی آشکار به حاکمیت عراق، دولت و نیروهای آن و همچنین کرامت مردم عراق است.» 🔗متن کامل گزارش را اینجا بخوانید @iranintltv",
-      "media": [],
-      "reactions": [],
-      "views_label": "4.55K",
-      "posted_at": "2026-05-17T15:33:26+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337646"
-    },
-    {
-      "id": "IranintlTV/337645",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "وزارت دفاع امارات متحده عربی از مقابله با سه پهپاد شلیک‌شده از مرزهای غربی خبر داد. بر اساس این گزارش، پدافند هوایی این کشور دو فروند از پهپادها را منهدم کرد، اما پهپاد سوم به یک ژنراتور برق در خارج از محدوده داخلی نیروگاه هسته‌ای براکه در منطقه الظفره اصابت کرد.<br><br>گفت‌وگو با هوشنگ حسن‌یاری، کارشناس خاورمیانه و امور نظامی<br><a href=\"https://t.me/iranintltv\" target=\"_blank\">@iranintltv</a>",
-      "plain_text": "وزارت دفاع امارات متحده عربی از مقابله با سه پهپاد شلیک‌شده از مرزهای غربی خبر داد. بر اساس این گزارش، پدافند هوایی این کشور دو فروند از پهپادها را منهدم کرد، اما پهپاد سوم به یک ژنراتور برق در خارج از محدوده داخلی نیروگاه هسته‌ای براکه در منطقه الظفره اصابت کرد. گفت‌وگو با هوشنگ حسن‌یاری، کارشناس خاورمیانه و امور نظامی @iranintltv",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/IranintlTV/337645",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/QrlmiAvDXTm5MJNLvXou0o26wBsDWKYUSsZ4wLJk_0bkKgTSkMdPfd1BgRSPdmB6hepNZUt5kriT7tuMoL9xb60rdPrXMwBYIMtj6cmdRAs6V3zYGnQ00yxFAgN_M1Xfc-UqddGSSQk7auv_LJTxPPz3aMaN3rJmzF8_xAhFaWU2aH9RGGzHya05CJkLz584esxthjLaA0cqOdlIsuYiWIHFuLp9QzjrVgeUXA_POxNk-vBlFckmSTA0KgQKq0qJmw9YwHdVArsVCb3PMFByRPEZQutkT7YjnNtx9vAz_9QSYZVxp_n-MkCcel40TJYaJPTCVeKh1xM9ImDZgeZlEA",
-          "thumbnail_path": "channels/iranintltv/media/2c1ecf6ac2cb404694d590f7.jpg",
-          "duration_label": "6:21",
-          "aspect_ratio": 1.7750000000000026
-        }
-      ],
-      "reactions": [],
-      "views_label": "7.91K",
-      "posted_at": "2026-05-17T15:25:24+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337645"
-    },
-    {
-      "id": "IranintlTV/337644",
-      "author_name": "Iran International ایران اینترنشنال",
-      "author_photo_url": "https://cdn4.telesco.pe/file/EXQY1VuPBfIhwSfI7scCN67K8N4_Nsg-45f5D6F_blhGCTTjHqKMVKQRlBmhs_d0w_zXYzFE8lsoOPQiEg8wo-r0UTCr1mmfIpLGj4CvpmkqKYx9e7H5qe3gXy2gPrHngdufRXdeutGn46YA8caVLLkZmZf81ZGOLvTuEvRqiXRRli5FWxfLlE3lekpxyLngcslbK9YUL720ZFNVH2JCrfu-i_G8x9_T2gUp3Fa2qAddttoECAqKoFgVYNcqNMbI_k6Ae85NlUkbtLQFqqFFpObYt44xFQxEnVmFuDIkG-kP8OfFcjY8SZu64yxzr1fylG4V-6D9gMGti1qctlSQfQ.jpg",
-      "author_photo_path": "channels/iranintltv/media/10a6073772fafbddd692c7d9.jpg",
-      "body_html": "لیندسی گراهام، سناتور جمهوری‌خواه آمریکا در گفت‌وگو با شبکه ان‌بی‌سی خواستار اقدام نظامی بیشتر آمریکا علیه جمهوری اسلامی شد.<br>او افزود: وضعیت فعلی به همه ما آسیب می‌زند، هرچه تنگه هرمز بیشتر بسته بماند و ما بیشتر دنبال توافقی برویم که هیچ‌وقت حاصل نمی‌شود. جمهوری اسلامی قوی‌تر می‌شود.<br><br>سناتور گراهام افزود: «تا این لحظه، هیچ چیزی نشان نمی‌دهد افرادی که اکنون در قدرت هستند، از نظر اهداف رژیم برای تروریسم جهانی، نابودی اسرائیل و حمله به ما تفاوتی کرده باشند.»<br><br>او اضافه کرد: «آنچه رئیس‌جمهور ترامپ از نظر نظامی انجام داده فوق‌العاده بوده، اما هنوز اهداف بیشتری وجود دارد و کارهای بیشتری هست که می‌توانیم برای ضربه زدن به ایران انجام دهیم.»<br><a href=\"https://iranintl.com/202605173661\" target=\"_blank\" rel=\"noopener\">https://iranintl.com/202605173661</a>",
-      "plain_text": "لیندسی گراهام، سناتور جمهوری‌خواه آمریکا در گفت‌وگو با شبکه ان‌بی‌سی خواستار اقدام نظامی بیشتر آمریکا علیه جمهوری اسلامی شد. او افزود: وضعیت فعلی به همه ما آسیب می‌زند، هرچه تنگه هرمز بیشتر بسته بماند و ما بیشتر دنبال توافقی برویم که هیچ‌وقت حاصل نمی‌شود. جمهوری اسلامی قوی‌تر می‌شود. سناتور گراهام افزود: «تا این لحظه، هیچ چیزی نشان نمی‌دهد افرادی که اکنون در قدرت هستند، از نظر اهداف رژیم برای تروریسم جهانی، نابودی اسرائیل و حمله به ما تفاوتی کرده باشند.» او اضافه کرد: «آنچه رئیس‌جمهور ترامپ از نظر نظامی انجام داده فوق‌العاده بوده، اما هنوز اهداف بیشتری وجود دارد و کارهای بیشتری هست که می‌توانیم برای ضربه زدن به ایران انجام دهیم.» https://iranintl.com/202605173661",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/IranintlTV/337644",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/kJdDdbMPbW0lbT1cLGunX6DFqrmbYmmGH453-mx_3XsPEuZJ9d4OqJ-t0XfYoDpTrSPnMd__m0O9PNdzNVe-2ww8R2fjbfydilnX5_PdJRpZ71TP09_I-jea1GJhZwNhiIbKtMGsNBpg98VF5O-R2iJauFW_PZ7RQlbU3skpg38raAwXLpPpY63-QxiH8CvAPB4fUrttoH4GKkRCXIKniwSlnY17-xDImANjkGHG3UFWFxEgRQLTu2esluNE30b-ZyJ3PYpeMGc8W-tzU_KI0oXcA6vMZZHo2bYVjTEWPXDFOHDp_8JvchHv1gVWesFJuQNoicPxaSJDw3-mKrEexA.jpg",
-          "thumbnail_path": "channels/iranintltv/media/a3073e42a5615433c0112f31.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "12.4K",
-      "posted_at": "2026-05-17T15:13:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/IranintlTV/337644"
     }
   ]
 }

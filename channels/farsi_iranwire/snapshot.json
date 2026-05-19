@@ -1,20 +1,346 @@
 {
   "schema": 2,
-  "fetched_at": "2026-05-18T22:12:57.174Z",
+  "fetched_at": "2026-05-19T10:49:17.527Z",
   "channel": {
     "username": "farsi_iranwire",
     "title": "Iranwire",
     "description_html": "<a href=\"http://iranwire.com/\" target=\"_blank\" rel=\"noopener\">iranwire.com</a><br><a href=\"http://instagram.com/iranwire\" target=\"_blank\" rel=\"noopener\">instagram.com/iranwire</a><br><a href=\"http://twitter.com/iranwire\" target=\"_blank\" rel=\"noopener\">twitter.com/iranwire</a><br><a href=\"http://facebook.com/iranwire\" target=\"_blank\" rel=\"noopener\">facebook.com/iranwire</a><br><a href=\"http://youtube.com/iranwire\" target=\"_blank\" rel=\"noopener\">youtube.com/iranwire</a><br><br>کانال واتساپ: <a href=\"https://iranwire.org/skoqp\" target=\"_blank\" rel=\"noopener\">https://iranwire.org/skoqp</a>",
-    "photo_url": "https://cdn4.telesco.pe/file/Dt3xPrRJ-D2L3U82cuPfTiDBay67JZWBMmGe1C5VyMvemX0y_41Pi-RXPnbKle0iO5mJJuqJjaZAJfVS8CxCH7ByLq4NJUh02pYlhwtX431jkTeCZlhFGIqnhYlX4sHkfH9LrvNi2uK7OBtQQ7NcCxro7YhC4q5vFpMEYDxrhiYmr-c7cka4X-TcG3jxu6LFC859amqN-hoEiS7u9CvxTB3pDTB7lk7k1SBYn4HFHj84Aw3_H3vjW7dEcK77BDbrv28GvyNZo8ZdWsQmayzGR1rG85wVUHQ_S2oRzX6Cjzw5bBqbdEGoy9zUCv2aVDHaVkKBnV1kiqLl6zrbHC7FGw.jpg",
-    "photo_path": "channels/farsi_iranwire/media/9e795f119c462f437c60a11a.jpg",
+    "photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+    "photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
     "subscriber_count": "49.4K"
   },
   "posts": [
     {
+      "id": "Farsi_Iranwire/90238",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
+      "body_html": "روزنامه اعتماد در واکنش به اعلام بازداشت «۶۵۰۰ جاسوس و وطن‌فروش» از سوی مقام‌های انتظامی جمهوری اسلامی، این آمار را نه صرفاً نشانه اقتدار امنیتی، بلکه «زنگ هشداری» درباره وضعیت سازوکارهای امنیتی، نظارتی و اجتماعی کشور توصیف کرد.<br>بیشتر: <a href=\"https://iranwire.com/fa/news-1/152595\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152595</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "روزنامه اعتماد در واکنش به اعلام بازداشت «۶۵۰۰ جاسوس و وطن‌فروش» از سوی مقام‌های انتظامی جمهوری اسلامی، این آمار را نه صرفاً نشانه اقتدار امنیتی، بلکه «زنگ هشداری» درباره وضعیت سازوکارهای امنیتی، نظارتی و اجتماعی کشور توصیف کرد. بیشتر: https://iranwire.com/fa/news-1/152595 @Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90238",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/DYudfMFcD1-5Wdrk1Mzye3eOkkkIsj_qK63xCq2IZUYpVc81dweCLQ5eybKtWDQbkXr8ny7OpE6NWW27-53zRBlz-rSNkcv78u5Y7UO15DmC5hLH7bpWTukffnicUVEFyp6rBSYX-OHej2OBRtYK__74kGMI9S7Xeu3n8DIWQx2DnVRoWwbrRaY_lRMTGkyfmxwgcBXahjVHR6dUkOTQyFu_E7gVEPcJ2hF3gH1mR4CeOa9Wr8CBBVeLSxPBc2fTZPbs9gopfFHMUfYrnhvE9qeaaOhpMnf-oBEPMCE8b5jY_YGVfK1ZkUaQuH8MZMAqqGlHIMgfoE5DEhaRjy8ngg.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/3cccd8783f48011722930d69.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "130",
+      "posted_at": "2026-05-19T10:42:41+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/90238"
+    },
+    {
+      "id": "Farsi_Iranwire/90237",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
+      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93BB.png')\"><b>📻</b></i> نسخه کامل برنامه نیمروزی رادیو ایران‌وایر - سه‌شنبه ۲۹ اردیبهشت<br><br>در دو نوبت به وقت ایران، ساعت ۱۴ تا ۱۵ روی موج کوتاه ۱۵۵۰۰ کیلوهرتز<br>و ساعت ۲۳ تا ۲۴ روی موج کوتاه ۹۷۷۰ کیلوهرتز در داخل ایران با شما هستیم.<br>همین‌طور از طریق وب‌سایت و شبکه‌های اجتماعی در چهارگوشه جهان.<br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "📻 نسخه کامل برنامه نیمروزی رادیو ایران‌وایر - سه‌شنبه ۲۹ اردیبهشت در دو نوبت به وقت ایران، ساعت ۱۴ تا ۱۵ روی موج کوتاه ۱۵۵۰۰ کیلوهرتز و ساعت ۲۳ تا ۲۴ روی موج کوتاه ۹۷۷۰ کیلوهرتز در داخل ایران با شما هستیم. همین‌طور از طریق وب‌سایت و شبکه‌های اجتماعی در چهارگوشه جهان. @Farsi_Iranwire",
+      "media": [],
+      "reactions": [],
+      "views_label": "208",
+      "posted_at": "2026-05-19T10:31:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/90237"
+    },
+    {
+      "id": "Farsi_Iranwire/90236",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
+      "body_html": "وزارت خزانه‌داری آمریکا اعلام کرد شرکت هندی «آدانی اینترپرایزز» (Adani Enterprises) پذیرفته است برای حل‌وفصل پرونده نقض تحریم‌های ایران، ۲۷۵ میلیون دلار به دولت آمریکا پرداخت کند.<br>بیشتر: <a href=\"https://iranwire.com/fa/news-1/152592\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152592</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "وزارت خزانه‌داری آمریکا اعلام کرد شرکت هندی «آدانی اینترپرایزز» (Adani Enterprises) پذیرفته است برای حل‌وفصل پرونده نقض تحریم‌های ایران، ۲۷۵ میلیون دلار به دولت آمریکا پرداخت کند. بیشتر: https://iranwire.com/fa/news-1/152592 @Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90236",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/VONDCT9dIOZ8fsD8wWGb7anG2ql39TkPbgOhZLPjLXgp-iMFaKK5UwlcKAdSVc8L8JB7Tc7JMt8rXCLNh8Y4lsM9Ra1gmlZKLDpc7dDbEihl1m7Mww6HUHEftXXvXL5qhcNIjdVHoERGLX32DuYItLHdyhSYmQCNeDSwFVmXY6Vx_LTjvQ4UHNlfGn_55LOMy58pg3culd-3ibl83bH96E1aOxHaYvPhvWm3fiE-yHGEl2_gCDxakxMLhBtTp_CPBrRTKkakeFJ1rHvu1y_iRVlaNHHE8eeF09NwrnoQTdT3MHJ-dtuphRHSyANRTOCowRrnHaf2aJUCDFFyxxhnfg.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/3d20fad313bd219f67d7a674.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "281",
+      "posted_at": "2026-05-19T10:25:51+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/90236"
+    },
+    {
+      "id": "Farsi_Iranwire/90235",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
+      "body_html": "در حالی که ایران وارد هشتاد و یکمین روز قطع و محدودیت گسترده اینترنت شده، سازمان مستقل نظارت بر اینترنت، نت‌بلاکس، اعلام کرد خاموشی اینترنت در ایران پس از بیش از ۱۹۲۰ ساعت همچنان ادامه دارد و جمهوری اسلامی همزمان علاوه بر ادامه محدودسازی اینترنت داخلی، خواستار اعمال کنترل بر کابل‌های اینترنتی عبوری از تنگه هرمز و همچنین تبعیت شرکت‌های بزرگ فناوری از قوانین جمهوری اسلامی شده است.<br>بیشتر: <a href=\"https://iranwire.com/fa/news-1/152591\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152591</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "در حالی که ایران وارد هشتاد و یکمین روز قطع و محدودیت گسترده اینترنت شده، سازمان مستقل نظارت بر اینترنت، نت‌بلاکس، اعلام کرد خاموشی اینترنت در ایران پس از بیش از ۱۹۲۰ ساعت همچنان ادامه دارد و جمهوری اسلامی همزمان علاوه بر ادامه محدودسازی اینترنت داخلی، خواستار اعمال کنترل بر کابل‌های اینترنتی عبوری از تنگه هرمز و همچنین تبعیت شرکت‌های بزرگ فناوری از قوانین جمهوری اسلامی شده است. بیشتر: https://iranwire.com/fa/news-1/152591 @Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90235",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/LBEKpu_JozyR4bRFNgvic7RAWvaCBWXNQpIABI6BfLLeBZq5Q2pB48XVXeM060fLStR-i62jAh3LiL2ZkrEd18thzMLoebql71XLJNqV0SAXjQesiZTGtB6ixT--sxL00Qq5_AeueNuqmYb2qH89RaP_JIuS00ttdCGxUPa-Dosh9SrAy8_q60QD3t9_6GUq0EXwzpNKZDDWkdSxeujN7Z_67zmkB_z3uDNW71o_rLDOFp2PRFjSrmrJuxANi4FgPYXkHzslgpLLSJLN_KBTQ4YuHv9Eo-pkZnWrab_68h_4rJT-sUcaOLdK6JRJQ66lkx5_efOhrwSIO0-ztnU_oQ.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/08f177b4fdbd2742b3b2fd5f.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "361",
+      "posted_at": "2026-05-19T10:10:33+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/90235"
+    },
+    {
+      "id": "Farsi_Iranwire/90234",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
+      "body_html": "سازمان یوروپل (پلیس اتحادیه اروپا) در بیانیه‌ای اعلام کرد در قالب یک عملیات مشترک با مشارکت ۱۹ کشور، هزاران محتوای آنلاین مرتبط با سپاه پاسداران انقلاب اسلامی را در فضای مجازی هدف قرار داده و برای حذف یا محدود سازی به پلتفرم‌های دیجیتال ارجاع داده است.<br>بیشتر: <a href=\"https://iranwire.com/fa/news-1/152590\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152590</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "سازمان یوروپل (پلیس اتحادیه اروپا) در بیانیه‌ای اعلام کرد در قالب یک عملیات مشترک با مشارکت ۱۹ کشور، هزاران محتوای آنلاین مرتبط با سپاه پاسداران انقلاب اسلامی را در فضای مجازی هدف قرار داده و برای حذف یا محدود سازی به پلتفرم‌های دیجیتال ارجاع داده است. بیشتر: https://iranwire.com/fa/news-1/152590 @Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90234",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/Uy9OPeevYlnSaHzq8R56V03JPf0EcicI_gBTIJIiy4aHYg8ezdemxv-c1j65ncGSBLgKhjJOTKC_WP0vjYkDH_QaVYf5nSLrJmeO0uFpDz8uNK7fLPiBs1zFwqyzNiKAa8tCTpFvyR0Q6hAfOQVM7W7bIU2YmgGg9G1Qj921HTQKf1OMmIKn40WOg8Wd2UhRSVf7ugR-24fsIY34xtfvxp2dTFp-SrwHvxvQNCr9sScLMmLshGx3VZ8W_fr3YRlF4OReEfhg0xc-ksn0vBySCHXuyTP3QQ-rL1hq5rEcRc1PmoNGZZMMVAr3R2pMog3ic30zguMc0D7GlUrzrorliQ.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/92293ad5b5b36fda33f1434d.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "534",
+      "posted_at": "2026-05-19T09:44:03+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/90234"
+    },
+    {
+      "id": "Farsi_Iranwire/90233",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
+      "body_html": "بابک زنجانی، میلیاردر نفتی و یکی از بزرگ‌ترین مفسدان اقتصادی تاریخ ایران، که به اتهام بدهی کلان به وزارت نفت و فساد به اعدام محکوم شده بود و اخیرا از زندان آزاد شده‌است، از شبکه اجتماعی جدیدش رونمایی کرد.<br>او در حساب کاربری‌اش در شبکه اجتماعی اینستاگرام در این رابطه نوشت که امروز ۲۸ اردیبهشت ۱۴۰۵، شبکه اجتماعی «مای دات» بر بستر بلاکچین اختصاصی «دات‌وان» فعالیت آزمایشی خود را آغاز کرد.<br>او بدون توجه به حق مالکیت محتوا، در رابطه با این شبکه اجتماعی «جدیدش» نوشت: «‏بیش از ۲۵ هزار حساب کاربری ایرانی مجاز از شبکه اجتماعی ایکس، عیناً و همراه با تمامی محتوای منتشرشده، در مای دات بازتاب داده خواهد شد.»<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "بابک زنجانی، میلیاردر نفتی و یکی از بزرگ‌ترین مفسدان اقتصادی تاریخ ایران، که به اتهام بدهی کلان به وزارت نفت و فساد به اعدام محکوم شده بود و اخیرا از زندان آزاد شده‌است، از شبکه اجتماعی جدیدش رونمایی کرد. او در حساب کاربری‌اش در شبکه اجتماعی اینستاگرام در این رابطه نوشت که امروز ۲۸ اردیبهشت ۱۴۰۵، شبکه اجتماعی «مای دات» بر بستر بلاکچین اختصاصی «دات‌وان» فعالیت آزمایشی خود را آغاز کرد. او بدون توجه به حق مالکیت محتوا، در رابطه با این شبکه اجتماعی «جدیدش» نوشت: «‏بیش از ۲۵ هزار حساب کاربری ایرانی مجاز از شبکه اجتماعی ایکس، عیناً و همراه با تمامی محتوای منتشرشده، در مای دات بازتاب داده خواهد شد.» @Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "video",
+          "asset_url": "https://t.me/Farsi_Iranwire/90233",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/r6sxFujNZaY0Ni4T-cLfdVzkEd5TgTta7a0z_JGJ9fo5_WeiE64cRVQQvnB1vpz11yFgzW9sLrs4YJIqhX2bD4Fgj_UKlCqfsdDQEza7W5_FCscwfkUcZgiq6TTx0KZ5ibFR4-_ifzBPg9VTYGg7oulOW2UhhKqYiWZDVZDoyT9Z-O9ro4ejQJiQff_pVcKtMJ1NHQkZUJ5Pl5r0E4j5kmEjKMAjo0gxbWL7jEHAjL01uBiMmKA2CvwISFOs9u0UmOlY9zu8YeZjhMDIW-whsbb8g66w8KYR3Taxs7Tprw3uWIjfd61ff--zYXILOKLcECqqgVCQq4EFTQqX_zYfNA",
+          "thumbnail_path": "channels/farsi_iranwire/media/190d954415cdf508b794b403.jpg",
+          "duration_label": "0:21",
+          "aspect_ratio": 0.7500000000000188
+        }
+      ],
+      "reactions": [],
+      "views_label": "856",
+      "posted_at": "2026-05-19T08:59:20+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/90233"
+    },
+    {
+      "id": "Farsi_Iranwire/90232",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
+      "body_html": "معاون وزیر امور خارجه جمهوری اسلامی می‌گوید تهران در پیشنهادهای اخیر خود به آمریکا برای پایان جنگ میان دو کشور، خواستار برخورداری از حق غنی‌سازی، خاتمه جنگ در تمام جبهه‌ها از جمله لبنان و خروج نیروهای آمریکایی از محیط پیرامونی ایران شده است.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/152585\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152585</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "معاون وزیر امور خارجه جمهوری اسلامی می‌گوید تهران در پیشنهادهای اخیر خود به آمریکا برای پایان جنگ میان دو کشور، خواستار برخورداری از حق غنی‌سازی، خاتمه جنگ در تمام جبهه‌ها از جمله لبنان و خروج نیروهای آمریکایی از محیط پیرامونی ایران شده است. بخوانید: https://iranwire.com/fa/news-1/152585 @Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90232",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/JAW5hYtQIDRCBES9i4DitAWK_j1xSg4zmryPOPMfRfcDlq_6oxXFP1KOF1a58bWvmHaxmE79wrLWuRR89JDD4RUTnABEc3sIjWlsaA8I_z-CQ_x_CK-GpstPwCwKf3aPcvJs9M2PcJTiI4luVj5MJNnFa_aK7iho0O0OC8JssCjLA2zk-WlNXBXQFycguKbTTTp03mwZerNHbTWnkThYCGJYGh3fm-RvDGR3yz2N1eUfNKpzZnv4bnDeHOKCiHnDSZN7nwRskRECBkyyYZ2-TIL_gPBkCejLKX1aJo8umWdnmufLSZYNkxxtOSIKeA3oE-oe2coBmvYdlWqYCRA9nQ.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/2ff9bf4177d1142386e3921d.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.08K",
+      "posted_at": "2026-05-19T07:22:59+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/90232"
+    },
+    {
+      "id": "Farsi_Iranwire/90231",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
+      "body_html": "فرزاد طلاکش، دبیرکل فدراسیون طیور ایران از کاهش قابل توجه مصرف مرغ در کشور و افزایش فشار بر زنجیره تولید و توزیع این محصول خبر داد.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/152584\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152584</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "فرزاد طلاکش، دبیرکل فدراسیون طیور ایران از کاهش قابل توجه مصرف مرغ در کشور و افزایش فشار بر زنجیره تولید و توزیع این محصول خبر داد. بخوانید: https://iranwire.com/fa/news-1/152584 @Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90231",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/DUo8qskkjngbc7bvCfjwK4YGHjBvMEPCxE5Q_tOkyhCdaAt0aj0rUi0XkZ1GpQb-mjuEefMuosUC-Ei7c1C0TJmpUSVoM5OkOvRv1VuBX1aUB00LO7s8wVwQEjg5BUStxqOpEG9XdoA8cow_Fy32fYjwhqHkFGdWNmjzS40JFII-ZUIHKkpWNmQGWAoKIqFN7MhU4mkMm1TcPj4Jh3fhZ7QFQfFCri_Nx7T8u-JmCUlG_y-2DcwDgCWBrRVrrqF-_2AXQ0B3gHBobXffnzM2JD7lmmPih36XfZ6xoU3yi1ctX36b2qXLZWawJUHEQHM66xgL0mxhVvIzmxQSZ1XMGA.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/a4d6ee9868a210c006cdb67b.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "1.02K",
+      "posted_at": "2026-05-19T07:17:46+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/90231"
+    },
+    {
+      "id": "Farsi_Iranwire/90230",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
+      "body_html": "رسانه‌های داخلی ایران از آغاز دوباره فعالیت بورس تهران پس از ۸۰ روز تعطیلی خبر داده‌اند؛ وقفه‌ای که به گفته منابع رسمی، در پی شرایط ناشی از جنگ و آسیب به برخی زیرساخت‌های صنعتی ایجاد شده بود.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/152583\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152583</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "رسانه‌های داخلی ایران از آغاز دوباره فعالیت بورس تهران پس از ۸۰ روز تعطیلی خبر داده‌اند؛ وقفه‌ای که به گفته منابع رسمی، در پی شرایط ناشی از جنگ و آسیب به برخی زیرساخت‌های صنعتی ایجاد شده بود. بخوانید: https://iranwire.com/fa/news-1/152583 @Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90230",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/izXAcdQD8NmgIbfa-VWoDVzmAj1cKk9-Skk6aQbBXK7rUlPg62WQOWYErKSZRJpZE5QSbtXRIJiYfoIMhVAhgSWqWOfAlDRWejpW2NRByP0tzXIbujcKRMFAnPZhiE8SfcfD6YNzBh8sU38gtY8SJ7ZCs9fYWYsApagtrPdnrEoFC_yWwAsmGGv8Ksa0OJWqhyyU9WT9Ye1s8jK_B9cjoT-R1e9yyI46l9TR5AEQbBD1hgkMrcS08iBlLOLaSOgZECKolua1F0cJw4EtKY5XmkDOQvAWNt3pvEJaylh0DeeJj124SeoKARzRQVXICpEXui5oZa0qUBAftF8m5ie7Pw.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/5f595c10ae293c5d0e04eeb9.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "899",
+      "posted_at": "2026-05-19T07:12:40+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/90230"
+    },
+    {
+      "id": "Farsi_Iranwire/90229",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
+      "body_html": "نیویورک تایمز در گزارشی اعلام کرد جمهوری اسلامی ایران در دوره آتش‌بس موقت، اقدام به بازسازی بخش‌هایی از زیرساخت‌های موشکی آسیب‌دیده و احیای ده‌ها سایت استقرار موشک‌های بالستیک کرده است.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/152582\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152582</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "نیویورک تایمز در گزارشی اعلام کرد جمهوری اسلامی ایران در دوره آتش‌بس موقت، اقدام به بازسازی بخش‌هایی از زیرساخت‌های موشکی آسیب‌دیده و احیای ده‌ها سایت استقرار موشک‌های بالستیک کرده است. بخوانید: https://iranwire.com/fa/news-1/152582 @Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90229",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/TO9jPuGSUDZXc8OUc84bBgIrMnQi5zWPmjopJqnOLqY8PResSwMnTcdh8s0aq0FdQw5tPitKp38NAv44LwSv4hySvSfTCCAJwvLzNaHGHXZmVCIlGSd_HiF_oZYeIaAqLSw7Brv3e7Pwhz3CXb5fjSReOJYdX018AgpucviNrPB4AaYdilt3wI5S-mFpqofI7cFZh42zxzC6bMA3UF1lTRMhZlCB_HZhQ7JS6RIyxPeEEO6UzSvtAP379sjyK6SovvFUkRUvMQrn8Y46WmO6nVv2obsg7ia1gQWEQtCMo0UuIX176n_gA_1Wl3narsWtKrnQDtht4PSy5Qfde-Zx4w.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/184e8dcdea6d8eaf560bfad0.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "837",
+      "posted_at": "2026-05-19T07:05:47+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/90229"
+    },
+    {
+      "id": "Farsi_Iranwire/90228",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
+      "body_html": "زینب رحیمی، روزنامه‌نگار حوزه محیط زیست، در این رابطه نوشت که حامد تیزرویان روز ۱۴ اردیبهشت ۱۴۰۵، بازداشت شده و موبایل و دیگر وسایل الکترونیکی او ضبط شده است.<br>اتهام مطرح‌شده علیه حامد تیزرویان «اجتماع و تبانی با هدف اقدام علیه امنیت ملی» عنوان شده است. بازداشت او در پی انتشار مطالبی انتقادی درباره کشتار معترضان در دی‌ماه و همچنین اعتراض به اعدام‌ها در شبکه‌های اجتماعی صورت گرفته است.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/152581\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152581</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "زینب رحیمی، روزنامه‌نگار حوزه محیط زیست، در این رابطه نوشت که حامد تیزرویان روز ۱۴ اردیبهشت ۱۴۰۵، بازداشت شده و موبایل و دیگر وسایل الکترونیکی او ضبط شده است. اتهام مطرح‌شده علیه حامد تیزرویان «اجتماع و تبانی با هدف اقدام علیه امنیت ملی» عنوان شده است. بازداشت او در پی انتشار مطالبی انتقادی درباره کشتار معترضان در دی‌ماه و همچنین اعتراض به اعدام‌ها در شبکه‌های اجتماعی صورت گرفته است. بخوانید: https://iranwire.com/fa/news-1/152581 @Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90228",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/mBZG2VTXJFFxmkvsIAdeZSSWMZNZDXCKC52NdMxTLZGGXeKlxoYotzCvozJEC_-4CEwDBaM1c6-EpEU-7C3e8mVzLKjjLqRR0hg80sUYPSUeAF315jvYMNDu__9aklA3p9NcLCsXfRsBm3vVMyO9SCoYuAN8YCn3POlXbizU-apXEJBxvqYRNXWleq4DQFfQpUwb54ZewfuVXODHUQRdyAVR8ngFasjgkRb9tkszMsErlu9Pl5jUfxZ-FvlZ2jTeYf7T_ogpK3TtYwno--k1zzhjM6SwSWEAEEZ1YuSiiAvd_95HIa7NvkZbKE9KSs9sQbaI93WFTknNe-jW-Uab0Q.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/454d72dde6852d371d425d03.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "922",
+      "posted_at": "2026-05-19T06:34:25+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/90228"
+    },
+    {
+      "id": "Farsi_Iranwire/90227",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
+      "body_html": "هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، در گزارشی با عنوان «میان موشک و سرکوب» اعلام کرد که از زمان آغاز حملات آمریکا و اسرائیل به ایران، تا هفته گذشته دست‌کم چهار هزار و ۲۳ نفر بازداشت و ۵۰ نفر در ایران اعدام شده‌اند.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/152578\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152578</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، در گزارشی با عنوان «میان موشک و سرکوب» اعلام کرد که از زمان آغاز حملات آمریکا و اسرائیل به ایران، تا هفته گذشته دست‌کم چهار هزار و ۲۳ نفر بازداشت و ۵۰ نفر در ایران اعدام شده‌اند. بخوانید: https://iranwire.com/fa/news-1/152578 @Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90227",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/nW04mLG5hxsX8-GF3Lxl4-t4-TvfswJGj9Y_HuIDv4RVK5nTersWROWLI5OvelRRABCYjDytVUI1omeG3Qm1AEUri1MiEovwaIh4OOSSaBZmIi7sme6t4IgYKSK1Se903llythp62IgCGI69cgc14ZdvvxFNLV3gBinYP5Yvw-h-10CaOLqZkINeeaaI2uLSvq8dcdTZXHeTcCtA5RrR7NNk6zseFuE1pRHBft8NcBXvk29f7KdFtUIig4ekskCiumoH5vPUFQKWwpdCmQJ0iq6MKWN6c-8XkUIp7BC7ETOUTlHxXHCi4j-iLFVAEZosdPX0dBphJ7B6nhCIzKwVog.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/4110f6c69ee5b178ca464e56.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "923",
+      "posted_at": "2026-05-19T06:19:15+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/90227"
+    },
+    {
+      "id": "Farsi_Iranwire/90226",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
+      "body_html": "گاردین در گزارشی درباره بحث‌های مطرح‌شده پیرامون دریافت هزینه از کابل‌های اینترنتی زیردریایی در تنگه هرمز، نوشته است که اجرای چنین طرحی از سوی جمهوری اسلامی «بسیار بعید» به نظر می‌رسد.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/152577\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152577</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "گاردین در گزارشی درباره بحث‌های مطرح‌شده پیرامون دریافت هزینه از کابل‌های اینترنتی زیردریایی در تنگه هرمز، نوشته است که اجرای چنین طرحی از سوی جمهوری اسلامی «بسیار بعید» به نظر می‌رسد. بخوانید: https://iranwire.com/fa/news-1/152577 @Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90226",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/jMYXdBFic6OpWwPuKiH0n1iolXpIHCdTae3LfCLkRAmarmQLDdziEBEJTB1nBkzKW_0j_IUIbBfUSZpwo7VVmEqJoK9kisPRlPvNzdIkk-Seu0KNp77TbINYbyD2fiyln--eAT6IGPtRIoSBodzP9Umc8ELvFe3EAcvwp-EjkyplG6c-yCVI9iOQSULG1F-56f5pi8-WJx4VitxQBjgEkZRMfy9UOOXqXmcQj694fn8Q7e8W8AFg_1XKpTrssiVTWB4mA6CO4GDA40BbbecHSYEvUkL9lHpvmgVGuph5LPIZ82Tv2wrm8BN0qN1eBFIXFYeddLVdYZBvDRTljHrX4w.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/76b87eb234ad5817a9b063aa.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "941",
+      "posted_at": "2026-05-19T06:16:10+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/90226"
+    },
+    {
+      "id": "Farsi_Iranwire/90225",
+      "author_name": "Iranwire",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
+      "body_html": "گزارش‌های منتشر شده از ایران حاکی از فعال شدن سامانه‌های پدافند هوایی در اصفهان و جزیره قشم است. شهروندان از شنیده شدن صدای شلیک پدافند در این مناطق خبر داده‌اند.<br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/152576\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152576</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
+      "plain_text": "گزارش‌های منتشر شده از ایران حاکی از فعال شدن سامانه‌های پدافند هوایی در اصفهان و جزیره قشم است. شهروندان از شنیده شدن صدای شلیک پدافند در این مناطق خبر داده‌اند. بخوانید: https://iranwire.com/fa/news-1/152576 @Farsi_Iranwire",
+      "media": [
+        {
+          "kind": "photo",
+          "asset_url": "https://t.me/Farsi_Iranwire/90225",
+          "asset_path": null,
+          "thumbnail_url": "https://cdn4.telesco.pe/file/qWiZotD84izBcihZwCEk6mNkimqnSeSN0dBjh0UdsXmSjrYQwTj93rF7TQDKc-y4l0LshjiAl7KCLHxpc3u5hY3UR1Xf0V8I2VkYK4v477seAtjSA6qjt4_peZoN9xzpPlz_AnUXs_GTbnBfWMlevHIjhqI3qtWHdYa5uOAHdFElrMDCRHxOuG3dZioISL5vrWCi0q7WPplUuRC1W_1s-OfsaOEUqe8jSMuFWzj3aookTlkCnpGPho4n9IkrMWXqmlW8BI6VF8x483kSLrtEdf-gHTCEUZHUcgt-qTHbMcKKGOJJIJpzq4Jkl0Ypf0w8s1cjzFYcCDqBTUN7wW-OzA.jpg",
+          "thumbnail_path": "channels/farsi_iranwire/media/862b37840bc268ba5ce4ae69.jpg",
+          "duration_label": null,
+          "aspect_ratio": 0.8
+        }
+      ],
+      "reactions": [],
+      "views_label": "943",
+      "posted_at": "2026-05-19T06:13:28+00:00",
+      "edited": false,
+      "permalink": "https://t.me/Farsi_Iranwire/90225"
+    },
+    {
       "id": "Farsi_Iranwire/90224",
       "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Dt3xPrRJ-D2L3U82cuPfTiDBay67JZWBMmGe1C5VyMvemX0y_41Pi-RXPnbKle0iO5mJJuqJjaZAJfVS8CxCH7ByLq4NJUh02pYlhwtX431jkTeCZlhFGIqnhYlX4sHkfH9LrvNi2uK7OBtQQ7NcCxro7YhC4q5vFpMEYDxrhiYmr-c7cka4X-TcG3jxu6LFC859amqN-hoEiS7u9CvxTB3pDTB7lk7k1SBYn4HFHj84Aw3_H3vjW7dEcK77BDbrv28GvyNZo8ZdWsQmayzGR1rG85wVUHQ_S2oRzX6Cjzw5bBqbdEGoy9zUCv2aVDHaVkKBnV1kiqLl6zrbHC7FGw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/9e795f119c462f437c60a11a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> این برنامه از مجموعه برنامه‌های «امنیت دیجیتال» به پرسش‌های کاربران درباره اپلیکیشن «بله» در داخل و خارج از ایران می‌پردازد و به آن‌ها پاسخ می‌دهد.<br>هفته گذشته در برنامه «امنیت دیجیتال» درباره خطراتی که نصب اپلیکیشن «بله» و استفاده از نسخه وب آن برای کاربران به همراه دارد صحبت کردیم که در «رادیو ایران‌وایر» نیز پخش شد. در روزهای بعد از پخش، کاربران پرسش‌هایی را درباره همین اپلیکیشن «بله» مطرح کردند که در گفت‌وگویی دوباره با «امیر رشیدی» محقق امنیت و دسترسی به اینترنت آزاد، به آن‌ها پاسخ می‌دهیم. در این برنامه درباره تفاوت اپلیکیشن با نسخه وب، داشتن گوشی خالی یا سفید تنها برای استفاده از «بله»، ضبط صفحه و امکان اطلاع از آن، بخشی از این پرسش‌هاست که می‌توانید نسخه کامل این گفت‌وگو را در یوتیوب ایران‌وایر، برنامه «امنیت دیجیتال» ببینید و بشنوید.<br>این ویدیو، بخشی از برنامه این هفته «امنیت دیجیتال» است که دوشنبه ۱۸اردیبهشت در برنامه شبانگاهی رادیو ایران‌وایر پخش شد.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
       "plain_text": "🎥 این برنامه از مجموعه برنامه‌های «امنیت دیجیتال» به پرسش‌های کاربران درباره اپلیکیشن «بله» در داخل و خارج از ایران می‌پردازد و به آن‌ها پاسخ می‌دهد. هفته گذشته در برنامه «امنیت دیجیتال» درباره خطراتی که نصب اپلیکیشن «بله» و استفاده از نسخه وب آن برای کاربران به همراه دارد صحبت کردیم که در «رادیو ایران‌وایر» نیز پخش شد. در روزهای بعد از پخش، کاربران پرسش‌هایی را درباره همین اپلیکیشن «بله» مطرح کردند که در گفت‌وگویی دوباره با «امیر رشیدی» محقق امنیت و دسترسی به اینترنت آزاد، به آن‌ها پاسخ می‌دهیم. در این برنامه درباره تفاوت اپلیکیشن با نسخه وب، داشتن گوشی خالی یا سفید تنها برای استفاده از «بله»، ضبط صفحه و امکان اطلاع از آن، بخشی از این پرسش‌هاست که می‌توانید نسخه کامل این گفت‌وگو را در یوتیوب ایران‌وایر، برنامه «امنیت دیجیتال» ببینید و بشنوید. این ویدیو، بخشی از برنامه این هفته «امنیت دیجیتال» است که دوشنبه ۱۸اردیبهشت در برنامه شبانگاهی رادیو ایران‌وایر پخش شد. @Farsi_Iranwire",
       "media": [
@@ -29,7 +355,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "710",
+      "views_label": "1.75K",
       "posted_at": "2026-05-18T20:08:13+00:00",
       "edited": true,
       "permalink": "https://t.me/Farsi_Iranwire/90224"
@@ -37,8 +363,8 @@
     {
       "id": "Farsi_Iranwire/90223",
       "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Dt3xPrRJ-D2L3U82cuPfTiDBay67JZWBMmGe1C5VyMvemX0y_41Pi-RXPnbKle0iO5mJJuqJjaZAJfVS8CxCH7ByLq4NJUh02pYlhwtX431jkTeCZlhFGIqnhYlX4sHkfH9LrvNi2uK7OBtQQ7NcCxro7YhC4q5vFpMEYDxrhiYmr-c7cka4X-TcG3jxu6LFC859amqN-hoEiS7u9CvxTB3pDTB7lk7k1SBYn4HFHj84Aw3_H3vjW7dEcK77BDbrv28GvyNZo8ZdWsQmayzGR1rG85wVUHQ_S2oRzX6Cjzw5bBqbdEGoy9zUCv2aVDHaVkKBnV1kiqLl6zrbHC7FGw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/9e795f119c462f437c60a11a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
       "body_html": "حوالی ساعت ۲۳ یک‌شنبه ۲۷اردیبهشت۱۴۰۵، محوطه معدن طلای «میرگه‌نقشینه» سقز به صحنه هجوم ناگهانی پنج فرد ناشناس تبدیل شد. بر اساس گزارش خبرگزاری‌های رسمی و تایید فرماندار سقز، مهاجمان پس از ورود به محوطه، ابتدا دو تن از نگهبانان معدن را مورد ضرب‌وشتم شدید قرار داده و سپس اقدام به آتش زدن تجهیزات مستقر در محل کردند.<br>بیشتر بخوانید: <a href=\"https://iranwire.com/fa/news-1/152575\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152575</a><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
       "plain_text": "حوالی ساعت ۲۳ یک‌شنبه ۲۷اردیبهشت۱۴۰۵، محوطه معدن طلای «میرگه‌نقشینه» سقز به صحنه هجوم ناگهانی پنج فرد ناشناس تبدیل شد. بر اساس گزارش خبرگزاری‌های رسمی و تایید فرماندار سقز، مهاجمان پس از ورود به محوطه، ابتدا دو تن از نگهبانان معدن را مورد ضرب‌وشتم شدید قرار داده و سپس اقدام به آتش زدن تجهیزات مستقر در محل کردند. بیشتر بخوانید: https://iranwire.com/fa/news-1/152575 @Farsi_Iranwire",
       "media": [
@@ -53,7 +379,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "669",
+      "views_label": "1.55K",
       "posted_at": "2026-05-18T20:06:06+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/90223"
@@ -61,8 +387,8 @@
     {
       "id": "Farsi_Iranwire/90222",
       "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Dt3xPrRJ-D2L3U82cuPfTiDBay67JZWBMmGe1C5VyMvemX0y_41Pi-RXPnbKle0iO5mJJuqJjaZAJfVS8CxCH7ByLq4NJUh02pYlhwtX431jkTeCZlhFGIqnhYlX4sHkfH9LrvNi2uK7OBtQQ7NcCxro7YhC4q5vFpMEYDxrhiYmr-c7cka4X-TcG3jxu6LFC859amqN-hoEiS7u9CvxTB3pDTB7lk7k1SBYn4HFHj84Aw3_H3vjW7dEcK77BDbrv28GvyNZo8ZdWsQmayzGR1rG85wVUHQ_S2oRzX6Cjzw5bBqbdEGoy9zUCv2aVDHaVkKBnV1kiqLl6zrbHC7FGw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/9e795f119c462f437c60a11a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> یک شهروندخبرنگار با ارسال یک فایل صوتی به ایران‌وایر می‌گوید که نمایندگان مجلس در روزهای جنگ و‌آتش‌بس فقط دو بار جلسه آنلاین داشته‌اند و در این جلسه هم فقط در برابر آمریکا و اسراییل موضع داشته‌اند و هیج موضعی در برابر مشکلات اقتصادی و بی‌پناهی مردم نداشته‌اند.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
       "plain_text": "🎥 یک شهروندخبرنگار با ارسال یک فایل صوتی به ایران‌وایر می‌گوید که نمایندگان مجلس در روزهای جنگ و‌آتش‌بس فقط دو بار جلسه آنلاین داشته‌اند و در این جلسه هم فقط در برابر آمریکا و اسراییل موضع داشته‌اند و هیج موضعی در برابر مشکلات اقتصادی و بی‌پناهی مردم نداشته‌اند. @Farsi_Iranwire",
       "media": [
@@ -77,7 +403,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "644",
+      "views_label": "1.47K",
       "posted_at": "2026-05-18T20:03:27+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/90222"
@@ -85,13 +411,13 @@
     {
       "id": "Farsi_Iranwire/90221",
       "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Dt3xPrRJ-D2L3U82cuPfTiDBay67JZWBMmGe1C5VyMvemX0y_41Pi-RXPnbKle0iO5mJJuqJjaZAJfVS8CxCH7ByLq4NJUh02pYlhwtX431jkTeCZlhFGIqnhYlX4sHkfH9LrvNi2uK7OBtQQ7NcCxro7YhC4q5vFpMEYDxrhiYmr-c7cka4X-TcG3jxu6LFC859amqN-hoEiS7u9CvxTB3pDTB7lk7k1SBYn4HFHj84Aw3_H3vjW7dEcK77BDbrv28GvyNZo8ZdWsQmayzGR1rG85wVUHQ_S2oRzX6Cjzw5bBqbdEGoy9zUCv2aVDHaVkKBnV1kiqLl6zrbHC7FGw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/9e795f119c462f437c60a11a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
       "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93BB.png')\"><b>📻</b></i> نسخه کامل برنامه شبانگاهی رادیو ایران‌وایر - دوشنبه ۲۸ اردیبهشت<br><br>در دو نوبت به وقت ایران، ساعت ۱۴ تا ۱۵ روی موج کوتاه ۱۵۵۰۰ کیلوهرتز<br>و ساعت ۲۳ تا ۲۴ روی موج کوتاه ۹۷۷۰ کیلوهرتز در داخل ایران با شما هستیم.<br>همین‌طور از طریق وب‌سایت و شبکه‌های اجتماعی در چهارگوشه جهان.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
       "plain_text": "📻 نسخه کامل برنامه شبانگاهی رادیو ایران‌وایر - دوشنبه ۲۸ اردیبهشت در دو نوبت به وقت ایران، ساعت ۱۴ تا ۱۵ روی موج کوتاه ۱۵۵۰۰ کیلوهرتز و ساعت ۲۳ تا ۲۴ روی موج کوتاه ۹۷۷۰ کیلوهرتز در داخل ایران با شما هستیم. همین‌طور از طریق وب‌سایت و شبکه‌های اجتماعی در چهارگوشه جهان. @Farsi_Iranwire",
       "media": [],
       "reactions": [],
-      "views_label": "790",
+      "views_label": "1.51K",
       "posted_at": "2026-05-18T19:38:53+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/90221"
@@ -99,8 +425,8 @@
     {
       "id": "Farsi_Iranwire/90220",
       "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Dt3xPrRJ-D2L3U82cuPfTiDBay67JZWBMmGe1C5VyMvemX0y_41Pi-RXPnbKle0iO5mJJuqJjaZAJfVS8CxCH7ByLq4NJUh02pYlhwtX431jkTeCZlhFGIqnhYlX4sHkfH9LrvNi2uK7OBtQQ7NcCxro7YhC4q5vFpMEYDxrhiYmr-c7cka4X-TcG3jxu6LFC859amqN-hoEiS7u9CvxTB3pDTB7lk7k1SBYn4HFHj84Aw3_H3vjW7dEcK77BDbrv28GvyNZo8ZdWsQmayzGR1rG85wVUHQ_S2oRzX6Cjzw5bBqbdEGoy9zUCv2aVDHaVkKBnV1kiqLl6zrbHC7FGw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/9e795f119c462f437c60a11a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
       "body_html": "دونالد ترامپ، رییس‌جمهور آمریکا، روز دوشنبه ۲۸ اردیبهشت در شبکه تروث سوشیال اعلام کرد حمله به جمهوری اسلامی را که برای روز سه‌شنبه برنامه‌ریزی‌ شده بود، به درخواست سران سه کشور قطر، عربستان سعودی و امارات متحده عربی لغو کرده است.<br>ترامپ نوشت که امیر قطر، تمیم بن حمد آل ثانی، ولیعهد عربستان، محمد بن سلمان، و رییس‌جمهور امارات، محمد بن زاید آل نهیان، از او خواسته‌اند حمله برنامه‌ریزی‌شده را به تعویق بیندازد، زیرا مذاکرات جدی در جریان است و این رهبران معتقدند توافقی قابل قبول برای آمریکا و کشورهای منطقه در دسترس است.<br>بیشتر بخوانید: <a href=\"https://iranwire.com/fa/news-1/152574\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152574</a><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
       "plain_text": "دونالد ترامپ، رییس‌جمهور آمریکا، روز دوشنبه ۲۸ اردیبهشت در شبکه تروث سوشیال اعلام کرد حمله به جمهوری اسلامی را که برای روز سه‌شنبه برنامه‌ریزی‌ شده بود، به درخواست سران سه کشور قطر، عربستان سعودی و امارات متحده عربی لغو کرده است. ترامپ نوشت که امیر قطر، تمیم بن حمد آل ثانی، ولیعهد عربستان، محمد بن سلمان، و رییس‌جمهور امارات، محمد بن زاید آل نهیان، از او خواسته‌اند حمله برنامه‌ریزی‌شده را به تعویق بیندازد، زیرا مذاکرات جدی در جریان است و این رهبران معتقدند توافقی قابل قبول برای آمریکا و کشورهای منطقه در دسترس است. بیشتر بخوانید: https://iranwire.com/fa/news-1/152574 @Farsi_Iranwire",
       "media": [
@@ -115,7 +441,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "934",
+      "views_label": "1.61K",
       "posted_at": "2026-05-18T19:23:52+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/90220"
@@ -123,8 +449,8 @@
     {
       "id": "Farsi_Iranwire/90219",
       "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/Dt3xPrRJ-D2L3U82cuPfTiDBay67JZWBMmGe1C5VyMvemX0y_41Pi-RXPnbKle0iO5mJJuqJjaZAJfVS8CxCH7ByLq4NJUh02pYlhwtX431jkTeCZlhFGIqnhYlX4sHkfH9LrvNi2uK7OBtQQ7NcCxro7YhC4q5vFpMEYDxrhiYmr-c7cka4X-TcG3jxu6LFC859amqN-hoEiS7u9CvxTB3pDTB7lk7k1SBYn4HFHj84Aw3_H3vjW7dEcK77BDbrv28GvyNZo8ZdWsQmayzGR1rG85wVUHQ_S2oRzX6Cjzw5bBqbdEGoy9zUCv2aVDHaVkKBnV1kiqLl6zrbHC7FGw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/9e795f119c462f437c60a11a.jpg",
+      "author_photo_url": "https://cdn4.telesco.pe/file/lv3Swp_WlE3FNEnRvckhlk1nL3Y2zmK_B9tsVFC4Fn1FDmwSSOfZnQgSzgklyro3mMS1qUjM5rtGsE3WWZKYRgcGPQYbeV7Gu6G4RxF1qVKJjSod_zEornJFoBZ0Ssem5wn1ryhL1Uaw_rHnj-ZLCKk4lXayp4KwFY0eQWP0uqKhmLa3Gav9OJfY4bFwHkA8Hjq3x4zoyYhehYDV0-_1tCEwLJiOYg4OuaNAw441sAD2Ktf90zl9SWJ3b9NbKLrdQsofpABjkGiTJvos42xlLLKAxoQLR8hFx8MjXMCzbRLuQELBFok8fSzUQ0z1raSxDmQfzQiuaAucSV1V7YEDkw.jpg",
+      "author_photo_path": "channels/farsi_iranwire/media/a59f0a34d9453f95909a3255.jpg",
       "body_html": "دونالد ترامپ، رییس‌جمهور آمریکا، روز دوشنبه ۲۸ اردیبهشت ۱۴۰۵ در گفت‌وگو با نیویورک پست گفت پس از دریافت آخرین پیشنهاد ایران، «هیچ امتیازی» به تهران نخواهد داد و با لحنی تهدیدآمیز افزود که ایران می‌داند «چه اتفاقی به زودی خواهد افتاد.»<br><br><br>بیشتر بخوانید: <a href=\"https://iranwire.com/fa/news-1/152572\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152572</a><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
       "plain_text": "دونالد ترامپ، رییس‌جمهور آمریکا، روز دوشنبه ۲۸ اردیبهشت ۱۴۰۵ در گفت‌وگو با نیویورک پست گفت پس از دریافت آخرین پیشنهاد ایران، «هیچ امتیازی» به تهران نخواهد داد و با لحنی تهدیدآمیز افزود که ایران می‌داند «چه اتفاقی به زودی خواهد افتاد.» بیشتر بخوانید: https://iranwire.com/fa/news-1/152572 @Farsi_Iranwire",
       "media": [
@@ -139,7 +465,7 @@
         }
       ],
       "reactions": [],
-      "views_label": "1.15K",
+      "views_label": "1.65K",
       "posted_at": "2026-05-18T18:19:57+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/90219"
@@ -2013,332 +2339,6 @@
       "posted_at": "2026-05-15T19:34:08+00:00",
       "edited": false,
       "permalink": "https://t.me/Farsi_Iranwire/90138"
-    },
-    {
-      "id": "Farsi_Iranwire/90137",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/HXXTQb02_vujE6G5N0KPhwwf2ZnWwYIvltJtBdlAdWm7OaJDVbpfrTzSXo5gYXf45Rw-ZwoEmQEHWB8JZL0xIYXmMjGKphjbTrRYCxGULuwyc3sQYmXA1mew1hgruFaEf26lT0WO90LNFshRZJ_mKymq5AkQTb3Rd_rQmB0a1nGTjl1Vr4cq6ykG4ydec_t536uZOqaDlSOfWAYB-aMr1I_P11AfcUxbTzMJiRJWe0repomfDUxuBoGPhixmvroFyi_DHo4IB83o2I6DrFYVlOFACfKcl-q21In7wL1RgSW-yLqfgikpU42Dp0rEhjeCzEl_pIZ-A06ALDYTVt4gTA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/d4bcd6f73af651c7704d87da.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93BB.png')\"><b>📻</b></i> نسخه کامل برنامه شبانگاهی رادیو ایران‌وایر - جمعه ۲۵ اردیبهشت<br><br>در دو نوبت به وقت ایران، ساعت ۱۲ تا ۱۳ روی موج کوتاه ۱۵۵۰۰ کیلوهرتز<br>و ساعت ۲۳ تا ۲۴روی موج کوتاه ۹۷۷۰ کیلوهرتز در داخل ایران با شما هستیم.<br>همین‌طور از طریق وب‌سایت و شبکه‌های اجتماعی در چهارگوشه جهان.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "📻 نسخه کامل برنامه شبانگاهی رادیو ایران‌وایر - جمعه ۲۵ اردیبهشت در دو نوبت به وقت ایران، ساعت ۱۲ تا ۱۳ روی موج کوتاه ۱۵۵۰۰ کیلوهرتز و ساعت ۲۳ تا ۲۴روی موج کوتاه ۹۷۷۰ کیلوهرتز در داخل ایران با شما هستیم. همین‌طور از طریق وب‌سایت و شبکه‌های اجتماعی در چهارگوشه جهان. @Farsi_Iranwire",
-      "media": [],
-      "reactions": [],
-      "views_label": "1.68K",
-      "posted_at": "2026-05-15T19:33:39+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/90137"
-    },
-    {
-      "id": "Farsi_Iranwire/90136",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/HXXTQb02_vujE6G5N0KPhwwf2ZnWwYIvltJtBdlAdWm7OaJDVbpfrTzSXo5gYXf45Rw-ZwoEmQEHWB8JZL0xIYXmMjGKphjbTrRYCxGULuwyc3sQYmXA1mew1hgruFaEf26lT0WO90LNFshRZJ_mKymq5AkQTb3Rd_rQmB0a1nGTjl1Vr4cq6ykG4ydec_t536uZOqaDlSOfWAYB-aMr1I_P11AfcUxbTzMJiRJWe0repomfDUxuBoGPhixmvroFyi_DHo4IB83o2I6DrFYVlOFACfKcl-q21In7wL1RgSW-yLqfgikpU42Dp0rEhjeCzEl_pIZ-A06ALDYTVt4gTA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/d4bcd6f73af651c7704d87da.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> شماری از کارشناسان محیط‌زیست در شبکه‌های اجتماعی تصاویری از نشت نفت و آلودگی شدید زیست محیطی در برخی جزایر هرمزگان منتشر کرده‌اند.<br>«اعظم بهرامی» پژوهشگر محیط‌زیست ویدیویی منتشر کرده که نشان می‌دهد نفت غلیظ و سیاهی سطح خاک جزیره را پوشانده است.<br>در این ویدیو فرد ارسال کننده می‌گوید بر اثر نشت آلودگی نفتی هزاران خرچنگ در ساحل مرده‌اند.<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "🎥 شماری از کارشناسان محیط‌زیست در شبکه‌های اجتماعی تصاویری از نشت نفت و آلودگی شدید زیست محیطی در برخی جزایر هرمزگان منتشر کرده‌اند. «اعظم بهرامی» پژوهشگر محیط‌زیست ویدیویی منتشر کرده که نشان می‌دهد نفت غلیظ و سیاهی سطح خاک جزیره را پوشانده است. در این ویدیو فرد ارسال کننده می‌گوید بر اثر نشت آلودگی نفتی هزاران خرچنگ در ساحل مرده‌اند. @Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Farsi_Iranwire/90136",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Ep4V5k4sslAmtyo7wPq41YOKsI3p_Z5PctMafsPOz4gVG1N7m91cicZM3qfmUfWuQH1yn-hGMFCxhDII-4RVbOcuA7YRxbkNAaxL49ep2FO22AkTsbcQVwTwNs6dmhM-Nh5EkYx3cl4qlDesbJTy-CJyRQsibYUOoYQvJu32zALD8_JcZOViq_ldTmqtnUWGhpPqHWjn4RCTxCNSsKwZ9VQ3aWbKDPnyUovPJoN82vAoY0fAT3UYXu64gu305-YmlO9ZA7PXEM8h3NnlSTgr1kmoUc6B-o9-uoTm4n1syn-WT69vJo24sog0Br9vFuY68uTbVDC7n2KHiibzeK3eBg",
-          "thumbnail_path": "channels/farsi_iranwire/media/c30730dc6582d574ded72900.jpg",
-          "duration_label": "0:28",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.63K",
-      "posted_at": "2026-05-15T19:22:14+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Farsi_Iranwire/90136"
-    },
-    {
-      "id": "Farsi_Iranwire/90135",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/HXXTQb02_vujE6G5N0KPhwwf2ZnWwYIvltJtBdlAdWm7OaJDVbpfrTzSXo5gYXf45Rw-ZwoEmQEHWB8JZL0xIYXmMjGKphjbTrRYCxGULuwyc3sQYmXA1mew1hgruFaEf26lT0WO90LNFshRZJ_mKymq5AkQTb3Rd_rQmB0a1nGTjl1Vr4cq6ykG4ydec_t536uZOqaDlSOfWAYB-aMr1I_P11AfcUxbTzMJiRJWe0repomfDUxuBoGPhixmvroFyi_DHo4IB83o2I6DrFYVlOFACfKcl-q21In7wL1RgSW-yLqfgikpU42Dp0rEhjeCzEl_pIZ-A06ALDYTVt4gTA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/d4bcd6f73af651c7704d87da.jpg",
-      "body_html": "بر اساس اطلاعات رسیده به «ایران‌وایر»، یک کاسب‌کار ۳۰ساله اهل سقز به نام «زانیار حسینی»، روز یکشنبه ۲۱ اردیبهشت۱۴۰۵ در یک پمپ بنزین در زنجان به ضرب گلوله نیروهای امنیتی جمهوری اسلامی جان خود را از دست داد.<br><br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/152457\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152457</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "بر اساس اطلاعات رسیده به «ایران‌وایر»، یک کاسب‌کار ۳۰ساله اهل سقز به نام «زانیار حسینی»، روز یکشنبه ۲۱ اردیبهشت۱۴۰۵ در یک پمپ بنزین در زنجان به ضرب گلوله نیروهای امنیتی جمهوری اسلامی جان خود را از دست داد. بخوانید: https://iranwire.com/fa/news-1/152457 @Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/90135",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/FLK786tAoJYBz9QzEfpDiSBDeZMUdoW-NT6X1Haa1hNE-b7gyycsOUwO-Va2GMDU_mi49xyGLIQ_ONiYdrzpC1lRlrCRp3MvfwMopvWS-dbDvPxLYQlxnOeFMNF3o4zP4nolOxKT9muskm2R0AQMrCuXK39ZG6rWpp2Y40m_EcUcmDK-01xPN9B1d6Skv2WuGREamsnsaBUinAi2nIzhXAXUO-MOmB4nMlyShglGCiZoYzCsgsUDOfr3qPKMvjxsJyzYIDOAjWVJQzVv_qfBFXmJpQx9qzhPRyIMX6dzFiLv5nUAHA-MjWhPqlvnX_Scb3h7CjxEJc69MJQbjKhhDQ.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/78b09359ed3004520caee9c6.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.79K",
-      "posted_at": "2026-05-15T18:27:34+00:00",
-      "edited": true,
-      "permalink": "https://t.me/Farsi_Iranwire/90135"
-    },
-    {
-      "id": "Farsi_Iranwire/90134",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/HXXTQb02_vujE6G5N0KPhwwf2ZnWwYIvltJtBdlAdWm7OaJDVbpfrTzSXo5gYXf45Rw-ZwoEmQEHWB8JZL0xIYXmMjGKphjbTrRYCxGULuwyc3sQYmXA1mew1hgruFaEf26lT0WO90LNFshRZJ_mKymq5AkQTb3Rd_rQmB0a1nGTjl1Vr4cq6ykG4ydec_t536uZOqaDlSOfWAYB-aMr1I_P11AfcUxbTzMJiRJWe0repomfDUxuBoGPhixmvroFyi_DHo4IB83o2I6DrFYVlOFACfKcl-q21In7wL1RgSW-yLqfgikpU42Dp0rEhjeCzEl_pIZ-A06ALDYTVt4gTA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/d4bcd6f73af651c7704d87da.jpg",
-      "body_html": "جایزه «آزادی نوشتن» انجمن قلم آمریکا به «گلرخ ابراهیمی ایرایی» و «علی اسداللهی»، دو نویسنده ایرانی، اهدا شد.<br><br>این دو نویسنده به‌دلیل آثارشان، در ایران تحت پیگرد قرار گرفته و زندانی شده‌اند.<br><br>شامگاه پنجشنبه ۲۴اردیبهشت۱۴۰۵ در مراسمی رسمی در نیویورک، برگزار کنندگان این مراسم جایزه آزادی نوشتن را به این دو نویسنده اهدا کرد و «امیر احمدی آریان»، نویسنده و روزنامه‌نگار ایرانی، و «فریبا راد»، فعال حقوق بشر، این جایزه را به نمایندگی از این دو نویسنده دریافت کردند.<br><br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/152450\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152450</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "جایزه «آزادی نوشتن» انجمن قلم آمریکا به «گلرخ ابراهیمی ایرایی» و «علی اسداللهی»، دو نویسنده ایرانی، اهدا شد. این دو نویسنده به‌دلیل آثارشان، در ایران تحت پیگرد قرار گرفته و زندانی شده‌اند. شامگاه پنجشنبه ۲۴اردیبهشت۱۴۰۵ در مراسمی رسمی در نیویورک، برگزار کنندگان این مراسم جایزه آزادی نوشتن را به این دو نویسنده اهدا کرد و «امیر احمدی آریان»، نویسنده و روزنامه‌نگار ایرانی، و «فریبا راد»، فعال حقوق بشر، این جایزه را به نمایندگی از این دو نویسنده دریافت کردند. بخوانید: https://iranwire.com/fa/news-1/152450 @Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/90134",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/r9_gjur9VZPqpLfZbteMCjbgnmOqZCwm0pTpMx37PmAmFx0tzGaVlwEYGKd7i7RMIj-cAtrZVUyYUxW44bSmCkzrZvfFnC5OORlby5ipnheCdL-7qUW_NUMtpmJVbn4o-XARkSTMak-Ik5QlGsFqxjcPYGN51iETfKlDLjpAU45TbVBsTk7gVqBPwsjfeUov1e7IGXUN6HJTm1oCNhiVZDDKqz4SPV5BFIFXE-lbuPynIMQvJAL5oDt3-hqLlWmFdZFUXzidhIXT7cBQGhx36DESwL7FQGi48xO_1vxSERcBLufK_X-OKnKSX_cO2hJ6VWUNdwUgZzlUb5WefWkB-A.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/f36d8ec766441ce3ea5baae3.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.72K",
-      "posted_at": "2026-05-15T17:27:34+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/90134"
-    },
-    {
-      "id": "Farsi_Iranwire/90133",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/HXXTQb02_vujE6G5N0KPhwwf2ZnWwYIvltJtBdlAdWm7OaJDVbpfrTzSXo5gYXf45Rw-ZwoEmQEHWB8JZL0xIYXmMjGKphjbTrRYCxGULuwyc3sQYmXA1mew1hgruFaEf26lT0WO90LNFshRZJ_mKymq5AkQTb3Rd_rQmB0a1nGTjl1Vr4cq6ykG4ydec_t536uZOqaDlSOfWAYB-aMr1I_P11AfcUxbTzMJiRJWe0repomfDUxuBoGPhixmvroFyi_DHo4IB83o2I6DrFYVlOFACfKcl-q21In7wL1RgSW-yLqfgikpU42Dp0rEhjeCzEl_pIZ-A06ALDYTVt4gTA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/d4bcd6f73af651c7704d87da.jpg",
-      "body_html": "روز جمعه ۲۵اردیبهشت۱۴۰۵ «عبدالصمد میرحسینی» معاون قضایی دادستان کل ایران اعلام کرد که حدود ۲۵۰ هزار شکایت حقوقی و کیفری درباره «جنایات جنگی آمریکا و اسراییل» در دادگاه‌های ایران ثبت شده و در دست بررسی است.<br><br>این مقام قضایی به خبرگزاری «میزان» رسانه قوه قضاییه گفته است که این پرونده‌ها در«شعب ویژه دادسرا و دادگاه» بررسی می‌شوند و روند «مستندسازی» آنها از جمله درباره حمله به «مدرسه‌ میناب» و پرونده کشتی «دنا» با همکاری نهادهای مختلف ادامه دارد.<br><br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/152448\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152448</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "روز جمعه ۲۵اردیبهشت۱۴۰۵ «عبدالصمد میرحسینی» معاون قضایی دادستان کل ایران اعلام کرد که حدود ۲۵۰ هزار شکایت حقوقی و کیفری درباره «جنایات جنگی آمریکا و اسراییل» در دادگاه‌های ایران ثبت شده و در دست بررسی است. این مقام قضایی به خبرگزاری «میزان» رسانه قوه قضاییه گفته است که این پرونده‌ها در«شعب ویژه دادسرا و دادگاه» بررسی می‌شوند و روند «مستندسازی» آنها از جمله درباره حمله به «مدرسه‌ میناب» و پرونده کشتی «دنا» با همکاری نهادهای مختلف ادامه دارد. بخوانید: https://iranwire.com/fa/news-1/152448 @Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/90133",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/OpJM_-LiWqAjzIsPJ4RGl1qw02qLW7KUVu5_rAqfFizoOKynmJZ4_7Lg4qBdzHCucWfhQEAlvFTvTOTlm8zSSmypSSDdtYu7r8bjLsZlpoB6UM68zjYQT-IjeJSoUukzI65zeGwu5ywWomTL_X3fCesd1a3dVoozB7PWutHF_7ajdMg9qyTVTQTrpQanC1W9My7TS0mtM-G29gPLglHl2e-7ODRxjYkcuYFu12JJOtEcUom9Fw3a2n1j9ri2iOFdeRUTXPa6tqADmRSrWnWe_q7oRQPexpo0XoxrnP3W0wQObhtgZ1rB1PHTksbfIP_xjhBv-PCMd8kw3qUnxClLDw.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/762fdf4dcf626389b565dda5.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.47K",
-      "posted_at": "2026-05-15T17:25:50+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/90133"
-    },
-    {
-      "id": "Farsi_Iranwire/90132",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/HXXTQb02_vujE6G5N0KPhwwf2ZnWwYIvltJtBdlAdWm7OaJDVbpfrTzSXo5gYXf45Rw-ZwoEmQEHWB8JZL0xIYXmMjGKphjbTrRYCxGULuwyc3sQYmXA1mew1hgruFaEf26lT0WO90LNFshRZJ_mKymq5AkQTb3Rd_rQmB0a1nGTjl1Vr4cq6ykG4ydec_t536uZOqaDlSOfWAYB-aMr1I_P11AfcUxbTzMJiRJWe0repomfDUxuBoGPhixmvroFyi_DHo4IB83o2I6DrFYVlOFACfKcl-q21In7wL1RgSW-yLqfgikpU42Dp0rEhjeCzEl_pIZ-A06ALDYTVt4gTA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/d4bcd6f73af651c7704d87da.jpg",
-      "body_html": "رسانه‌های ایران روز جمعه ۲۵اردیبهشت۱۴۰۵ پیام متنی تازه‌ای منتسب به «مجتبی خامنه‌ای» منتشر کردند.این پیام به مناسبت «روز پاسداشت زبان فارسی» و «بزرگداشت فردوسی» منتشر شده و زبان فارسی را یکی از پایه‌های هویت ایرانیان توصیف کرده است.در پیام منتسب به رهبر سوم جمهوری اسلامی آمده است که تقویت این زبان می‌تواند به گسترش «تمدن ایرانی‌اسلامی» کمک کند.<br><br>در بخشی از این پیام به شاهنامه اشاره شده و از آن به‌عنوان اثری برای حفظ هویت، استقلال و ایستادگی ایرانیان یاد شده است: «داستانهای اسطوره‌ای فردوسی، واقعیت زندگی و شخصیت قهرمانانه‌ آنان بوده و مفاهیم انسان‌ساز، سلحشورانه، و قرآنی شاهنامه، همه‌ اقوام و اقشار ایران را در حفظ هویت، اصالت و استقلال خود و مبارزه با ضحاک‌وشان متجاوز، همدل و همراه و همساز می‌کند.»<br><br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/152447\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152447</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "رسانه‌های ایران روز جمعه ۲۵اردیبهشت۱۴۰۵ پیام متنی تازه‌ای منتسب به «مجتبی خامنه‌ای» منتشر کردند.این پیام به مناسبت «روز پاسداشت زبان فارسی» و «بزرگداشت فردوسی» منتشر شده و زبان فارسی را یکی از پایه‌های هویت ایرانیان توصیف کرده است.در پیام منتسب به رهبر سوم جمهوری اسلامی آمده است که تقویت این زبان می‌تواند به گسترش «تمدن ایرانی‌اسلامی» کمک کند. در بخشی از این پیام به شاهنامه اشاره شده و از آن به‌عنوان اثری برای حفظ هویت، استقلال و ایستادگی ایرانیان یاد شده است: «داستانهای اسطوره‌ای فردوسی، واقعیت زندگی و شخصیت قهرمانانه‌ آنان بوده و مفاهیم انسان‌ساز، سلحشورانه، و قرآنی شاهنامه، همه‌ اقوام و اقشار ایران را در حفظ هویت، اصالت و استقلال خود و مبارزه با ضحاک‌وشان متجاوز، همدل و همراه و همساز می‌کند.» بخوانید: https://iranwire.com/fa/news-1/152447 @Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/90132",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Sk0WIEkjnq9BRfHr-vk2jKcoaAO7zpHj4id2u5uaP-mz61KZmzM2LcM8kJCFEe3i4axRqhs5KFqzk_EanVvw4A9fLRK6elyIss0Jue_ZSDEmh2k7XYLsYMVeQDI1KfpXM3r-QY9C6Fz8BodMe-ehiWX5APhVzgrbOEA8vXQ1fKApF-w0FRO98GhIB2GDx7xuQs2q3jaQ4qHuXtmwfj9Stc1D2E5WWpVAR5jIYwQGLghIxiHTBrowFWRpdixMruQM3QziSaZRqPpR6W1DsrcUC2QUyam0ym5HfP11VEPaloFTuW33mcCe9PTEy1ZM1BOqVtsRBZb6Dks4aiRpbArXyg.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/47fc50a2df86d411a027996c.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8025000000000099
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.26K",
-      "posted_at": "2026-05-15T17:25:36+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/90132"
-    },
-    {
-      "id": "Farsi_Iranwire/90131",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/HXXTQb02_vujE6G5N0KPhwwf2ZnWwYIvltJtBdlAdWm7OaJDVbpfrTzSXo5gYXf45Rw-ZwoEmQEHWB8JZL0xIYXmMjGKphjbTrRYCxGULuwyc3sQYmXA1mew1hgruFaEf26lT0WO90LNFshRZJ_mKymq5AkQTb3Rd_rQmB0a1nGTjl1Vr4cq6ykG4ydec_t536uZOqaDlSOfWAYB-aMr1I_P11AfcUxbTzMJiRJWe0repomfDUxuBoGPhixmvroFyi_DHo4IB83o2I6DrFYVlOFACfKcl-q21In7wL1RgSW-yLqfgikpU42Dp0rEhjeCzEl_pIZ-A06ALDYTVt4gTA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/d4bcd6f73af651c7704d87da.jpg",
-      "body_html": "«ابراهیم علی‌پور»، عکاس مستند کرد اهل بانه ، با مجموعه عکس «گلوله‌ها مرز ندارند» موفق شد جایزه اصلی بخش عکاسی مستند رقابت بین‌المللی «شبکه مستند اجتماعی» (SDN) و مجله ZEKE در سال ۲۰۲۶ را از آن خود کند؛ مجموعه‌ای که زندگی کولبران در مناطق مرزی ایران و عراق را روایت می‌کند.<br>«گلوله‌ها مرز ندارند» پروژه بلند مدت این عکاس مستند، مجموعه‌ای است که به بازنمایی زندگی دشوار و پرمخاطره کولبران در نوار مرزی ایران و عراق می‌پردازد. <br><br>بخوانید: <a href=\"https://iranwire.com/fa/news-1/152443\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152443</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "«ابراهیم علی‌پور»، عکاس مستند کرد اهل بانه ، با مجموعه عکس «گلوله‌ها مرز ندارند» موفق شد جایزه اصلی بخش عکاسی مستند رقابت بین‌المللی «شبکه مستند اجتماعی» (SDN) و مجله ZEKE در سال ۲۰۲۶ را از آن خود کند؛ مجموعه‌ای که زندگی کولبران در مناطق مرزی ایران و عراق را روایت می‌کند. «گلوله‌ها مرز ندارند» پروژه بلند مدت این عکاس مستند، مجموعه‌ای است که به بازنمایی زندگی دشوار و پرمخاطره کولبران در نوار مرزی ایران و عراق می‌پردازد. بخوانید: https://iranwire.com/fa/news-1/152443 @Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/90131",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/EBtoIu_qiAXpLWKE04_5wpNPGCewP3zi8oiIiyFbrqGAHwrk3v2KGY81phKVslENzf3-Y2-wrcEvIqTwPDlEQxol4yFYVKYj8IgPhqIRqin9jqXktH6OpfY5Yda1boTyCjaYl1snSojksYIZzl7cNzPmIGdtt4wsJqXyWP0dat5GuACwEhSnNkJWli3sufnx0qQf8exApuQkjKpOcDUspDT1LjNqWRrnRjxKHmZGdRNohtEqZWX891nsZdZ_DHc4LbUB-JXaAT4cwEmwp_MWCXjaw6daFMD_grO-Nl0w6ulfA_oMCMBDKXAQFpi21E3yBbhOS5sAL4ArY793oR-Z6g.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/01ad8ad649583313eb5fe6c3.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.17K",
-      "posted_at": "2026-05-15T17:25:21+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/90131"
-    },
-    {
-      "id": "Farsi_Iranwire/90130",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/HXXTQb02_vujE6G5N0KPhwwf2ZnWwYIvltJtBdlAdWm7OaJDVbpfrTzSXo5gYXf45Rw-ZwoEmQEHWB8JZL0xIYXmMjGKphjbTrRYCxGULuwyc3sQYmXA1mew1hgruFaEf26lT0WO90LNFshRZJ_mKymq5AkQTb3Rd_rQmB0a1nGTjl1Vr4cq6ykG4ydec_t536uZOqaDlSOfWAYB-aMr1I_P11AfcUxbTzMJiRJWe0repomfDUxuBoGPhixmvroFyi_DHo4IB83o2I6DrFYVlOFACfKcl-q21In7wL1RgSW-yLqfgikpU42Dp0rEhjeCzEl_pIZ-A06ALDYTVt4gTA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/d4bcd6f73af651c7704d87da.jpg",
-      "body_html": "رییس‌جمهور ایالات متحده آمریکا روز جمعه ۲۵اردیبهشت۱۴۰۵ و همزمان با پایان سفر خود به چین می‌گوید با تعلیق برنامه هسته‌ای ایران به مدت ۲۰ سال به شرطی که تهران «تعهد واقعی» در این زمینه بدهد، «موافق» است.<br><br>دونالد ترامپ اندکی پس از ترک پکن، در هواپیمای ویژه ریاست‌جمهوری آمریکا در گفت‌و‌گو با خبرنگاران گفت: «بیست سال کافی است، اما سطح تضمینی که از طرف آن‌ها ارایه می‌شود باید واقعا یک تعهد واقعی برای این ۲۰ سال باشد».<br><br>او همچنین گفت که در حال بررسی لغو تحریم شرکت‌های چینی است که نفت ایران را خریداری می‌کنند و به‌زودی درباره آن تصمیم خواهد گرفت و این تصمیم طی چند روز آینده اتخاذ خواهد شد.<br><br>بخوانید:<a href=\"https://iranwire.com/fa/news-1/152438\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152438</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "رییس‌جمهور ایالات متحده آمریکا روز جمعه ۲۵اردیبهشت۱۴۰۵ و همزمان با پایان سفر خود به چین می‌گوید با تعلیق برنامه هسته‌ای ایران به مدت ۲۰ سال به شرطی که تهران «تعهد واقعی» در این زمینه بدهد، «موافق» است. دونالد ترامپ اندکی پس از ترک پکن، در هواپیمای ویژه ریاست‌جمهوری آمریکا در گفت‌و‌گو با خبرنگاران گفت: «بیست سال کافی است، اما سطح تضمینی که از طرف آن‌ها ارایه می‌شود باید واقعا یک تعهد واقعی برای این ۲۰ سال باشد». او همچنین گفت که در حال بررسی لغو تحریم شرکت‌های چینی است که نفت ایران را خریداری می‌کنند و به‌زودی درباره آن تصمیم خواهد گرفت و این تصمیم طی چند روز آینده اتخاذ خواهد شد. بخوانید:https://iranwire.com/fa/news-1/152438 @Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/90130",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/bTMG3WxeYjErLGfgJ4iP5SHitOZAFKIAaEkpo7iN37DuXS9Skp9dZ5u4tWw7j6McV4mcj7MCPykmDAJBr7uGnsEuoZjxSMxJVTKLyhzIp3n1sNNd9Ht26gAcHtbmhHpqmXqq70k6Y7Equ1gyJ1Dzf-xNI8jMujaKPo4R-nEdORP8GWBw0B5nDVv9YOaQZiKzeH1jUM46cFR1FcQJfmvjmtdgvGYZLLEoBwKkmFcxpITJ2U0UFDCzpjj0iNj5eXgdGYSyRLkru6BonVTEkt9a-5E_aT5IbVhl-PHLR2aw8wxIpVmuD2vP_Bx9QqM2cFbvF6CXI1pJHKJEFeM9nKbgXg.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/784d8e8e1b703b25e3f4ca41.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.34K",
-      "posted_at": "2026-05-15T17:25:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/90130"
-    },
-    {
-      "id": "Farsi_Iranwire/90129",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/HXXTQb02_vujE6G5N0KPhwwf2ZnWwYIvltJtBdlAdWm7OaJDVbpfrTzSXo5gYXf45Rw-ZwoEmQEHWB8JZL0xIYXmMjGKphjbTrRYCxGULuwyc3sQYmXA1mew1hgruFaEf26lT0WO90LNFshRZJ_mKymq5AkQTb3Rd_rQmB0a1nGTjl1Vr4cq6ykG4ydec_t536uZOqaDlSOfWAYB-aMr1I_P11AfcUxbTzMJiRJWe0repomfDUxuBoGPhixmvroFyi_DHo4IB83o2I6DrFYVlOFACfKcl-q21In7wL1RgSW-yLqfgikpU42Dp0rEhjeCzEl_pIZ-A06ALDYTVt4gTA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/d4bcd6f73af651c7704d87da.jpg",
-      "body_html": "«اصغر فرهادی»، کارگردان سرشناس ایرانی، در نشست خبری جشنواره کن که روز جمعه ۲۵اردیبهشت۱۴۰۵ برگزار شد از کشته شدن غیرنظامیان در جریان جنگ و همچنین جان‌باختن معترضان در اعتراضات دی‌ماه ابراز تاسف کرد.<br>او گفت این دو اتفاق هر دو «به یک اندازه دردناک» هستند و مخالفت با کشته شدن یک گروه به معنای پذیرش یا حمایت از کشته‌شدن گروه دیگر نیست.<br>اصغر فرهادی تاکید کرد از دست رفتن جان انسان‌ها «در هر شرایطی، چه در جنگ، چه در اعدام و چه در سرکوب اعتراضات، غیرقابل قبول است.»<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "«اصغر فرهادی»، کارگردان سرشناس ایرانی، در نشست خبری جشنواره کن که روز جمعه ۲۵اردیبهشت۱۴۰۵ برگزار شد از کشته شدن غیرنظامیان در جریان جنگ و همچنین جان‌باختن معترضان در اعتراضات دی‌ماه ابراز تاسف کرد. او گفت این دو اتفاق هر دو «به یک اندازه دردناک» هستند و مخالفت با کشته شدن یک گروه به معنای پذیرش یا حمایت از کشته‌شدن گروه دیگر نیست. اصغر فرهادی تاکید کرد از دست رفتن جان انسان‌ها «در هر شرایطی، چه در جنگ، چه در اعدام و چه در سرکوب اعتراضات، غیرقابل قبول است.» @Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Farsi_Iranwire/90129",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/rrZgZJY63J9bioCEgS_bA0PHd2GtmAMELuElFTOLPRzCo64aNN2MBqNH9bghSNXFjEEGR3doQd5TCRSuRUpVOcOroxH8Z3OUs6o954r2ck9ERkUM5qyRneE5tciEvMHNUH6nxH5LKC-esUQQBqoLwyCi4JfT0y3tykW_XGB3fN0WnRdcBLzPazIOojr0tKF8jqDsKhIe7EKYvjlUNulBsT-3myqAuvdw7LD0lU9rjQn9-zpJY_VJsBQtv1g9pLwilYyccRZn5WRtGXaFtBN9Ng9WPFpUq2FTbbQmgaCUUheNQVpIvOhzR0N8EsBcD8LH9Tjk__EkvCn0Uo210xaB-w",
-          "thumbnail_path": "channels/farsi_iranwire/media/c9a08ff27a37a313c601a5f0.jpg",
-          "duration_label": "1:55",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.58K",
-      "posted_at": "2026-05-15T15:48:44+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/90129"
-    },
-    {
-      "id": "Farsi_Iranwire/90128",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/HXXTQb02_vujE6G5N0KPhwwf2ZnWwYIvltJtBdlAdWm7OaJDVbpfrTzSXo5gYXf45Rw-ZwoEmQEHWB8JZL0xIYXmMjGKphjbTrRYCxGULuwyc3sQYmXA1mew1hgruFaEf26lT0WO90LNFshRZJ_mKymq5AkQTb3Rd_rQmB0a1nGTjl1Vr4cq6ykG4ydec_t536uZOqaDlSOfWAYB-aMr1I_P11AfcUxbTzMJiRJWe0repomfDUxuBoGPhixmvroFyi_DHo4IB83o2I6DrFYVlOFACfKcl-q21In7wL1RgSW-yLqfgikpU42Dp0rEhjeCzEl_pIZ-A06ALDYTVt4gTA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/d4bcd6f73af651c7704d87da.jpg",
-      "body_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> در این گفت‌وگوی حقوقی با موسی برزین وکیل‌دادگستری و حقوق‌دان به وضعیت نگران‌کننده عدم رسیدگی پزشکی به دو زندانی سیاسی، فاطمه سپهری و نرگس محمدی می‌پردازیم؛ موضوعی که بار دیگر بحث حق دسترسی زندانیان به درمان، مسئولیت قانونی حکومت در حفظ جان زندانیان و ابعاد حقوق بشری محرومیت درمانی را در مرکز توجه قرار داده است.<br>فاطمه سپهری، زندانی سیاسی ۶۱ ساله در زندان وکیل‌آباد مشهد، با وجود سابقه جراحی قلب و بیش از هزار روز حبس، به گفته فعالان حقوق بشر با مشکلات جدی جسمی و محرومیت از درمان کافی روبه‌رو است. کاربران با هشتگ «صدای فاطمه سپهری باش» خواستار رسیدگی فوری پزشکی و آزادی او شده‌اند.<br>نرگس‌ محمدی، دیگر زندانی سیاسی، فعال حقوق بشر و برنده جایزه صلح نوبل، از مشکلات جدی قلبی رنج می‌برد و اخیراً به دلیل وخامت حال و بحران‌های شدید به بیمارستان منتقل شده است.آیا محروم کردن زندانی از درمان می‌تواند مصداق رفتار غیرانسانی یا شکنجه باشد؟ قوانین داخلی و تعهدات بین‌المللی جمهوری اسلامی در این زمینه چه می‌گویند؟ و چرا پرونده‌های پزشکی زندانیان سیاسی به یکی از مهم‌ترین موضوعات حقوق بشری ایران تبدیل شده است؟<br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "🎥 در این گفت‌وگوی حقوقی با موسی برزین وکیل‌دادگستری و حقوق‌دان به وضعیت نگران‌کننده عدم رسیدگی پزشکی به دو زندانی سیاسی، فاطمه سپهری و نرگس محمدی می‌پردازیم؛ موضوعی که بار دیگر بحث حق دسترسی زندانیان به درمان، مسئولیت قانونی حکومت در حفظ جان زندانیان و ابعاد حقوق بشری محرومیت درمانی را در مرکز توجه قرار داده است. فاطمه سپهری، زندانی سیاسی ۶۱ ساله در زندان وکیل‌آباد مشهد، با وجود سابقه جراحی قلب و بیش از هزار روز حبس، به گفته فعالان حقوق بشر با مشکلات جدی جسمی و محرومیت از درمان کافی روبه‌رو است. کاربران با هشتگ «صدای فاطمه سپهری باش» خواستار رسیدگی فوری پزشکی و آزادی او شده‌اند. نرگس‌ محمدی، دیگر زندانی سیاسی، فعال حقوق بشر و برنده جایزه صلح نوبل، از مشکلات جدی قلبی رنج می‌برد و اخیراً به دلیل وخامت حال و بحران‌های شدید به بیمارستان منتقل شده است.آیا محروم کردن زندانی از درمان می‌تواند مصداق رفتار غیرانسانی یا شکنجه باشد؟ قوانین داخلی و تعهدات بین‌المللی جمهوری اسلامی در این زمینه چه می‌گویند؟ و چرا پرونده‌های پزشکی زندانیان سیاسی به یکی از مهم‌ترین موضوعات حقوق بشری ایران تبدیل شده است؟ @Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "video",
-          "asset_url": "https://t.me/Farsi_Iranwire/90128",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/qyBEKG2t1etuVSrJkTh_7X4-vlvjysS6N_bxLx-nCvOnhkgZqWGn1rJ9Mi6c-4xc_kc1df2uERiiXR0Rd_pZ29zJ1SdkfgRGu_oMTfowZHAtF5zuO9i1XYfKngJ335Xq-G3VgF3sw6ehmD6UYnqDWka3KO0kz1ShbSAMcj74fwAT5jWsISb97czN-Fn0yNBzo2CjqsMNMcZ9LDHvjy78SK5Fr3a8lrad_AQ401NsUrQl-9fEUXMFNpr5nHAvZapkHHY_DrBieXlFoqHQkLUSEXpSrDfDX5Fx5oEjEFnYt3GOheowrxwZjU1hwGk_w40J_63MPjwuSFtMFWEEsP8voQ",
-          "thumbnail_path": "channels/farsi_iranwire/media/a32b692f62cb9cc321ad07b2.jpg",
-          "duration_label": "11:01",
-          "aspect_ratio": 0.7500000000000188
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.78K",
-      "posted_at": "2026-05-15T11:43:17+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/90128"
-    },
-    {
-      "id": "Farsi_Iranwire/90127",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/HXXTQb02_vujE6G5N0KPhwwf2ZnWwYIvltJtBdlAdWm7OaJDVbpfrTzSXo5gYXf45Rw-ZwoEmQEHWB8JZL0xIYXmMjGKphjbTrRYCxGULuwyc3sQYmXA1mew1hgruFaEf26lT0WO90LNFshRZJ_mKymq5AkQTb3Rd_rQmB0a1nGTjl1Vr4cq6ykG4ydec_t536uZOqaDlSOfWAYB-aMr1I_P11AfcUxbTzMJiRJWe0repomfDUxuBoGPhixmvroFyi_DHo4IB83o2I6DrFYVlOFACfKcl-q21In7wL1RgSW-yLqfgikpU42Dp0rEhjeCzEl_pIZ-A06ALDYTVt4gTA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/d4bcd6f73af651c7704d87da.jpg",
-      "body_html": "نشست وزیران خارجه کشورهای عضو گروه بریکس در دهلی‌نو، پایتخت هند، به‌دلیل اختلاف‌نظر شدید میان اعضا، به‌ویژه میان ایران و امارات متحده عربی، بدون صدور بیانیه مشترک پایان یافت.<br><br>به گزارش رویترز، دولت هند اعلام کرد به‌جای بیانیه نهایی، تنها «بیانیه رییس نشست» منتشر شده است؛ اقدامی که نشان‌دهنده ناتوانی اعضا در رسیدن به موضعی واحد درباره تحولات خاورمیانه و جنگ اخیر ایران با آمریکا و اسراییل است.<br><br>بخوانید:<br><a href=\"https://iranwire.com/fa/news-1/152436\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152436</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "نشست وزیران خارجه کشورهای عضو گروه بریکس در دهلی‌نو، پایتخت هند، به‌دلیل اختلاف‌نظر شدید میان اعضا، به‌ویژه میان ایران و امارات متحده عربی، بدون صدور بیانیه مشترک پایان یافت. به گزارش رویترز، دولت هند اعلام کرد به‌جای بیانیه نهایی، تنها «بیانیه رییس نشست» منتشر شده است؛ اقدامی که نشان‌دهنده ناتوانی اعضا در رسیدن به موضعی واحد درباره تحولات خاورمیانه و جنگ اخیر ایران با آمریکا و اسراییل است. بخوانید: https://iranwire.com/fa/news-1/152436 @Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/90127",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/np1g5dq7EtZk7dnU2sDA8EQ7F2mTy-Vkib51d8rnp-MXLfbapmmKelHuRPZAA1TGMNNak3yZjKgbWAsHo0drYWPVKpeoSLBOHOfmDi7NpqMZj12esQqa-BIE4pbdRgypsjRmCNxcB-VxxlESDwOOCAyb4fGcIVVOurD3-1QqvgMh-lMsa5bAsm3B6yJGTXTowQZ_-2Nfs6ZmOpt0Uq4k2EPUEBKARTayQUKmwPR4MpC3KC3Y8r2WPJCKCKBKbfIkAtuC1nMSlO0SulrwDa13IehoxOfpfEiXLdOVtuipT1zpIf8khtGrXhL-aPJeZxK0e5VSEwx_X2BE9mw-kslu7w.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/8997f0628a2ddc8505738d57.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.71K",
-      "posted_at": "2026-05-15T11:22:27+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/90127"
-    },
-    {
-      "id": "Farsi_Iranwire/90126",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/HXXTQb02_vujE6G5N0KPhwwf2ZnWwYIvltJtBdlAdWm7OaJDVbpfrTzSXo5gYXf45Rw-ZwoEmQEHWB8JZL0xIYXmMjGKphjbTrRYCxGULuwyc3sQYmXA1mew1hgruFaEf26lT0WO90LNFshRZJ_mKymq5AkQTb3Rd_rQmB0a1nGTjl1Vr4cq6ykG4ydec_t536uZOqaDlSOfWAYB-aMr1I_P11AfcUxbTzMJiRJWe0repomfDUxuBoGPhixmvroFyi_DHo4IB83o2I6DrFYVlOFACfKcl-q21In7wL1RgSW-yLqfgikpU42Dp0rEhjeCzEl_pIZ-A06ALDYTVt4gTA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/d4bcd6f73af651c7704d87da.jpg",
-      "body_html": "یکی از خبرنگاران شبکه الجزیره به نقل از «مقامات تهران» گزارش داد که آمریکا به‌صورت رسمی پاسخ ایران درباره شروط بازگشت به میز مذاکرات هسته‌ای را ارائه کرده و تمامی این شروط را رد کرده است.<br><br>بخوانید:<br><a href=\"https://iranwire.com/fa/news-1/152430\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152430</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "یکی از خبرنگاران شبکه الجزیره به نقل از «مقامات تهران» گزارش داد که آمریکا به‌صورت رسمی پاسخ ایران درباره شروط بازگشت به میز مذاکرات هسته‌ای را ارائه کرده و تمامی این شروط را رد کرده است. بخوانید: https://iranwire.com/fa/news-1/152430 @Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/90126",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/Zg3DGI-jbjs7Epr_vJfJ4RvqL0C8XcZARyYdfg-DxCDhvE9xeHxWMGEUiNN6QgKnlDL6P7o7oBxMaF5oEz0SL53PCRusqL6-qqfSAxCjPZvUYgIY_KyeVm_ajxm6tmPc_c4ujq4Y3WPU69Lo6LSPqHv5w0m9E1LiYdcEQCIg7r3YnEpE7jwz3oRhnqh8eSM3hWwpBuOME1KTf8LoG_Bw4Mf6vPejOkzkEZYfxZCV-Yn2q5IPFT7TW23ZqPpHGbdDt0DiDN0XZTwuJgTKaBk4EI7eJuf3aklReo3MDat4yiGEsd5RxR4k0fwPqcNy3k1nW5WB3YdI7phMQQAON7mAGA.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/644250510f1261e30f5ab155.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.63K",
-      "posted_at": "2026-05-15T11:04:31+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/90126"
-    },
-    {
-      "id": "Farsi_Iranwire/90124",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/HXXTQb02_vujE6G5N0KPhwwf2ZnWwYIvltJtBdlAdWm7OaJDVbpfrTzSXo5gYXf45Rw-ZwoEmQEHWB8JZL0xIYXmMjGKphjbTrRYCxGULuwyc3sQYmXA1mew1hgruFaEf26lT0WO90LNFshRZJ_mKymq5AkQTb3Rd_rQmB0a1nGTjl1Vr4cq6ykG4ydec_t536uZOqaDlSOfWAYB-aMr1I_P11AfcUxbTzMJiRJWe0repomfDUxuBoGPhixmvroFyi_DHo4IB83o2I6DrFYVlOFACfKcl-q21In7wL1RgSW-yLqfgikpU42Dp0rEhjeCzEl_pIZ-A06ALDYTVt4gTA.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/d4bcd6f73af651c7704d87da.jpg",
-      "body_html": "بهرام ابراهیم‌پور هرگلان، فعال تُرک آذربایجانی ساکن شهرستان عجب‌شیر، روز ۲۹ فروردین‌ماه ۱۴۰۵ پس از احضار به دادگستری این شهرستان بازداشت و به زندان مراغه منتقل شده است.<br><br>بر اساس اطلاعات رسیده به ایران‌وایر، این فعال مدنی برای ارائه توضیحاتی درباره اتهامات مطرح‌شده و همچنین پرونده پیشین خود به دادگستری عجب‌شیر فراخوانده شده بود، اما پس از حضور در این مرکز، بدون ارائه توضیح مشخصی و با دستور «محمد جباری»، رئیس دادگاه انقلاب شهرستان عجب‌شیر، بازداشت و به زندان مراغه منتقل شده است.<br><br>بخوانید:<br><a href=\"https://iranwire.com/fa/news-1/152427\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152427</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "بهرام ابراهیم‌پور هرگلان، فعال تُرک آذربایجانی ساکن شهرستان عجب‌شیر، روز ۲۹ فروردین‌ماه ۱۴۰۵ پس از احضار به دادگستری این شهرستان بازداشت و به زندان مراغه منتقل شده است. بر اساس اطلاعات رسیده به ایران‌وایر، این فعال مدنی برای ارائه توضیحاتی درباره اتهامات مطرح‌شده و همچنین پرونده پیشین خود به دادگستری عجب‌شیر فراخوانده شده بود، اما پس از حضور در این مرکز، بدون ارائه توضیح مشخصی و با دستور «محمد جباری»، رئیس دادگاه انقلاب شهرستان عجب‌شیر، بازداشت و به زندان مراغه منتقل شده است. بخوانید: https://iranwire.com/fa/news-1/152427 @Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/90124",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/l9f9fXNmJj4TJ48eRhlZTf-EaAhhhve0thMdwFHYJUxWYWejEUESr2pBsCw7Qp41I-mkKL5Kp6D3a_PQUWEGqjFEsO2VZzkqmaPLu47QrDENQxj2O5Hg9AT5Znr6I6kcUMY2XYhuzekSPPhqk34T3D18DTmvM4XAEDYPN-2l8_jegCsimAsy_3PO0s2pBPaTTL2HXin_TUQ3FLWwaPSGlwNJGoYZEcgGLE_8q518wDofLpfLXaasd-3LUEHqod3ZRh-psizSadD4PnQzMG-LBuaQ61ILtowzS4Dm3f-_fUzCT1zpxgEwwj5AlTYjxXoPnIdZj8EHjnnFRE-8Dham6g.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/8bc42bfb9efc332276c99a9d.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.59K",
-      "posted_at": "2026-05-15T09:49:25+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/90124"
-    },
-    {
-      "id": "Farsi_Iranwire/90123",
-      "author_name": "Iranwire",
-      "author_photo_url": "https://cdn4.telesco.pe/file/krvKZHeXnWIoWeUOg2w3-VwIJxm57N3H0uFSpZg3S7oiSQPWRjgLgNXu7-meMN7wG70WZqmphLSRJaKOw5HVE0zyUDVJdV2t9Z1F4S4JgYD4XD1c7GHtY7ZaYdfA3WNByn0qfchICf16E5pqEKonfK0-KDKfTqhZOZgqLCsEzGi7JOaBv6QXUpXn1AENzXB7aEPdS8uNZmVJ_QrkLcC-tWeJa53bheJk3WXy1mNa5ytunmVhiWVylBVkwZeZZdNWfX1m54DuS8o7nnpsMsGpQa3xiROgE2Xz3aXZXRkYVuB9WmQMyILH52hresYxvs-DK71jqTD7_IGDaEBDySIYFw.jpg",
-      "author_photo_path": "channels/farsi_iranwire/media/55830150e02c225b8f80f2a7.jpg",
-      "body_html": "انزوای دیجیتال ایران وارد هفتاد و هفتمین روز خود شد؛ جمهوری اسلامی اینترنت را از نهم اسفند پارسال، روز شروع جنگ آمریکا و اسرائیل با ایران، قطع کرد.<br><br>نت‌بلاکس، نهاد مستقل پایش شبکه، در این رابطه هشدار داد که انزوای دیجیتال«خطری نوظهور برای سلامت روان عموم مردم ایجاد می‌کند، کاربرانی که عمدتاً از پلتفرم‌های آنلاین، ارتباطات و تعامل عادی با دنیای خارج جداشده‌اند.»<br><br>بخوانید:<br><a href=\"https://iranwire.com/fa/news-1/152425\" target=\"_blank\" rel=\"noopener\">https://iranwire.com/fa/news-1/152425</a><br><br><a href=\"https://t.me/Farsi_Iranwire\" target=\"_blank\">@Farsi_Iranwire</a>",
-      "plain_text": "انزوای دیجیتال ایران وارد هفتاد و هفتمین روز خود شد؛ جمهوری اسلامی اینترنت را از نهم اسفند پارسال، روز شروع جنگ آمریکا و اسرائیل با ایران، قطع کرد. نت‌بلاکس، نهاد مستقل پایش شبکه، در این رابطه هشدار داد که انزوای دیجیتال«خطری نوظهور برای سلامت روان عموم مردم ایجاد می‌کند، کاربرانی که عمدتاً از پلتفرم‌های آنلاین، ارتباطات و تعامل عادی با دنیای خارج جداشده‌اند.» بخوانید: https://iranwire.com/fa/news-1/152425 @Farsi_Iranwire",
-      "media": [
-        {
-          "kind": "photo",
-          "asset_url": "https://t.me/Farsi_Iranwire/90123",
-          "asset_path": null,
-          "thumbnail_url": "https://cdn4.telesco.pe/file/e7qqwfTbCNZ0Pn-2RXgZPZOHGQwRAEQJ5qfwW-iowvthuPO03IBbTFkGzjEnZs1bjNUuhK1Qq-km67FTpmwGtnLYIOhaClyosgk6sKH_EYdQLEVlmbZYfHOUwP5azihcFoNoD8QFa1WuydImi2vDQxCe7av7cVI9YQottKUyCR9Pbl_ltjS5fpkseThZIthYkGI3pSeLdMoDaTrnbM-qVovdj63nSx8LJCpXuzZ0v_ggJj3z8nzqTqHybCygGec3bilffKfPGUExSHiKc_J6YiH8fNpEthMDfJdulyXU5Fvx9AGpUOh5HypICrUiLKhMK7z4r1W0a_TZ4-scY0ei9A.jpg",
-          "thumbnail_path": "channels/farsi_iranwire/media/c7931ff216d49223ccc62a14.jpg",
-          "duration_label": null,
-          "aspect_ratio": 0.8
-        }
-      ],
-      "reactions": [],
-      "views_label": "1.39K",
-      "posted_at": "2026-05-15T09:43:02+00:00",
-      "edited": false,
-      "permalink": "https://t.me/Farsi_Iranwire/90123"
     }
   ]
 }
